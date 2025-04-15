@@ -66,12 +66,23 @@ Les textes journalistiques sont annotés à la main via Inception, puis exporté
 
 ##  Résultats
 
-| Métrique   | Valeur |
-|-------------|--------|
-| F1-score    | 0.1665  |
-| Précision  | 0.2276 |
-| Rappel      | 0.1505|
-| Loss (test) | 0.2738 |
+
+| Catégorie                 | Précision | Rappel | F1-score | Support |
+|---------------------------|-----------|--------|----------|---------|
+| Avancée technologique     | 1.00      | 0.27   | 0.43     | 37      |
+| Conflit                   | 0.87      | 0.46   | 0.60     | 28      |
+| Décès                     | 1.00      | 0.22   | 0.36     | 9       |
+| Décision gouvernementale  | 1.00      | 0.21   | 0.35     | 61      |
+| Événement culturel        | 0.00      | 0.00   | 0.00     | 7       |
+
+---
+
+| Mesure globale     | Précision | Rappel | F1-score | Support |
+|--------------------|-----------|--------|----------|---------|
+| **Accuracy**        |           |        | **0.27** | 142     |
+| **Macro moyenne**   | 0.64      | 0.19   | 0.29     | 142     |
+| **Moyenne pondérée**| 0.92      | 0.27   | 0.40     | 142     |
+
 
 Ces résultats sont encourageants étant donné le volume de données limité et l'équilibrage parfois imparfait.
 
