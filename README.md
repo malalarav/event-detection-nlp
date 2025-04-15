@@ -68,10 +68,10 @@ Les textes journalistiques sont annotés à la main via Inception, puis exporté
 
 | Métrique   | Valeur |
 |-------------|--------|
-| F1-score    | 00000  |
-| Précision  | 00000 |
-| Rappel      | 00000|
-| Loss (test) | 00000  |
+| F1-score    | 0.1665  |
+| Précision  | 0.2276 |
+| Rappel      | 0.1505|
+| Loss (test) | 0.2738 |
 
 Ces résultats sont encourageants étant donné le volume de données limité et l'équilibrage parfois imparfait.
 
