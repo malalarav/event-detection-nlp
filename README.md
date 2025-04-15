@@ -48,6 +48,7 @@ Les textes journalistiques sont annotés à la main via Inception, puis exporté
 - Distribution des labels
 - Longueurs de phrases (histogramme)
 - Nombre de phrases par type d'événement
+- Similitude de Jaccard
 
 ###  Tokenisation & alignement BIO
 - Utilisation de word_ids() pour aligner les labels correctement avec les sous-tokens BERT
