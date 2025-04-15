@@ -1,0 +1,285 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Events|value
+
+
+#Text=Pope John Paul II has received Mr.
+1-1	0-4	Pope	_	
+1-2	5-9	John	_	
+1-3	10-14	Paul	_	
+1-4	15-17	II	_	
+1-5	18-21	has	_	
+1-6	22-30	received	_	
+1-7	31-33	Mr	_	
+1-8	33-34	.	_	
+
+#Text=Albert Edward Ismail Yelda, Iraq's ambassador today.
+2-1	35-41	Albert	_	
+2-2	42-48	Edward	_	
+2-3	49-55	Ismail	_	
+2-4	56-61	Yelda	_	
+2-5	61-62	,	_	
+2-6	63-69	Iraq's	_	
+2-7	70-80	ambassador	Décision gouvernementale	
+2-8	81-86	today	_	
+2-9	86-87	.	_	
+
+#Text=During the meeting the Pope has expressed wishes for the reconstruction of Iraq, as a democratic state, with tolerance to minorities:
+#Text=
+#Text="Iraq is currently in the throes of the difficult process of transition from a totalitarian regime to the formation of a democratic State in which the dignity of each person is respected and all citizens enjoy equal rights.
+3-1	88-94	During	_	
+3-2	95-98	the	_	
+3-3	99-106	meeting	_	
+3-4	107-110	the	_	
+3-5	111-115	Pope	_	
+3-6	116-119	has	_	
+3-7	120-129	expressed	_	
+3-8	130-136	wishes	_	
+3-9	137-140	for	_	
+3-10	141-144	the	_	
+3-11	145-159	reconstruction	_	
+3-12	160-162	of	_	
+3-13	163-167	Iraq	_	
+3-14	167-168	,	_	
+3-15	169-171	as	_	
+3-16	172-173	a	_	
+3-17	174-184	democratic	Décision gouvernementale[1]	
+3-18	185-190	state	Décision gouvernementale[1]	
+3-19	190-191	,	_	
+3-20	192-196	with	_	
+3-21	197-206	tolerance	_	
+3-22	207-209	to	_	
+3-23	210-220	minorities	_	
+3-24	220-221	:	_	
+3-25	223-224	"	_	
+3-26	224-228	Iraq	_	
+3-27	229-231	is	_	
+3-28	232-241	currently	_	
+3-29	242-244	in	_	
+3-30	245-248	the	_	
+3-31	249-255	throes	_	
+3-32	256-258	of	_	
+3-33	259-262	the	_	
+3-34	263-272	difficult	_	
+3-35	273-280	process	_	
+3-36	281-283	of	_	
+3-37	284-294	transition	_	
+3-38	295-299	from	_	
+3-39	300-301	a	_	
+3-40	302-314	totalitarian	Décision gouvernementale[2]	
+3-41	315-321	regime	Décision gouvernementale[2]	
+3-42	322-324	to	_	
+3-43	325-328	the	_	
+3-44	329-338	formation	_	
+3-45	339-341	of	_	
+3-46	342-343	a	_	
+3-47	344-354	democratic	_	
+3-48	355-360	State	_	
+3-49	361-363	in	_	
+3-50	364-369	which	_	
+3-51	370-373	the	_	
+3-52	374-381	dignity	_	
+3-53	382-384	of	_	
+3-54	385-389	each	_	
+3-55	390-396	person	_	
+3-56	397-399	is	_	
+3-57	400-409	respected	_	
+3-58	410-413	and	_	
+3-59	414-417	all	_	
+3-60	418-426	citizens	_	
+3-61	427-432	enjoy	_	
+3-62	433-438	equal	_	
+3-63	439-445	rights	_	
+3-64	445-446	.	_	
+
+#Text=Authentic democracy is possible "only in a State ruled by law", and requires that "the necessary conditions be present for the advancement both of the individual through education and formation in true ideals, and ... through the creation of structures of participation and shared responsibility"
+#Text=(...)
+4-1	447-456	Authentic	_	
+4-2	457-466	democracy	_	
+4-3	467-469	is	_	
+4-4	470-478	possible	_	
+4-5	479-480	"	_	
+4-6	480-484	only	_	
+4-7	485-487	in	_	
+4-8	488-489	a	_	
+4-9	490-495	State	_	
+4-10	496-501	ruled	_	
+4-11	502-504	by	_	
+4-12	505-508	law	_	
+4-13	508-509	"	_	
+4-14	509-510	,	_	
+4-15	511-514	and	_	
+4-16	515-523	requires	_	
+4-17	524-528	that	_	
+4-18	529-530	"	_	
+4-19	530-533	the	_	
+4-20	534-543	necessary	_	
+4-21	544-554	conditions	_	
+4-22	555-557	be	_	
+4-23	558-565	present	_	
+4-24	566-569	for	_	
+4-25	570-573	the	_	
+4-26	574-585	advancement	_	
+4-27	586-590	both	_	
+4-28	591-593	of	_	
+4-29	594-597	the	_	
+4-30	598-608	individual	_	
+4-31	609-616	through	_	
+4-32	617-626	education	_	
+4-33	627-630	and	_	
+4-34	631-640	formation	_	
+4-35	641-643	in	_	
+4-36	644-648	true	_	
+4-37	649-655	ideals	_	
+4-38	655-656	,	_	
+4-39	657-660	and	_	
+4-40	661-662	.	_	
+4-41	662-663	.	_	
+4-42	663-664	.	_	
+4-43	665-672	through	_	
+4-44	673-676	the	_	
+4-45	677-685	creation	_	
+4-46	686-688	of	_	
+4-47	689-699	structures	_	
+4-48	700-702	of	_	
+4-49	703-716	participation	_	
+4-50	717-720	and	_	
+4-51	721-727	shared	_	
+4-52	728-742	responsibility	_	
+4-53	742-743	"	_	
+4-54	744-745	(	_	
+4-55	745-746	.	_	
+4-56	746-747	.	_	
+4-57	747-748	.	_	
+4-58	748-749	)	_	
+
+#Text="The struggle to overcome the challenges brought about by poverty, unemployment and violence is also currently faced by Iraq.
+5-1	750-751	"	_	
+5-2	751-754	The	_	
+5-3	755-763	struggle	_	
+5-4	764-766	to	_	
+5-5	767-775	overcome	_	
+5-6	776-779	the	_	
+5-7	780-790	challenges	_	
+5-8	791-798	brought	_	
+5-9	799-804	about	_	
+5-10	805-807	by	_	
+5-11	808-815	poverty	_	
+5-12	815-816	,	_	
+5-13	817-829	unemployment	_	
+5-14	830-833	and	_	
+5-15	834-842	violence	Conflit	
+5-16	843-845	is	_	
+5-17	846-850	also	_	
+5-18	851-860	currently	_	
+5-19	861-866	faced	_	
+5-20	867-869	by	_	
+5-21	870-874	Iraq	_	
+5-22	874-875	.	_	
+
+#Text=May your government work untiringly to settle disputes and conflicts through dialogue and negotiation, having recourse to military force only as a last resort.
+6-1	876-879	May	_	
+6-2	880-884	your	_	
+6-3	885-895	government	Décision gouvernementale	
+6-4	896-900	work	_	
+6-5	901-911	untiringly	_	
+6-6	912-914	to	_	
+6-7	915-921	settle	_	
+6-8	922-930	disputes	_	
+6-9	931-934	and	_	
+6-10	935-944	conflicts	_	
+6-11	945-952	through	_	
+6-12	953-961	dialogue	_	
+6-13	962-965	and	_	
+6-14	966-977	negotiation	_	
+6-15	977-978	,	_	
+6-16	979-985	having	_	
+6-17	986-994	recourse	_	
+6-18	995-997	to	_	
+6-19	998-1006	military	Conflit[3]	
+6-20	1007-1012	force	Conflit[3]	
+6-21	1013-1017	only	_	
+6-22	1018-1020	as	_	
+6-23	1021-1022	a	_	
+6-24	1023-1027	last	_	
+6-25	1028-1034	resort	_	
+6-26	1034-1035	.	_	
+
+#Text=Accordingly, it is essential that the State, with the assistance of the International Community, promote mutual understanding and tolerance among its various ethnic and religious groups.
+7-1	1036-1047	Accordingly	_	
+7-2	1047-1048	,	_	
+7-3	1049-1051	it	_	
+7-4	1052-1054	is	_	
+7-5	1055-1064	essential	_	
+7-6	1065-1069	that	_	
+7-7	1070-1073	the	_	
+7-8	1074-1079	State	_	
+7-9	1079-1080	,	_	
+7-10	1081-1085	with	_	
+7-11	1086-1089	the	_	
+7-12	1090-1100	assistance	_	
+7-13	1101-1103	of	_	
+7-14	1104-1107	the	_	
+7-15	1108-1121	International	_	
+7-16	1122-1131	Community	_	
+7-17	1131-1132	,	_	
+7-18	1133-1140	promote	_	
+7-19	1141-1147	mutual	_	
+7-20	1148-1161	understanding	_	
+7-21	1162-1165	and	_	
+7-22	1166-1175	tolerance	_	
+7-23	1176-1181	among	_	
+7-24	1182-1185	its	_	
+7-25	1186-1193	various	_	
+7-26	1194-1200	ethnic	_	
+7-27	1201-1204	and	_	
+7-28	1205-1214	religious	_	
+7-29	1215-1221	groups	_	
+7-30	1221-1222	.	_	
+
+#Text=This will enable the people of the region to create an environment that is not only committed to justice and peace but is also capable of sustaining the necessary economic growth and development integral for the well-being of your citizens and the country itself."
+8-1	1223-1227	This	_	
+8-2	1228-1232	will	_	
+8-3	1233-1239	enable	_	
+8-4	1240-1243	the	_	
+8-5	1244-1250	people	_	
+8-6	1251-1253	of	_	
+8-7	1254-1257	the	_	
+8-8	1258-1264	region	_	
+8-9	1265-1267	to	_	
+8-10	1268-1274	create	_	
+8-11	1275-1277	an	_	
+8-12	1278-1289	environment	_	
+8-13	1290-1294	that	_	
+8-14	1295-1297	is	_	
+8-15	1298-1301	not	_	
+8-16	1302-1306	only	_	
+8-17	1307-1316	committed	_	
+8-18	1317-1319	to	_	
+8-19	1320-1327	justice	_	
+8-20	1328-1331	and	_	
+8-21	1332-1337	peace	_	
+8-22	1338-1341	but	_	
+8-23	1342-1344	is	_	
+8-24	1345-1349	also	_	
+8-25	1350-1357	capable	_	
+8-26	1358-1360	of	_	
+8-27	1361-1371	sustaining	_	
+8-28	1372-1375	the	_	
+8-29	1376-1385	necessary	_	
+8-30	1386-1394	economic	_	
+8-31	1395-1401	growth	_	
+8-32	1402-1405	and	_	
+8-33	1406-1417	development	_	
+8-34	1418-1426	integral	_	
+8-35	1427-1430	for	_	
+8-36	1431-1434	the	_	
+8-37	1435-1445	well-being	_	
+8-38	1446-1448	of	_	
+8-39	1449-1453	your	_	
+8-40	1454-1462	citizens	_	
+8-41	1463-1466	and	_	
+8-42	1467-1470	the	_	
+8-43	1471-1478	country	_	
+8-44	1479-1485	itself	_	
+8-45	1485-1486	.	_	
+8-46	1486-1487	"	_	

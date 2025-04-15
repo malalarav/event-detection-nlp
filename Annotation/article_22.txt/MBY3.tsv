@@ -1,0 +1,163 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Events|value
+
+
+#Text=The British-Iraqi careworker Margaret Hassan, who was kidnapped in Iraq over a month ago, may have been killed by her kidnappers, according to the husband of the 59-year-old.
+1-1	0-3	The	_	
+1-2	4-17	British-Iraqi	_	
+1-3	18-28	careworker	_	
+1-4	29-37	Margaret	_	
+1-5	38-44	Hassan	_	
+1-6	44-45	,	_	
+1-7	46-49	who	_	
+1-8	50-53	was	_	
+1-9	54-63	kidnapped	_	
+1-10	64-66	in	_	
+1-11	67-71	Iraq	_	
+1-12	72-76	over	_	
+1-13	77-78	a	_	
+1-14	79-84	month	_	
+1-15	85-88	ago	_	
+1-16	88-89	,	_	
+1-17	90-93	may	_	
+1-18	94-98	have	Décès[1]	
+1-19	99-103	been	Décès[1]	
+1-20	104-110	killed	Décès[1]	
+1-21	111-113	by	_	
+1-22	114-117	her	_	
+1-23	118-128	kidnappers	_	
+1-24	128-129	,	_	
+1-25	130-139	according	_	
+1-26	140-142	to	_	
+1-27	143-146	the	_	
+1-28	147-154	husband	_	
+1-29	155-157	of	_	
+1-30	158-161	the	_	
+1-31	162-164	59	_	
+1-32	164-165	-	_	
+1-33	165-173	year-old	_	
+1-34	173-174	.	_	
+
+#Text=He was informed by the British Ministry of Foreign Affairs after analysis of a videotape showing the execution of a blindfolded woman.
+2-1	175-177	He	_	
+2-2	178-181	was	_	
+2-3	182-190	informed	_	
+2-4	191-193	by	_	
+2-5	194-197	the	_	
+2-6	198-205	British	_	
+2-7	206-214	Ministry	_	
+2-8	215-217	of	_	
+2-9	218-225	Foreign	_	
+2-10	226-233	Affairs	_	
+2-11	234-239	after	_	
+2-12	240-248	analysis	_	
+2-13	249-251	of	_	
+2-14	252-253	a	_	
+2-15	254-263	videotape	_	
+2-16	264-271	showing	_	
+2-17	272-275	the	_	
+2-18	276-285	execution	Décès	
+2-19	286-288	of	_	
+2-20	289-290	a	_	
+2-21	291-302	blindfolded	_	
+2-22	303-308	woman	_	
+2-23	308-309	.	_	
+
+#Text=Al Jazeera was also said to have received the tape days ago, but after delaying to confirm Hassan's identity, ultimately decided not to broadcast it.
+3-1	310-312	Al	_	
+3-2	313-320	Jazeera	_	
+3-3	321-324	was	_	
+3-4	325-329	also	_	
+3-5	330-334	said	_	
+3-6	335-337	to	_	
+3-7	338-342	have	_	
+3-8	343-351	received	_	
+3-9	352-355	the	_	
+3-10	356-360	tape	_	
+3-11	361-365	days	_	
+3-12	366-369	ago	_	
+3-13	369-370	,	_	
+3-14	371-374	but	_	
+3-15	375-380	after	_	
+3-16	381-389	delaying	_	
+3-17	390-392	to	_	
+3-18	393-400	confirm	_	
+3-19	401-409	Hassan's	_	
+3-20	410-418	identity	_	
+3-21	418-419	,	_	
+3-22	420-430	ultimately	_	
+3-23	431-438	decided	_	
+3-24	439-442	not	_	
+3-25	443-445	to	_	
+3-26	446-455	broadcast	_	
+3-27	456-458	it	_	
+3-28	458-459	.	_	
+
+#Text=The international organization CARE was shocked by the news.
+4-1	463-466	The	_	
+4-2	467-480	international	_	
+4-3	481-493	organization	_	
+4-4	494-498	CARE	_	
+4-5	499-502	was	_	
+4-6	503-510	shocked	_	
+4-7	511-513	by	_	
+4-8	514-517	the	_	
+4-9	518-522	news	_	
+4-10	522-523	.	_	
+
+#Text=Hassan led the CARE-department in Iraq for years.
+5-1	524-530	Hassan	_	
+5-2	531-534	led	_	
+5-3	535-538	the	_	
+5-4	539-554	CARE-department	_	
+5-5	555-557	in	_	
+5-6	558-562	Iraq	_	
+5-7	563-566	for	_	
+5-8	567-572	years	_	
+5-9	572-573	.	_	
+
+#Text=Since her kidnapping on October 19, 2004, has appeared on several tapes pleading for her life.
+6-1	577-582	Since	_	
+6-2	583-586	her	_	
+6-3	587-597	kidnapping	_	
+6-4	598-600	on	_	
+6-5	601-608	October	_	
+6-6	609-611	19	_	
+6-7	611-612	,	_	
+6-8	613-617	2004	_	
+6-9	617-618	,	_	
+6-10	619-622	has	_	
+6-11	623-631	appeared	_	
+6-12	632-634	on	_	
+6-13	635-642	several	_	
+6-14	643-648	tapes	_	
+6-15	649-657	pleading	_	
+6-16	658-661	for	_	
+6-17	662-665	her	_	
+6-18	666-670	life	_	
+6-19	670-671	.	_	
+
+#Text=She made a personal request addressed to Prime Minister Tony Blair to remove British troops from Iraq to meet her kidnappers demands.
+7-1	672-675	She	_	
+7-2	676-680	made	_	
+7-3	681-682	a	_	
+7-4	683-691	personal	_	
+7-5	692-699	request	_	
+7-6	700-709	addressed	_	
+7-7	710-712	to	_	
+7-8	713-718	Prime	_	
+7-9	719-727	Minister	_	
+7-10	728-732	Tony	_	
+7-11	733-738	Blair	_	
+7-12	739-741	to	_	
+7-13	742-748	remove	_	
+7-14	749-756	British	_	
+7-15	757-763	troops	_	
+7-16	764-768	from	_	
+7-17	769-773	Iraq	_	
+7-18	774-776	to	_	
+7-19	777-781	meet	_	
+7-20	782-785	her	_	
+7-21	786-796	kidnappers	_	
+7-22	797-804	demands	_	
+7-23	804-805	.	_	

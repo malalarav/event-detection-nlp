@@ -1,0 +1,401 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Events|value
+
+
+#Text=United States President George W.
+1-1	0-6	United	_	
+1-2	7-13	States	_	
+1-3	14-23	President	_	
+1-4	24-30	George	_	
+1-5	31-32	W	_	
+1-6	32-33	.	_	
+
+#Text=Bush made his first official state visit to Canada this week.
+2-1	34-38	Bush	_	
+2-2	39-43	made	_	
+2-3	44-47	his	_	
+2-4	48-53	first	_	
+2-5	54-62	official	_	
+2-6	63-68	state	_	
+2-7	69-74	visit	_	
+2-8	75-77	to	_	
+2-9	78-84	Canada	_	
+2-10	85-89	this	_	
+2-11	90-94	week	_	
+2-12	94-95	.	_	
+
+#Text=After the political frost between the two states surrounding the U.S.'
+3-1	97-102	After	_	
+3-2	103-106	the	_	
+3-3	107-116	political	_	
+3-4	117-122	frost	_	
+3-5	123-130	between	_	
+3-6	131-134	the	_	
+3-7	135-138	two	_	
+3-8	139-145	states	_	
+3-9	146-157	surrounding	_	
+3-10	158-161	the	_	
+3-11	162-165	U.S	_	
+3-12	165-166	.	_	
+3-13	166-167	'	_	
+
+#Text=War on Terror policy and its invasion of Iraq in 2003, the kind of relationship the neighbor states can build or rebuild is thought to be of concern to many Canadians &amp;mdash; the majority of whom remain highly critical of the Bush administration's policies.
+4-1	168-171	War	Conflit[1]	
+4-2	172-174	on	Conflit[1]	
+4-3	175-181	Terror	Conflit[1]	
+4-4	182-188	policy	_	
+4-5	189-192	and	_	
+4-6	193-196	its	_	
+4-7	197-205	invasion	Conflit[2]	
+4-8	206-208	of	Conflit[2]	
+4-9	209-213	Iraq	Conflit[2]	
+4-10	214-216	in	_	
+4-11	217-221	2003	_	
+4-12	221-222	,	_	
+4-13	223-226	the	_	
+4-14	227-231	kind	_	
+4-15	232-234	of	_	
+4-16	235-247	relationship	_	
+4-17	248-251	the	_	
+4-18	252-260	neighbor	_	
+4-19	261-267	states	_	
+4-20	268-271	can	_	
+4-21	272-277	build	_	
+4-22	278-280	or	_	
+4-23	281-288	rebuild	_	
+4-24	289-291	is	_	
+4-25	292-299	thought	_	
+4-26	300-302	to	_	
+4-27	303-305	be	_	
+4-28	306-308	of	_	
+4-29	309-316	concern	_	
+4-30	317-319	to	_	
+4-31	320-324	many	_	
+4-32	325-334	Canadians	_	
+4-33	335-336	&	_	
+4-34	336-339	amp	_	
+4-35	339-340	;	_	
+4-36	340-345	mdash	_	
+4-37	345-346	;	_	
+4-38	347-350	the	_	
+4-39	351-359	majority	_	
+4-40	360-362	of	_	
+4-41	363-367	whom	_	
+4-42	368-374	remain	_	
+4-43	375-381	highly	_	
+4-44	382-390	critical	Conflit	
+4-45	391-393	of	_	
+4-46	394-397	the	_	
+4-47	398-402	Bush	_	
+4-48	403-419	administration's	_	
+4-49	420-428	policies	_	
+4-50	428-429	.	_	
+
+#Text=Topics discussed included the U.S.
+5-1	431-437	Topics	_	
+5-2	438-447	discussed	Décision gouvernementale	
+5-3	448-456	included	_	
+5-4	457-460	the	_	
+5-5	461-464	U.S	_	
+5-6	464-465	.	_	
+
+#Text="Star Wars" missile defence system, the future of NORAD (North American Aerospace Defence Command), combatting of AIDS and other diseases in Africa, and cracking down on illegal activities on the U.S.
+6-1	466-467	"	_	
+6-2	467-471	Star	_	
+6-3	472-476	Wars	_	
+6-4	476-477	"	_	
+6-5	478-485	missile	Décision gouvernementale[3]	
+6-6	486-493	defence	Décision gouvernementale[3]	
+6-7	494-500	system	_	
+6-8	500-501	,	_	
+6-9	502-505	the	_	
+6-10	506-512	future	_	
+6-11	513-515	of	_	
+6-12	516-521	NORAD	Décision gouvernementale	
+6-13	522-523	(	_	
+6-14	523-528	North	_	
+6-15	529-537	American	_	
+6-16	538-547	Aerospace	_	
+6-17	548-555	Defence	_	
+6-18	556-563	Command	_	
+6-19	563-564	)	_	
+6-20	564-565	,	_	
+6-21	566-576	combatting	_	
+6-22	577-579	of	_	
+6-23	580-584	AIDS	_	
+6-24	585-588	and	_	
+6-25	589-594	other	_	
+6-26	595-603	diseases	_	
+6-27	604-606	in	_	
+6-28	607-613	Africa	_	
+6-29	613-614	,	_	
+6-30	615-618	and	_	
+6-31	619-627	cracking	_	
+6-32	628-632	down	_	
+6-33	633-635	on	_	
+6-34	636-643	illegal	_	
+6-35	644-654	activities	_	
+6-36	655-657	on	_	
+6-37	658-661	the	_	
+6-38	662-665	U.S	_	
+6-39	665-666	.	_	
+
+#Text=-Canada border.
+7-1	666-667	-	_	
+7-2	667-673	Canada	_	
+7-3	674-680	border	_	
+7-4	680-681	.	_	
+
+#Text=They also discussed trade issues including beef, lumber, and prescription drugs.
+8-1	682-686	They	_	
+8-2	687-691	also	_	
+8-3	692-701	discussed	_	
+8-4	702-707	trade	Décision gouvernementale[4]	
+8-5	708-714	issues	Décision gouvernementale[4]	
+8-6	715-724	including	_	
+8-7	725-729	beef	_	
+8-8	729-730	,	_	
+8-9	731-737	lumber	_	
+8-10	737-738	,	_	
+8-11	739-742	and	_	
+8-12	743-755	prescription	_	
+8-13	756-761	drugs	_	
+8-14	761-762	.	_	
+
+#Text=Protesters clashed with riot police in Ottawa briefly on Tuesday in a break from what has been for the most part a calm series of demonstrations.
+9-1	765-775	Protesters	Conflit	
+9-2	776-783	clashed	Conflit	
+9-3	784-788	with	_	
+9-4	789-793	riot	_	
+9-5	794-800	police	_	
+9-6	801-803	in	_	
+9-7	804-810	Ottawa	_	
+9-8	811-818	briefly	_	
+9-9	819-821	on	_	
+9-10	822-829	Tuesday	_	
+9-11	830-832	in	_	
+9-12	833-834	a	_	
+9-13	835-840	break	_	
+9-14	841-845	from	_	
+9-15	846-850	what	_	
+9-16	851-854	has	_	
+9-17	855-859	been	_	
+9-18	860-863	for	_	
+9-19	864-867	the	_	
+9-20	868-872	most	_	
+9-21	873-877	part	_	
+9-22	878-879	a	_	
+9-23	880-884	calm	_	
+9-24	885-891	series	_	
+9-25	892-894	of	_	
+9-26	895-909	demonstrations	_	
+9-27	909-910	.	_	
+
+#Text=The Indymedia group of websites reported a demonstration on the 29th against the deportation of Palestinian refugees.
+10-1	911-914	The	_	
+10-2	915-924	Indymedia	_	
+10-3	925-930	group	_	
+10-4	931-933	of	_	
+10-5	934-942	websites	_	
+10-6	943-951	reported	_	
+10-7	952-953	a	_	
+10-8	954-967	demonstration	_	
+10-9	968-970	on	_	
+10-10	971-974	the	_	
+10-11	975-979	29th	_	
+10-12	980-987	against	_	
+10-13	988-991	the	_	
+10-14	992-1003	deportation	Conflit	
+10-15	1004-1006	of	_	
+10-16	1007-1018	Palestinian	_	
+10-17	1019-1027	refugees	_	
+10-18	1027-1028	.	_	
+
+#Text=They also report 15,000 people marched against Bush in Ottawa on the 30th and have text photos, and a video of the protests.
+11-1	1029-1033	They	_	
+11-2	1034-1038	also	_	
+11-3	1039-1045	report	_	
+11-4	1046-1052	15,000	_	
+11-5	1053-1059	people	_	
+11-6	1060-1067	marched	_	
+11-7	1068-1075	against	_	
+11-8	1076-1080	Bush	_	
+11-9	1081-1083	in	_	
+11-10	1084-1090	Ottawa	_	
+11-11	1091-1093	on	_	
+11-12	1094-1097	the	_	
+11-13	1098-1102	30th	_	
+11-14	1103-1106	and	_	
+11-15	1107-1111	have	_	
+11-16	1112-1116	text	_	
+11-17	1117-1123	photos	_	
+11-18	1123-1124	,	_	
+11-19	1125-1128	and	_	
+11-20	1129-1130	a	_	
+11-21	1131-1136	video	_	
+11-22	1137-1139	of	_	
+11-23	1140-1143	the	_	
+11-24	1144-1152	protests	_	
+11-25	1152-1153	.	_	
+
+#Text=During an early afternoon news conference with Prime Minister Paul Martin, Bush said he was pleased with the welcome he received Tuesday morning.
+12-1	1155-1161	During	_	
+12-2	1162-1164	an	_	
+12-3	1165-1170	early	_	
+12-4	1171-1180	afternoon	_	
+12-5	1181-1185	news	_	
+12-6	1186-1196	conference	_	
+12-7	1197-1201	with	_	
+12-8	1202-1207	Prime	_	
+12-9	1208-1216	Minister	_	
+12-10	1217-1221	Paul	_	
+12-11	1222-1228	Martin	_	
+12-12	1228-1229	,	_	
+12-13	1230-1234	Bush	_	
+12-14	1235-1239	said	_	
+12-15	1240-1242	he	_	
+12-16	1243-1246	was	_	
+12-17	1247-1254	pleased	_	
+12-18	1255-1259	with	_	
+12-19	1260-1263	the	_	
+12-20	1264-1271	welcome	_	
+12-21	1272-1274	he	_	
+12-22	1275-1283	received	_	
+12-23	1284-1291	Tuesday	_	
+12-24	1292-1299	morning	_	
+12-25	1299-1300	.	_	
+
+#Text="I want to thank the Canadian people who came out to wave &amp;mdash;with all five fingers &amp;mdash;for their hospitality," he said with a chuckle.
+13-1	1301-1302	"	_	
+13-2	1302-1303	I	_	
+13-3	1304-1308	want	_	
+13-4	1309-1311	to	_	
+13-5	1312-1317	thank	_	
+13-6	1318-1321	the	_	
+13-7	1322-1330	Canadian	_	
+13-8	1331-1337	people	_	
+13-9	1338-1341	who	_	
+13-10	1342-1346	came	_	
+13-11	1347-1350	out	_	
+13-12	1351-1353	to	_	
+13-13	1354-1358	wave	_	
+13-14	1359-1360	&	_	
+13-15	1360-1363	amp	_	
+13-16	1363-1364	;	_	
+13-17	1364-1369	mdash	_	
+13-18	1369-1370	;	_	
+13-19	1370-1374	with	_	
+13-20	1375-1378	all	_	
+13-21	1379-1383	five	_	
+13-22	1384-1391	fingers	_	
+13-23	1392-1393	&	_	
+13-24	1393-1396	amp	_	
+13-25	1396-1397	;	_	
+13-26	1397-1402	mdash	_	
+13-27	1402-1403	;	_	
+13-28	1403-1406	for	_	
+13-29	1407-1412	their	_	
+13-30	1413-1424	hospitality	_	
+13-31	1424-1425	,	_	
+13-32	1425-1426	"	_	
+13-33	1427-1429	he	_	
+13-34	1430-1434	said	_	
+13-35	1435-1439	with	_	
+13-36	1440-1441	a	_	
+13-37	1442-1449	chuckle	_	
+13-38	1449-1450	.	_	
+
+#Text=The official 26-hour visit will take the American President to Canada's capital city, Ottawa and to Halifax, where he will pay tribute to the hospitality shown by Canadians on September 11, 2001, when, after the U.S. closed its airspace, more than 200 flights were diverted to Canadian airports.
+14-1	1452-1455	The	_	
+14-2	1456-1464	official	_	
+14-3	1465-1467	26	_	
+14-4	1467-1468	-	_	
+14-5	1468-1472	hour	_	
+14-6	1473-1478	visit	_	
+14-7	1479-1483	will	_	
+14-8	1484-1488	take	_	
+14-9	1489-1492	the	_	
+14-10	1493-1501	American	_	
+14-11	1502-1511	President	_	
+14-12	1512-1514	to	_	
+14-13	1515-1523	Canada's	_	
+14-14	1524-1531	capital	_	
+14-15	1532-1536	city	_	
+14-16	1536-1537	,	_	
+14-17	1538-1544	Ottawa	_	
+14-18	1545-1548	and	_	
+14-19	1549-1551	to	_	
+14-20	1552-1559	Halifax	_	
+14-21	1559-1560	,	_	
+14-22	1561-1566	where	_	
+14-23	1567-1569	he	_	
+14-24	1570-1574	will	_	
+14-25	1575-1578	pay	_	
+14-26	1579-1586	tribute	_	
+14-27	1587-1589	to	_	
+14-28	1590-1593	the	_	
+14-29	1594-1605	hospitality	_	
+14-30	1606-1611	shown	_	
+14-31	1612-1614	by	_	
+14-32	1615-1624	Canadians	_	
+14-33	1625-1627	on	_	
+14-34	1628-1637	September	_	
+14-35	1638-1640	11	_	
+14-36	1640-1641	,	_	
+14-37	1642-1646	2001	_	
+14-38	1646-1647	,	_	
+14-39	1648-1652	when	_	
+14-40	1652-1653	,	_	
+14-41	1654-1659	after	_	
+14-42	1660-1663	the	_	
+14-43	1664-1667	U.S	_	
+14-44	1667-1668	.	_	
+14-45	1669-1675	closed	_	
+14-46	1676-1679	its	_	
+14-47	1680-1688	airspace	_	
+14-48	1688-1689	,	_	
+14-49	1690-1694	more	_	
+14-50	1695-1699	than	_	
+14-51	1700-1703	200	_	
+14-52	1704-1711	flights	_	
+14-53	1712-1716	were	_	
+14-54	1717-1725	diverted	_	
+14-55	1726-1728	to	_	
+14-56	1729-1737	Canadian	_	
+14-57	1738-1746	airports	_	
+14-58	1746-1747	.	_	
+
+#Text=Thousands of Americans were sheltered in Halifax (the largest city in Canada's Atlantic provinces) as well as St.
+15-1	1748-1757	Thousands	_	
+15-2	1758-1760	of	_	
+15-3	1761-1770	Americans	_	
+15-4	1771-1775	were	_	
+15-5	1776-1785	sheltered	_	
+15-6	1786-1788	in	_	
+15-7	1789-1796	Halifax	_	
+15-8	1797-1798	(	_	
+15-9	1798-1801	the	_	
+15-10	1802-1809	largest	_	
+15-11	1810-1814	city	_	
+15-12	1815-1817	in	_	
+15-13	1818-1826	Canada's	_	
+15-14	1827-1835	Atlantic	_	
+15-15	1836-1845	provinces	_	
+15-16	1845-1846	)	_	
+15-17	1847-1849	as	_	
+15-18	1850-1854	well	_	
+15-19	1855-1857	as	_	
+15-20	1858-1860	St	_	
+15-21	1860-1861	.	_	
+
+#Text=John's and Gander in Newfoundland, and other centres.
+16-1	1862-1868	John's	_	
+16-2	1869-1872	and	_	
+16-3	1873-1879	Gander	_	
+16-4	1880-1882	in	_	
+16-5	1883-1895	Newfoundland	_	
+16-6	1895-1896	,	_	
+16-7	1897-1900	and	_	
+16-8	1901-1906	other	_	
+16-9	1907-1914	centres	_	
+16-10	1914-1915	.	_	

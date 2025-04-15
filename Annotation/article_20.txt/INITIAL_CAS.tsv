@@ -1,0 +1,326 @@
+#FORMAT=WebAnno TSV 3.3
+
+
+#Text=Mozilla Firefox 1.0, a free open-source web browser, has been released on November 9, 2004 by the Mozilla Foundation.
+1-1	0-7	Mozilla	
+1-2	8-15	Firefox	
+1-3	16-19	1.0	
+1-4	19-20	,	
+1-5	21-22	a	
+1-6	23-27	free	
+1-7	28-39	open-source	
+1-8	40-43	web	
+1-9	44-51	browser	
+1-10	51-52	,	
+1-11	53-56	has	
+1-12	57-61	been	
+1-13	62-70	released	
+1-14	71-73	on	
+1-15	74-82	November	
+1-16	83-84	9	
+1-17	84-85	,	
+1-18	86-90	2004	
+1-19	91-93	by	
+1-20	94-97	the	
+1-21	98-105	Mozilla	
+1-22	106-116	Foundation	
+1-23	116-117	.	
+
+#Text=Some major characteristics of the browser are: pop-up blocking, tabbed browsing, integrated RSS news reader, themes, online fraud protection, extendable with add-ons and multi-platform (it works on Windows, Linux and Mac OS X).
+2-1	121-125	Some	
+2-2	126-131	major	
+2-3	132-147	characteristics	
+2-4	148-150	of	
+2-5	151-154	the	
+2-6	155-162	browser	
+2-7	163-166	are	
+2-8	166-167	:	
+2-9	168-174	pop-up	
+2-10	175-183	blocking	
+2-11	183-184	,	
+2-12	185-191	tabbed	
+2-13	192-200	browsing	
+2-14	200-201	,	
+2-15	202-212	integrated	
+2-16	213-216	RSS	
+2-17	217-221	news	
+2-18	222-228	reader	
+2-19	228-229	,	
+2-20	230-236	themes	
+2-21	236-237	,	
+2-22	238-244	online	
+2-23	245-250	fraud	
+2-24	251-261	protection	
+2-25	261-262	,	
+2-26	263-273	extendable	
+2-27	274-278	with	
+2-28	279-286	add-ons	
+2-29	287-290	and	
+2-30	291-305	multi-platform	
+2-31	306-307	(	
+2-32	307-309	it	
+2-33	310-315	works	
+2-34	316-318	on	
+2-35	319-326	Windows	
+2-36	326-327	,	
+2-37	328-333	Linux	
+2-38	334-337	and	
+2-39	338-341	Mac	
+2-40	342-344	OS	
+2-41	345-346	X	
+2-42	346-347	)	
+2-43	347-348	.	
+
+#Text=As of November 16, 2004, there are Firefox versions in the following languages: Norwegian, Polish, Finnish, Italian, Japanese, Greek, Korean, Spanish, Russian, Slovenian, Czech, English, Romanian, German, Hebrew, French, Hungarian, Swedish and Catalan.
+3-1	349-351	As	
+3-2	352-354	of	
+3-3	355-363	November	
+3-4	364-366	16	
+3-5	366-367	,	
+3-6	368-372	2004	
+3-7	372-373	,	
+3-8	374-379	there	
+3-9	380-383	are	
+3-10	384-391	Firefox	
+3-11	392-400	versions	
+3-12	401-403	in	
+3-13	404-407	the	
+3-14	408-417	following	
+3-15	418-427	languages	
+3-16	427-428	:	
+3-17	429-438	Norwegian	
+3-18	438-439	,	
+3-19	440-446	Polish	
+3-20	446-447	,	
+3-21	448-455	Finnish	
+3-22	455-456	,	
+3-23	457-464	Italian	
+3-24	464-465	,	
+3-25	466-474	Japanese	
+3-26	474-475	,	
+3-27	476-481	Greek	
+3-28	481-482	,	
+3-29	483-489	Korean	
+3-30	489-490	,	
+3-31	491-498	Spanish	
+3-32	498-499	,	
+3-33	500-507	Russian	
+3-34	507-508	,	
+3-35	509-518	Slovenian	
+3-36	518-519	,	
+3-37	520-525	Czech	
+3-38	525-526	,	
+3-39	527-534	English	
+3-40	534-535	,	
+3-41	536-544	Romanian	
+3-42	544-545	,	
+3-43	546-552	German	
+3-44	552-553	,	
+3-45	554-560	Hebrew	
+3-46	560-561	,	
+3-47	562-568	French	
+3-48	568-569	,	
+3-49	570-579	Hungarian	
+3-50	579-580	,	
+3-51	581-588	Swedish	
+3-52	589-592	and	
+3-53	593-600	Catalan	
+3-54	600-601	.	
+
+#Text=Other languages should appear later.
+4-1	602-607	Other	
+4-2	608-617	languages	
+4-3	618-624	should	
+4-4	625-631	appear	
+4-5	632-637	later	
+4-6	637-638	.	
+
+#Text=Firefox has grown rapidly in popularity, with a Preview Release of the 1.0 version surpassing 10 million downloads in days.
+5-1	642-649	Firefox	
+5-2	650-653	has	
+5-3	654-659	grown	
+5-4	660-667	rapidly	
+5-5	668-670	in	
+5-6	671-681	popularity	
+5-7	681-682	,	
+5-8	683-687	with	
+5-9	688-689	a	
+5-10	690-697	Preview	
+5-11	698-705	Release	
+5-12	706-708	of	
+5-13	709-712	the	
+5-14	713-716	1.0	
+5-15	717-724	version	
+5-16	725-735	surpassing	
+5-17	736-738	10	
+5-18	739-746	million	
+5-19	747-756	downloads	
+5-20	757-759	in	
+5-21	760-764	days	
+5-22	764-765	.	
+
+#Text=The browser has received critical acclaim by some magazines and is seen by many as a real competitor to Microsoft's Internet Explorer, which currently holds over 90% market share.
+6-1	766-769	The	
+6-2	770-777	browser	
+6-3	778-781	has	
+6-4	782-790	received	
+6-5	791-799	critical	
+6-6	800-807	acclaim	
+6-7	808-810	by	
+6-8	811-815	some	
+6-9	816-825	magazines	
+6-10	826-829	and	
+6-11	830-832	is	
+6-12	833-837	seen	
+6-13	838-840	by	
+6-14	841-845	many	
+6-15	846-848	as	
+6-16	849-850	a	
+6-17	851-855	real	
+6-18	856-866	competitor	
+6-19	867-869	to	
+6-20	870-881	Microsoft's	
+6-21	882-890	Internet	
+6-22	891-899	Explorer	
+6-23	899-900	,	
+6-24	901-906	which	
+6-25	907-916	currently	
+6-26	917-922	holds	
+6-27	923-927	over	
+6-28	928-931	90%	
+6-29	932-938	market	
+6-30	939-944	share	
+6-31	944-945	.	
+
+#Text=Here's what some reviewers have said about Firefox:\r
+#Text=\r
+#Text=* "Move over, Internet Explorer.
+7-1	947-953	Here's	
+7-2	954-958	what	
+7-3	959-963	some	
+7-4	964-973	reviewers	
+7-5	974-978	have	
+7-6	979-983	said	
+7-7	984-989	about	
+7-8	990-997	Firefox	
+7-9	997-998	:	
+7-10	1002-1003	*	
+7-11	1004-1005	"	
+7-12	1005-1009	Move	
+7-13	1010-1014	over	
+7-14	1014-1015	,	
+7-15	1016-1024	Internet	
+7-16	1025-1033	Explorer	
+7-17	1033-1034	.	
+
+#Text=Feature-studded and secure, Mozilla Firefox 1.0 is a safer, better choice for Internet browsing."
+8-1	1035-1050	Feature-studded	
+8-2	1051-1054	and	
+8-3	1055-1061	secure	
+8-4	1061-1062	,	
+8-5	1063-1070	Mozilla	
+8-6	1071-1078	Firefox	
+8-7	1079-1082	1.0	
+8-8	1083-1085	is	
+8-9	1086-1087	a	
+8-10	1088-1093	safer	
+8-11	1093-1094	,	
+8-12	1095-1101	better	
+8-13	1102-1108	choice	
+8-14	1109-1112	for	
+8-15	1113-1121	Internet	
+8-16	1122-1130	browsing	
+8-17	1130-1131	.	
+8-18	1131-1132	"	
+
+#Text=CNet\r
+#Text=\r
+#Text=* "All told, Firefox is clean and fast.
+9-1	1133-1137	CNet	
+9-2	1141-1142	*	
+9-3	1143-1144	"	
+9-4	1144-1147	All	
+9-5	1148-1152	told	
+9-6	1152-1153	,	
+9-7	1154-1161	Firefox	
+9-8	1162-1164	is	
+9-9	1165-1170	clean	
+9-10	1171-1174	and	
+9-11	1175-1179	fast	
+9-12	1179-1180	.	
+
+#Text=If you want a browser that respects your PC intelligence and helps you get things done, Firefox is a good place to start."
+10-1	1181-1183	If	
+10-2	1184-1187	you	
+10-3	1188-1192	want	
+10-4	1193-1194	a	
+10-5	1195-1202	browser	
+10-6	1203-1207	that	
+10-7	1208-1216	respects	
+10-8	1217-1221	your	
+10-9	1222-1224	PC	
+10-10	1225-1237	intelligence	
+10-11	1238-1241	and	
+10-12	1242-1247	helps	
+10-13	1248-1251	you	
+10-14	1252-1255	get	
+10-15	1256-1262	things	
+10-16	1263-1267	done	
+10-17	1267-1268	,	
+10-18	1269-1276	Firefox	
+10-19	1277-1279	is	
+10-20	1280-1281	a	
+10-21	1282-1286	good	
+10-22	1287-1292	place	
+10-23	1293-1295	to	
+10-24	1296-1301	start	
+10-25	1301-1302	.	
+10-26	1302-1303	"	
+
+#Text=PC Magazine\r
+#Text=\r
+#Text=* "Despite its small flaws, Firefox is an excellent browser that is within a sic two years of unseating Microsoft IE from its throne."
+11-1	1304-1306	PC	
+11-2	1307-1315	Magazine	
+11-3	1319-1320	*	
+11-4	1321-1322	"	
+11-5	1322-1329	Despite	
+11-6	1330-1333	its	
+11-7	1334-1339	small	
+11-8	1340-1345	flaws	
+11-9	1345-1346	,	
+11-10	1347-1354	Firefox	
+11-11	1355-1357	is	
+11-12	1358-1360	an	
+11-13	1361-1370	excellent	
+11-14	1371-1378	browser	
+11-15	1379-1383	that	
+11-16	1384-1386	is	
+11-17	1387-1393	within	
+11-18	1394-1395	a	
+11-19	1396-1399	sic	
+11-20	1400-1403	two	
+11-21	1404-1409	years	
+11-22	1410-1412	of	
+11-23	1413-1422	unseating	
+11-24	1423-1432	Microsoft	
+11-25	1433-1435	IE	
+11-26	1436-1440	from	
+11-27	1441-1444	its	
+11-28	1445-1451	throne	
+11-29	1451-1452	.	
+11-30	1452-1453	"	
+
+#Text=PCWorld\r
+#Text=\r
+#Text=The software's website can be found at GetFirefox.com.
+12-1	1454-1461	PCWorld	
+12-2	1465-1468	The	
+12-3	1469-1479	software's	
+12-4	1480-1487	website	
+12-5	1488-1491	can	
+12-6	1492-1494	be	
+12-7	1495-1500	found	
+12-8	1501-1503	at	
+12-9	1504-1518	GetFirefox.com	
+12-10	1518-1519	.	

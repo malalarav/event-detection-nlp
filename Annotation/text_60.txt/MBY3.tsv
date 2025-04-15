@@ -1,0 +1,242 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Events|value
+
+
+#Text=A more efficient way to produce useable hydrogen has been demonstrated by researchers.
+1-1	0-1	A	_	
+1-2	2-6	more	_	
+1-3	7-16	efficient	_	
+1-4	17-20	way	_	
+1-5	21-23	to	_	
+1-6	24-31	produce	_	
+1-7	32-39	useable	_	
+1-8	40-48	hydrogen	Avancée technologique	
+1-9	49-52	has	_	
+1-10	53-57	been	_	
+1-11	58-70	demonstrated	_	
+1-12	71-73	by	_	
+1-13	74-85	researchers	_	
+1-14	85-86	.	_	
+
+#Text=It uses very high-temperature electrolysis to separate hydrogen from water, so that hydrogen may be used for energy production.
+2-1	87-89	It	_	
+2-2	90-94	uses	_	
+2-3	95-99	very	_	
+2-4	100-116	high-temperature	_	
+2-5	117-129	electrolysis	Avancée technologique	
+2-6	130-132	to	_	
+2-7	133-141	separate	_	
+2-8	142-150	hydrogen	_	
+2-9	151-155	from	_	
+2-10	156-161	water	_	
+2-11	161-162	,	_	
+2-12	163-165	so	_	
+2-13	166-170	that	_	
+2-14	171-179	hydrogen	_	
+2-15	180-183	may	_	
+2-16	184-186	be	_	
+2-17	187-191	used	_	
+2-18	192-195	for	_	
+2-19	196-202	energy	_	
+2-20	203-213	production	_	
+2-21	213-214	.	_	
+
+#Text=Electrolysis is one method by which laboratories and factories produce hydrogen.
+3-1	216-228	Electrolysis	_	
+3-2	229-231	is	_	
+3-3	232-235	one	_	
+3-4	236-242	method	_	
+3-5	243-245	by	_	
+3-6	246-251	which	_	
+3-7	252-264	laboratories	_	
+3-8	265-268	and	_	
+3-9	269-278	factories	_	
+3-10	279-286	produce	_	
+3-11	287-295	hydrogen	_	
+3-12	295-296	.	_	
+
+#Text=An electrical current is passed through water, breaking it down into hydrogen and oxygen gas, which are then collected above the water reservoir.
+4-1	297-299	An	_	
+4-2	300-310	electrical	_	
+4-3	311-318	current	_	
+4-4	319-321	is	_	
+4-5	322-328	passed	_	
+4-6	329-336	through	_	
+4-7	337-342	water	_	
+4-8	342-343	,	_	
+4-9	344-352	breaking	_	
+4-10	353-355	it	_	
+4-11	356-360	down	_	
+4-12	361-365	into	_	
+4-13	366-374	hydrogen	_	
+4-14	375-378	and	_	
+4-15	379-385	oxygen	_	
+4-16	386-389	gas	_	
+4-17	389-390	,	_	
+4-18	391-396	which	_	
+4-19	397-400	are	_	
+4-20	401-405	then	_	
+4-21	406-415	collected	_	
+4-22	416-421	above	_	
+4-23	422-425	the	_	
+4-24	426-431	water	_	
+4-25	432-441	reservoir	_	
+4-26	441-442	.	_	
+
+#Text=Researchers in Salt Lake City, Utah, at Ceramtech Incorporated, in collaboration with workers at The Idaho National Engineering and Environmental Laboratory report that when water is superheated to 800 degrees Celsius, far less electricity is required to produce the same volume of hydrogen.
+5-1	444-455	Researchers	_	
+5-2	456-458	in	_	
+5-3	459-463	Salt	_	
+5-4	464-468	Lake	_	
+5-5	469-473	City	_	
+5-6	473-474	,	_	
+5-7	475-479	Utah	_	
+5-8	479-480	,	_	
+5-9	481-483	at	_	
+5-10	484-493	Ceramtech	_	
+5-11	494-506	Incorporated	_	
+5-12	506-507	,	_	
+5-13	508-510	in	_	
+5-14	511-524	collaboration	_	
+5-15	525-529	with	_	
+5-16	530-537	workers	_	
+5-17	538-540	at	_	
+5-18	541-544	The	_	
+5-19	545-550	Idaho	_	
+5-20	551-559	National	_	
+5-21	560-571	Engineering	_	
+5-22	572-575	and	_	
+5-23	576-589	Environmental	_	
+5-24	590-600	Laboratory	_	
+5-25	601-607	report	_	
+5-26	608-612	that	_	
+5-27	613-617	when	_	
+5-28	618-623	water	_	
+5-29	624-626	is	_	
+5-30	627-638	superheated	Avancée technologique	
+5-31	639-641	to	_	
+5-32	642-645	800	Avancée technologique[1]	
+5-33	646-653	degrees	Avancée technologique[1]	
+5-34	654-661	Celsius	Avancée technologique[1]	
+5-35	661-662	,	_	
+5-36	663-666	far	_	
+5-37	667-671	less	_	
+5-38	672-683	electricity	_	
+5-39	684-686	is	_	
+5-40	687-695	required	_	
+5-41	696-698	to	_	
+5-42	699-706	produce	_	
+5-43	707-710	the	_	
+5-44	711-715	same	_	
+5-45	716-722	volume	_	
+5-46	723-725	of	_	
+5-47	726-734	hydrogen	_	
+5-48	734-735	.	_	
+
+#Text=The researchers envision that future nuclear fission plants could be used both to heat the water as part of their cooling system, and generate the needed electricity.
+6-1	736-739	The	_	
+6-2	740-751	researchers	_	
+6-3	752-760	envision	_	
+6-4	761-765	that	_	
+6-5	766-772	future	_	
+6-6	773-780	nuclear	_	
+6-7	781-788	fission	_	
+6-8	789-795	plants	_	
+6-9	796-801	could	_	
+6-10	802-804	be	_	
+6-11	805-809	used	_	
+6-12	810-814	both	_	
+6-13	815-817	to	_	
+6-14	818-822	heat	_	
+6-15	823-826	the	_	
+6-16	827-832	water	_	
+6-17	833-835	as	_	
+6-18	836-840	part	_	
+6-19	841-843	of	_	
+6-20	844-849	their	_	
+6-21	850-857	cooling	_	
+6-22	858-864	system	_	
+6-23	864-865	,	_	
+6-24	866-869	and	_	
+6-25	870-878	generate	_	
+6-26	879-882	the	_	
+6-27	883-889	needed	_	
+6-28	890-901	electricity	_	
+6-29	901-902	.	_	
+
+#Text=Concerns have been raised regarding the safety of such arrangements, however.
+7-1	904-912	Concerns	Conflit	
+7-2	913-917	have	_	
+7-3	918-922	been	_	
+7-4	923-929	raised	_	
+7-5	930-939	regarding	_	
+7-6	940-943	the	_	
+7-7	944-950	safety	_	
+7-8	951-953	of	_	
+7-9	954-958	such	_	
+7-10	959-971	arrangements	_	
+7-11	971-972	,	_	
+7-12	973-980	however	_	
+7-13	980-981	.	_	
+
+#Text=Jeremy Desterhoft, an independent consultant on nuclear energy safety, warns the "elevated levels of radiation required to sufficiently lower the atomic separation point is beyond the current capabilities of any recent cooler."
+8-1	982-988	Jeremy	_	
+8-2	989-999	Desterhoft	_	
+8-3	999-1000	,	_	
+8-4	1001-1003	an	_	
+8-5	1004-1015	independent	_	
+8-6	1016-1026	consultant	_	
+8-7	1027-1029	on	_	
+8-8	1030-1037	nuclear	_	
+8-9	1038-1044	energy	_	
+8-10	1045-1051	safety	_	
+8-11	1051-1052	,	_	
+8-12	1053-1058	warns	Conflit	
+8-13	1059-1062	the	_	
+8-14	1063-1064	"	_	
+8-15	1064-1072	elevated	_	
+8-16	1073-1079	levels	_	
+8-17	1080-1082	of	_	
+8-18	1083-1092	radiation	_	
+8-19	1093-1101	required	_	
+8-20	1102-1104	to	_	
+8-21	1105-1117	sufficiently	_	
+8-22	1118-1123	lower	_	
+8-23	1124-1127	the	_	
+8-24	1128-1134	atomic	_	
+8-25	1135-1145	separation	_	
+8-26	1146-1151	point	_	
+8-27	1152-1154	is	_	
+8-28	1155-1161	beyond	_	
+8-29	1162-1165	the	_	
+8-30	1166-1173	current	_	
+8-31	1174-1186	capabilities	_	
+8-32	1187-1189	of	_	
+8-33	1190-1193	any	_	
+8-34	1194-1200	recent	_	
+8-35	1201-1207	cooler	_	
+8-36	1207-1208	.	_	
+8-37	1208-1209	"	_	
+
+#Text=He does not believe that economically viable cooling technology will be available for at least four to six more years.
+9-1	1210-1212	He	_	
+9-2	1213-1217	does	_	
+9-3	1218-1221	not	_	
+9-4	1222-1229	believe	_	
+9-5	1230-1234	that	_	
+9-6	1235-1247	economically	_	
+9-7	1248-1254	viable	_	
+9-8	1255-1262	cooling	_	
+9-9	1263-1273	technology	_	
+9-10	1274-1278	will	_	
+9-11	1279-1281	be	_	
+9-12	1282-1291	available	_	
+9-13	1292-1295	for	_	
+9-14	1296-1298	at	_	
+9-15	1299-1304	least	_	
+9-16	1305-1309	four	_	
+9-17	1310-1312	to	_	
+9-18	1313-1316	six	_	
+9-19	1317-1321	more	_	
+9-20	1322-1327	years	_	
+9-21	1327-1328	.	_	

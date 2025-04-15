@@ -1,0 +1,68 @@
+#FORMAT=WebAnno TSV 3.3
+
+
+#Text=The Ukrainian parliament passed a vote of no-confidence in the government of Prime Minister Viktor Yanukovych bolstering the efforts of opposition leader Viktor Yushchenko.
+1-1	0-3	The	
+1-2	4-13	Ukrainian	
+1-3	14-24	parliament	
+1-4	25-31	passed	
+1-5	32-33	a	
+1-6	34-38	vote	
+1-7	39-41	of	
+1-8	42-55	no-confidence	
+1-9	56-58	in	
+1-10	59-62	the	
+1-11	63-73	government	
+1-12	74-76	of	
+1-13	77-82	Prime	
+1-14	83-91	Minister	
+1-15	92-98	Viktor	
+1-16	99-109	Yanukovych	
+1-17	110-120	bolstering	
+1-18	121-124	the	
+1-19	125-132	efforts	
+1-20	133-135	of	
+1-21	136-146	opposition	
+1-22	147-153	leader	
+1-23	154-160	Viktor	
+1-24	161-171	Yushchenko	
+1-25	171-172	.	
+
+#Text=In addition, the parliament also voted to establish an interim government during the continuing election crisis.
+2-1	173-175	In	
+2-2	176-184	addition	
+2-3	184-185	,	
+2-4	186-189	the	
+2-5	190-200	parliament	
+2-6	201-205	also	
+2-7	206-211	voted	
+2-8	212-214	to	
+2-9	215-224	establish	
+2-10	225-227	an	
+2-11	228-235	interim	
+2-12	236-246	government	
+2-13	247-253	during	
+2-14	254-257	the	
+2-15	258-268	continuing	
+2-16	269-277	election	
+2-17	278-284	crisis	
+2-18	284-285	.	
+
+#Text=The vote came just before international mediators were to commence efforts to resolve the controversial election.
+3-1	289-292	The	
+3-2	293-297	vote	
+3-3	298-302	came	
+3-4	303-307	just	
+3-5	308-314	before	
+3-6	315-328	international	
+3-7	329-338	mediators	
+3-8	339-343	were	
+3-9	344-346	to	
+3-10	347-355	commence	
+3-11	356-363	efforts	
+3-12	364-366	to	
+3-13	367-374	resolve	
+3-14	375-378	the	
+3-15	379-392	controversial	
+3-16	393-401	election	
+3-17	401-402	.	

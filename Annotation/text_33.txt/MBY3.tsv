@@ -1,0 +1,245 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Events|value
+
+
+#Text=In the United Kingdom, the music video for this Christmas' remake of the charity single Do They Know It's Christmas?
+1-1	0-2	In	_	
+1-2	3-6	the	_	
+1-3	7-13	United	_	
+1-4	14-21	Kingdom	_	
+1-5	21-22	,	_	
+1-6	23-26	the	_	
+1-7	27-32	music	Évenement culturelle[1]	
+1-8	33-38	video	Évenement culturelle[1]	
+1-9	39-42	for	_	
+1-10	43-47	this	_	
+1-11	48-57	Christmas	Évenement culturelle	
+1-12	57-58	'	_	
+1-13	59-65	remake	_	
+1-14	66-68	of	_	
+1-15	69-72	the	_	
+1-16	73-80	charity	Évenement culturelle[2]	
+1-17	81-87	single	Évenement culturelle[2]	
+1-18	88-90	Do	_	
+1-19	91-95	They	_	
+1-20	96-100	Know	_	
+1-21	101-105	It's	_	
+1-22	106-115	Christmas	_	
+1-23	115-116	?	_	
+
+#Text=was launched simultaneously today (Thursday) on several UK and Irish television channels including BBC One, BBC Two, RTE 1, ITV1, Channel 4, and Sky One.
+2-1	117-120	was	_	
+2-2	121-129	launched	_	
+2-3	130-144	simultaneously	_	
+2-4	145-150	today	_	
+2-5	151-152	(	_	
+2-6	152-160	Thursday	_	
+2-7	160-161	)	_	
+2-8	162-164	on	_	
+2-9	165-172	several	_	
+2-10	173-175	UK	_	
+2-11	176-179	and	_	
+2-12	180-185	Irish	_	
+2-13	186-196	television	_	
+2-14	197-205	channels	_	
+2-15	206-215	including	_	
+2-16	216-219	BBC	_	
+2-17	220-223	One	_	
+2-18	223-224	,	_	
+2-19	225-228	BBC	_	
+2-20	229-232	Two	_	
+2-21	232-233	,	_	
+2-22	234-237	RTE	_	
+2-23	238-239	1	_	
+2-24	239-240	,	_	
+2-25	241-245	ITV1	_	
+2-26	245-246	,	_	
+2-27	247-254	Channel	_	
+2-28	255-256	4	_	
+2-29	256-257	,	_	
+2-30	258-261	and	_	
+2-31	262-265	Sky	_	
+2-32	266-269	One	_	
+2-33	269-270	.	_	
+
+#Text=The debut was made at 17:55 GMT.
+3-1	271-274	The	_	
+3-2	275-280	debut	_	
+3-3	281-284	was	_	
+3-4	285-289	made	_	
+3-5	290-292	at	_	
+3-6	293-295	17	_	
+3-7	295-296	:	_	
+3-8	296-298	55	_	
+3-9	299-302	GMT	_	
+3-10	302-303	.	_	
+
+#Text=The song was originally recorded in 1984 by several of the biggest artists of the time including Bono, Bob Geldof, Paul McCartney and George Michael.
+4-1	305-308	The	_	
+4-2	309-313	song	Évenement culturelle	
+4-3	314-317	was	_	
+4-4	318-328	originally	_	
+4-5	329-337	recorded	Évenement culturelle	
+4-6	338-340	in	_	
+4-7	341-345	1984	_	
+4-8	346-348	by	_	
+4-9	349-356	several	_	
+4-10	357-359	of	_	
+4-11	360-363	the	_	
+4-12	364-371	biggest	_	
+4-13	372-379	artists	Évenement culturelle	
+4-14	380-382	of	_	
+4-15	383-386	the	_	
+4-16	387-391	time	_	
+4-17	392-401	including	_	
+4-18	402-406	Bono	_	
+4-19	406-407	,	_	
+4-20	408-411	Bob	_	
+4-21	412-418	Geldof	_	
+4-22	418-419	,	_	
+4-23	420-424	Paul	_	
+4-24	425-434	McCartney	_	
+4-25	435-438	and	_	
+4-26	439-445	George	_	
+4-27	446-453	Michael	_	
+4-28	453-454	.	_	
+
+#Text=This year, in celebration of 20 years since the first single, the song has been remade by over 50 of today's best selling artists, including Coldplay frontman Chris Martin, Robbie Williams, Bono, Justin Hawkins of The Darkness and Dido.
+5-1	455-459	This	_	
+5-2	460-464	year	_	
+5-3	464-465	,	_	
+5-4	466-468	in	_	
+5-5	469-480	celebration	_	
+5-6	481-483	of	_	
+5-7	484-486	20	_	
+5-8	487-492	years	_	
+5-9	493-498	since	_	
+5-10	499-502	the	_	
+5-11	503-508	first	Évenement culturelle[3]	
+5-12	509-515	single	Évenement culturelle[3]	
+5-13	515-516	,	_	
+5-14	517-520	the	_	
+5-15	521-525	song	_	
+5-16	526-529	has	_	
+5-17	530-534	been	_	
+5-18	535-541	remade	_	
+5-19	542-544	by	_	
+5-20	545-549	over	_	
+5-21	550-552	50	_	
+5-22	553-555	of	_	
+5-23	556-563	today's	_	
+5-24	564-568	best	Évenement culturelle[4]	
+5-25	569-576	selling	Évenement culturelle[4]	
+5-26	577-584	artists	_	
+5-27	584-585	,	_	
+5-28	586-595	including	_	
+5-29	596-604	Coldplay	_	
+5-30	605-613	frontman	_	
+5-31	614-619	Chris	_	
+5-32	620-626	Martin	_	
+5-33	626-627	,	_	
+5-34	628-634	Robbie	_	
+5-35	635-643	Williams	_	
+5-36	643-644	,	_	
+5-37	645-649	Bono	_	
+5-38	649-650	,	_	
+5-39	651-657	Justin	_	
+5-40	658-665	Hawkins	_	
+5-41	666-668	of	_	
+5-42	669-672	The	_	
+5-43	673-681	Darkness	_	
+5-44	682-685	and	_	
+5-45	686-690	Dido	_	
+5-46	690-691	.	_	
+
+#Text=The song, which is in aid of charity, is already tipped to be the Christmas No. 1 in the UK and Ireland.
+6-1	693-696	The	_	
+6-2	697-701	song	_	
+6-3	701-702	,	_	
+6-4	703-708	which	_	
+6-5	709-711	is	_	
+6-6	712-714	in	_	
+6-7	715-718	aid	_	
+6-8	719-721	of	_	
+6-9	722-729	charity	_	
+6-10	729-730	,	_	
+6-11	731-733	is	_	
+6-12	734-741	already	_	
+6-13	742-748	tipped	_	
+6-14	749-751	to	_	
+6-15	752-754	be	_	
+6-16	755-758	the	_	
+6-17	759-768	Christmas	_	
+6-18	769-771	No	_	
+6-19	771-772	.	_	
+6-20	773-774	1	_	
+6-21	775-777	in	_	
+6-22	778-781	the	_	
+6-23	782-784	UK	_	
+6-24	785-788	and	_	
+6-25	789-796	Ireland	_	
+6-26	796-797	.	_	
+
+#Text=The song will also be launched as a charity mobile phone ringtone to raise funds for Sudan's troubled Darfur region.
+7-1	798-801	The	_	
+7-2	802-806	song	_	
+7-3	807-811	will	_	
+7-4	812-816	also	_	
+7-5	817-819	be	_	
+7-6	820-828	launched	_	
+7-7	829-831	as	_	
+7-8	832-833	a	_	
+7-9	834-841	charity	_	
+7-10	842-848	mobile	_	
+7-11	849-854	phone	_	
+7-12	855-863	ringtone	_	
+7-13	864-866	to	_	
+7-14	867-872	raise	_	
+7-15	873-878	funds	_	
+7-16	879-882	for	_	
+7-17	883-890	Sudan's	_	
+7-18	891-899	troubled	_	
+7-19	900-906	Darfur	_	
+7-20	907-913	region	_	
+7-21	913-914	.	_	
+
+#Text=Mycokemusic.com said it was going to put the track on its website from Thursday with all profits to be donated to charity.
+8-1	915-930	Mycokemusic.com	_	
+8-2	931-935	said	_	
+8-3	936-938	it	_	
+8-4	939-942	was	_	
+8-5	943-948	going	_	
+8-6	949-951	to	_	
+8-7	952-955	put	_	
+8-8	956-959	the	_	
+8-9	960-965	track	_	
+8-10	966-968	on	_	
+8-11	969-972	its	_	
+8-12	973-980	website	_	
+8-13	981-985	from	_	
+8-14	986-994	Thursday	_	
+8-15	995-999	with	_	
+8-16	1000-1003	all	_	
+8-17	1004-1011	profits	_	
+8-18	1012-1014	to	_	
+8-19	1015-1017	be	_	
+8-20	1018-1025	donated	_	
+8-21	1026-1028	to	_	
+8-22	1029-1036	charity	_	
+8-23	1036-1037	.	_	
+
+#Text=The single will be available to buy in shops from the 29 November.
+9-1	1038-1041	The	Évenement culturelle[5]	
+9-2	1042-1048	single	Évenement culturelle[5]	
+9-3	1049-1053	will	_	
+9-4	1054-1056	be	_	
+9-5	1057-1066	available	_	
+9-6	1067-1069	to	_	
+9-7	1070-1073	buy	_	
+9-8	1074-1076	in	_	
+9-9	1077-1082	shops	_	
+9-10	1083-1087	from	_	
+9-11	1088-1091	the	_	
+9-12	1092-1094	29	_	
+9-13	1095-1103	November	_	
+9-14	1103-1104	.	_	

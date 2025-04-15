@@ -1,0 +1,156 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Events|value
+
+
+#Text=GAZA - The Israeli Army is believed to have killed three Egyptian soldiers in a border incident.
+1-1	0-4	GAZA	_	
+1-2	5-6	-	_	
+1-3	7-10	The	_	
+1-4	11-18	Israeli	_	
+1-5	19-23	Army	_	
+1-6	24-26	is	_	
+1-7	27-35	believed	_	
+1-8	36-38	to	_	
+1-9	39-43	have	_	
+1-10	44-50	killed	Décès	
+1-11	51-56	three	_	
+1-12	57-65	Egyptian	_	
+1-13	66-74	soldiers	_	
+1-14	75-77	in	_	
+1-15	78-79	a	_	
+1-16	80-86	border	Conflit politique[1]	
+1-17	87-95	incident	Conflit politique[1]	
+1-18	95-96	.	_	
+
+#Text=The shootings occurred near the Philadelphi Route on the Gaza-Egypt border.
+2-1	97-100	The	_	
+2-2	101-110	shootings	Conflit politique[2]	
+2-3	111-119	occurred	Conflit politique[2]	
+2-4	120-124	near	_	
+2-5	125-128	the	_	
+2-6	129-140	Philadelphi	_	
+2-7	141-146	Route	_	
+2-8	147-149	on	_	
+2-9	150-153	the	_	
+2-10	154-164	Gaza-Egypt	_	
+2-11	165-171	border	_	
+2-12	171-172	.	_	
+
+#Text=Both nations patrol the area intensively for arms smuggling into Gaza.
+3-1	173-177	Both	_	
+3-2	178-185	nations	_	
+3-3	186-192	patrol	_	
+3-4	193-196	the	_	
+3-5	197-201	area	_	
+3-6	202-213	intensively	_	
+3-7	214-217	for	_	
+3-8	218-222	arms	_	
+3-9	223-232	smuggling	_	
+3-10	233-237	into	_	
+3-11	238-242	Gaza	_	
+3-12	242-243	.	_	
+
+#Text=An Israeli tank apparently mistook Egyptian troops for smugglers.
+4-1	245-247	An	_	
+4-2	248-255	Israeli	_	
+4-3	256-260	tank	_	
+4-4	261-271	apparently	_	
+4-5	272-279	mistook	_	
+4-6	280-288	Egyptian	_	
+4-7	289-295	troops	_	
+4-8	296-299	for	_	
+4-9	300-309	smugglers	Conflit politique	
+4-10	309-310	.	_	
+
+#Text=Foreign ministry spokesman Mark Regev has apologized for the incident, saying: "If Egyptians were hit then we regret it.
+5-1	312-319	Foreign	_	
+5-2	320-328	ministry	_	
+5-3	329-338	spokesman	_	
+5-4	339-343	Mark	_	
+5-5	344-349	Regev	_	
+5-6	350-353	has	_	
+5-7	354-364	apologized	_	
+5-8	365-368	for	_	
+5-9	369-372	the	_	
+5-10	373-381	incident	_	
+5-11	381-382	,	_	
+5-12	383-389	saying	_	
+5-13	389-390	:	_	
+5-14	391-392	"	_	
+5-15	392-394	If	_	
+5-16	395-404	Egyptians	_	
+5-17	405-409	were	_	
+5-18	410-413	hit	Conflit politique	
+5-19	414-418	then	_	
+5-20	419-421	we	_	
+5-21	422-428	regret	_	
+5-22	429-431	it	_	
+5-23	431-432	.	_	
+
+#Text=This was not our intention.
+6-1	433-437	This	_	
+6-2	438-441	was	_	
+6-3	442-445	not	_	
+6-4	446-449	our	_	
+6-5	450-459	intention	_	
+6-6	459-460	.	_	
+
+#Text=We want good co-operative relations with Egypt ... and if Egyptians were hurt then our thoughts go out to them and their families and the Egyptian people."
+7-1	461-463	We	_	
+7-2	464-468	want	_	
+7-3	469-473	good	_	
+7-4	474-486	co-operative	_	
+7-5	487-496	relations	_	
+7-6	497-501	with	_	
+7-7	502-507	Egypt	_	
+7-8	508-509	.	_	
+7-9	509-510	.	_	
+7-10	510-511	.	_	
+7-11	512-515	and	_	
+7-12	516-518	if	_	
+7-13	519-528	Egyptians	_	
+7-14	529-533	were	_	
+7-15	534-538	hurt	_	
+7-16	539-543	then	_	
+7-17	544-547	our	_	
+7-18	548-556	thoughts	_	
+7-19	557-559	go	_	
+7-20	560-563	out	_	
+7-21	564-566	to	_	
+7-22	567-571	them	_	
+7-23	572-575	and	_	
+7-24	576-581	their	_	
+7-25	582-590	families	_	
+7-26	591-594	and	_	
+7-27	595-598	the	_	
+7-28	599-607	Egyptian	_	
+7-29	608-614	people	_	
+7-30	614-615	.	_	
+7-31	615-616	"	_	
+
+#Text=Israel has said it is investigating the shootings "at the most senior level."
+8-1	618-624	Israel	_	
+8-2	625-628	has	_	
+8-3	629-633	said	_	
+8-4	634-636	it	_	
+8-5	637-639	is	_	
+8-6	640-653	investigating	_	
+8-7	654-657	the	_	
+8-8	658-667	shootings	Conflit politique	
+8-9	668-669	"	_	
+8-10	669-671	at	_	
+8-11	672-675	the	_	
+8-12	676-680	most	_	
+8-13	681-687	senior	_	
+8-14	688-693	level	_	
+8-15	693-694	.	_	
+8-16	694-695	"	_	
+
+#Text=Egypt has said little so far.
+9-1	696-701	Egypt	_	
+9-2	702-705	has	_	
+9-3	706-710	said	_	
+9-4	711-717	little	_	
+9-5	718-720	so	_	
+9-6	721-724	far	_	
+9-7	724-725	.	_	

@@ -1,0 +1,88 @@
+#FORMAT=WebAnno TSV 3.3
+
+
+#Text=' -
+#Text=Juan Carlos Concero, aged 34, a Spanish tourist, was shot in the head during an assault in Rio de Janeiro today.
+1-1	0-1	'	
+1-2	2-3	-	
+1-3	4-8	Juan	
+1-4	9-15	Carlos	
+1-5	16-23	Concero	
+1-6	23-24	,	
+1-7	25-29	aged	
+1-8	30-32	34	
+1-9	32-33	,	
+1-10	34-35	a	
+1-11	36-43	Spanish	
+1-12	44-51	tourist	
+1-13	51-52	,	
+1-14	53-56	was	
+1-15	57-61	shot	
+1-16	62-64	in	
+1-17	65-68	the	
+1-18	69-73	head	
+1-19	74-80	during	
+1-20	81-83	an	
+1-21	84-91	assault	
+1-22	92-94	in	
+1-23	95-98	Rio	
+1-24	99-101	de	
+1-25	102-109	Janeiro	
+1-26	110-115	today	
+1-27	115-116	.	
+
+#Text=He was carried to Souza Aguiar Hospital where he was in a coma, breathing with the help of life support machines.
+2-1	117-119	He	
+2-2	120-123	was	
+2-3	124-131	carried	
+2-4	132-134	to	
+2-5	135-140	Souza	
+2-6	141-147	Aguiar	
+2-7	148-156	Hospital	
+2-8	157-162	where	
+2-9	163-165	he	
+2-10	166-169	was	
+2-11	170-172	in	
+2-12	173-174	a	
+2-13	175-179	coma	
+2-14	179-180	,	
+2-15	181-190	breathing	
+2-16	191-195	with	
+2-17	196-199	the	
+2-18	200-204	help	
+2-19	205-207	of	
+2-20	208-212	life	
+2-21	213-220	support	
+2-22	221-229	machines	
+2-23	229-230	.	
+
+#Text=Hours later doctors pronounced him braindead.
+3-1	231-236	Hours	
+3-2	237-242	later	
+3-3	243-250	doctors	
+3-4	251-261	pronounced	
+3-5	262-265	him	
+3-6	266-275	braindead	
+3-7	275-276	.	
+
+#Text=The Brazilian police offices in charge of the case announced the arrest of three man suspected of shooting Concero.
+4-1	278-281	The	
+4-2	282-291	Brazilian	
+4-3	292-298	police	
+4-4	299-306	offices	
+4-5	307-309	in	
+4-6	310-316	charge	
+4-7	317-319	of	
+4-8	320-323	the	
+4-9	324-328	case	
+4-10	329-338	announced	
+4-11	339-342	the	
+4-12	343-349	arrest	
+4-13	350-352	of	
+4-14	353-358	three	
+4-15	359-362	man	
+4-16	363-372	suspected	
+4-17	373-375	of	
+4-18	376-384	shooting	
+4-19	385-392	Concero	
+4-20	392-393	.	

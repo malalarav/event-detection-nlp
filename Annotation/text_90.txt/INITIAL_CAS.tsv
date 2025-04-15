@@ -1,0 +1,108 @@
+#FORMAT=WebAnno TSV 3.3
+
+
+#Text=Donald Rumsfeld revealed today that he will not resign his position as United States secretary of Defense.
+1-1	0-6	Donald	
+1-2	7-15	Rumsfeld	
+1-3	16-24	revealed	
+1-4	25-30	today	
+1-5	31-35	that	
+1-6	36-38	he	
+1-7	39-43	will	
+1-8	44-47	not	
+1-9	48-54	resign	
+1-10	55-58	his	
+1-11	59-67	position	
+1-12	68-70	as	
+1-13	71-77	United	
+1-14	78-84	States	
+1-15	85-94	secretary	
+1-16	95-97	of	
+1-17	98-105	Defense	
+1-18	105-106	.	
+
+#Text=Several other members of President George W.
+2-1	107-114	Several	
+2-2	115-120	other	
+2-3	121-128	members	
+2-4	129-131	of	
+2-5	132-141	President	
+2-6	142-148	George	
+2-7	149-150	W	
+2-8	150-151	.	
+
+#Text=Bush's cabinet have resigned.
+3-1	152-158	Bush's	
+3-2	159-166	cabinet	
+3-3	167-171	have	
+3-4	172-180	resigned	
+3-5	180-181	.	
+
+#Text=Rumsfeld stated he will continue at his post until at least the end of the Iraq war, although he did not commit to remaining for the full four years of the administration.
+4-1	182-190	Rumsfeld	
+4-2	191-197	stated	
+4-3	198-200	he	
+4-4	201-205	will	
+4-5	206-214	continue	
+4-6	215-217	at	
+4-7	218-221	his	
+4-8	222-226	post	
+4-9	227-232	until	
+4-10	233-235	at	
+4-11	236-241	least	
+4-12	242-245	the	
+4-13	246-249	end	
+4-14	250-252	of	
+4-15	253-256	the	
+4-16	257-261	Iraq	
+4-17	262-265	war	
+4-18	265-266	,	
+4-19	267-275	although	
+4-20	276-278	he	
+4-21	279-282	did	
+4-22	283-286	not	
+4-23	287-293	commit	
+4-24	294-296	to	
+4-25	297-306	remaining	
+4-26	307-310	for	
+4-27	311-314	the	
+4-28	315-319	full	
+4-29	320-324	four	
+4-30	325-330	years	
+4-31	331-333	of	
+4-32	334-337	the	
+4-33	338-352	administration	
+4-34	352-353	.	
+
+#Text=While also not committing to any dates for withdrawal of U.S. troops from Iraq, Rumsfeld indicated his desire that they be withdrawn sometime within the next four years.
+5-1	354-359	While	
+5-2	360-364	also	
+5-3	365-368	not	
+5-4	369-379	committing	
+5-5	380-382	to	
+5-6	383-386	any	
+5-7	387-392	dates	
+5-8	393-396	for	
+5-9	397-407	withdrawal	
+5-10	408-410	of	
+5-11	411-414	U.S	
+5-12	414-415	.	
+5-13	416-422	troops	
+5-14	423-427	from	
+5-15	428-432	Iraq	
+5-16	432-433	,	
+5-17	434-442	Rumsfeld	
+5-18	443-452	indicated	
+5-19	453-456	his	
+5-20	457-463	desire	
+5-21	464-468	that	
+5-22	469-473	they	
+5-23	474-476	be	
+5-24	477-486	withdrawn	
+5-25	487-495	sometime	
+5-26	496-502	within	
+5-27	503-506	the	
+5-28	507-511	next	
+5-29	512-516	four	
+5-30	517-522	years	
+5-31	522-523	.	

@@ -1,0 +1,337 @@
+#FORMAT=WebAnno TSV 3.3
+
+
+#Text=Television reporter Jim Taricani was convicted of criminal contempt Thursday for not revealing to authorities the source of a video that he had received and reported on.
+1-1	0-10	Television	
+1-2	11-19	reporter	
+1-3	20-23	Jim	
+1-4	24-32	Taricani	
+1-5	33-36	was	
+1-6	37-46	convicted	
+1-7	47-49	of	
+1-8	50-58	criminal	
+1-9	59-67	contempt	
+1-10	68-76	Thursday	
+1-11	77-80	for	
+1-12	81-84	not	
+1-13	85-94	revealing	
+1-14	95-97	to	
+1-15	98-109	authorities	
+1-16	110-113	the	
+1-17	114-120	source	
+1-18	121-123	of	
+1-19	124-125	a	
+1-20	126-131	video	
+1-21	132-136	that	
+1-22	137-139	he	
+1-23	140-143	had	
+1-24	144-152	received	
+1-25	153-156	and	
+1-26	157-165	reported	
+1-27	166-168	on	
+1-28	168-169	.	
+
+#Text=The video had been sealed to prevent the public from seeing it.
+2-1	170-173	The	
+2-2	174-179	video	
+2-3	180-183	had	
+2-4	184-188	been	
+2-5	189-195	sealed	
+2-6	196-198	to	
+2-7	199-206	prevent	
+2-8	207-210	the	
+2-9	211-217	public	
+2-10	218-222	from	
+2-11	223-229	seeing	
+2-12	230-232	it	
+2-13	232-233	.	
+
+#Text=US District Court Judge Ernest Torres convicted Taricani, a reporter for WJAR-TV News in Providence, Rhode Island.
+3-1	235-237	US	
+3-2	238-246	District	
+3-3	247-252	Court	
+3-4	253-258	Judge	
+3-5	259-265	Ernest	
+3-6	266-272	Torres	
+3-7	273-282	convicted	
+3-8	283-291	Taricani	
+3-9	291-292	,	
+3-10	293-294	a	
+3-11	295-303	reporter	
+3-12	304-307	for	
+3-13	308-315	WJAR-TV	
+3-14	316-320	News	
+3-15	321-323	in	
+3-16	324-334	Providence	
+3-17	334-335	,	
+3-18	336-341	Rhode	
+3-19	342-348	Island	
+3-20	348-349	.	
+
+#Text=The video in question showed the city's mayor, Vincent Cianci, taking a $1000 bribe.
+4-1	350-353	The	
+4-2	354-359	video	
+4-3	360-362	in	
+4-4	363-371	question	
+4-5	372-378	showed	
+4-6	379-382	the	
+4-7	383-389	city's	
+4-8	390-395	mayor	
+4-9	395-396	,	
+4-10	397-404	Vincent	
+4-11	405-411	Cianci	
+4-12	411-412	,	
+4-13	413-419	taking	
+4-14	420-421	a	
+4-15	422-427	$1000	
+4-16	428-433	bribe	
+4-17	433-434	.	
+
+#Text=The official was subsequently convicted for corruption.
+5-1	435-438	The	
+5-2	439-447	official	
+5-3	448-451	was	
+5-4	452-464	subsequently	
+5-5	465-474	convicted	
+5-6	475-478	for	
+5-7	479-489	corruption	
+5-8	489-490	.	
+
+#Text=During Cianci's trial, the court had ordered the video to be sealed.
+6-1	491-497	During	
+6-2	498-506	Cianci's	
+6-3	507-512	trial	
+6-4	512-513	,	
+6-5	514-517	the	
+6-6	518-523	court	
+6-7	524-527	had	
+6-8	528-535	ordered	
+6-9	536-539	the	
+6-10	540-545	video	
+6-11	546-548	to	
+6-12	549-551	be	
+6-13	552-558	sealed	
+6-14	558-559	.	
+
+#Text=It was subsequently released to reporter Jim Taricani.
+7-1	560-562	It	
+7-2	563-566	was	
+7-3	567-579	subsequently	
+7-4	580-588	released	
+7-5	589-591	to	
+7-6	592-600	reporter	
+7-7	601-604	Jim	
+7-8	605-613	Taricani	
+7-9	613-614	.	
+
+#Text=Torres opined that the leak had been designed to prevent a fair trial and, as the video was sealed, the person who leaked it had broken the law.
+8-1	615-621	Torres	
+8-2	622-628	opined	
+8-3	629-633	that	
+8-4	634-637	the	
+8-5	638-642	leak	
+8-6	643-646	had	
+8-7	647-651	been	
+8-8	652-660	designed	
+8-9	661-663	to	
+8-10	664-671	prevent	
+8-11	672-673	a	
+8-12	674-678	fair	
+8-13	679-684	trial	
+8-14	685-688	and	
+8-15	688-689	,	
+8-16	690-692	as	
+8-17	693-696	the	
+8-18	697-702	video	
+8-19	703-706	was	
+8-20	707-713	sealed	
+8-21	713-714	,	
+8-22	715-718	the	
+8-23	719-725	person	
+8-24	726-729	who	
+8-25	730-736	leaked	
+8-26	737-739	it	
+8-27	740-743	had	
+8-28	744-750	broken	
+8-29	751-754	the	
+8-30	755-758	law	
+8-31	758-759	.	
+
+#Text=Taricani's refusal to identify the leaker had been the basis for his conviction of civil contempt on March 16.
+9-1	761-771	Taricani's	
+9-2	772-779	refusal	
+9-3	780-782	to	
+9-4	783-791	identify	
+9-5	792-795	the	
+9-6	796-802	leaker	
+9-7	803-806	had	
+9-8	807-811	been	
+9-9	812-815	the	
+9-10	816-821	basis	
+9-11	822-825	for	
+9-12	826-829	his	
+9-13	830-840	conviction	
+9-14	841-843	of	
+9-15	844-849	civil	
+9-16	850-858	contempt	
+9-17	859-861	on	
+9-18	862-867	March	
+9-19	868-870	16	
+9-20	870-871	.	
+
+#Text=A USD $1000 fine was to be issued every day until Taricani revealed his source.
+10-1	872-873	A	
+10-2	874-877	USD	
+10-3	878-883	$1000	
+10-4	884-888	fine	
+10-5	889-892	was	
+10-6	893-895	to	
+10-7	896-898	be	
+10-8	899-905	issued	
+10-9	906-911	every	
+10-10	912-915	day	
+10-11	916-921	until	
+10-12	922-930	Taricani	
+10-13	931-939	revealed	
+10-14	940-943	his	
+10-15	944-950	source	
+10-16	950-951	.	
+
+#Text=He has paid all fines, and was reimbursed by WJAR-TV News for all expenses.
+11-1	952-954	He	
+11-2	955-958	has	
+11-3	959-963	paid	
+11-4	964-967	all	
+11-5	968-973	fines	
+11-6	973-974	,	
+11-7	975-978	and	
+11-8	979-982	was	
+11-9	983-993	reimbursed	
+11-10	994-996	by	
+11-11	997-1004	WJAR-TV	
+11-12	1005-1009	News	
+11-13	1010-1013	for	
+11-14	1014-1017	all	
+11-15	1018-1026	expenses	
+11-16	1026-1027	.	
+
+#Text=Torres suspended the fine, calling it ineffective.
+12-1	1028-1034	Torres	
+12-2	1035-1044	suspended	
+12-3	1045-1048	the	
+12-4	1049-1053	fine	
+12-5	1053-1054	,	
+12-6	1055-1062	calling	
+12-7	1063-1065	it	
+12-8	1066-1077	ineffective	
+12-9	1077-1078	.	
+
+#Text=Taricani defended his action, saying: "I made a promise to my source, which I intend to keep."
+13-1	1080-1088	Taricani	
+13-2	1089-1097	defended	
+13-3	1098-1101	his	
+13-4	1102-1108	action	
+13-5	1108-1109	,	
+13-6	1110-1116	saying	
+13-7	1116-1117	:	
+13-8	1118-1119	"	
+13-9	1119-1120	I	
+13-10	1121-1125	made	
+13-11	1126-1127	a	
+13-12	1128-1135	promise	
+13-13	1136-1138	to	
+13-14	1139-1141	my	
+13-15	1142-1148	source	
+13-16	1148-1149	,	
+13-17	1150-1155	which	
+13-18	1156-1157	I	
+13-19	1158-1164	intend	
+13-20	1165-1167	to	
+13-21	1168-1172	keep	
+13-22	1172-1173	.	
+13-23	1173-1174	"	
+
+#Text=Prosecutions for not revealing sources are becoming an increasingly common occurrence.
+14-1	1176-1188	Prosecutions	
+14-2	1189-1192	for	
+14-3	1193-1196	not	
+14-4	1197-1206	revealing	
+14-5	1207-1214	sources	
+14-6	1215-1218	are	
+14-7	1219-1227	becoming	
+14-8	1228-1230	an	
+14-9	1231-1243	increasingly	
+14-10	1244-1250	common	
+14-11	1251-1261	occurrence	
+14-12	1261-1262	.	
+
+#Text=Eight journalists have been convicted in recent months.
+15-1	1263-1268	Eight	
+15-2	1269-1280	journalists	
+15-3	1281-1285	have	
+15-4	1286-1290	been	
+15-5	1291-1300	convicted	
+15-6	1301-1303	in	
+15-7	1304-1310	recent	
+15-8	1311-1317	months	
+15-9	1317-1318	.	
+
+#Text=Speaking in an interview Wednesday, he said, "I'm proud to be a part of this effort with other reporters who are facing this same thing."
+16-1	1319-1327	Speaking	
+16-2	1328-1330	in	
+16-3	1331-1333	an	
+16-4	1334-1343	interview	
+16-5	1344-1353	Wednesday	
+16-6	1353-1354	,	
+16-7	1355-1357	he	
+16-8	1358-1362	said	
+16-9	1362-1363	,	
+16-10	1364-1365	"	
+16-11	1365-1368	I'm	
+16-12	1369-1374	proud	
+16-13	1375-1377	to	
+16-14	1378-1380	be	
+16-15	1381-1382	a	
+16-16	1383-1387	part	
+16-17	1388-1390	of	
+16-18	1391-1395	this	
+16-19	1396-1402	effort	
+16-20	1403-1407	with	
+16-21	1408-1413	other	
+16-22	1414-1423	reporters	
+16-23	1424-1427	who	
+16-24	1428-1431	are	
+16-25	1432-1438	facing	
+16-26	1439-1443	this	
+16-27	1444-1448	same	
+16-28	1449-1454	thing	
+16-29	1454-1455	.	
+16-30	1455-1456	"	
+
+#Text=Sentencing is to take place December 9th.
+17-1	1458-1468	Sentencing	
+17-2	1469-1471	is	
+17-3	1472-1474	to	
+17-4	1475-1479	take	
+17-5	1480-1485	place	
+17-6	1486-1494	December	
+17-7	1495-1498	9th	
+17-8	1498-1499	.	
+
+#Text=Torres has said Taricani will receive no more than six months due to ill health.
+18-1	1500-1506	Torres	
+18-2	1507-1510	has	
+18-3	1511-1515	said	
+18-4	1516-1524	Taricani	
+18-5	1525-1529	will	
+18-6	1530-1537	receive	
+18-7	1538-1540	no	
+18-8	1541-1545	more	
+18-9	1546-1550	than	
+18-10	1551-1554	six	
+18-11	1555-1561	months	
+18-12	1562-1565	due	
+18-13	1566-1568	to	
+18-14	1569-1572	ill	
+18-15	1573-1579	health	
+18-16	1579-1580	.	

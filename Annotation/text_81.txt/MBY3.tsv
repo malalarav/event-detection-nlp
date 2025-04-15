@@ -1,0 +1,356 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Events|value
+
+
+#Text=Scientists using a computer model of the typical European summer with no human influences (without global warming) have compared it to the same model with global warming included.
+1-1	0-10	Scientists	Avancée technologique	
+1-2	11-16	using	_	
+1-3	17-18	a	_	
+1-4	19-27	computer	Avancée technologique[1]	
+1-5	28-33	model	Avancée technologique[1]	
+1-6	34-36	of	_	
+1-7	37-40	the	_	
+1-8	41-48	typical	_	
+1-9	49-57	European	_	
+1-10	58-64	summer	_	
+1-11	65-69	with	_	
+1-12	70-72	no	_	
+1-13	73-78	human	_	
+1-14	79-89	influences	_	
+1-15	90-91	(	_	
+1-16	91-98	without	_	
+1-17	99-105	global	Avancée technologique[2]	
+1-18	106-113	warming	Avancée technologique[2]	
+1-19	113-114	)	_	
+1-20	115-119	have	_	
+1-21	120-128	compared	_	
+1-22	129-131	it	_	
+1-23	132-134	to	_	
+1-24	135-138	the	_	
+1-25	139-143	same	_	
+1-26	144-149	model	_	
+1-27	150-154	with	_	
+1-28	155-161	global	_	
+1-29	162-169	warming	_	
+1-30	170-178	included	_	
+1-31	178-179	.	_	
+
+#Text=They have concluded that human influence makes extremely warm summers (i.e. summers as warm as the 2003 heatwave) more than twice as likely.
+2-1	180-184	They	_	
+2-2	185-189	have	_	
+2-3	190-199	concluded	_	
+2-4	200-204	that	_	
+2-5	205-210	human	_	
+2-6	211-220	influence	_	
+2-7	221-226	makes	_	
+2-8	227-236	extremely	_	
+2-9	237-241	warm	_	
+2-10	242-249	summers	_	
+2-11	250-251	(	_	
+2-12	251-254	i.e	_	
+2-13	254-255	.	_	
+2-14	256-263	summers	_	
+2-15	264-266	as	_	
+2-16	267-271	warm	_	
+2-17	272-274	as	_	
+2-18	275-278	the	_	
+2-19	279-283	2003	_	
+2-20	284-292	heatwave	_	
+2-21	292-293	)	_	
+2-22	294-298	more	_	
+2-23	299-303	than	_	
+2-24	304-309	twice	_	
+2-25	310-312	as	_	
+2-26	313-319	likely	_	
+2-27	319-320	.	_	
+
+#Text=Commentators have suggested that in the future this may open the way for lawsuits against heavy polluters by persons whose livelihoods have been affected by adverse climate change.
+3-1	324-336	Commentators	_	
+3-2	337-341	have	_	
+3-3	342-351	suggested	_	
+3-4	352-356	that	_	
+3-5	357-359	in	_	
+3-6	360-363	the	_	
+3-7	364-370	future	_	
+3-8	371-375	this	_	
+3-9	376-379	may	_	
+3-10	380-384	open	_	
+3-11	385-388	the	_	
+3-12	389-392	way	_	
+3-13	393-396	for	_	
+3-14	397-405	lawsuits	_	
+3-15	406-413	against	_	
+3-16	414-419	heavy	_	
+3-17	420-429	polluters	_	
+3-18	430-432	by	_	
+3-19	433-440	persons	_	
+3-20	441-446	whose	_	
+3-21	447-458	livelihoods	_	
+3-22	459-463	have	_	
+3-23	464-468	been	_	
+3-24	469-477	affected	_	
+3-25	478-480	by	_	
+3-26	481-488	adverse	_	
+3-27	489-496	climate	_	
+3-28	497-503	change	_	
+3-29	503-504	.	_	
+
+#Text=However, the report stesses that though it is in fact impossible to pin any specific extreme climate event on either global warming or natural climate variation, human activities increase the frequency of such events.
+4-1	505-512	However	_	
+4-2	512-513	,	_	
+4-3	514-517	the	_	
+4-4	518-524	report	_	
+4-5	525-532	stesses	_	
+4-6	533-537	that	_	
+4-7	538-544	though	_	
+4-8	545-547	it	_	
+4-9	548-550	is	_	
+4-10	551-553	in	_	
+4-11	554-558	fact	_	
+4-12	559-569	impossible	_	
+4-13	570-572	to	_	
+4-14	573-576	pin	_	
+4-15	577-580	any	_	
+4-16	581-589	specific	_	
+4-17	590-597	extreme	_	
+4-18	598-605	climate	_	
+4-19	606-611	event	_	
+4-20	612-614	on	_	
+4-21	615-621	either	_	
+4-22	622-628	global	_	
+4-23	629-636	warming	_	
+4-24	637-639	or	_	
+4-25	640-647	natural	_	
+4-26	648-655	climate	_	
+4-27	656-665	variation	_	
+4-28	665-666	,	_	
+4-29	667-672	human	_	
+4-30	673-683	activities	_	
+4-31	684-692	increase	_	
+4-32	693-696	the	_	
+4-33	697-706	frequency	_	
+4-34	707-709	of	_	
+4-35	710-714	such	_	
+4-36	715-721	events	_	
+4-37	721-722	.	_	
+
+#Text=The study is based upon climate activity during the last 50 years, which can only be replicated with computer models which include human forcing (CO2 and other greenhouse gases (GHGs)).
+5-1	726-729	The	_	
+5-2	730-735	study	_	
+5-3	736-738	is	_	
+5-4	739-744	based	_	
+5-5	745-749	upon	_	
+5-6	750-757	climate	_	
+5-7	758-766	activity	_	
+5-8	767-773	during	_	
+5-9	774-777	the	_	
+5-10	778-782	last	_	
+5-11	783-785	50	_	
+5-12	786-791	years	_	
+5-13	791-792	,	_	
+5-14	793-798	which	_	
+5-15	799-802	can	_	
+5-16	803-807	only	_	
+5-17	808-810	be	_	
+5-18	811-821	replicated	_	
+5-19	822-826	with	_	
+5-20	827-835	computer	Avancée technologique[3]	
+5-21	836-842	models	Avancée technologique[3]	
+5-22	843-848	which	_	
+5-23	849-856	include	_	
+5-24	857-862	human	_	
+5-25	863-870	forcing	_	
+5-26	871-872	(	_	
+5-27	872-875	CO2	Avancée technologique[4]	
+5-28	876-879	and	Avancée technologique[4]	
+5-29	880-885	other	Avancée technologique[4]	
+5-30	886-896	greenhouse	Avancée technologique[4]	
+5-31	897-902	gases	Avancée technologique[4]	
+5-32	903-904	(	_	
+5-33	904-908	GHGs	_	
+5-34	908-909	)	_	
+5-35	909-910	)	_	
+5-36	910-911	.	_	
+
+#Text=However, even within a warmer world the summer of 2003 was anomalously warm in Europe.
+6-1	912-919	However	_	
+6-2	919-920	,	_	
+6-3	921-925	even	_	
+6-4	926-932	within	_	
+6-5	933-934	a	_	
+6-6	935-941	warmer	_	
+6-7	942-947	world	_	
+6-8	948-951	the	_	
+6-9	952-958	summer	_	
+6-10	959-961	of	_	
+6-11	962-966	2003	_	
+6-12	967-970	was	_	
+6-13	971-982	anomalously	_	
+6-14	983-987	warm	_	
+6-15	988-990	in	_	
+6-16	991-997	Europe	_	
+6-17	997-998	.	_	
+
+#Text=Most simulations of 2003 climate produce cooler weather in Europe than what actually happened.
+7-1	999-1003	Most	_	
+7-2	1004-1015	simulations	_	
+7-3	1016-1018	of	_	
+7-4	1019-1023	2003	_	
+7-5	1024-1031	climate	_	
+7-6	1032-1039	produce	_	
+7-7	1040-1046	cooler	_	
+7-8	1047-1054	weather	_	
+7-9	1055-1057	in	_	
+7-10	1058-1064	Europe	_	
+7-11	1065-1069	than	_	
+7-12	1070-1074	what	_	
+7-13	1075-1083	actually	_	
+7-14	1084-1092	happened	_	
+7-15	1092-1093	.	_	
+
+#Text=It is not yet known if flaws in the models cause this difference, if the warmth of 2003 was part of a trend, or 2003 was merely unusually hot.
+8-1	1094-1096	It	_	
+8-2	1097-1099	is	_	
+8-3	1100-1103	not	_	
+8-4	1104-1107	yet	_	
+8-5	1108-1113	known	_	
+8-6	1114-1116	if	_	
+8-7	1117-1122	flaws	_	
+8-8	1123-1125	in	_	
+8-9	1126-1129	the	_	
+8-10	1130-1136	models	Avancée technologique	
+8-11	1137-1142	cause	_	
+8-12	1143-1147	this	_	
+8-13	1148-1158	difference	_	
+8-14	1158-1159	,	_	
+8-15	1160-1162	if	_	
+8-16	1163-1166	the	_	
+8-17	1167-1173	warmth	_	
+8-18	1174-1176	of	_	
+8-19	1177-1181	2003	_	
+8-20	1182-1185	was	_	
+8-21	1186-1190	part	_	
+8-22	1191-1193	of	_	
+8-23	1194-1195	a	_	
+8-24	1196-1201	trend	_	
+8-25	1201-1202	,	_	
+8-26	1203-1205	or	_	
+8-27	1206-1210	2003	_	
+8-28	1211-1214	was	_	
+8-29	1215-1221	merely	_	
+8-30	1222-1231	unusually	_	
+8-31	1232-1235	hot	_	
+8-32	1235-1236	.	_	
+
+#Text=If there will be a warming trend, a model predicts that such summers could become an event of 1-in-2 probability only by 2050.
+9-1	1237-1239	If	_	
+9-2	1240-1245	there	_	
+9-3	1246-1250	will	_	
+9-4	1251-1253	be	_	
+9-5	1254-1255	a	_	
+9-6	1256-1263	warming	_	
+9-7	1264-1269	trend	_	
+9-8	1269-1270	,	_	
+9-9	1271-1272	a	_	
+9-10	1273-1278	model	_	
+9-11	1279-1287	predicts	_	
+9-12	1288-1292	that	_	
+9-13	1293-1297	such	_	
+9-14	1298-1305	summers	_	
+9-15	1306-1311	could	_	
+9-16	1312-1318	become	_	
+9-17	1319-1321	an	_	
+9-18	1322-1327	event	_	
+9-19	1328-1330	of	_	
+9-20	1331-1332	1	_	
+9-21	1332-1333	-	_	
+9-22	1333-1335	in	_	
+9-23	1335-1336	-	_	
+9-24	1336-1337	2	_	
+9-25	1338-1349	probability	_	
+9-26	1350-1354	only	_	
+9-27	1355-1357	by	_	
+9-28	1358-1362	2050	_	
+9-29	1362-1363	.	_	
+
+#Text=In the Americas, a series of sudden weather changes has been more frequent in the last 15 years since the discovery of the phenomenon knows as El Niño, in which vast regions of North and South America suffered weather extremes ranging from high tides to extreme hail, rain and snowstorms during summer and winter seasons following extremely hot summers.
+10-1	1367-1369	In	_	
+10-2	1370-1373	the	_	
+10-3	1374-1382	Americas	_	
+10-4	1382-1383	,	_	
+10-5	1384-1385	a	_	
+10-6	1386-1392	series	_	
+10-7	1393-1395	of	_	
+10-8	1396-1402	sudden	_	
+10-9	1403-1410	weather	_	
+10-10	1411-1418	changes	_	
+10-11	1419-1422	has	_	
+10-12	1423-1427	been	_	
+10-13	1428-1432	more	_	
+10-14	1433-1441	frequent	_	
+10-15	1442-1444	in	_	
+10-16	1445-1448	the	_	
+10-17	1449-1453	last	_	
+10-18	1454-1456	15	_	
+10-19	1457-1462	years	_	
+10-20	1463-1468	since	_	
+10-21	1469-1472	the	_	
+10-22	1473-1482	discovery	_	
+10-23	1483-1485	of	_	
+10-24	1486-1489	the	_	
+10-25	1490-1500	phenomenon	_	
+10-26	1501-1506	knows	_	
+10-27	1507-1509	as	_	
+10-28	1510-1512	El	_	
+10-29	1513-1517	Niño	_	
+10-30	1517-1518	,	_	
+10-31	1519-1521	in	_	
+10-32	1522-1527	which	_	
+10-33	1528-1532	vast	_	
+10-34	1533-1540	regions	_	
+10-35	1541-1543	of	_	
+10-36	1544-1549	North	_	
+10-37	1550-1553	and	_	
+10-38	1554-1559	South	_	
+10-39	1560-1567	America	_	
+10-40	1568-1576	suffered	_	
+10-41	1577-1584	weather	_	
+10-42	1585-1593	extremes	_	
+10-43	1594-1601	ranging	_	
+10-44	1602-1606	from	_	
+10-45	1607-1611	high	_	
+10-46	1612-1617	tides	_	
+10-47	1618-1620	to	_	
+10-48	1621-1628	extreme	_	
+10-49	1629-1633	hail	_	
+10-50	1633-1634	,	_	
+10-51	1635-1639	rain	_	
+10-52	1640-1643	and	_	
+10-53	1644-1654	snowstorms	_	
+10-54	1655-1661	during	_	
+10-55	1662-1668	summer	_	
+10-56	1669-1672	and	_	
+10-57	1673-1679	winter	_	
+10-58	1680-1687	seasons	_	
+10-59	1688-1697	following	_	
+10-60	1698-1707	extremely	_	
+10-61	1708-1711	hot	_	
+10-62	1712-1719	summers	_	
+10-63	1719-1720	.	_	
+
+#Text=There's still no scientific evidence that El Niño is directly influenced by human factors.
+11-1	1721-1728	There's	_	
+11-2	1729-1734	still	_	
+11-3	1735-1737	no	_	
+11-4	1738-1748	scientific	Avancée technologique	
+11-5	1749-1757	evidence	_	
+11-6	1758-1762	that	_	
+11-7	1763-1765	El	_	
+11-8	1766-1770	Niño	_	
+11-9	1771-1773	is	_	
+11-10	1774-1782	directly	_	
+11-11	1783-1793	influenced	_	
+11-12	1794-1796	by	_	
+11-13	1797-1802	human	Avancée technologique[5]	
+11-14	1803-1810	factors	Avancée technologique[5]	
+11-15	1810-1811	.	_	

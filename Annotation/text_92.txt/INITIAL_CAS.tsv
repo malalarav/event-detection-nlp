@@ -1,0 +1,154 @@
+#FORMAT=WebAnno TSV 3.3
+
+
+#Text=Mozilla Thunderbird 1.0, a free open-source mail user agent, has been released within the last twenty-four hours by the Mozilla Foundation.
+1-1	0-7	Mozilla	
+1-2	8-19	Thunderbird	
+1-3	20-23	1.0	
+1-4	23-24	,	
+1-5	25-26	a	
+1-6	27-31	free	
+1-7	32-43	open-source	
+1-8	44-48	mail	
+1-9	49-53	user	
+1-10	54-59	agent	
+1-11	59-60	,	
+1-12	61-64	has	
+1-13	65-69	been	
+1-14	70-78	released	
+1-15	79-85	within	
+1-16	86-89	the	
+1-17	90-94	last	
+1-18	95-106	twenty-four	
+1-19	107-112	hours	
+1-20	113-115	by	
+1-21	116-119	the	
+1-22	120-127	Mozilla	
+1-23	128-138	Foundation	
+1-24	138-139	.	
+
+#Text=Thunderbird has been in development for more than one and a half years.
+2-1	140-151	Thunderbird	
+2-2	152-155	has	
+2-3	156-160	been	
+2-4	161-163	in	
+2-5	164-175	development	
+2-6	176-179	for	
+2-7	180-184	more	
+2-8	185-189	than	
+2-9	190-193	one	
+2-10	194-197	and	
+2-11	198-199	a	
+2-12	200-204	half	
+2-13	205-210	years	
+2-14	210-211	.	
+
+#Text=The release of Thunderbird 1.0 comes less than one month after the Foundation released Firefox 1.0, its internet browser.
+3-1	212-215	The	
+3-2	216-223	release	
+3-3	224-226	of	
+3-4	227-238	Thunderbird	
+3-5	239-242	1.0	
+3-6	243-248	comes	
+3-7	249-253	less	
+3-8	254-258	than	
+3-9	259-262	one	
+3-10	263-268	month	
+3-11	269-274	after	
+3-12	275-278	the	
+3-13	279-289	Foundation	
+3-14	290-298	released	
+3-15	299-306	Firefox	
+3-16	307-310	1.0	
+3-17	310-311	,	
+3-18	312-315	its	
+3-19	316-324	internet	
+3-20	325-332	browser	
+3-21	332-333	.	
+
+#Text=The new version contains many updates in the areas of security and ease of use.
+4-1	337-340	The	
+4-2	341-344	new	
+4-3	345-352	version	
+4-4	353-361	contains	
+4-5	362-366	many	
+4-6	367-374	updates	
+4-7	375-377	in	
+4-8	378-381	the	
+4-9	382-387	areas	
+4-10	388-390	of	
+4-11	391-399	security	
+4-12	400-403	and	
+4-13	404-408	ease	
+4-14	409-411	of	
+4-15	412-415	use	
+4-16	415-416	.	
+
+#Text=A newsgroup and a RSS reader is integrated into the application, which also features adaptive junk mail filters.
+5-1	417-418	A	
+5-2	419-428	newsgroup	
+5-3	429-432	and	
+5-4	433-434	a	
+5-5	435-438	RSS	
+5-6	439-445	reader	
+5-7	446-448	is	
+5-8	449-459	integrated	
+5-9	460-464	into	
+5-10	465-468	the	
+5-11	469-480	application	
+5-12	480-481	,	
+5-13	482-487	which	
+5-14	488-492	also	
+5-15	493-501	features	
+5-16	502-510	adaptive	
+5-17	511-515	junk	
+5-18	516-520	mail	
+5-19	521-528	filters	
+5-20	528-529	.	
+
+#Text=Common mail protocols POP3 and IMAP are both supported, so users will be able to access some brands of webmail from within the program.
+6-1	530-536	Common	
+6-2	537-541	mail	
+6-3	542-551	protocols	
+6-4	552-556	POP3	
+6-5	557-560	and	
+6-6	561-565	IMAP	
+6-7	566-569	are	
+6-8	570-574	both	
+6-9	575-584	supported	
+6-10	584-585	,	
+6-11	586-588	so	
+6-12	589-594	users	
+6-13	595-599	will	
+6-14	600-602	be	
+6-15	603-607	able	
+6-16	608-610	to	
+6-17	611-617	access	
+6-18	618-622	some	
+6-19	623-629	brands	
+6-20	630-632	of	
+6-21	633-640	webmail	
+6-22	641-645	from	
+6-23	646-652	within	
+6-24	653-656	the	
+6-25	657-664	program	
+6-26	664-665	.	
+
+#Text=Thunderbird is directly competing with Microsoft Outlook.
+7-1	669-680	Thunderbird	
+7-2	681-683	is	
+7-3	684-692	directly	
+7-4	693-702	competing	
+7-5	703-707	with	
+7-6	708-717	Microsoft	
+7-7	718-725	Outlook	
+7-8	725-726	.	
+
+#Text=The free download is 5.8 megabytes.
+8-1	730-733	The	
+8-2	734-738	free	
+8-3	739-747	download	
+8-4	748-750	is	
+8-5	751-754	5.8	
+8-6	755-764	megabytes	
+8-7	764-765	.	

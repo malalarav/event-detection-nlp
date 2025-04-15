@@ -1,0 +1,71 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Events|value
+
+
+#Text=Tommy Thompson has joined the growing number of secretaries to leave President George Bush's cabinet.
+1-1	0-5	Tommy	_	
+1-2	6-14	Thompson	_	
+1-3	15-18	has	_	
+1-4	19-25	joined	_	
+1-5	26-29	the	_	
+1-6	30-37	growing	_	
+1-7	38-44	number	_	
+1-8	45-47	of	_	
+1-9	48-59	secretaries	_	
+1-10	60-62	to	_	
+1-11	63-68	leave	_	
+1-12	69-78	President	Décision gouvernementale[1]	
+1-13	79-85	George	Décision gouvernementale[1]	
+1-14	86-92	Bush's	_	
+1-14.1	86-90	Bush	Décision gouvernementale[1]	
+1-15	93-100	cabinet	_	
+1-16	100-101	.	_	
+
+#Text=While Thompson will stay on until his replacement is chosen, he has said he looks forward to joining the private sector.
+2-1	105-110	While	_	
+2-2	111-119	Thompson	_	
+2-3	120-124	will	_	
+2-4	125-129	stay	_	
+2-5	130-132	on	_	
+2-6	133-138	until	_	
+2-7	139-142	his	_	
+2-8	143-154	replacement	_	
+2-9	155-157	is	_	
+2-10	158-164	chosen	_	
+2-11	164-165	,	_	
+2-12	166-168	he	_	
+2-13	169-172	has	_	
+2-14	173-177	said	_	
+2-15	178-180	he	_	
+2-16	181-186	looks	_	
+2-17	187-194	forward	_	
+2-18	195-197	to	_	
+2-19	198-205	joining	_	
+2-20	206-209	the	_	
+2-21	210-217	private	_	
+2-22	218-224	sector	_	
+2-23	224-225	.	_	
+
+#Text=Thompson served as governor of Wisconsin for a record 4 consecutive terms until 2001, when he joined the Bush Administration.
+3-1	229-237	Thompson	_	
+3-2	238-244	served	_	
+3-3	245-247	as	_	
+3-4	248-256	governor	Décision gouvernementale	
+3-5	257-259	of	_	
+3-6	260-269	Wisconsin	_	
+3-7	270-273	for	_	
+3-8	274-275	a	_	
+3-9	276-282	record	_	
+3-10	283-284	4	_	
+3-11	285-296	consecutive	_	
+3-12	297-302	terms	_	
+3-13	303-308	until	_	
+3-14	309-313	2001	_	
+3-15	313-314	,	_	
+3-16	315-319	when	_	
+3-17	320-322	he	_	
+3-18	323-329	joined	_	
+3-19	330-333	the	_	
+3-20	334-338	Bush	Décision gouvernementale[2]	
+3-21	339-353	Administration	Décision gouvernementale[2]	
+3-22	353-354	.	_	

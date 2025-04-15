@@ -1,0 +1,169 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Events|value
+
+
+#Text=PalestineThe delegation representing Brazil at the funeral of Yasser Arafat returned today, November 13, 2004.
+1-1	0-12	PalestineThe	_	
+1-2	13-23	delegation	_	
+1-3	24-36	representing	_	
+1-4	37-43	Brazil	_	
+1-5	44-46	at	_	
+1-6	47-50	the	_	
+1-7	51-58	funeral	Décès	
+1-8	59-61	of	_	
+1-9	62-68	Yasser	_	
+1-10	69-75	Arafat	_	
+1-11	76-84	returned	_	
+1-12	85-90	today	_	
+1-13	90-91	,	_	
+1-14	92-100	November	_	
+1-15	101-103	13	_	
+1-16	103-104	,	_	
+1-17	105-109	2004	_	
+1-18	109-110	.	_	
+
+#Text=The chief-minister of Civil House José Dirceu was a member of the delegation.
+2-1	111-114	The	_	
+2-2	115-129	chief-minister	_	
+2-3	130-132	of	_	
+2-4	133-138	Civil	_	
+2-5	139-144	House	_	
+2-6	145-149	José	_	
+2-7	150-156	Dirceu	_	
+2-8	157-160	was	_	
+2-9	161-162	a	_	
+2-10	163-169	member	_	
+2-11	170-172	of	_	
+2-12	173-176	the	_	
+2-13	177-187	delegation	_	
+2-14	187-188	.	_	
+
+#Text=Unfortunately they arrived too late for the funeral and the delegation watched only part of the funeral activities.
+3-1	189-202	Unfortunately	_	
+3-2	203-207	they	_	
+3-3	208-215	arrived	_	
+3-4	216-219	too	_	
+3-5	220-224	late	_	
+3-6	225-228	for	_	
+3-7	229-232	the	_	
+3-8	233-240	funeral	Décès	
+3-9	241-244	and	_	
+3-10	245-248	the	_	
+3-11	249-259	delegation	_	
+3-12	260-267	watched	_	
+3-13	268-272	only	_	
+3-14	273-277	part	_	
+3-15	278-280	of	_	
+3-16	281-284	the	_	
+3-17	285-292	funeral	_	
+3-18	293-303	activities	_	
+3-19	303-304	.	_	
+
+#Text=PCdoB (Brazilian communist political party) Deputy Jamil Murad, member of the delegation, said there was a "deep mourning" feeling.
+4-1	306-311	PCdoB	_	
+4-2	312-313	(	_	
+4-3	313-322	Brazilian	_	
+4-4	323-332	communist	_	
+4-5	333-342	political	_	
+4-6	343-348	party	_	
+4-7	348-349	)	_	
+4-8	350-356	Deputy	_	
+4-9	357-362	Jamil	_	
+4-10	363-368	Murad	_	
+4-11	368-369	,	_	
+4-12	370-376	member	_	
+4-13	377-379	of	_	
+4-14	380-383	the	_	
+4-15	384-394	delegation	_	
+4-16	394-395	,	_	
+4-17	396-400	said	_	
+4-18	401-406	there	_	
+4-19	407-410	was	_	
+4-20	411-412	a	_	
+4-21	413-414	"	_	
+4-22	414-418	deep	_	
+4-23	419-427	mourning	Décès	
+4-24	427-428	"	_	
+4-25	429-436	feeling	_	
+4-26	436-437	.	_	
+
+#Text=Jamil Murad had visited Yasser Arafat in April 2004, along with nine other Brazilian deputies.
+5-1	438-443	Jamil	_	
+5-2	444-449	Murad	_	
+5-3	450-453	had	_	
+5-4	454-461	visited	_	
+5-5	462-468	Yasser	_	
+5-6	469-475	Arafat	_	
+5-7	476-478	in	_	
+5-8	479-484	April	_	
+5-9	485-489	2004	_	
+5-10	489-490	,	_	
+5-11	491-496	along	_	
+5-12	497-501	with	_	
+5-13	502-506	nine	_	
+5-14	507-512	other	_	
+5-15	513-522	Brazilian	_	
+5-16	523-531	deputies	_	
+5-17	531-532	.	_	
+
+#Text=According to Jamil Murad: "Yasser Arafat was a Palestinian leader who became a world projection leader".
+6-1	533-542	According	_	
+6-2	543-545	to	_	
+6-3	546-551	Jamil	_	
+6-4	552-557	Murad	_	
+6-5	557-558	:	_	
+6-6	559-560	"	_	
+6-7	560-566	Yasser	_	
+6-8	567-573	Arafat	_	
+6-9	574-577	was	_	
+6-10	578-579	a	_	
+6-11	580-591	Palestinian	_	
+6-12	592-598	leader	_	
+6-13	599-602	who	_	
+6-14	603-609	became	_	
+6-15	610-611	a	_	
+6-16	612-617	world	_	
+6-17	618-628	projection	_	
+6-18	629-635	leader	_	
+6-19	635-636	"	_	
+6-20	636-637	.	_	
+
+#Text=He said Arafat had written him a letter thanking the Brazilian people for their support of the Palestinian cause and saying that he, Arafat, considered President Luiz Inácio Lula da Silva a great world leader.
+7-1	638-640	He	_	
+7-2	641-645	said	_	
+7-3	646-652	Arafat	_	
+7-4	653-656	had	_	
+7-5	657-664	written	_	
+7-6	665-668	him	_	
+7-7	669-670	a	_	
+7-8	671-677	letter	_	
+7-9	678-686	thanking	_	
+7-10	687-690	the	_	
+7-11	691-700	Brazilian	_	
+7-12	701-707	people	_	
+7-13	708-711	for	_	
+7-14	712-717	their	_	
+7-15	718-725	support	_	
+7-16	726-728	of	_	
+7-17	729-732	the	_	
+7-18	733-744	Palestinian	_	
+7-19	745-750	cause	_	
+7-20	751-754	and	_	
+7-21	755-761	saying	_	
+7-22	762-766	that	_	
+7-23	767-769	he	_	
+7-24	769-770	,	_	
+7-25	771-777	Arafat	_	
+7-26	777-778	,	_	
+7-27	779-789	considered	_	
+7-28	790-799	President	_	
+7-29	800-804	Luiz	_	
+7-30	805-811	Inácio	_	
+7-31	812-816	Lula	_	
+7-32	817-819	da	_	
+7-33	820-825	Silva	_	
+7-34	826-827	a	_	
+7-35	828-833	great	_	
+7-36	834-839	world	_	
+7-37	840-846	leader	_	
+7-38	846-847	.	_	

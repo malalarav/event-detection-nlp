@@ -1,0 +1,256 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Events|value
+
+
+#Text=The President of the European Commission, José Manuel Durão Barroso, said holding a referendum on acceding to the European Constitution in Portugal is inadvisable, in light of the current political crisis in that country.
+1-1	0-3	The	_	
+1-2	4-13	President	_	
+1-3	14-16	of	_	
+1-4	17-20	the	_	
+1-5	21-29	European	_	
+1-6	30-40	Commission	_	
+1-7	40-41	,	_	
+1-8	42-46	José	_	
+1-9	47-53	Manuel	_	
+1-10	54-59	Durão	_	
+1-11	60-67	Barroso	_	
+1-12	67-68	,	_	
+1-13	69-73	said	_	
+1-14	74-81	holding	Décision gouvernementale[1]	
+1-15	82-83	a	Décision gouvernementale[1]	
+1-16	84-94	referendum	Décision gouvernementale[1]	
+1-17	95-97	on	_	
+1-18	98-106	acceding	Décision gouvernementale[2]	
+1-19	107-109	to	Décision gouvernementale[2]	
+1-20	110-113	the	Décision gouvernementale[2]	
+1-21	114-122	European	Décision gouvernementale[2]	
+1-22	123-135	Constitution	Décision gouvernementale[2]	
+1-23	136-138	in	_	
+1-24	139-147	Portugal	_	
+1-25	148-150	is	_	
+1-26	151-162	inadvisable	_	
+1-27	162-163	,	_	
+1-28	164-166	in	_	
+1-29	167-172	light	_	
+1-30	173-175	of	_	
+1-31	176-179	the	_	
+1-32	180-187	current	Conflit[3]	
+1-33	188-197	political	Conflit[3]	
+1-34	198-204	crisis	Conflit[3]	
+1-35	205-207	in	_	
+1-36	208-212	that	_	
+1-37	213-220	country	_	
+1-38	220-221	.	_	
+
+#Text="A political crisis is surely not the best moment to discuss the European Constitution", Barroso said to the press outside a colloquium about European Identity in Lisbon.
+2-1	225-226	"	_	
+2-2	226-227	A	Conflit[4]	
+2-3	228-237	political	Conflit[4]	
+2-4	238-244	crisis	Conflit[4]	
+2-5	245-247	is	_	
+2-6	248-254	surely	_	
+2-7	255-258	not	_	
+2-8	259-262	the	_	
+2-9	263-267	best	_	
+2-10	268-274	moment	_	
+2-11	275-277	to	_	
+2-12	278-285	discuss	_	
+2-13	286-289	the	_	
+2-14	290-298	European	_	
+2-15	299-311	Constitution	_	
+2-16	311-312	"	_	
+2-17	312-313	,	_	
+2-18	314-321	Barroso	_	
+2-19	322-326	said	_	
+2-20	327-329	to	_	
+2-21	330-333	the	_	
+2-22	334-339	press	_	
+2-23	340-347	outside	_	
+2-24	348-349	a	_	
+2-25	350-360	colloquium	_	
+2-26	361-366	about	_	
+2-27	367-375	European	_	
+2-28	376-384	Identity	_	
+2-29	385-387	in	_	
+2-30	388-394	Lisbon	_	
+2-31	394-395	.	_	
+
+#Text=The E.C.
+3-1	399-402	The	_	
+3-2	403-406	E.C	_	
+3-3	406-407	.	_	
+
+#Text=President refused to comment on the current situation in Portugal, but admitted to have been "surprised" by the Portuguese President's decision to call for new elections, ending the government's term a full year early.
+4-1	408-417	President	_	
+4-2	418-425	refused	_	
+4-3	426-428	to	_	
+4-4	429-436	comment	_	
+4-5	437-439	on	_	
+4-6	440-443	the	_	
+4-7	444-451	current	_	
+4-8	452-461	situation	_	
+4-9	462-464	in	_	
+4-10	465-473	Portugal	_	
+4-11	473-474	,	_	
+4-12	475-478	but	_	
+4-13	479-487	admitted	_	
+4-14	488-490	to	_	
+4-15	491-495	have	_	
+4-16	496-500	been	_	
+4-17	501-502	"	_	
+4-18	502-511	surprised	_	
+4-19	511-512	"	_	
+4-20	513-515	by	_	
+4-21	516-519	the	_	
+4-22	520-530	Portuguese	_	
+4-23	531-542	President's	_	
+4-24	543-551	decision	_	
+4-25	552-554	to	_	
+4-26	555-559	call	Décision gouvernementale[5]	
+4-27	560-563	for	Décision gouvernementale[5]	
+4-28	564-567	new	Décision gouvernementale[5]	
+4-29	568-577	elections	Décision gouvernementale[5]	
+4-30	577-578	,	_	
+4-31	579-585	ending	Décision gouvernementale[6]	
+4-32	586-589	the	Décision gouvernementale[6]	
+4-33	590-602	government's	Décision gouvernementale[6]	
+4-34	603-607	term	Décision gouvernementale[6]	
+4-35	608-609	a	_	
+4-36	610-614	full	_	
+4-37	615-619	year	_	
+4-38	620-625	early	_	
+4-39	625-626	.	_	
+
+#Text=Barroso was the former Prime Minister of the current Portuguese government and leader of the ruling PSD party.
+5-1	630-637	Barroso	_	
+5-2	638-641	was	_	
+5-3	642-645	the	_	
+5-4	646-652	former	_	
+5-5	653-658	Prime	_	
+5-6	659-667	Minister	_	
+5-7	668-670	of	_	
+5-8	671-674	the	_	
+5-9	675-682	current	_	
+5-10	683-693	Portuguese	_	
+5-11	694-704	government	_	
+5-12	705-708	and	_	
+5-13	709-715	leader	_	
+5-14	716-718	of	_	
+5-15	719-722	the	_	
+5-16	723-729	ruling	_	
+5-17	730-733	PSD	_	
+5-18	734-739	party	_	
+5-19	739-740	.	_	
+
+#Text=He stepped down to accept the nomination for President of the European Commission, favouring current Prime-Minister Pedro Santana Lopes as his successor.
+6-1	741-743	He	_	
+6-2	744-751	stepped	_	
+6-3	752-756	down	_	
+6-4	757-759	to	_	
+6-5	760-766	accept	_	
+6-6	767-770	the	_	
+6-7	771-781	nomination	_	
+6-8	782-785	for	_	
+6-9	786-795	President	_	
+6-10	796-798	of	_	
+6-11	799-802	the	_	
+6-12	803-811	European	_	
+6-13	812-822	Commission	_	
+6-14	822-823	,	_	
+6-15	824-833	favouring	_	
+6-16	834-841	current	_	
+6-17	842-856	Prime-Minister	_	
+6-18	857-862	Pedro	_	
+6-19	863-870	Santana	_	
+6-20	871-876	Lopes	_	
+6-21	877-879	as	_	
+6-22	880-883	his	_	
+6-23	884-893	successor	_	
+6-24	893-894	.	_	
+
+#Text=The Portuguese President, Jorge Sampaio, announced his intention to dissolve the Parliament on Tuesday, November 30 and call for new elections.
+7-1	898-901	The	_	
+7-2	902-912	Portuguese	_	
+7-3	913-922	President	_	
+7-4	922-923	,	_	
+7-5	924-929	Jorge	_	
+7-6	930-937	Sampaio	_	
+7-7	937-938	,	_	
+7-8	939-948	announced	_	
+7-9	949-952	his	_	
+7-10	953-962	intention	Décision gouvernementale[7]	
+7-11	963-965	to	Décision gouvernementale[7]	
+7-12	966-974	dissolve	Décision gouvernementale[7]	
+7-13	975-978	the	Décision gouvernementale[7]	
+7-14	979-989	Parliament	Décision gouvernementale[7]	
+7-15	990-992	on	_	
+7-16	993-1000	Tuesday	_	
+7-17	1000-1001	,	_	
+7-18	1002-1010	November	_	
+7-19	1011-1013	30	_	
+7-20	1014-1017	and	_	
+7-21	1018-1022	call	Décision gouvernementale[8]	
+7-22	1023-1026	for	Décision gouvernementale[8]	
+7-23	1027-1030	new	Décision gouvernementale[8]	
+7-24	1031-1040	elections	Décision gouvernementale[8]	
+7-25	1040-1041	.	_	
+
+#Text=The decision is not yet final but should be settled no later than Friday, after the President has had an opportunity to consult political parties and others concerned.
+8-1	1042-1045	The	_	
+8-2	1046-1054	decision	_	
+8-3	1055-1057	is	_	
+8-4	1058-1061	not	_	
+8-5	1062-1065	yet	_	
+8-6	1066-1071	final	_	
+8-7	1072-1075	but	_	
+8-8	1076-1082	should	_	
+8-9	1083-1085	be	_	
+8-10	1086-1093	settled	_	
+8-11	1094-1096	no	_	
+8-12	1097-1102	later	_	
+8-13	1103-1107	than	_	
+8-14	1108-1114	Friday	_	
+8-15	1114-1115	,	_	
+8-16	1116-1121	after	_	
+8-17	1122-1125	the	_	
+8-18	1126-1135	President	_	
+8-19	1136-1139	has	_	
+8-20	1140-1143	had	_	
+8-21	1144-1146	an	_	
+8-22	1147-1158	opportunity	_	
+8-23	1159-1161	to	_	
+8-24	1162-1169	consult	_	
+8-25	1170-1179	political	_	
+8-26	1180-1187	parties	_	
+8-27	1188-1191	and	_	
+8-28	1192-1198	others	_	
+8-29	1199-1208	concerned	_	
+8-30	1208-1209	.	_	
+
+#Text=While it awaits the President's decision, the Parliament will vote on the new State Budget for 2005 today, amid protests from the opposition.
+9-1	1210-1215	While	_	
+9-2	1216-1218	it	_	
+9-3	1219-1225	awaits	_	
+9-4	1226-1229	the	_	
+9-5	1230-1241	President's	_	
+9-6	1242-1250	decision	_	
+9-7	1250-1251	,	_	
+9-8	1252-1255	the	_	
+9-9	1256-1266	Parliament	Décision gouvernementale[9]	
+9-10	1267-1271	will	Décision gouvernementale[9]	
+9-11	1272-1276	vote	Décision gouvernementale[9]	
+9-12	1277-1279	on	_	
+9-13	1280-1283	the	_	
+9-14	1284-1287	new	_	
+9-15	1288-1293	State	_	
+9-16	1294-1300	Budget	_	
+9-17	1301-1304	for	_	
+9-18	1305-1309	2005	_	
+9-19	1310-1315	today	_	
+9-20	1315-1316	,	_	
+9-21	1317-1321	amid	_	
+9-22	1322-1330	protests	Conflit[10]	
+9-23	1331-1335	from	Conflit[10]	
+9-24	1336-1339	the	Conflit[10]	
+9-25	1340-1350	opposition	Conflit[10]	
+9-26	1350-1351	.	_	

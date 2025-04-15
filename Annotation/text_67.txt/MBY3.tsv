@@ -1,0 +1,346 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Events|value
+
+
+#Text=The People's Republic of China has signed an agreement with ASEAN to establish the world's largest free trade area.
+1-1	0-3	The	_	
+1-2	4-12	People's	_	
+1-3	13-21	Republic	_	
+1-4	22-24	of	_	
+1-5	25-30	China	_	
+1-6	31-34	has	_	
+1-7	35-41	signed	_	
+1-8	42-44	an	_	
+1-9	45-54	agreement	Décision gouvernementale	
+1-10	55-59	with	_	
+1-11	60-65	ASEAN	_	
+1-12	66-68	to	_	
+1-13	69-78	establish	_	
+1-14	79-82	the	_	
+1-15	83-90	world's	_	
+1-16	91-98	largest	_	
+1-17	99-103	free	Décision gouvernementale[1]	
+1-18	104-109	trade	Décision gouvernementale[1]	
+1-19	110-114	area	Décision gouvernementale[1]	
+1-20	114-115	.	_	
+
+#Text=Japan, South Korea, New Zealand, India and Australia are considering joining.
+2-1	116-121	Japan	_	
+2-2	121-122	,	_	
+2-3	123-128	South	_	
+2-4	129-134	Korea	_	
+2-5	134-135	,	_	
+2-6	136-139	New	_	
+2-7	140-147	Zealand	_	
+2-8	147-148	,	_	
+2-9	149-154	India	_	
+2-10	155-158	and	_	
+2-11	159-168	Australia	_	
+2-12	169-172	are	_	
+2-13	173-184	considering	_	
+2-14	185-192	joining	_	
+2-15	192-193	.	_	
+
+#Text=ASEAN members include Myanmar, Laos, Thailand, Cambodia, Vietnam, Philippines, Malaysia, Brunei Darussalam, Singapore and Indonesia.
+3-1	194-199	ASEAN	_	
+3-2	200-207	members	_	
+3-3	208-215	include	_	
+3-4	216-223	Myanmar	_	
+3-5	223-224	,	_	
+3-6	225-229	Laos	_	
+3-7	229-230	,	_	
+3-8	231-239	Thailand	_	
+3-9	239-240	,	_	
+3-10	241-249	Cambodia	_	
+3-11	249-250	,	_	
+3-12	251-258	Vietnam	_	
+3-13	258-259	,	_	
+3-14	260-271	Philippines	_	
+3-15	271-272	,	_	
+3-16	273-281	Malaysia	_	
+3-17	281-282	,	_	
+3-18	283-289	Brunei	_	
+3-19	290-300	Darussalam	_	
+3-20	300-301	,	_	
+3-21	302-311	Singapore	_	
+3-22	312-315	and	_	
+3-23	316-325	Indonesia	_	
+3-24	325-326	.	_	
+
+#Text=In the last four years China has become a major importer of oil and commodities, and a major exporter of finished goods.
+4-1	328-330	In	_	
+4-2	331-334	the	_	
+4-3	335-339	last	_	
+4-4	340-344	four	_	
+4-5	345-350	years	_	
+4-6	351-356	China	_	
+4-7	357-360	has	_	
+4-8	361-367	become	_	
+4-9	368-369	a	_	
+4-10	370-375	major	_	
+4-11	376-384	importer	_	
+4-12	385-387	of	_	
+4-13	388-391	oil	_	
+4-14	392-395	and	_	
+4-15	396-407	commodities	_	
+4-16	407-408	,	_	
+4-17	409-412	and	_	
+4-18	413-414	a	_	
+4-19	415-420	major	_	
+4-20	421-429	exporter	_	
+4-21	430-432	of	_	
+4-22	433-441	finished	_	
+4-23	442-447	goods	_	
+4-24	447-448	.	_	
+
+#Text=China has also strengthened relationships with oil suppliers in the Middle East and Africa.
+5-1	449-454	China	_	
+5-2	455-458	has	_	
+5-3	459-463	also	_	
+5-4	464-476	strengthened	_	
+5-5	477-490	relationships	_	
+5-6	491-495	with	_	
+5-7	496-499	oil	_	
+5-8	500-509	suppliers	_	
+5-9	510-512	in	_	
+5-10	513-516	the	_	
+5-11	517-523	Middle	_	
+5-12	524-528	East	_	
+5-13	529-532	and	_	
+5-14	533-539	Africa	_	
+5-15	539-540	.	_	
+
+#Text=This pact lifts trade restrictions and removes tariffs from many imports and exports.
+6-1	541-545	This	_	
+6-2	546-550	pact	Décision gouvernementale	
+6-3	551-556	lifts	_	
+6-4	557-562	trade	_	
+6-5	563-575	restrictions	_	
+6-6	576-579	and	_	
+6-7	580-587	removes	Décision gouvernementale[2]	
+6-8	588-595	tariffs	Décision gouvernementale[2]	
+6-9	596-600	from	_	
+6-10	601-605	many	_	
+6-11	606-613	imports	_	
+6-12	614-617	and	_	
+6-13	618-625	exports	_	
+6-14	625-626	.	_	
+
+#Text=It also allows China to continue manipulating the value of its currency in its own interests.
+7-1	627-629	It	_	
+7-2	630-634	also	_	
+7-3	635-641	allows	_	
+7-4	642-647	China	_	
+7-5	648-650	to	_	
+7-6	651-659	continue	_	
+7-7	660-672	manipulating	Conflit	
+7-8	673-676	the	_	
+7-9	677-682	value	_	
+7-10	683-685	of	_	
+7-11	686-689	its	_	
+7-12	690-698	currency	_	
+7-13	699-701	in	_	
+7-14	702-705	its	_	
+7-15	706-709	own	_	
+7-16	710-719	interests	_	
+7-17	719-720	.	_	
+
+#Text=The yuan is currently undervalued, making Chinese-made goods artificially cheap for foreign importers.
+8-1	721-724	The	_	
+8-2	725-729	yuan	_	
+8-3	730-732	is	_	
+8-4	733-742	currently	_	
+8-5	743-754	undervalued	Conflit	
+8-6	754-755	,	_	
+8-7	756-762	making	_	
+8-8	763-775	Chinese-made	_	
+8-9	776-781	goods	_	
+8-10	782-794	artificially	_	
+8-11	795-800	cheap	_	
+8-12	801-804	for	_	
+8-13	805-812	foreign	_	
+8-14	813-822	importers	_	
+8-15	822-823	.	_	
+
+#Text=Stated in the agreement is ASEAN's intention to create a unified economy--and by implication polity--similar to the EU.
+9-1	825-831	Stated	_	
+9-2	832-834	in	_	
+9-3	835-838	the	_	
+9-4	839-848	agreement	_	
+9-5	849-851	is	_	
+9-6	852-859	ASEAN's	_	
+9-7	860-869	intention	_	
+9-8	870-872	to	_	
+9-9	873-879	create	_	
+9-10	880-881	a	_	
+9-11	882-889	unified	Décision gouvernementale[3]	
+9-12	890-897	economy	Décision gouvernementale[3]	
+9-13	897-898	-	_	
+9-14	898-899	-	_	
+9-15	899-902	and	_	
+9-16	903-905	by	_	
+9-17	906-917	implication	_	
+9-18	918-924	polity	_	
+9-19	924-925	-	_	
+9-20	925-926	-	_	
+9-21	926-933	similar	_	
+9-22	934-936	to	_	
+9-23	937-940	the	_	
+9-24	941-943	EU	_	
+9-25	943-944	.	_	
+
+#Text=This agreement will cement China's role as the center of the South Asian regional economy, and at the same time strengthening bonds between China and other countries in the region and ease their suspicions over a growing superpower.
+10-1	945-949	This	_	
+10-2	950-959	agreement	_	
+10-3	960-964	will	_	
+10-4	965-971	cement	_	
+10-5	972-979	China's	_	
+10-6	980-984	role	_	
+10-7	985-987	as	_	
+10-8	988-991	the	_	
+10-9	992-998	center	_	
+10-10	999-1001	of	_	
+10-11	1002-1005	the	_	
+10-12	1006-1011	South	_	
+10-13	1012-1017	Asian	_	
+10-14	1018-1026	regional	_	
+10-15	1027-1034	economy	_	
+10-16	1034-1035	,	_	
+10-17	1036-1039	and	_	
+10-18	1040-1042	at	_	
+10-19	1043-1046	the	_	
+10-20	1047-1051	same	_	
+10-21	1052-1056	time	_	
+10-22	1057-1070	strengthening	_	
+10-23	1071-1076	bonds	_	
+10-24	1077-1084	between	_	
+10-25	1085-1090	China	_	
+10-26	1091-1094	and	_	
+10-27	1095-1100	other	_	
+10-28	1101-1110	countries	_	
+10-29	1111-1113	in	_	
+10-30	1114-1117	the	_	
+10-31	1118-1124	region	_	
+10-32	1125-1128	and	_	
+10-33	1129-1133	ease	_	
+10-34	1134-1139	their	_	
+10-35	1140-1150	suspicions	Conflit	
+10-36	1151-1155	over	_	
+10-37	1156-1157	a	_	
+10-38	1158-1165	growing	_	
+10-39	1166-1176	superpower	_	
+10-40	1176-1177	.	_	
+
+#Text=Japanese Prime Minister Junichiro Koizumi and South Korean President Roh Moo-Hyun separately adopted accords with the 10-nation Association of Southeast Asian Nations, agreeing to launch the talks early next year.
+11-1	1179-1187	Japanese	_	
+11-2	1188-1193	Prime	_	
+11-3	1194-1202	Minister	_	
+11-4	1203-1212	Junichiro	_	
+11-5	1213-1220	Koizumi	_	
+11-6	1221-1224	and	_	
+11-7	1225-1230	South	_	
+11-8	1231-1237	Korean	_	
+11-9	1238-1247	President	_	
+11-10	1248-1251	Roh	_	
+11-11	1252-1260	Moo-Hyun	_	
+11-12	1261-1271	separately	_	
+11-13	1272-1279	adopted	_	
+11-14	1280-1287	accords	_	
+11-15	1288-1292	with	_	
+11-16	1293-1296	the	_	
+11-17	1297-1299	10	_	
+11-18	1299-1300	-	_	
+11-19	1300-1306	nation	_	
+11-20	1307-1318	Association	_	
+11-21	1319-1321	of	_	
+11-22	1322-1331	Southeast	_	
+11-23	1332-1337	Asian	_	
+11-24	1338-1345	Nations	_	
+11-25	1345-1346	,	_	
+11-26	1347-1355	agreeing	_	
+11-27	1356-1358	to	_	
+11-28	1359-1365	launch	_	
+11-29	1366-1369	the	_	
+11-30	1370-1375	talks	_	
+11-31	1376-1381	early	_	
+11-32	1382-1386	next	_	
+11-33	1387-1391	year	_	
+11-34	1391-1392	.	_	
+
+#Text=Both agreements aim for trade pacts within two years.
+12-1	1393-1397	Both	_	
+12-2	1398-1408	agreements	_	
+12-3	1409-1412	aim	_	
+12-4	1413-1416	for	_	
+12-5	1417-1422	trade	_	
+12-6	1423-1428	pacts	_	
+12-7	1429-1435	within	_	
+12-8	1436-1439	two	_	
+12-9	1440-1445	years	_	
+12-10	1445-1446	.	_	
+
+#Text=Australia and New Zealand are expected to sign similar agreements with ASEAN before discussions close later Tuesday, although ASEAN remains wary of Australian Prime Minister John Howard's refusal to sign its nonaggression treaty.
+13-1	1447-1456	Australia	_	
+13-2	1457-1460	and	_	
+13-3	1461-1464	New	_	
+13-4	1465-1472	Zealand	_	
+13-5	1473-1476	are	_	
+13-6	1477-1485	expected	_	
+13-7	1486-1488	to	_	
+13-8	1489-1493	sign	_	
+13-9	1494-1501	similar	_	
+13-10	1502-1512	agreements	_	
+13-11	1513-1517	with	_	
+13-12	1518-1523	ASEAN	_	
+13-13	1524-1530	before	_	
+13-14	1531-1542	discussions	_	
+13-15	1543-1548	close	_	
+13-16	1549-1554	later	_	
+13-17	1555-1562	Tuesday	_	
+13-18	1562-1563	,	_	
+13-19	1564-1572	although	_	
+13-20	1573-1578	ASEAN	_	
+13-21	1579-1586	remains	_	
+13-22	1587-1591	wary	_	
+13-23	1592-1594	of	_	
+13-24	1595-1605	Australian	_	
+13-25	1606-1611	Prime	_	
+13-26	1612-1620	Minister	_	
+13-27	1621-1625	John	_	
+13-28	1626-1634	Howard's	_	
+13-29	1635-1642	refusal	_	
+13-30	1643-1645	to	_	
+13-31	1646-1650	sign	_	
+13-32	1651-1654	its	_	
+13-33	1655-1668	nonaggression	_	
+13-34	1669-1675	treaty	_	
+13-35	1675-1676	.	_	
+
+#Text=Howard played down these concerns but said on record that he reserves the right to preemptively act against terrorists on foreign soil if they threaten Australia.
+14-1	1677-1683	Howard	_	
+14-2	1684-1690	played	_	
+14-3	1691-1695	down	_	
+14-4	1696-1701	these	_	
+14-5	1702-1710	concerns	_	
+14-6	1711-1714	but	_	
+14-7	1715-1719	said	_	
+14-8	1720-1722	on	_	
+14-9	1723-1729	record	_	
+14-10	1730-1734	that	_	
+14-11	1735-1737	he	_	
+14-12	1738-1746	reserves	_	
+14-13	1747-1750	the	_	
+14-14	1751-1756	right	_	
+14-15	1757-1759	to	_	
+14-16	1760-1772	preemptively	_	
+14-17	1773-1776	act	_	
+14-18	1777-1784	against	_	
+14-19	1785-1795	terrorists	_	
+14-20	1796-1798	on	_	
+14-21	1799-1806	foreign	_	
+14-22	1807-1811	soil	_	
+14-23	1812-1814	if	_	
+14-24	1815-1819	they	_	
+14-25	1820-1828	threaten	_	
+14-26	1829-1838	Australia	_	
+14-27	1838-1839	.	_	

@@ -1,0 +1,177 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Events|value
+
+
+#Text=ALMERIA, Spain. - A small explosive device was deactivated today by the Spanish police in Almería, Andalucía.
+1-1	0-7	ALMERIA	_	
+1-2	7-8	,	_	
+1-3	9-14	Spain	_	
+1-4	14-15	.	_	
+1-5	16-17	-	_	
+1-6	18-19	A	_	
+1-7	20-25	small	_	
+1-8	26-35	explosive	Conflit	
+1-9	36-42	device	Conflit	
+1-10	43-46	was	_	
+1-11	47-58	deactivated	Conflit	
+1-12	59-64	today	_	
+1-13	65-67	by	_	
+1-14	68-71	the	_	
+1-15	72-79	Spanish	_	
+1-16	80-86	police	Conflit	
+1-17	87-89	in	_	
+1-18	90-97	Almería	_	
+1-19	97-98	,	_	
+1-20	99-108	Andalucía	_	
+1-21	108-109	.	_	
+
+#Text=The bomb was hidden inside a small bag, accompanied by a note signed by ETA, and was set to explode at 13:30 on Monday, December 6, a national holiday to celebrate the Spanish Constitution.
+2-1	113-116	The	_	
+2-2	117-121	bomb	Conflit	
+2-3	122-125	was	_	
+2-4	126-132	hidden	Conflit	
+2-5	133-139	inside	_	
+2-6	140-141	a	_	
+2-7	142-147	small	_	
+2-8	148-151	bag	_	
+2-9	151-152	,	_	
+2-10	153-164	accompanied	_	
+2-11	165-167	by	_	
+2-12	168-169	a	_	
+2-13	170-174	note	Conflit[1]	
+2-14	175-181	signed	Conflit[1]	
+2-15	182-184	by	_	
+2-16	185-188	ETA	_	
+2-17	188-189	,	_	
+2-18	190-193	and	_	
+2-19	194-197	was	_	
+2-20	198-201	set	_	
+2-21	202-204	to	_	
+2-22	205-212	explode	Conflit	
+2-23	213-215	at	_	
+2-24	216-218	13	_	
+2-25	218-219	:	_	
+2-26	219-221	30	_	
+2-27	222-224	on	_	
+2-28	225-231	Monday	_	
+2-29	231-232	,	_	
+2-30	233-241	December	_	
+2-31	242-243	6	_	
+2-32	243-244	,	_	
+2-33	245-246	a	_	
+2-34	247-255	national	_	
+2-35	256-263	holiday	_	
+2-36	264-266	to	_	
+2-37	267-276	celebrate	_	
+2-38	277-280	the	_	
+2-39	281-288	Spanish	_	
+2-40	289-301	Constitution	_	
+2-41	301-302	.	_	
+
+#Text=The explosive device was found by police while patrolling the Plaza de España (Spain Square), according to a memo by the Ministry of Interior, and was deactivated by a bomb squad without having to explode it.
+3-1	303-306	The	_	
+3-2	307-316	explosive	Conflit[2]	
+3-3	317-323	device	Conflit[2]	
+3-4	324-327	was	_	
+3-5	328-333	found	_	
+3-6	334-336	by	_	
+3-7	337-343	police	Conflit	
+3-8	344-349	while	_	
+3-9	350-360	patrolling	_	
+3-10	361-364	the	_	
+3-11	365-370	Plaza	_	
+3-12	371-373	de	_	
+3-13	374-380	España	_	
+3-14	381-382	(	_	
+3-15	382-387	Spain	_	
+3-16	388-394	Square	_	
+3-17	394-395	)	_	
+3-18	395-396	,	_	
+3-19	397-406	according	_	
+3-20	407-409	to	_	
+3-21	410-411	a	_	
+3-22	412-416	memo	_	
+3-23	417-419	by	_	
+3-24	420-423	the	_	
+3-25	424-432	Ministry	Décision gouvernementale[3]	
+3-26	433-435	of	Décision gouvernementale[3]	
+3-27	436-444	Interior	Décision gouvernementale[3]	
+3-28	444-445	,	_	
+3-29	446-449	and	_	
+3-30	450-453	was	_	
+3-31	454-465	deactivated	Conflit[4]	
+3-32	466-468	by	Conflit[4]	
+3-33	469-470	a	Conflit[4]	
+3-34	471-475	bomb	Conflit[4]	
+3-35	476-481	squad	Conflit[4]	
+3-36	482-489	without	_	
+3-37	490-496	having	_	
+3-38	497-499	to	_	
+3-39	500-507	explode	Conflit	
+3-40	508-510	it	_	
+3-41	510-511	.	_	
+
+#Text=The Civil Guard calculated that the device carried less than 200 grams of explosive, about the same amount as the bombs placed in 5 gas stations in Madrid on Friday, according to "El Mundo".
+4-1	515-518	The	_	
+4-2	519-524	Civil	_	
+4-3	525-530	Guard	_	
+4-4	531-541	calculated	_	
+4-5	542-546	that	_	
+4-6	547-550	the	_	
+4-7	551-557	device	Conflit	
+4-8	558-565	carried	_	
+4-9	566-570	less	_	
+4-10	571-575	than	_	
+4-11	576-579	200	_	
+4-12	580-585	grams	_	
+4-13	586-588	of	_	
+4-14	589-598	explosive	Conflit	
+4-15	598-599	,	_	
+4-16	600-605	about	_	
+4-17	606-609	the	_	
+4-18	610-614	same	_	
+4-19	615-621	amount	_	
+4-20	622-624	as	_	
+4-21	625-628	the	_	
+4-22	629-634	bombs	Conflit	
+4-23	635-641	placed	_	
+4-24	642-644	in	_	
+4-25	645-646	5	_	
+4-26	647-650	gas	_	
+4-27	651-659	stations	_	
+4-28	660-662	in	_	
+4-29	663-669	Madrid	_	
+4-30	670-672	on	_	
+4-31	673-679	Friday	_	
+4-32	679-680	,	_	
+4-33	681-690	according	_	
+4-34	691-693	to	_	
+4-35	694-695	"	_	
+4-36	695-697	El	_	
+4-37	698-703	Mundo	_	
+4-38	703-704	"	_	
+4-39	704-705	.	_	
+
+#Text=The Spanish Minister of Interior, José Antonio Alonso, appealed for the population to remain calm and trust the authorities.
+5-1	706-709	The	_	
+5-2	710-717	Spanish	_	
+5-3	718-726	Minister	Décision gouvernementale[5]	
+5-4	727-729	of	Décision gouvernementale[5]	
+5-5	730-738	Interior	Décision gouvernementale[5]	
+5-6	738-739	,	_	
+5-7	740-744	José	_	
+5-8	745-752	Antonio	_	
+5-9	753-759	Alonso	_	
+5-10	759-760	,	_	
+5-11	761-769	appealed	_	
+5-12	770-773	for	_	
+5-13	774-777	the	_	
+5-14	778-788	population	_	
+5-15	789-791	to	_	
+5-16	792-798	remain	_	
+5-17	799-803	calm	_	
+5-18	804-807	and	_	
+5-19	808-813	trust	_	
+5-20	814-817	the	_	
+5-21	818-829	authorities	_	
+5-22	829-830	.	_	

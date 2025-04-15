@@ -1,0 +1,349 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Events|value
+
+
+#Text=According to a report issued by U.S.
+1-1	0-9	According	_	
+1-2	10-12	to	_	
+1-3	13-14	a	_	
+1-4	15-21	report	Conflit	
+1-5	22-28	issued	_	
+1-6	29-31	by	_	
+1-7	32-35	U.S	_	
+1-8	35-36	.	_	
+
+#Text=House of Representatives Congressman Henry A.
+2-1	37-42	House	_	
+2-2	43-45	of	_	
+2-3	46-61	Representatives	_	
+2-4	62-73	Congressman	_	
+2-5	74-79	Henry	_	
+2-6	80-81	A	_	
+2-7	81-82	.	_	
+
+#Text=Waxman (D-CA), the majority of abstinence-only sexual education programs in schools contain incorrect or misleading information.
+3-1	83-89	Waxman	_	
+3-2	90-91	(	_	
+3-3	91-95	D-CA	_	
+3-4	95-96	)	_	
+3-5	96-97	,	_	
+3-6	98-101	the	_	
+3-7	102-110	majority	_	
+3-8	111-113	of	_	
+3-9	114-129	abstinence-only	_	
+3-10	130-136	sexual	_	
+3-11	137-146	education	_	
+3-12	147-155	programs	_	
+3-13	156-158	in	_	
+3-14	159-166	schools	_	
+3-15	167-174	contain	_	
+3-16	175-184	incorrect	Conflit	
+3-17	185-187	or	_	
+3-18	188-198	misleading	Conflit	
+3-19	199-210	information	_	
+3-20	210-211	.	_	
+
+#Text=The report found that over 80% of the curricula used by the recipients of the grants contained incorrect information, including the claim that condoms did not prevent the spread of STDs and that abortions have a high chance of causing sterility.
+4-1	213-216	The	_	
+4-2	217-223	report	_	
+4-3	224-229	found	_	
+4-4	230-234	that	_	
+4-5	235-239	over	_	
+4-6	240-243	80%	_	
+4-7	244-246	of	_	
+4-8	247-250	the	_	
+4-9	251-260	curricula	_	
+4-10	261-265	used	_	
+4-11	266-268	by	_	
+4-12	269-272	the	_	
+4-13	273-283	recipients	_	
+4-14	284-286	of	_	
+4-15	287-290	the	_	
+4-16	291-297	grants	_	
+4-17	298-307	contained	_	
+4-18	308-317	incorrect	_	
+4-19	318-329	information	_	
+4-20	329-330	,	_	
+4-21	331-340	including	_	
+4-22	341-344	the	_	
+4-23	345-350	claim	_	
+4-24	351-355	that	_	
+4-25	356-363	condoms	_	
+4-26	364-367	did	_	
+4-27	368-371	not	_	
+4-28	372-379	prevent	_	
+4-29	380-383	the	_	
+4-30	384-390	spread	_	
+4-31	391-393	of	_	
+4-32	394-398	STDs	_	
+4-33	399-402	and	_	
+4-34	403-407	that	_	
+4-35	408-417	abortions	_	
+4-36	418-422	have	_	
+4-37	423-424	a	_	
+4-38	425-429	high	_	
+4-39	430-436	chance	_	
+4-40	437-439	of	_	
+4-41	440-447	causing	_	
+4-42	448-457	sterility	_	
+4-43	457-458	.	_	
+
+#Text=These programs are funded by the federal government under President George W.
+5-1	460-465	These	_	
+5-2	466-474	programs	_	
+5-3	475-478	are	_	
+5-4	479-485	funded	Décision gouvernementale	
+5-5	486-488	by	_	
+5-6	489-492	the	_	
+5-7	493-500	federal	_	
+5-8	501-511	government	_	
+5-9	512-517	under	_	
+5-10	518-527	President	_	
+5-11	528-534	George	_	
+5-12	535-536	W	_	
+5-13	536-537	.	_	
+
+#Text=Bush's faith-based initiative.
+6-1	538-544	Bush's	_	
+6-2	545-556	faith-based	Décision gouvernementale[1]	
+6-3	557-567	initiative	Décision gouvernementale[1]	
+6-4	567-568	.	_	
+
+#Text=According to the report, these abstinence programs&amp;mdash;promoted by the administration of President Bush&amp;mdash;are receiving increasing amounts of funding: nearly $170 million will be spent in 2005, which is more than double the spending on these programs in 2001.
+7-1	569-578	According	_	
+7-2	579-581	to	_	
+7-3	582-585	the	_	
+7-4	586-592	report	_	
+7-5	592-593	,	_	
+7-6	594-599	these	_	
+7-7	600-610	abstinence	Décision gouvernementale[2]	
+7-8	611-619	programs	Décision gouvernementale[2]	
+7-9	619-620	&	_	
+7-10	620-623	amp	_	
+7-11	623-624	;	_	
+7-12	624-629	mdash	_	
+7-13	629-630	;	_	
+7-14	630-638	promoted	_	
+7-15	639-641	by	_	
+7-16	642-645	the	_	
+7-17	646-660	administration	_	
+7-18	661-663	of	_	
+7-19	664-673	President	_	
+7-20	674-678	Bush	_	
+7-21	678-679	&	_	
+7-22	679-682	amp	_	
+7-23	682-683	;	_	
+7-24	683-688	mdash	_	
+7-25	688-689	;	_	
+7-26	689-692	are	_	
+7-27	693-702	receiving	_	
+7-28	703-713	increasing	_	
+7-29	714-721	amounts	_	
+7-30	722-724	of	_	
+7-31	725-732	funding	_	
+7-32	732-733	:	_	
+7-33	734-740	nearly	_	
+7-34	741-745	$170	_	
+7-35	746-753	million	_	
+7-36	754-758	will	_	
+7-37	759-761	be	_	
+7-38	762-767	spent	_	
+7-39	768-770	in	_	
+7-40	771-775	2005	_	
+7-41	775-776	,	_	
+7-42	777-782	which	_	
+7-43	783-785	is	_	
+7-44	786-790	more	_	
+7-45	791-795	than	_	
+7-46	796-802	double	_	
+7-47	803-806	the	_	
+7-48	807-815	spending	_	
+7-49	816-818	on	_	
+7-50	819-824	these	_	
+7-51	825-833	programs	_	
+7-52	834-836	in	_	
+7-53	837-841	2001	_	
+7-54	841-842	.	_	
+
+#Text=Under the faith-based initiative programs, the United States government allocates funds to religious and other community organizations that agree to carry out abstinence education programs which do not include coverage of any other methods of birth control or sexually transmitted disease prevention, as well as other criteria.
+8-1	844-849	Under	_	
+8-2	850-853	the	_	
+8-3	854-865	faith-based	_	
+8-4	866-876	initiative	_	
+8-5	877-885	programs	_	
+8-6	885-886	,	_	
+8-7	887-890	the	_	
+8-8	891-897	United	_	
+8-9	898-904	States	_	
+8-10	905-915	government	_	
+8-11	916-925	allocates	Décision gouvernementale[3]	
+8-12	926-931	funds	Décision gouvernementale[3]	
+8-13	932-934	to	_	
+8-14	935-944	religious	_	
+8-15	945-948	and	_	
+8-16	949-954	other	_	
+8-17	955-964	community	_	
+8-18	965-978	organizations	_	
+8-19	979-983	that	_	
+8-20	984-989	agree	_	
+8-21	990-992	to	_	
+8-22	993-998	carry	_	
+8-23	999-1002	out	_	
+8-24	1003-1013	abstinence	_	
+8-25	1014-1023	education	_	
+8-26	1024-1032	programs	_	
+8-27	1033-1038	which	_	
+8-28	1039-1041	do	_	
+8-29	1042-1045	not	_	
+8-30	1046-1053	include	_	
+8-31	1054-1062	coverage	_	
+8-32	1063-1065	of	_	
+8-33	1066-1069	any	_	
+8-34	1070-1075	other	_	
+8-35	1076-1083	methods	_	
+8-36	1084-1086	of	_	
+8-37	1087-1092	birth	_	
+8-38	1093-1100	control	_	
+8-39	1101-1103	or	_	
+8-40	1104-1112	sexually	_	
+8-41	1113-1124	transmitted	_	
+8-42	1125-1132	disease	_	
+8-43	1133-1143	prevention	_	
+8-44	1143-1144	,	_	
+8-45	1145-1147	as	_	
+8-46	1148-1152	well	_	
+8-47	1153-1155	as	_	
+8-48	1156-1161	other	_	
+8-49	1162-1170	criteria	_	
+8-50	1170-1171	.	_	
+
+#Text=The timing of the report is significant in that it comes on the heels of research from Columbia University that found that nearly 9 of 10 teenagers who had pledged abstinence from pre-marital sex had broken their vows in the first six years since the pledges.
+9-1	1173-1176	The	_	
+9-2	1177-1183	timing	_	
+9-3	1184-1186	of	_	
+9-4	1187-1190	the	_	
+9-5	1191-1197	report	_	
+9-6	1198-1200	is	_	
+9-7	1201-1212	significant	_	
+9-8	1213-1215	in	_	
+9-9	1216-1220	that	_	
+9-10	1221-1223	it	_	
+9-11	1224-1229	comes	_	
+9-12	1230-1232	on	_	
+9-13	1233-1236	the	_	
+9-14	1237-1242	heels	_	
+9-15	1243-1245	of	_	
+9-16	1246-1254	research	_	
+9-17	1255-1259	from	_	
+9-18	1260-1268	Columbia	_	
+9-19	1269-1279	University	_	
+9-20	1280-1284	that	_	
+9-21	1285-1290	found	_	
+9-22	1291-1295	that	_	
+9-23	1296-1302	nearly	_	
+9-24	1303-1304	9	_	
+9-25	1305-1307	of	_	
+9-26	1308-1310	10	_	
+9-27	1311-1320	teenagers	_	
+9-28	1321-1324	who	_	
+9-29	1325-1328	had	_	
+9-30	1329-1336	pledged	_	
+9-31	1337-1347	abstinence	_	
+9-32	1348-1352	from	_	
+9-33	1353-1364	pre-marital	_	
+9-34	1365-1368	sex	_	
+9-35	1369-1372	had	_	
+9-36	1373-1379	broken	_	
+9-37	1380-1385	their	_	
+9-38	1386-1390	vows	_	
+9-39	1391-1393	in	_	
+9-40	1394-1397	the	_	
+9-41	1398-1403	first	_	
+9-42	1404-1407	six	_	
+9-43	1408-1413	years	_	
+9-44	1414-1419	since	_	
+9-45	1420-1423	the	_	
+9-46	1424-1431	pledges	_	
+9-47	1431-1432	.	_	
+
+#Text=The Waxman Report and the Columbia University study describe some abstinence programs as factually wrong and/or ineffective.
+10-1	1434-1437	The	_	
+10-2	1438-1444	Waxman	_	
+10-3	1445-1451	Report	_	
+10-4	1452-1455	and	_	
+10-5	1456-1459	the	_	
+10-6	1460-1468	Columbia	_	
+10-7	1469-1479	University	_	
+10-8	1480-1485	study	_	
+10-9	1486-1494	describe	_	
+10-10	1495-1499	some	_	
+10-11	1500-1510	abstinence	_	
+10-12	1511-1519	programs	_	
+10-13	1520-1522	as	_	
+10-14	1523-1532	factually	_	
+10-15	1533-1538	wrong	_	
+10-16	1539-1542	and	_	
+10-17	1542-1543	/	_	
+10-18	1543-1545	or	_	
+10-19	1546-1557	ineffective	Conflit	
+10-20	1557-1558	.	_	
+
+#Text=In a rebuttal, Dr.
+11-1	1559-1561	In	_	
+11-2	1562-1563	a	_	
+11-3	1564-1572	rebuttal	_	
+11-4	1572-1573	,	_	
+11-5	1574-1576	Dr	_	
+11-6	1576-1577	.	_	
+
+#Text=Alma L.
+12-1	1578-1582	Alma	_	
+12-2	1583-1584	L	_	
+12-3	1584-1585	.	_	
+
+#Text=Golden, a deputy assistant secretary in the Health and Human Services Department, said in a statement that Mr.
+13-1	1586-1592	Golden	_	
+13-2	1592-1593	,	_	
+13-3	1594-1595	a	_	
+13-4	1596-1602	deputy	_	
+13-5	1603-1612	assistant	_	
+13-6	1613-1622	secretary	_	
+13-7	1623-1625	in	_	
+13-8	1626-1629	the	_	
+13-9	1630-1636	Health	_	
+13-10	1637-1640	and	_	
+13-11	1641-1646	Human	_	
+13-12	1647-1655	Services	_	
+13-13	1656-1666	Department	_	
+13-14	1666-1667	,	_	
+13-15	1668-1672	said	_	
+13-16	1673-1675	in	_	
+13-17	1676-1677	a	_	
+13-18	1678-1687	statement	_	
+13-19	1688-1692	that	_	
+13-20	1693-1695	Mr	_	
+13-21	1695-1696	.	_	
+
+#Text=Waxman's report "misses the boat" and that it took information out of context "for purely political reasons."
+14-1	1697-1705	Waxman's	_	
+14-2	1706-1712	report	_	
+14-3	1713-1714	"	_	
+14-4	1714-1720	misses	_	
+14-5	1721-1724	the	_	
+14-6	1725-1729	boat	_	
+14-7	1729-1730	"	_	
+14-8	1731-1734	and	_	
+14-9	1735-1739	that	_	
+14-10	1740-1742	it	_	
+14-11	1743-1747	took	_	
+14-12	1748-1759	information	_	
+14-13	1760-1763	out	_	
+14-14	1764-1766	of	_	
+14-15	1767-1774	context	_	
+14-16	1775-1776	"	_	
+14-17	1776-1779	for	_	
+14-18	1780-1786	purely	_	
+14-19	1787-1796	political	_	
+14-20	1797-1804	reasons	_	
+14-21	1804-1805	.	_	
+14-22	1805-1806	"	_	

@@ -1,0 +1,123 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Events|value
+
+
+#Text=MOSCOW &amp;mdash; Russia's highest court has judged that Tatars living in the federal state of Tatarstan may not apply the Latin alphabet to their language without permission from the federal government in Moscow.
+1-1	0-6	MOSCOW	_	
+1-2	7-8	&	_	
+1-3	8-11	amp	_	
+1-4	11-12	;	_	
+1-5	12-17	mdash	_	
+1-6	17-18	;	_	
+1-7	19-27	Russia's	_	
+1-8	28-35	highest	Décision gouvernementale[1]	
+1-9	36-41	court	Décision gouvernementale[1]	
+1-10	42-45	has	_	
+1-11	46-52	judged	Décision gouvernementale	
+1-12	53-57	that	_	
+1-13	58-64	Tatars	_	
+1-14	65-71	living	_	
+1-15	72-74	in	_	
+1-16	75-78	the	_	
+1-17	79-86	federal	_	
+1-18	87-92	state	_	
+1-19	93-95	of	_	
+1-20	96-105	Tatarstan	_	
+1-21	106-109	may	_	
+1-22	110-113	not	_	
+1-23	114-119	apply	_	
+1-24	120-123	the	_	
+1-25	124-129	Latin	_	
+1-26	130-138	alphabet	_	
+1-27	139-141	to	_	
+1-28	142-147	their	_	
+1-29	148-156	language	_	
+1-30	157-164	without	_	
+1-31	165-175	permission	_	
+1-32	176-180	from	_	
+1-33	181-184	the	_	
+1-34	185-192	federal	Décision gouvernementale[2]	
+1-35	193-203	government	Décision gouvernementale[2]	
+1-36	204-206	in	_	
+1-37	207-213	Moscow	_	
+1-38	213-214	.	_	
+
+#Text=The Tatars had instituted legal proceedings because their Turkic language differs greatly from Russian, the BBC reports.
+2-1	215-218	The	_	
+2-2	219-225	Tatars	_	
+2-3	226-229	had	_	
+2-4	230-240	instituted	Décision gouvernementale[3]	
+2-5	241-246	legal	Décision gouvernementale[3]	
+2-6	247-258	proceedings	Décision gouvernementale[3]	
+2-7	259-266	because	_	
+2-8	267-272	their	_	
+2-9	273-279	Turkic	_	
+2-10	280-288	language	_	
+2-11	289-296	differs	_	
+2-12	297-304	greatly	_	
+2-13	305-309	from	_	
+2-14	310-317	Russian	_	
+2-15	317-318	,	_	
+2-16	319-322	the	_	
+2-17	323-326	BBC	_	
+2-18	327-334	reports	_	
+2-19	334-335	.	_	
+
+#Text=The law banning all alphabets but Cyrillic has been one in a long range of regulations and restrictions, claimed by officials to be designed to protect Russia's linguistic heritage.
+3-1	339-342	The	_	
+3-2	343-346	law	Décision gouvernementale	
+3-3	347-354	banning	_	
+3-4	355-358	all	_	
+3-5	359-368	alphabets	_	
+3-6	369-372	but	_	
+3-7	373-381	Cyrillic	_	
+3-8	382-385	has	_	
+3-9	386-390	been	_	
+3-10	391-394	one	_	
+3-11	395-397	in	_	
+3-12	398-399	a	_	
+3-13	400-404	long	_	
+3-14	405-410	range	_	
+3-15	411-413	of	_	
+3-16	414-425	regulations	_	
+3-17	426-429	and	_	
+3-18	430-442	restrictions	_	
+3-19	442-443	,	_	
+3-20	444-451	claimed	_	
+3-21	452-454	by	_	
+3-22	455-464	officials	_	
+3-23	465-467	to	_	
+3-24	468-470	be	_	
+3-25	471-479	designed	_	
+3-26	480-482	to	_	
+3-27	483-490	protect	_	
+3-28	491-499	Russia's	_	
+3-29	500-510	linguistic	_	
+3-30	511-519	heritage	_	
+3-31	519-520	.	_	
+
+#Text=The Russian federal government has been cited to consider the use of a non-Cyrillic alphabet by federal states a 'separatist tendency'.
+4-1	521-524	The	_	
+4-2	525-532	Russian	_	
+4-3	533-540	federal	Décision gouvernementale[4]	
+4-4	541-551	government	Décision gouvernementale[4]	
+4-5	552-555	has	_	
+4-6	556-560	been	_	
+4-7	561-566	cited	_	
+4-8	567-569	to	_	
+4-9	570-578	consider	_	
+4-10	579-582	the	_	
+4-11	583-586	use	_	
+4-12	587-589	of	_	
+4-13	590-591	a	_	
+4-14	592-604	non-Cyrillic	_	
+4-15	605-613	alphabet	_	
+4-16	614-616	by	_	
+4-17	617-624	federal	_	
+4-18	625-631	states	_	
+4-19	632-633	a	_	
+4-20	634-635	'	_	
+4-21	635-645	separatist	_	
+4-22	646-654	tendency	_	
+4-23	654-655	'	_	
+4-24	655-656	.	_	

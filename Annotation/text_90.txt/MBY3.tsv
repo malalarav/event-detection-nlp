@@ -1,0 +1,109 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Events|value
+
+
+#Text=Donald Rumsfeld revealed today that he will not resign his position as United States secretary of Defense.
+1-1	0-6	Donald	_	
+1-2	7-15	Rumsfeld	_	
+1-3	16-24	revealed	Décision gouvernementale	
+1-4	25-30	today	_	
+1-5	31-35	that	_	
+1-6	36-38	he	_	
+1-7	39-43	will	Décision gouvernementale[1]	
+1-8	44-47	not	Décision gouvernementale[1]	
+1-9	48-54	resign	Décision gouvernementale[1]	
+1-10	55-58	his	Décision gouvernementale[2]	
+1-11	59-67	position	Décision gouvernementale[2]	
+1-12	68-70	as	_	
+1-13	71-77	United	_	
+1-14	78-84	States	_	
+1-15	85-94	secretary	_	
+1-16	95-97	of	_	
+1-17	98-105	Defense	_	
+1-18	105-106	.	_	
+
+#Text=Several other members of President George W.
+2-1	107-114	Several	_	
+2-2	115-120	other	_	
+2-3	121-128	members	_	
+2-4	129-131	of	_	
+2-5	132-141	President	_	
+2-6	142-148	George	_	
+2-7	149-150	W	_	
+2-8	150-151	.	_	
+
+#Text=Bush's cabinet have resigned.
+3-1	152-158	Bush's	_	
+3-2	159-166	cabinet	_	
+3-3	167-171	have	_	
+3-4	172-180	resigned	_	
+3-5	180-181	.	_	
+
+#Text=Rumsfeld stated he will continue at his post until at least the end of the Iraq war, although he did not commit to remaining for the full four years of the administration.
+4-1	182-190	Rumsfeld	_	
+4-2	191-197	stated	_	
+4-3	198-200	he	_	
+4-4	201-205	will	_	
+4-5	206-214	continue	Décision gouvernementale[3]	
+4-6	215-217	at	Décision gouvernementale[3]	
+4-7	218-221	his	Décision gouvernementale[3]	
+4-8	222-226	post	Décision gouvernementale[3]	
+4-9	227-232	until	_	
+4-10	233-235	at	_	
+4-11	236-241	least	_	
+4-12	242-245	the	_	
+4-13	246-249	end	_	
+4-14	250-252	of	_	
+4-15	253-256	the	_	
+4-16	257-261	Iraq	Conflit[4]	
+4-17	262-265	war	Conflit[4]	
+4-18	265-266	,	_	
+4-19	267-275	although	_	
+4-20	276-278	he	_	
+4-21	279-282	did	_	
+4-22	283-286	not	_	
+4-23	287-293	commit	_	
+4-24	294-296	to	_	
+4-25	297-306	remaining	_	
+4-26	307-310	for	_	
+4-27	311-314	the	_	
+4-28	315-319	full	_	
+4-29	320-324	four	_	
+4-30	325-330	years	_	
+4-31	331-333	of	_	
+4-32	334-337	the	_	
+4-33	338-352	administration	_	
+4-34	352-353	.	_	
+
+#Text=While also not committing to any dates for withdrawal of U.S. troops from Iraq, Rumsfeld indicated his desire that they be withdrawn sometime within the next four years.
+5-1	354-359	While	_	
+5-2	360-364	also	_	
+5-3	365-368	not	Décision gouvernementale[5]	
+5-4	369-379	committing	Décision gouvernementale[5]	
+5-5	380-382	to	_	
+5-6	383-386	any	_	
+5-7	387-392	dates	_	
+5-8	393-396	for	_	
+5-9	397-407	withdrawal	Conflit[6]	
+5-10	408-410	of	Conflit[6]	
+5-11	411-414	U.S	Conflit[6]	
+5-12	414-415	.	Conflit[6]	
+5-13	416-422	troops	Conflit[6]	
+5-14	423-427	from	Conflit[6]	
+5-15	428-432	Iraq	Conflit[6]	
+5-16	432-433	,	_	
+5-17	434-442	Rumsfeld	_	
+5-18	443-452	indicated	_	
+5-19	453-456	his	_	
+5-20	457-463	desire	_	
+5-21	464-468	that	_	
+5-22	469-473	they	_	
+5-23	474-476	be	_	
+5-24	477-486	withdrawn	_	
+5-25	487-495	sometime	_	
+5-26	496-502	within	_	
+5-27	503-506	the	_	
+5-28	507-511	next	_	
+5-29	512-516	four	_	
+5-30	517-522	years	_	
+5-31	522-523	.	_	

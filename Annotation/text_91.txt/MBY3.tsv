@@ -1,0 +1,176 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Events|value
+
+
+#Text=Following his win in the presidential election on October 9, Hamid Karzai was sworn in today as the first-ever elected president of Afghanistan.
+1-1	0-9	Following	_	
+1-2	10-13	his	Décision gouvernementale[1]	
+1-3	14-17	win	Décision gouvernementale[1]	
+1-4	18-20	in	Décision gouvernementale[1]	
+1-5	21-24	the	Décision gouvernementale[1]	
+1-6	25-37	presidential	Décision gouvernementale[1]	
+1-7	38-46	election	Décision gouvernementale[1]	
+1-8	47-49	on	_	
+1-9	50-57	October	_	
+1-10	58-59	9	_	
+1-11	59-60	,	_	
+1-12	61-66	Hamid	_	
+1-13	67-73	Karzai	_	
+1-14	74-77	was	_	
+1-15	78-83	sworn	_	
+1-16	84-86	in	_	
+1-17	87-92	today	_	
+1-18	93-95	as	_	
+1-19	96-99	the	_	
+1-20	100-110	first-ever	_	
+1-21	111-118	elected	_	
+1-22	119-128	president	_	
+1-23	129-131	of	_	
+1-24	132-143	Afghanistan	_	
+1-25	143-144	.	_	
+
+#Text=Although widely hailed as the start of a new era, both Karzai and Afghanistan face difficult challenges ahead.
+2-1	148-156	Although	_	
+2-2	157-163	widely	_	
+2-3	164-170	hailed	_	
+2-4	171-173	as	_	
+2-5	174-177	the	_	
+2-6	178-183	start	_	
+2-7	184-186	of	_	
+2-8	187-188	a	_	
+2-9	189-192	new	_	
+2-10	193-196	era	_	
+2-11	196-197	,	_	
+2-12	198-202	both	_	
+2-13	203-209	Karzai	_	
+2-14	210-213	and	_	
+2-15	214-225	Afghanistan	_	
+2-16	226-230	face	_	
+2-17	231-240	difficult	_	
+2-18	241-251	challenges	_	
+2-19	252-257	ahead	_	
+2-20	257-258	.	_	
+
+#Text=Insurgencies continue and drug lords still control much of the ethnically-divided country.
+3-1	259-271	Insurgencies	Conflit[2]	
+3-2	272-280	continue	Conflit[2]	
+3-3	281-284	and	_	
+3-4	285-289	drug	Conflit[3]	
+3-5	290-295	lords	Conflit[3]	
+3-6	296-301	still	Conflit[3]	
+3-7	302-309	control	Conflit[3]	
+3-8	310-314	much	_	
+3-9	315-317	of	_	
+3-10	318-321	the	_	
+3-11	322-340	ethnically-divided	Conflit[4]	
+3-12	341-348	country	Conflit[4]	
+3-13	348-349	.	_	
+
+#Text=But the peaceful and democratic vote indicates to many that Afghanistan is on the right track.
+4-1	350-353	But	_	
+4-2	354-357	the	_	
+4-3	358-366	peaceful	_	
+4-4	367-370	and	_	
+4-5	371-381	democratic	Décision gouvernementale[5]	
+4-6	382-386	vote	Décision gouvernementale[5]	
+4-7	387-396	indicates	_	
+4-8	397-399	to	_	
+4-9	400-404	many	_	
+4-10	405-409	that	_	
+4-11	410-421	Afghanistan	_	
+4-12	422-424	is	_	
+4-13	425-427	on	_	
+4-14	428-431	the	_	
+4-15	432-437	right	_	
+4-16	438-443	track	_	
+4-17	443-444	.	_	
+
+#Text=The Joint Electoral Management Body declared that Mr.
+5-1	448-451	The	_	
+5-2	452-457	Joint	Décision gouvernementale[6]	
+5-3	458-467	Electoral	Décision gouvernementale[6]	
+5-4	468-478	Management	Décision gouvernementale[6]	
+5-5	479-483	Body	Décision gouvernementale[6]	
+5-6	484-492	declared	_	
+5-7	493-497	that	_	
+5-8	498-500	Mr	_	
+5-9	500-501	.	_	
+
+#Text=Hamid Karzai won 55 percent of the vote in the election.
+6-1	502-507	Hamid	_	
+6-2	508-514	Karzai	_	
+6-3	515-518	won	Décision gouvernementale[7]	
+6-4	519-521	55	Décision gouvernementale[7]	
+6-5	522-529	percent	Décision gouvernementale[7]	
+6-6	530-532	of	Décision gouvernementale[7]	
+6-7	533-536	the	Décision gouvernementale[7]	
+6-8	537-541	vote	Décision gouvernementale[7]	
+6-9	542-544	in	_	
+6-10	545-548	the	_	
+6-11	549-557	election	Décision gouvernementale	
+6-12	557-558	.	_	
+
+#Text=An expert panel, appointed in the aftermath to investigate complaints about improper balloting, verified earlier today that there were shortcomings with the elections.
+7-1	559-561	An	_	
+7-2	562-568	expert	Décision gouvernementale[8]	
+7-3	569-574	panel	Décision gouvernementale[8]	
+7-4	574-575	,	_	
+7-5	576-585	appointed	_	
+7-6	586-588	in	_	
+7-7	589-592	the	_	
+7-8	593-602	aftermath	_	
+7-9	603-605	to	_	
+7-10	606-617	investigate	_	
+7-11	618-628	complaints	_	
+7-12	629-634	about	_	
+7-13	635-643	improper	Décision gouvernementale[9]	
+7-14	644-653	balloting	Décision gouvernementale[9]	
+7-15	653-654	,	_	
+7-16	655-663	verified	_	
+7-17	664-671	earlier	_	
+7-18	672-677	today	_	
+7-19	678-682	that	_	
+7-20	683-688	there	_	
+7-21	689-693	were	_	
+7-22	694-706	shortcomings	_	
+7-23	707-711	with	_	
+7-24	712-715	the	_	
+7-25	716-725	elections	Décision gouvernementale	
+7-26	725-726	.	_	
+
+#Text=While the panel said the problems that were identified "could not have materially affected the overall result," it hopes the findings will be used to improve the operations of future elections.
+8-1	727-732	While	_	
+8-2	733-736	the	_	
+8-3	737-742	panel	_	
+8-4	743-747	said	_	
+8-5	748-751	the	_	
+8-6	752-760	problems	Conflit[10]	
+8-7	761-765	that	Conflit[10]	
+8-8	766-770	were	Conflit[10]	
+8-9	771-781	identified	Conflit[10]	
+8-10	782-783	"	_	
+8-11	783-788	could	_	
+8-12	789-792	not	_	
+8-13	793-797	have	_	
+8-14	798-808	materially	_	
+8-15	809-817	affected	_	
+8-16	818-821	the	_	
+8-17	822-829	overall	_	
+8-18	830-836	result	_	
+8-19	836-837	,	_	
+8-20	837-838	"	_	
+8-21	839-841	it	_	
+8-22	842-847	hopes	_	
+8-23	848-851	the	_	
+8-24	852-860	findings	_	
+8-25	861-865	will	_	
+8-26	866-868	be	_	
+8-27	869-873	used	_	
+8-28	874-876	to	_	
+8-29	877-884	improve	_	
+8-30	885-888	the	_	
+8-31	889-899	operations	_	
+8-32	900-902	of	_	
+8-33	903-909	future	_	
+8-34	910-919	elections	_	
+8-35	919-920	.	_	

@@ -1,0 +1,226 @@
+#FORMAT=WebAnno TSV 3.3
+
+
+#Text=Iran nuclear programIranian representatives say negotiations with Europe on its nuclear program are in the final stages.
+1-1	0-4	Iran	
+1-2	5-12	nuclear	
+1-3	13-27	programIranian	
+1-4	28-43	representatives	
+1-5	44-47	say	
+1-6	48-60	negotiations	
+1-7	61-65	with	
+1-8	66-72	Europe	
+1-9	73-75	on	
+1-10	76-79	its	
+1-11	80-87	nuclear	
+1-12	88-95	program	
+1-13	96-99	are	
+1-14	100-102	in	
+1-15	103-106	the	
+1-16	107-112	final	
+1-17	113-119	stages	
+1-18	119-120	.	
+
+#Text=Iran's foreign minister, Kamal Kharazi, told state television Saturday Iranian negotiators have given their final response to a European Union proposal to suspend Iran's uranium enrichment program.
+2-1	122-128	Iran's	
+2-2	129-136	foreign	
+2-3	137-145	minister	
+2-4	145-146	,	
+2-5	147-152	Kamal	
+2-6	153-160	Kharazi	
+2-7	160-161	,	
+2-8	162-166	told	
+2-9	167-172	state	
+2-10	173-183	television	
+2-11	184-192	Saturday	
+2-12	193-200	Iranian	
+2-13	201-212	negotiators	
+2-14	213-217	have	
+2-15	218-223	given	
+2-16	224-229	their	
+2-17	230-235	final	
+2-18	236-244	response	
+2-19	245-247	to	
+2-20	248-249	a	
+2-21	250-258	European	
+2-22	259-264	Union	
+2-23	265-273	proposal	
+2-24	274-276	to	
+2-25	277-284	suspend	
+2-26	285-291	Iran's	
+2-27	292-299	uranium	
+2-28	300-310	enrichment	
+2-29	311-318	program	
+2-30	318-319	.	
+
+#Text=He said it is now up to the Europeans to decide whether or not to accept their decision.
+3-1	320-322	He	
+3-2	323-327	said	
+3-3	328-330	it	
+3-4	331-333	is	
+3-5	334-337	now	
+3-6	338-340	up	
+3-7	341-343	to	
+3-8	344-347	the	
+3-9	348-357	Europeans	
+3-10	358-360	to	
+3-11	361-367	decide	
+3-12	368-375	whether	
+3-13	376-378	or	
+3-14	379-382	not	
+3-15	383-385	to	
+3-16	386-392	accept	
+3-17	393-398	their	
+3-18	399-407	decision	
+3-19	407-408	.	
+
+#Text=Iran and the European Union's big three powers &amp;mdash; Britain, Germany, and France &amp;mdash; have been negotiating a deal under which Tehran would agree to freeze sensitive nuclear work to avoid possible U.N.
+4-1	410-414	Iran	
+4-2	415-418	and	
+4-3	419-422	the	
+4-4	423-431	European	
+4-5	432-439	Union's	
+4-6	440-443	big	
+4-7	444-449	three	
+4-8	450-456	powers	
+4-9	457-458	&	
+4-10	458-461	amp	
+4-11	461-462	;	
+4-12	462-467	mdash	
+4-13	467-468	;	
+4-14	469-476	Britain	
+4-15	476-477	,	
+4-16	478-485	Germany	
+4-17	485-486	,	
+4-18	487-490	and	
+4-19	491-497	France	
+4-20	498-499	&	
+4-21	499-502	amp	
+4-22	502-503	;	
+4-23	503-508	mdash	
+4-24	508-509	;	
+4-25	510-514	have	
+4-26	515-519	been	
+4-27	520-531	negotiating	
+4-28	532-533	a	
+4-29	534-538	deal	
+4-30	539-544	under	
+4-31	545-550	which	
+4-32	551-557	Tehran	
+4-33	558-563	would	
+4-34	564-569	agree	
+4-35	570-572	to	
+4-36	573-579	freeze	
+4-37	580-589	sensitive	
+4-38	590-597	nuclear	
+4-39	598-602	work	
+4-40	603-605	to	
+4-41	606-611	avoid	
+4-42	612-620	possible	
+4-43	621-624	U.N	
+4-44	624-625	.	
+
+#Text=Security Council sanctions.
+5-1	626-634	Security	
+5-2	635-642	Council	
+5-3	643-652	sanctions	
+5-4	652-653	.	
+
+#Text=U.S.
+6-1	655-658	U.S	
+6-2	658-659	.	
+
+#Text=Secretary of State Colin Powell, says that Iran's nuclear program is intended to make nuclear weapons.
+7-1	660-669	Secretary	
+7-2	670-672	of	
+7-3	673-678	State	
+7-4	679-684	Colin	
+7-5	685-691	Powell	
+7-6	691-692	,	
+7-7	693-697	says	
+7-8	698-702	that	
+7-9	703-709	Iran's	
+7-10	710-717	nuclear	
+7-11	718-725	program	
+7-12	726-728	is	
+7-13	729-737	intended	
+7-14	738-740	to	
+7-15	741-745	make	
+7-16	746-753	nuclear	
+7-17	754-761	weapons	
+7-18	761-762	.	
+
+#Text=Iran authorities have insisted that their nuclear ambitions are limited to generating electricity from atomic energy plants, not making bombs.
+8-1	763-767	Iran	
+8-2	768-779	authorities	
+8-3	780-784	have	
+8-4	785-793	insisted	
+8-5	794-798	that	
+8-6	799-804	their	
+8-7	805-812	nuclear	
+8-8	813-822	ambitions	
+8-9	823-826	are	
+8-10	827-834	limited	
+8-11	835-837	to	
+8-12	838-848	generating	
+8-13	849-860	electricity	
+8-14	861-865	from	
+8-15	866-872	atomic	
+8-16	873-879	energy	
+8-17	880-886	plants	
+8-18	886-887	,	
+8-19	888-891	not	
+8-20	892-898	making	
+8-21	899-904	bombs	
+8-22	904-905	.	
+
+#Text=Critics of the position of the United States point to Israel's nuclear program.
+9-1	907-914	Critics	
+9-2	915-917	of	
+9-3	918-921	the	
+9-4	922-930	position	
+9-5	931-933	of	
+9-6	934-937	the	
+9-7	938-944	United	
+9-8	945-951	States	
+9-9	952-957	point	
+9-10	958-960	to	
+9-11	961-969	Israel's	
+9-12	970-977	nuclear	
+9-13	978-985	program	
+9-14	985-986	.	
+
+#Text=Israel maintains a policy of nuclear ambiguity, but is widely believed to possess at least 82 nuclear weapons.
+10-1	987-993	Israel	
+10-2	994-1003	maintains	
+10-3	1004-1005	a	
+10-4	1006-1012	policy	
+10-5	1013-1015	of	
+10-6	1016-1023	nuclear	
+10-7	1024-1033	ambiguity	
+10-8	1033-1034	,	
+10-9	1035-1038	but	
+10-10	1039-1041	is	
+10-11	1042-1048	widely	
+10-12	1049-1057	believed	
+10-13	1058-1060	to	
+10-14	1061-1068	possess	
+10-15	1069-1071	at	
+10-16	1072-1077	least	
+10-17	1078-1080	82	
+10-18	1081-1088	nuclear	
+10-19	1089-1096	weapons	
+10-20	1096-1097	.	
+
+#Text=The program has not been condemned by the United States.
+11-1	1098-1101	The	
+11-2	1102-1109	program	
+11-3	1110-1113	has	
+11-4	1114-1117	not	
+11-5	1118-1122	been	
+11-6	1123-1132	condemned	
+11-7	1133-1135	by	
+11-8	1136-1139	the	
+11-9	1140-1146	United	
+11-10	1147-1153	States	
+11-11	1153-1154	.	

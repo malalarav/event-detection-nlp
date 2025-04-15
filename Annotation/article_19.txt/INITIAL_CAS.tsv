@@ -1,0 +1,200 @@
+#FORMAT=WebAnno TSV 3.3
+
+
+#Text=BRASÍLIA, Brazil &amp;ndash; Mr.
+1-1	0-8	BRASÍLIA	
+1-2	8-9	,	
+1-3	10-16	Brazil	
+1-4	17-18	&	
+1-5	18-21	amp	
+1-6	21-22	;	
+1-7	22-27	ndash	
+1-8	27-28	;	
+1-9	29-31	Mr	
+1-10	31-32	.	
+
+#Text=Luiz Inácio Lula da Silva, the President of Brazil, met with the President of the Republic of Korea Mr.
+2-1	33-37	Luiz	
+2-2	38-44	Inácio	
+2-3	45-49	Lula	
+2-4	50-52	da	
+2-5	53-58	Silva	
+2-6	58-59	,	
+2-7	60-63	the	
+2-8	64-73	President	
+2-9	74-76	of	
+2-10	77-83	Brazil	
+2-11	83-84	,	
+2-12	85-88	met	
+2-13	89-93	with	
+2-14	94-97	the	
+2-15	98-107	President	
+2-16	108-110	of	
+2-17	111-114	the	
+2-18	115-123	Republic	
+2-19	124-126	of	
+2-20	127-132	Korea	
+2-21	133-135	Mr	
+2-22	135-136	.	
+
+#Text=Roh Moo-hyun at 5:30 PM at the Palacio do Planalto (Plateau Palace), the Presidential official residence, in Brasilia, Brasil.
+3-1	137-140	Roh	
+3-2	141-149	Moo-hyun	
+3-3	150-152	at	
+3-4	153-154	5	
+3-5	154-155	:	
+3-6	155-157	30	
+3-7	158-160	PM	
+3-8	161-163	at	
+3-9	164-167	the	
+3-10	168-175	Palacio	
+3-11	176-178	do	
+3-12	179-187	Planalto	
+3-13	188-189	(	
+3-14	189-196	Plateau	
+3-15	197-203	Palace	
+3-16	203-204	)	
+3-17	204-205	,	
+3-18	206-209	the	
+3-19	210-222	Presidential	
+3-20	223-231	official	
+3-21	232-241	residence	
+3-22	241-242	,	
+3-23	243-245	in	
+3-24	246-254	Brasilia	
+3-25	254-255	,	
+3-26	256-262	Brasil	
+3-27	262-263	.	
+
+#Text=At 8:00 PM there was a dinner with Brazilian and South Korean Presidents and comitive.
+4-1	264-266	At	
+4-2	267-268	8	
+4-3	268-269	:	
+4-4	269-271	00	
+4-5	272-274	PM	
+4-6	275-280	there	
+4-7	281-284	was	
+4-8	285-286	a	
+4-9	287-293	dinner	
+4-10	294-298	with	
+4-11	299-308	Brazilian	
+4-12	309-312	and	
+4-13	313-318	South	
+4-14	319-325	Korean	
+4-15	326-336	Presidents	
+4-16	337-340	and	
+4-17	341-349	comitive	
+4-18	349-350	.	
+
+#Text=At the dinner Brazilian President Luiz Inácio Lula da Silva said South Korea is a strategic partner in Asia and he also said that business between Brazil and Korea in 2004 will be US$3 billion.
+5-1	354-356	At	
+5-2	357-360	the	
+5-3	361-367	dinner	
+5-4	368-377	Brazilian	
+5-5	378-387	President	
+5-6	388-392	Luiz	
+5-7	393-399	Inácio	
+5-8	400-404	Lula	
+5-9	405-407	da	
+5-10	408-413	Silva	
+5-11	414-418	said	
+5-12	419-424	South	
+5-13	425-430	Korea	
+5-14	431-433	is	
+5-15	434-435	a	
+5-16	436-445	strategic	
+5-17	446-453	partner	
+5-18	454-456	in	
+5-19	457-461	Asia	
+5-20	462-465	and	
+5-21	466-468	he	
+5-22	469-473	also	
+5-23	474-478	said	
+5-24	479-483	that	
+5-25	484-492	business	
+5-26	493-500	between	
+5-27	501-507	Brazil	
+5-28	508-511	and	
+5-29	512-517	Korea	
+5-30	518-520	in	
+5-31	521-525	2004	
+5-32	526-530	will	
+5-33	531-533	be	
+5-34	534-536	US	
+5-35	536-538	$3	
+5-36	539-546	billion	
+5-37	546-547	.	
+
+#Text=Mr.
+6-1	548-550	Mr	
+6-2	550-551	.	
+
+#Text=Lula said Brazil supports Korea in their effort to join the Inter-American Development Bank (IDB).
+7-1	552-556	Lula	
+7-2	557-561	said	
+7-3	562-568	Brazil	
+7-4	569-577	supports	
+7-5	578-583	Korea	
+7-6	584-586	in	
+7-7	587-592	their	
+7-8	593-599	effort	
+7-9	600-602	to	
+7-10	603-607	join	
+7-11	608-611	the	
+7-12	612-626	Inter-American	
+7-13	627-638	Development	
+7-14	639-643	Bank	
+7-15	644-645	(	
+7-16	645-648	IDB	
+7-17	648-649	)	
+7-18	649-650	.	
+
+#Text=According to official sources Brazil and South Korea also discussed energy and natural resources cooperation agreements.
+8-1	654-663	According	
+8-2	664-666	to	
+8-3	667-675	official	
+8-4	676-683	sources	
+8-5	684-690	Brazil	
+8-6	691-694	and	
+8-7	695-700	South	
+8-8	701-706	Korea	
+8-9	707-711	also	
+8-10	712-721	discussed	
+8-11	722-728	energy	
+8-12	729-732	and	
+8-13	733-740	natural	
+8-14	741-750	resources	
+8-15	751-762	cooperation	
+8-16	763-773	agreements	
+8-17	773-774	.	
+
+#Text=They signed the Broad Relationship of Cooperation for Common Prosperity in the XXI Century agreement which covers natural resources, science, information technology and technology in general.
+9-1	775-779	They	
+9-2	780-786	signed	
+9-3	787-790	the	
+9-4	791-796	Broad	
+9-5	797-809	Relationship	
+9-6	810-812	of	
+9-7	813-824	Cooperation	
+9-8	825-828	for	
+9-9	829-835	Common	
+9-10	836-846	Prosperity	
+9-11	847-849	in	
+9-12	850-853	the	
+9-13	854-857	XXI	
+9-14	858-865	Century	
+9-15	866-875	agreement	
+9-16	876-881	which	
+9-17	882-888	covers	
+9-18	889-896	natural	
+9-19	897-906	resources	
+9-20	906-907	,	
+9-21	908-915	science	
+9-22	915-916	,	
+9-23	917-928	information	
+9-24	929-939	technology	
+9-25	940-943	and	
+9-26	944-954	technology	
+9-27	955-957	in	
+9-28	958-965	general	
+9-29	965-966	.	

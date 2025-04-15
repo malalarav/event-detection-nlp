@@ -1,0 +1,69 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Events|value
+
+
+#Text=The Ukrainian parliament passed a vote of no-confidence in the government of Prime Minister Viktor Yanukovych bolstering the efforts of opposition leader Viktor Yushchenko.
+1-1	0-3	The	_	
+1-2	4-13	Ukrainian	_	
+1-3	14-24	parliament	Décision gouvernementale	
+1-4	25-31	passed	_	
+1-5	32-33	a	_	
+1-6	34-38	vote	Décision gouvernementale	
+1-7	39-41	of	_	
+1-8	42-55	no-confidence	_	
+1-9	56-58	in	_	
+1-10	59-62	the	_	
+1-11	63-73	government	Décision gouvernementale	
+1-12	74-76	of	_	
+1-13	77-82	Prime	Décision gouvernementale[1]	
+1-14	83-91	Minister	Décision gouvernementale[1]	
+1-15	92-98	Viktor	_	
+1-16	99-109	Yanukovych	_	
+1-17	110-120	bolstering	_	
+1-18	121-124	the	_	
+1-19	125-132	efforts	_	
+1-20	133-135	of	_	
+1-21	136-146	opposition	Conflit	
+1-22	147-153	leader	Conflit	
+1-23	154-160	Viktor	_	
+1-24	161-171	Yushchenko	_	
+1-25	171-172	.	_	
+
+#Text=In addition, the parliament also voted to establish an interim government during the continuing election crisis.
+2-1	173-175	In	_	
+2-2	176-184	addition	_	
+2-3	184-185	,	_	
+2-4	186-189	the	_	
+2-5	190-200	parliament	Décision gouvernementale	
+2-6	201-205	also	_	
+2-7	206-211	voted	Décision gouvernementale	
+2-8	212-214	to	_	
+2-9	215-224	establish	Décision gouvernementale	
+2-10	225-227	an	_	
+2-11	228-235	interim	_	
+2-12	236-246	government	Décision gouvernementale	
+2-13	247-253	during	_	
+2-14	254-257	the	_	
+2-15	258-268	continuing	_	
+2-16	269-277	election	Décision gouvernementale	
+2-17	278-284	crisis	Conflit	
+2-18	284-285	.	_	
+
+#Text=The vote came just before international mediators were to commence efforts to resolve the controversial election.
+3-1	289-292	The	_	
+3-2	293-297	vote	Décision gouvernementale	
+3-3	298-302	came	_	
+3-4	303-307	just	_	
+3-5	308-314	before	_	
+3-6	315-328	international	_	
+3-7	329-338	mediators	_	
+3-8	339-343	were	_	
+3-9	344-346	to	_	
+3-10	347-355	commence	_	
+3-11	356-363	efforts	_	
+3-12	364-366	to	_	
+3-13	367-374	resolve	_	
+3-14	375-378	the	_	
+3-15	379-392	controversial	Conflit	
+3-16	393-401	election	Décision gouvernementale	
+3-17	401-402	.	_	

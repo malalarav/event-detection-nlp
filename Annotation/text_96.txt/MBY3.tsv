@@ -1,0 +1,367 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Events|value
+
+
+#Text=A commuter van (Van Pool No. 36) from the National Aeronautics and Space Administration's Jet Propulsion Laboratory (JPL) plunged 200 feet into a ravine in the Angeles National Forest this morning.
+1-1	0-1	A	_	
+1-2	2-10	commuter	_	
+1-3	11-14	van	_	
+1-4	15-16	(	_	
+1-5	16-19	Van	_	
+1-6	20-24	Pool	_	
+1-7	25-27	No	_	
+1-8	27-28	.	_	
+1-9	29-31	36	_	
+1-10	31-32	)	_	
+1-11	33-37	from	_	
+1-12	38-41	the	_	
+1-13	42-50	National	_	
+1-14	51-62	Aeronautics	_	
+1-15	63-66	and	_	
+1-16	67-72	Space	_	
+1-17	73-89	Administration's	_	
+1-18	90-93	Jet	_	
+1-19	94-104	Propulsion	_	
+1-20	105-115	Laboratory	_	
+1-21	116-117	(	_	
+1-22	117-120	JPL	_	
+1-23	120-121	)	_	
+1-24	122-129	plunged	_	
+1-25	130-133	200	_	
+1-26	134-138	feet	_	
+1-27	139-143	into	_	
+1-28	144-145	a	_	
+1-29	146-152	ravine	_	
+1-30	153-155	in	_	
+1-31	156-159	the	_	
+1-32	160-167	Angeles	_	
+1-33	168-176	National	_	
+1-34	177-183	Forest	_	
+1-35	184-188	this	_	
+1-36	189-196	morning	_	
+1-37	196-197	.	_	
+
+#Text=The van was carrying ten people: six JPL employees, two NASA employees, and two private contractors.
+2-1	198-201	The	_	
+2-2	202-205	van	_	
+2-3	206-209	was	_	
+2-4	210-218	carrying	_	
+2-5	219-222	ten	_	
+2-6	223-229	people	_	
+2-7	229-230	:	_	
+2-8	231-234	six	_	
+2-9	235-238	JPL	_	
+2-10	239-248	employees	_	
+2-11	248-249	,	_	
+2-12	250-253	two	_	
+2-13	254-258	NASA	_	
+2-14	259-268	employees	_	
+2-15	268-269	,	_	
+2-16	270-273	and	_	
+2-17	274-277	two	_	
+2-18	278-285	private	_	
+2-19	286-297	contractors	_	
+2-20	297-298	.	_	
+
+#Text=They are identified as:\r
+#Text=\r
+#Text=* Javier Bautista: Regular Substitute Driver\r
+#Text=* Cheryl Lynn Allworth: Executive Secretary in JPL's Space Experiments Systems Section\r
+#Text=* Dorothy M.
+3-1	299-303	They	_	
+3-2	304-307	are	_	
+3-3	308-318	identified	_	
+3-4	319-321	as	_	
+3-5	321-322	:	_	
+3-6	326-327	*	_	
+3-7	328-334	Javier	_	
+3-8	335-343	Bautista	_	
+3-9	343-344	:	_	
+3-10	345-352	Regular	_	
+3-11	353-363	Substitute	_	
+3-12	364-370	Driver	_	
+3-13	372-373	*	_	
+3-14	374-380	Cheryl	_	
+3-15	381-385	Lynn	_	
+3-16	386-394	Allworth	_	
+3-17	394-395	:	_	
+3-18	396-405	Executive	_	
+3-19	406-415	Secretary	_	
+3-20	416-418	in	_	
+3-21	419-424	JPL's	_	
+3-22	425-430	Space	_	
+3-23	431-442	Experiments	_	
+3-24	443-450	Systems	_	
+3-25	451-458	Section	_	
+3-26	460-461	*	_	
+3-27	462-469	Dorothy	_	
+3-28	470-471	M	_	
+3-29	471-472	.	_	
+
+#Text=Forks: JPL Human Resources\r
+#Text=* Peter Robles\r
+#Text=* Helga Maria Wurm\r
+#Text=* Jane F.
+4-1	473-478	Forks	_	
+4-2	478-479	:	_	
+4-3	480-483	JPL	_	
+4-4	484-489	Human	_	
+4-5	490-499	Resources	_	
+4-6	501-502	*	_	
+4-7	503-508	Peter	_	
+4-8	509-515	Robles	_	
+4-9	517-518	*	_	
+4-10	519-524	Helga	_	
+4-11	525-530	Maria	_	
+4-12	531-535	Wurm	_	
+4-13	537-538	*	_	
+4-14	539-543	Jane	_	
+4-15	544-545	F	_	
+4-16	545-546	.	_	
+
+#Text=Galloway: JPL Business Manager\r
+#Text=* Kerri Lynn Agey: Contractor for JPL Security Services\r
+#Text=* Christopher Butts\r
+#Text=* Jim Kitahara\r
+#Text=* David Myers\r
+#Text=\r
+#Text=Three of the passengers -- Forks, Galloway, and Agey -- lost their lives; the remaining seven sustained various levels of injury, including one passenger suffering critical injury, according to authorities.
+5-1	547-555	Galloway	_	
+5-2	555-556	:	_	
+5-3	557-560	JPL	_	
+5-4	561-569	Business	_	
+5-5	570-577	Manager	_	
+5-6	579-580	*	_	
+5-7	581-586	Kerri	_	
+5-8	587-591	Lynn	_	
+5-9	592-596	Agey	_	
+5-10	596-597	:	_	
+5-11	598-608	Contractor	_	
+5-12	609-612	for	_	
+5-13	613-616	JPL	_	
+5-14	617-625	Security	_	
+5-15	626-634	Services	_	
+5-16	636-637	*	_	
+5-17	638-649	Christopher	_	
+5-18	650-655	Butts	_	
+5-19	657-658	*	_	
+5-20	659-662	Jim	_	
+5-21	663-671	Kitahara	_	
+5-22	673-674	*	_	
+5-23	675-680	David	_	
+5-24	681-686	Myers	_	
+5-25	690-695	Three	_	
+5-26	696-698	of	_	
+5-27	699-702	the	_	
+5-28	703-713	passengers	_	
+5-29	714-715	-	_	
+5-30	715-716	-	_	
+5-31	717-722	Forks	_	
+5-32	722-723	,	_	
+5-33	724-732	Galloway	_	
+5-34	732-733	,	_	
+5-35	734-737	and	_	
+5-36	738-742	Agey	_	
+5-37	743-744	-	_	
+5-38	744-745	-	_	
+5-39	746-750	lost	Décès[1]	
+5-40	751-756	their	Décès[1]	
+5-41	757-762	lives	Décès[1]	
+5-42	762-763	;	_	
+5-43	764-767	the	_	
+5-44	768-777	remaining	_	
+5-45	778-783	seven	_	
+5-46	784-793	sustained	_	
+5-47	794-801	various	_	
+5-48	802-808	levels	_	
+5-49	809-811	of	_	
+5-50	812-818	injury	_	
+5-51	818-819	,	_	
+5-52	820-829	including	_	
+5-53	830-833	one	_	
+5-54	834-843	passenger	_	
+5-55	844-853	suffering	_	
+5-56	854-862	critical	_	
+5-57	863-869	injury	_	
+5-58	869-870	,	_	
+5-59	871-880	according	_	
+5-60	881-883	to	_	
+5-61	884-895	authorities	_	
+5-62	895-896	.	_	
+
+#Text=All victims were airlifted to local area hospitals.
+6-1	897-900	All	_	
+6-2	901-908	victims	Décès	
+6-3	909-913	were	_	
+6-4	914-923	airlifted	_	
+6-5	924-926	to	_	
+6-6	927-932	local	_	
+6-7	933-937	area	_	
+6-8	938-947	hospitals	Décès	
+6-9	947-948	.	_	
+
+#Text=According to witnesses who reported the crash, the van simply drove off the side of Angeles Forest Highway.
+7-1	952-961	According	_	
+7-2	962-964	to	_	
+7-3	965-974	witnesses	_	
+7-4	975-978	who	_	
+7-5	979-987	reported	_	
+7-6	988-991	the	_	
+7-7	992-997	crash	Décès	
+7-8	997-998	,	_	
+7-9	999-1002	the	_	
+7-10	1003-1006	van	_	
+7-11	1007-1013	simply	_	
+7-12	1014-1019	drove	_	
+7-13	1020-1023	off	_	
+7-14	1024-1027	the	_	
+7-15	1028-1032	side	_	
+7-16	1033-1035	of	_	
+7-17	1036-1043	Angeles	_	
+7-18	1044-1050	Forest	_	
+7-19	1051-1058	Highway	_	
+7-20	1058-1059	.	_	
+
+#Text=Despite the presence of fog during the accident, the California Highway Patrol believes that this was not a factor.
+8-1	1060-1067	Despite	_	
+8-2	1068-1071	the	_	
+8-3	1072-1080	presence	_	
+8-4	1081-1083	of	_	
+8-5	1084-1087	fog	_	
+8-6	1088-1094	during	_	
+8-7	1095-1098	the	_	
+8-8	1099-1107	accident	_	
+8-9	1107-1108	,	_	
+8-10	1109-1112	the	_	
+8-11	1113-1123	California	_	
+8-12	1124-1131	Highway	_	
+8-13	1132-1138	Patrol	_	
+8-14	1139-1147	believes	_	
+8-15	1148-1152	that	_	
+8-16	1153-1157	this	_	
+8-17	1158-1161	was	_	
+8-18	1162-1165	not	_	
+8-19	1166-1167	a	_	
+8-20	1168-1174	factor	_	
+8-21	1174-1175	.	_	
+
+#Text=The CHP has said that the investigation into the crash may take two to three days before the cause is known.
+9-1	1176-1179	The	_	
+9-2	1180-1183	CHP	_	
+9-3	1184-1187	has	_	
+9-4	1188-1192	said	_	
+9-5	1193-1197	that	_	
+9-6	1198-1201	the	_	
+9-7	1202-1215	investigation	_	
+9-8	1216-1220	into	_	
+9-9	1221-1224	the	_	
+9-10	1225-1230	crash	Décès	
+9-11	1231-1234	may	_	
+9-12	1235-1239	take	_	
+9-13	1240-1243	two	_	
+9-14	1244-1246	to	_	
+9-15	1247-1252	three	_	
+9-16	1253-1257	days	_	
+9-17	1258-1264	before	_	
+9-18	1265-1268	the	_	
+9-19	1269-1274	cause	_	
+9-20	1275-1277	is	_	
+9-21	1278-1283	known	_	
+9-22	1283-1284	.	_	
+
+#Text=JPL spokesperson D.C.
+10-1	1288-1291	JPL	_	
+10-2	1292-1304	spokesperson	_	
+10-3	1305-1308	D.C	_	
+10-4	1308-1309	.	_	
+
+#Text=Agle confirmed that the van was from the facility.
+11-1	1310-1314	Agle	_	
+11-2	1315-1324	confirmed	_	
+11-3	1325-1329	that	_	
+11-4	1330-1333	the	_	
+11-5	1334-1337	van	_	
+11-6	1338-1341	was	_	
+11-7	1342-1346	from	_	
+11-8	1347-1350	the	_	
+11-9	1351-1359	facility	_	
+11-10	1359-1360	.	_	
+
+#Text=Initially, JPL refrained from commenting, but JPL security was spotted at the site shortly after the incident occurred.
+12-1	1361-1370	Initially	_	
+12-2	1370-1371	,	_	
+12-3	1372-1375	JPL	_	
+12-4	1376-1385	refrained	_	
+12-5	1386-1390	from	_	
+12-6	1391-1401	commenting	_	
+12-7	1401-1402	,	_	
+12-8	1403-1406	but	_	
+12-9	1407-1410	JPL	_	
+12-10	1411-1419	security	_	
+12-11	1420-1423	was	_	
+12-12	1424-1431	spotted	_	
+12-13	1432-1434	at	_	
+12-14	1435-1438	the	_	
+12-15	1439-1443	site	_	
+12-16	1444-1451	shortly	_	
+12-17	1452-1457	after	_	
+12-18	1458-1461	the	_	
+12-19	1462-1470	incident	Décès	
+12-20	1471-1479	occurred	_	
+12-21	1479-1480	.	_	
+
+#Text=The Angeles Forest Highway is a two-lane mountain road considered a commuter route for many residents of the Antelope Valley including Palmdale and Lancaster residents.
+13-1	1484-1487	The	_	
+13-2	1488-1495	Angeles	_	
+13-3	1496-1502	Forest	_	
+13-4	1503-1510	Highway	_	
+13-5	1511-1513	is	_	
+13-6	1514-1515	a	_	
+13-7	1516-1524	two-lane	_	
+13-8	1525-1533	mountain	_	
+13-9	1534-1538	road	_	
+13-10	1539-1549	considered	_	
+13-11	1550-1551	a	_	
+13-12	1552-1560	commuter	_	
+13-13	1561-1566	route	_	
+13-14	1567-1570	for	_	
+13-15	1571-1575	many	_	
+13-16	1576-1585	residents	_	
+13-17	1586-1588	of	_	
+13-18	1589-1592	the	_	
+13-19	1593-1601	Antelope	_	
+13-20	1602-1608	Valley	_	
+13-21	1609-1618	including	_	
+13-22	1619-1627	Palmdale	_	
+13-23	1628-1631	and	_	
+13-24	1632-1641	Lancaster	_	
+13-25	1642-1651	residents	_	
+13-26	1651-1652	.	_	
+
+#Text=It is an alternative to get to Interstate 210, rather than taking the heavily traveled Antelope Valley Freeway (California State Route 14).
+14-1	1653-1655	It	_	
+14-2	1656-1658	is	_	
+14-3	1659-1661	an	_	
+14-4	1662-1673	alternative	_	
+14-5	1674-1676	to	_	
+14-6	1677-1680	get	_	
+14-7	1681-1683	to	_	
+14-8	1684-1694	Interstate	_	
+14-9	1695-1698	210	_	
+14-10	1698-1699	,	_	
+14-11	1700-1706	rather	_	
+14-12	1707-1711	than	_	
+14-13	1712-1718	taking	_	
+14-14	1719-1722	the	_	
+14-15	1723-1730	heavily	_	
+14-16	1731-1739	traveled	_	
+14-17	1740-1748	Antelope	_	
+14-18	1749-1755	Valley	_	
+14-19	1756-1763	Freeway	_	
+14-20	1764-1765	(	_	
+14-21	1765-1775	California	_	
+14-22	1776-1781	State	_	
+14-23	1782-1787	Route	_	
+14-24	1788-1790	14	_	
+14-25	1790-1791	)	_	
+14-26	1791-1792	.	_	

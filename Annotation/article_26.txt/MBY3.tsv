@@ -1,0 +1,197 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Events|value
+
+
+#Text=The head of the European Commission, José Manuel Barroso, has revised his choice of 25 Commissioners after he was forced to withdraw his last list of candidates.
+1-1	0-3	The	_	
+1-2	4-8	head	_	
+1-3	9-11	of	_	
+1-4	12-15	the	_	
+1-5	16-24	European	_	
+1-6	25-35	Commission	Décision gouvernementale	
+1-7	35-36	,	_	
+1-8	37-41	José	_	
+1-9	42-48	Manuel	_	
+1-10	49-56	Barroso	_	
+1-11	56-57	,	_	
+1-12	58-61	has	_	
+1-13	62-69	revised	Décision gouvernementale[1]	
+1-14	70-73	his	Décision gouvernementale[1]	
+1-15	74-80	choice	Décision gouvernementale[1]	
+1-16	81-83	of	_	
+1-17	84-86	25	_	
+1-18	87-100	Commissioners	Décision gouvernementale	
+1-19	101-106	after	_	
+1-20	107-109	he	_	
+1-21	110-113	was	_	
+1-22	114-120	forced	_	
+1-23	121-123	to	_	
+1-24	124-132	withdraw	Décision gouvernementale	
+1-25	133-136	his	_	
+1-26	137-141	last	_	
+1-27	142-146	list	_	
+1-28	147-149	of	_	
+1-29	150-160	candidates	_	
+1-30	160-161	.	_	
+
+#Text=Controversy was sparked by his choice of conservative Italian Rocco Buttiglione for the Justice Commissioner position, who made several statements regarding homosexuality and women that members of the European Parliament objected to.
+2-1	162-173	Controversy	_	
+2-2	174-177	was	_	
+2-3	178-185	sparked	_	
+2-4	186-188	by	_	
+2-5	189-192	his	_	
+2-6	193-199	choice	_	
+2-7	200-202	of	_	
+2-8	203-215	conservative	_	
+2-9	216-223	Italian	_	
+2-10	224-229	Rocco	_	
+2-11	230-241	Buttiglione	_	
+2-12	242-245	for	_	
+2-13	246-249	the	_	
+2-14	250-257	Justice	Décision gouvernementale[2]	
+2-15	258-270	Commissioner	_	
+2-15.1	258-269	Commissione	Décision gouvernementale[2]	
+2-16	271-279	position	_	
+2-17	279-280	,	_	
+2-18	281-284	who	_	
+2-19	285-289	made	_	
+2-20	290-297	several	_	
+2-21	298-308	statements	_	
+2-22	309-318	regarding	_	
+2-23	319-332	homosexuality	_	
+2-24	333-336	and	_	
+2-25	337-342	women	_	
+2-26	343-347	that	_	
+2-27	348-355	members	_	
+2-28	356-358	of	_	
+2-29	359-362	the	_	
+2-30	363-371	European	_	
+2-31	372-382	Parliament	Décision gouvernementale	
+2-32	383-391	objected	_	
+2-33	392-394	to	_	
+2-34	394-395	.	_	
+
+#Text=His new line-up, according to the BBC, is mostly identical to his previous one; only two previous candidates (the Italian Buttiglione and the Latvian Ingrīda Ūdre) have been replaced.
+3-1	399-402	His	_	
+3-2	403-406	new	_	
+3-3	407-414	line-up	_	
+3-4	414-415	,	_	
+3-5	416-425	according	_	
+3-6	426-428	to	_	
+3-7	429-432	the	_	
+3-8	433-436	BBC	_	
+3-9	436-437	,	_	
+3-10	438-440	is	_	
+3-11	441-447	mostly	_	
+3-12	448-457	identical	_	
+3-13	458-460	to	_	
+3-14	461-464	his	_	
+3-15	465-473	previous	_	
+3-16	474-477	one	_	
+3-17	477-478	;	_	
+3-18	479-483	only	_	
+3-19	484-487	two	_	
+3-20	488-496	previous	_	
+3-21	497-507	candidates	_	
+3-22	508-509	(	_	
+3-23	509-512	the	_	
+3-24	513-520	Italian	_	
+3-25	521-532	Buttiglione	_	
+3-26	533-536	and	_	
+3-27	537-540	the	_	
+3-28	541-548	Latvian	_	
+3-29	549-556	Ingrīda	_	
+3-30	557-561	Ūdre	_	
+3-31	561-562	)	_	
+3-32	563-567	have	_	
+3-33	568-572	been	_	
+3-34	573-581	replaced	_	
+3-35	581-582	.	_	
+
+#Text=The European Parliament voted in favour the Commissioners on November 18th, giving Barroso and his staff the green light to start their official five-year term starting on Monday.
+4-1	583-586	The	_	
+4-2	587-595	European	_	
+4-3	596-606	Parliament	Décision gouvernementale	
+4-4	607-612	voted	_	
+4-5	613-615	in	_	
+4-6	616-622	favour	_	
+4-7	623-626	the	_	
+4-8	627-640	Commissioners	Décision gouvernementale	
+4-9	641-643	on	_	
+4-10	644-652	November	_	
+4-11	653-657	18th	_	
+4-12	657-658	,	_	
+4-13	659-665	giving	_	
+4-14	666-673	Barroso	_	
+4-15	674-677	and	_	
+4-16	678-681	his	_	
+4-17	682-687	staff	_	
+4-18	688-691	the	_	
+4-19	692-697	green	_	
+4-20	698-703	light	_	
+4-21	704-706	to	_	
+4-22	707-712	start	_	
+4-23	713-718	their	_	
+4-24	719-727	official	_	
+4-25	728-737	five-year	_	
+4-26	738-742	term	_	
+4-27	743-751	starting	_	
+4-28	752-754	on	_	
+4-29	755-761	Monday	_	
+4-30	761-762	.	_	
+
+#Text=While the Greens, Eurosceptics and the Communist Party voted against, the Commission secured the approval of the Parliament's biggest parties - the Socialists, the Liberals and the European People's Party.
+5-1	763-768	While	_	
+5-2	769-772	the	_	
+5-3	773-779	Greens	_	
+5-4	779-780	,	_	
+5-5	781-793	Eurosceptics	_	
+5-6	794-797	and	_	
+5-7	798-801	the	_	
+5-8	802-811	Communist	Décision gouvernementale[3]	
+5-9	812-817	Party	Décision gouvernementale[3]	
+5-10	818-823	voted	Décision gouvernementale[4]	
+5-11	824-831	against	Décision gouvernementale[4]	
+5-12	831-832	,	_	
+5-13	833-836	the	_	
+5-14	837-847	Commission	Décision gouvernementale	
+5-15	848-855	secured	_	
+5-16	856-859	the	_	
+5-17	860-868	approval	_	
+5-18	869-871	of	_	
+5-19	872-875	the	_	
+5-20	876-888	Parliament's	_	
+5-20.1	876-886	Parliament	Décision gouvernementale	
+5-21	889-896	biggest	_	
+5-22	897-904	parties	_	
+5-23	905-906	-	_	
+5-24	907-910	the	_	
+5-25	911-921	Socialists	_	
+5-26	921-922	,	_	
+5-27	923-926	the	_	
+5-28	927-935	Liberals	_	
+5-29	936-939	and	_	
+5-30	940-943	the	_	
+5-31	944-952	European	_	
+5-32	953-961	People's	_	
+5-33	962-967	Party	_	
+5-34	967-968	.	_	
+
+#Text=The vote ended with 449 in favour, 149 against and 82 abstentions, CNN reports.
+6-1	969-972	The	_	
+6-2	973-977	vote	_	
+6-3	978-983	ended	_	
+6-4	984-988	with	_	
+6-5	989-992	449	_	
+6-6	993-995	in	_	
+6-7	996-1002	favour	_	
+6-8	1002-1003	,	_	
+6-9	1004-1007	149	_	
+6-10	1008-1015	against	_	
+6-11	1016-1019	and	_	
+6-12	1020-1022	82	_	
+6-13	1023-1034	abstentions	_	
+6-14	1034-1035	,	_	
+6-15	1036-1039	CNN	_	
+6-16	1040-1047	reports	_	
+6-17	1047-1048	.	_	

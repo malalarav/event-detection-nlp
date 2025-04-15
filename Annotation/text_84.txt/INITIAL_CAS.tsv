@@ -1,0 +1,334 @@
+#FORMAT=WebAnno TSV 3.3
+
+
+#Text=According to Agência Estado, members of the Brazilian Landless Workers Movement (MST) are accused of beating to death Paulo Brizola Nunes.
+1-1	0-9	According	
+1-2	10-12	to	
+1-3	13-20	Agência	
+1-4	21-27	Estado	
+1-5	27-28	,	
+1-6	29-36	members	
+1-7	37-39	of	
+1-8	40-43	the	
+1-9	44-53	Brazilian	
+1-10	54-62	Landless	
+1-11	63-70	Workers	
+1-12	71-79	Movement	
+1-13	80-81	(	
+1-14	81-84	MST	
+1-15	84-85	)	
+1-16	86-89	are	
+1-17	90-97	accused	
+1-18	98-100	of	
+1-19	101-108	beating	
+1-20	109-111	to	
+1-21	112-117	death	
+1-22	118-123	Paulo	
+1-23	124-131	Brizola	
+1-24	132-137	Nunes	
+1-25	137-138	.	
+
+#Text=Mr.
+2-1	139-141	Mr	
+2-2	141-142	.	
+
+#Text=Nunes, 51 years old, was an employee of the Noroeste Farm in Cabixi, 820 km (510 miles) away from the regional capital of Porto Velho, Rondonia.
+3-1	143-148	Nunes	
+3-2	148-149	,	
+3-3	150-152	51	
+3-4	153-158	years	
+3-5	159-162	old	
+3-6	162-163	,	
+3-7	164-167	was	
+3-8	168-170	an	
+3-9	171-179	employee	
+3-10	180-182	of	
+3-11	183-186	the	
+3-12	187-195	Noroeste	
+3-13	196-200	Farm	
+3-14	201-203	in	
+3-15	204-210	Cabixi	
+3-16	210-211	,	
+3-17	212-215	820	
+3-18	216-218	km	
+3-19	219-220	(	
+3-20	220-223	510	
+3-21	224-229	miles	
+3-22	229-230	)	
+3-23	231-235	away	
+3-24	236-240	from	
+3-25	241-244	the	
+3-26	245-253	regional	
+3-27	254-261	capital	
+3-28	262-264	of	
+3-29	265-270	Porto	
+3-30	271-276	Velho	
+3-31	276-277	,	
+3-32	278-286	Rondonia	
+3-33	286-287	.	
+
+#Text=The farm was considered at risk of invasion due to its proximity to a MST encampment.
+4-1	288-291	The	
+4-2	292-296	farm	
+4-3	297-300	was	
+4-4	301-311	considered	
+4-5	312-314	at	
+4-6	315-319	risk	
+4-7	320-322	of	
+4-8	323-331	invasion	
+4-9	332-335	due	
+4-10	336-338	to	
+4-11	339-342	its	
+4-12	343-352	proximity	
+4-13	353-355	to	
+4-14	356-357	a	
+4-15	358-361	MST	
+4-16	362-372	encampment	
+4-17	372-373	.	
+
+#Text=Nunes and another employee of Noroeste Farm known as "Coco" were on a motorcycle when they were allegedly attacked.
+5-1	377-382	Nunes	
+5-2	383-386	and	
+5-3	387-394	another	
+5-4	395-403	employee	
+5-5	404-406	of	
+5-6	407-415	Noroeste	
+5-7	416-420	Farm	
+5-8	421-426	known	
+5-9	427-429	as	
+5-10	430-431	"	
+5-11	431-435	Coco	
+5-12	435-436	"	
+5-13	437-441	were	
+5-14	442-444	on	
+5-15	445-446	a	
+5-16	447-457	motorcycle	
+5-17	458-462	when	
+5-18	463-467	they	
+5-19	468-472	were	
+5-20	473-482	allegedly	
+5-21	483-491	attacked	
+5-22	491-492	.	
+
+#Text=MST members allegedly extended barbed wire across the road to down the two men, who were then pummelled with axes and sticks.
+6-1	493-496	MST	
+6-2	497-504	members	
+6-3	505-514	allegedly	
+6-4	515-523	extended	
+6-5	524-530	barbed	
+6-6	531-535	wire	
+6-7	536-542	across	
+6-8	543-546	the	
+6-9	547-551	road	
+6-10	552-554	to	
+6-11	555-559	down	
+6-12	560-563	the	
+6-13	564-567	two	
+6-14	568-571	men	
+6-15	571-572	,	
+6-16	573-576	who	
+6-17	577-581	were	
+6-18	582-586	then	
+6-19	587-596	pummelled	
+6-20	597-601	with	
+6-21	602-606	axes	
+6-22	607-610	and	
+6-23	611-617	sticks	
+6-24	617-618	.	
+
+#Text=Coco escaped to a Cabixi police station but Nunes was rendered unconscious and did not survive the assault.
+7-1	619-623	Coco	
+7-2	624-631	escaped	
+7-3	632-634	to	
+7-4	635-636	a	
+7-5	637-643	Cabixi	
+7-6	644-650	police	
+7-7	651-658	station	
+7-8	659-662	but	
+7-9	663-668	Nunes	
+7-10	669-672	was	
+7-11	673-681	rendered	
+7-12	682-693	unconscious	
+7-13	694-697	and	
+7-14	698-701	did	
+7-15	702-705	not	
+7-16	706-713	survive	
+7-17	714-717	the	
+7-18	718-725	assault	
+7-19	725-726	.	
+
+#Text=MST is a large Marxist-Maoist inspired movement of agricultural workers in Brazil, officially founded in 1984.
+8-1	730-733	MST	
+8-2	734-736	is	
+8-3	737-738	a	
+8-4	739-744	large	
+8-5	745-759	Marxist-Maoist	
+8-6	760-768	inspired	
+8-7	769-777	movement	
+8-8	778-780	of	
+8-9	781-793	agricultural	
+8-10	794-801	workers	
+8-11	802-804	in	
+8-12	805-811	Brazil	
+8-13	811-812	,	
+8-14	813-823	officially	
+8-15	824-831	founded	
+8-16	832-834	in	
+8-17	835-839	1984	
+8-18	839-840	.	
+
+#Text=The movement claims to pursue equitable redistribution of Brazilian farmland.
+9-1	841-844	The	
+9-2	845-853	movement	
+9-3	854-860	claims	
+9-4	861-863	to	
+9-5	864-870	pursue	
+9-6	871-880	equitable	
+9-7	881-895	redistribution	
+9-8	896-898	of	
+9-9	899-908	Brazilian	
+9-10	909-917	farmland	
+9-11	917-918	.	
+
+#Text=In 2003 there were 632 MST camps in Brazil, containing 116,382 families.
+10-1	919-921	In	
+10-2	922-926	2003	
+10-3	927-932	there	
+10-4	933-937	were	
+10-5	938-941	632	
+10-6	942-945	MST	
+10-7	946-951	camps	
+10-8	952-954	in	
+10-9	955-961	Brazil	
+10-10	961-962	,	
+10-11	963-973	containing	
+10-12	974-981	116,382	
+10-13	982-990	families	
+10-14	990-991	.	
+
+#Text=According to a recent report on labor standards in Brazil, conditions for laborers are poor.
+11-1	992-1001	According	
+11-2	1002-1004	to	
+11-3	1005-1006	a	
+11-4	1007-1013	recent	
+11-5	1014-1020	report	
+11-6	1021-1023	on	
+11-7	1024-1029	labor	
+11-8	1030-1039	standards	
+11-9	1040-1042	in	
+11-10	1043-1049	Brazil	
+11-11	1049-1050	,	
+11-12	1051-1061	conditions	
+11-13	1062-1065	for	
+11-14	1066-1074	laborers	
+11-15	1075-1078	are	
+11-16	1079-1083	poor	
+11-17	1083-1084	.	
+
+#Text=Currently, MST receives financial help from the Brazilian government and donations from international organizations.
+12-1	1085-1094	Currently	
+12-2	1094-1095	,	
+12-3	1096-1099	MST	
+12-4	1100-1108	receives	
+12-5	1109-1118	financial	
+12-6	1119-1123	help	
+12-7	1124-1128	from	
+12-8	1129-1132	the	
+12-9	1133-1142	Brazilian	
+12-10	1143-1153	government	
+12-11	1154-1157	and	
+12-12	1158-1167	donations	
+12-13	1168-1172	from	
+12-14	1173-1186	international	
+12-15	1187-1200	organizations	
+12-16	1200-1201	.	
+
+#Text=The movement also receives funds by selling videos of their invasions and other products like books, flags and caps.
+13-1	1202-1205	The	
+13-2	1206-1214	movement	
+13-3	1215-1219	also	
+13-4	1220-1228	receives	
+13-5	1229-1234	funds	
+13-6	1235-1237	by	
+13-7	1238-1245	selling	
+13-8	1246-1252	videos	
+13-9	1253-1255	of	
+13-10	1256-1261	their	
+13-11	1262-1271	invasions	
+13-12	1272-1275	and	
+13-13	1276-1281	other	
+13-14	1282-1290	products	
+13-15	1291-1295	like	
+13-16	1296-1301	books	
+13-17	1301-1302	,	
+13-18	1303-1308	flags	
+13-19	1309-1312	and	
+13-20	1313-1317	caps	
+13-21	1317-1318	.	
+
+#Text=MST's most visible tactic has been their armed occupation of mostly privately-held plantations and landholdings.
+14-1	1322-1327	MST's	
+14-2	1328-1332	most	
+14-3	1333-1340	visible	
+14-4	1341-1347	tactic	
+14-5	1348-1351	has	
+14-6	1352-1356	been	
+14-7	1357-1362	their	
+14-8	1363-1368	armed	
+14-9	1369-1379	occupation	
+14-10	1380-1382	of	
+14-11	1383-1389	mostly	
+14-12	1390-1404	privately-held	
+14-13	1405-1416	plantations	
+14-14	1417-1420	and	
+14-15	1421-1433	landholdings	
+14-16	1433-1434	.	
+
+#Text=However, some Brazilians have protested MST's use of violence.
+15-1	1435-1442	However	
+15-2	1442-1443	,	
+15-3	1444-1448	some	
+15-4	1449-1459	Brazilians	
+15-5	1460-1464	have	
+15-6	1465-1474	protested	
+15-7	1475-1480	MST's	
+15-8	1481-1484	use	
+15-9	1485-1487	of	
+15-10	1488-1496	violence	
+15-11	1496-1497	.	
+
+#Text=Many farms hire gunfighters to protect their properties from invasions as MST is known to permanently evict farmholders.
+16-1	1498-1502	Many	
+16-2	1503-1508	farms	
+16-3	1509-1513	hire	
+16-4	1514-1525	gunfighters	
+16-5	1526-1528	to	
+16-6	1529-1536	protect	
+16-7	1537-1542	their	
+16-8	1543-1553	properties	
+16-9	1554-1558	from	
+16-10	1559-1568	invasions	
+16-11	1569-1571	as	
+16-12	1572-1575	MST	
+16-13	1576-1578	is	
+16-14	1579-1584	known	
+16-15	1585-1587	to	
+16-16	1588-1599	permanently	
+16-17	1600-1605	evict	
+16-18	1606-1617	farmholders	
+16-19	1617-1618	.	
+
+#Text=MST claims they use arms only to defend themselves from the gunfighters.
+17-1	1619-1622	MST	
+17-2	1623-1629	claims	
+17-3	1630-1634	they	
+17-4	1635-1638	use	
+17-5	1639-1643	arms	
+17-6	1644-1648	only	
+17-7	1649-1651	to	
+17-8	1652-1658	defend	
+17-9	1659-1669	themselves	
+17-10	1670-1674	from	
+17-11	1675-1678	the	
+17-12	1679-1690	gunfighters	
+17-13	1690-1691	.	

@@ -1,0 +1,345 @@
+#FORMAT=WebAnno TSV 3.3
+
+
+#Text=Former Houston Rockets star Calvin Murphy, accused of molestation by five of daughters, was found not guilty by the jury, putting an end to the eight-month long trial.
+1-1	0-6	Former	
+1-2	7-14	Houston	
+1-3	15-22	Rockets	
+1-4	23-27	star	
+1-5	28-34	Calvin	
+1-6	35-41	Murphy	
+1-7	41-42	,	
+1-8	43-50	accused	
+1-9	51-53	of	
+1-10	54-65	molestation	
+1-11	66-68	by	
+1-12	69-73	five	
+1-13	74-76	of	
+1-14	77-86	daughters	
+1-15	86-87	,	
+1-16	88-91	was	
+1-17	92-97	found	
+1-18	98-101	not	
+1-19	102-108	guilty	
+1-20	109-111	by	
+1-21	112-115	the	
+1-22	116-120	jury	
+1-23	120-121	,	
+1-24	122-129	putting	
+1-25	130-132	an	
+1-26	133-136	end	
+1-27	137-139	to	
+1-28	140-143	the	
+1-29	144-155	eight-month	
+1-30	156-160	long	
+1-31	161-166	trial	
+1-32	166-167	.	
+
+#Text=The alleged incidents took place more than ten years ago, when the daughters, who are now grown, ranged in age from 6 to 16.
+2-1	171-174	The	
+2-2	175-182	alleged	
+2-3	183-192	incidents	
+2-4	193-197	took	
+2-5	198-203	place	
+2-6	204-208	more	
+2-7	209-213	than	
+2-8	214-217	ten	
+2-9	218-223	years	
+2-10	224-227	ago	
+2-11	227-228	,	
+2-12	229-233	when	
+2-13	234-237	the	
+2-14	238-247	daughters	
+2-15	247-248	,	
+2-16	249-252	who	
+2-17	253-256	are	
+2-18	257-260	now	
+2-19	261-266	grown	
+2-20	266-267	,	
+2-21	268-274	ranged	
+2-22	275-277	in	
+2-23	278-281	age	
+2-24	282-286	from	
+2-25	287-288	6	
+2-26	289-291	to	
+2-27	292-294	16	
+2-28	294-295	.	
+
+#Text=They accused Murphy of fondling them and performing oral sex on them.
+3-1	296-300	They	
+3-2	301-308	accused	
+3-3	309-315	Murphy	
+3-4	316-318	of	
+3-5	319-327	fondling	
+3-6	328-332	them	
+3-7	333-336	and	
+3-8	337-347	performing	
+3-9	348-352	oral	
+3-10	353-356	sex	
+3-11	357-359	on	
+3-12	360-364	them	
+3-13	364-365	.	
+
+#Text=Murphy has 14 children by nine women.
+4-1	366-372	Murphy	
+4-2	373-376	has	
+4-3	377-379	14	
+4-4	380-388	children	
+4-5	389-391	by	
+4-6	392-396	nine	
+4-7	397-402	women	
+4-8	402-403	.	
+
+#Text=Murphy's attorney claimed that the women's accusations were false and that they were bitter because he did not treat them the same as he treated the children born to his ex-wife.
+5-1	407-415	Murphy's	
+5-2	416-424	attorney	
+5-3	425-432	claimed	
+5-4	433-437	that	
+5-5	438-441	the	
+5-6	442-449	women's	
+5-7	450-461	accusations	
+5-8	462-466	were	
+5-9	467-472	false	
+5-10	473-476	and	
+5-11	477-481	that	
+5-12	482-486	they	
+5-13	487-491	were	
+5-14	492-498	bitter	
+5-15	499-506	because	
+5-16	507-509	he	
+5-17	510-513	did	
+5-18	514-517	not	
+5-19	518-523	treat	
+5-20	524-528	them	
+5-21	529-532	the	
+5-22	533-537	same	
+5-23	538-540	as	
+5-24	541-543	he	
+5-25	544-551	treated	
+5-26	552-555	the	
+5-27	556-564	children	
+5-28	565-569	born	
+5-29	570-572	to	
+5-30	573-576	his	
+5-31	577-584	ex-wife	
+5-32	584-585	.	
+
+#Text=Murphy's two daughters who were products of his previous marriage came to his defense.
+6-1	586-594	Murphy's	
+6-2	595-598	two	
+6-3	599-608	daughters	
+6-4	609-612	who	
+6-5	613-617	were	
+6-6	618-626	products	
+6-7	627-629	of	
+6-8	630-633	his	
+6-9	634-642	previous	
+6-10	643-651	marriage	
+6-11	652-656	came	
+6-12	657-659	to	
+6-13	660-663	his	
+6-14	664-671	defense	
+6-15	671-672	.	
+
+#Text=The jury indicated that they found the women's statements unreliable.
+7-1	676-679	The	
+7-2	680-684	jury	
+7-3	685-694	indicated	
+7-4	695-699	that	
+7-5	700-704	they	
+7-6	705-710	found	
+7-7	711-714	the	
+7-8	715-722	women's	
+7-9	723-733	statements	
+7-10	734-744	unreliable	
+7-11	744-745	.	
+
+#Text=The former basketball star's lawyers said three of the five daughters had been trying to claim $52,408 in death benefits left in a teachers retirement account belonging to their mother, Phyllis Davidson.
+8-1	747-750	The	
+8-2	751-757	former	
+8-3	758-768	basketball	
+8-4	769-775	star's	
+8-5	776-783	lawyers	
+8-6	784-788	said	
+8-7	789-794	three	
+8-8	795-797	of	
+8-9	798-801	the	
+8-10	802-806	five	
+8-11	807-816	daughters	
+8-12	817-820	had	
+8-13	821-825	been	
+8-14	826-832	trying	
+8-15	833-835	to	
+8-16	836-841	claim	
+8-17	842-849	$52,408	
+8-18	850-852	in	
+8-19	853-858	death	
+8-20	859-867	benefits	
+8-21	868-872	left	
+8-22	873-875	in	
+8-23	876-877	a	
+8-24	878-886	teachers	
+8-25	887-897	retirement	
+8-26	898-905	account	
+8-27	906-915	belonging	
+8-28	916-918	to	
+8-29	919-924	their	
+8-30	925-931	mother	
+8-31	931-932	,	
+8-32	933-940	Phyllis	
+8-33	941-949	Davidson	
+8-34	949-950	.	
+
+#Text=Murphy had a 20-year relationship and four children with Davidson, who died in a car accident in 1996.
+9-1	951-957	Murphy	
+9-2	958-961	had	
+9-3	962-963	a	
+9-4	964-966	20	
+9-5	966-967	-	
+9-6	967-971	year	
+9-7	972-984	relationship	
+9-8	985-988	and	
+9-9	989-993	four	
+9-10	994-1002	children	
+9-11	1003-1007	with	
+9-12	1008-1016	Davidson	
+9-13	1016-1017	,	
+9-14	1018-1021	who	
+9-15	1022-1026	died	
+9-16	1027-1029	in	
+9-17	1030-1031	a	
+9-18	1032-1035	car	
+9-19	1036-1044	accident	
+9-20	1045-1047	in	
+9-21	1048-1052	1996	
+9-22	1052-1053	.	
+
+#Text=This year, the three daughters continued their grandmother's attempt to stop Murphy from receiving the benefits.
+10-1	1057-1061	This	
+10-2	1062-1066	year	
+10-3	1066-1067	,	
+10-4	1068-1071	the	
+10-5	1072-1077	three	
+10-6	1078-1087	daughters	
+10-7	1088-1097	continued	
+10-8	1098-1103	their	
+10-9	1104-1117	grandmother's	
+10-10	1118-1125	attempt	
+10-11	1126-1128	to	
+10-12	1129-1133	stop	
+10-13	1134-1140	Murphy	
+10-14	1141-1145	from	
+10-15	1146-1155	receiving	
+10-16	1156-1159	the	
+10-17	1160-1168	benefits	
+10-18	1168-1169	.	
+
+#Text=He was listed as the account's beneficiary, according to court records.
+11-1	1170-1172	He	
+11-2	1173-1176	was	
+11-3	1177-1183	listed	
+11-4	1184-1186	as	
+11-5	1187-1190	the	
+11-6	1191-1200	account's	
+11-7	1201-1212	beneficiary	
+11-8	1212-1213	,	
+11-9	1214-1223	according	
+11-10	1224-1226	to	
+11-11	1227-1232	court	
+11-12	1233-1240	records	
+11-13	1240-1241	.	
+
+#Text=On Feb. 20, letters went to Murphy, his three daughters and their grandmother that Murphy was the account's rightful beneficiary.
+12-1	1245-1247	On	
+12-2	1248-1251	Feb	
+12-3	1251-1252	.	
+12-4	1253-1255	20	
+12-5	1255-1256	,	
+12-6	1257-1264	letters	
+12-7	1265-1269	went	
+12-8	1270-1272	to	
+12-9	1273-1279	Murphy	
+12-10	1279-1280	,	
+12-11	1281-1284	his	
+12-12	1285-1290	three	
+12-13	1291-1300	daughters	
+12-14	1301-1304	and	
+12-15	1305-1310	their	
+12-16	1311-1322	grandmother	
+12-17	1323-1327	that	
+12-18	1328-1334	Murphy	
+12-19	1335-1338	was	
+12-20	1339-1342	the	
+12-21	1343-1352	account's	
+12-22	1353-1361	rightful	
+12-23	1362-1373	beneficiary	
+12-24	1373-1374	.	
+
+#Text=The money was never paid.
+13-1	1375-1378	The	
+13-2	1379-1384	money	
+13-3	1385-1388	was	
+13-4	1389-1394	never	
+13-5	1395-1399	paid	
+13-6	1399-1400	.	
+
+#Text=A month later, Murphy was arrested and charged with sexual abuse and indecency.
+14-1	1404-1405	A	
+14-2	1406-1411	month	
+14-3	1412-1417	later	
+14-4	1417-1418	,	
+14-5	1419-1425	Murphy	
+14-6	1426-1429	was	
+14-7	1430-1438	arrested	
+14-8	1439-1442	and	
+14-9	1443-1450	charged	
+14-10	1451-1455	with	
+14-11	1456-1462	sexual	
+14-12	1463-1468	abuse	
+14-13	1469-1472	and	
+14-14	1473-1482	indecency	
+14-15	1482-1483	.	
+
+#Text=Because of the nature of the accusations, Murphy lost his job with the Houston Rockets, where he was a TV commentator.
+15-1	1487-1494	Because	
+15-2	1495-1497	of	
+15-3	1498-1501	the	
+15-4	1502-1508	nature	
+15-5	1509-1511	of	
+15-6	1512-1515	the	
+15-7	1516-1527	accusations	
+15-8	1527-1528	,	
+15-9	1529-1535	Murphy	
+15-10	1536-1540	lost	
+15-11	1541-1544	his	
+15-12	1545-1548	job	
+15-13	1549-1553	with	
+15-14	1554-1557	the	
+15-15	1558-1565	Houston	
+15-16	1566-1573	Rockets	
+15-17	1573-1574	,	
+15-18	1575-1580	where	
+15-19	1581-1583	he	
+15-20	1584-1587	was	
+15-21	1588-1589	a	
+15-22	1590-1592	TV	
+15-23	1593-1604	commentator	
+15-24	1604-1605	.	
+
+#Text=Murphy has not commented about if he has plans to return to a broadcasting career.
+16-1	1606-1612	Murphy	
+16-2	1613-1616	has	
+16-3	1617-1620	not	
+16-4	1621-1630	commented	
+16-5	1631-1636	about	
+16-6	1637-1639	if	
+16-7	1640-1642	he	
+16-8	1643-1646	has	
+16-9	1647-1652	plans	
+16-10	1653-1655	to	
+16-11	1656-1662	return	
+16-12	1663-1665	to	
+16-13	1666-1667	a	
+16-14	1668-1680	broadcasting	
+16-15	1681-1687	career	
+16-16	1687-1688	.	

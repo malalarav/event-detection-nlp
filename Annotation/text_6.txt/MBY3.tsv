@@ -1,0 +1,186 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Events|value
+
+
+#Text=Hassan Rowhani, head of the Supreme National Security Council for Iran, announced Monday that the country would temporarily suspend conversion of uranium as of November 22.
+1-1	0-6	Hassan	_	
+1-2	7-14	Rowhani	_	
+1-3	14-15	,	_	
+1-4	16-20	head	_	
+1-5	21-23	of	_	
+1-6	24-27	the	_	
+1-7	28-35	Supreme	_	
+1-8	36-44	National	_	
+1-9	45-53	Security	_	
+1-10	54-61	Council	_	
+1-11	62-65	for	_	
+1-12	66-70	Iran	_	
+1-13	70-71	,	_	
+1-14	72-81	announced	_	
+1-15	82-88	Monday	_	
+1-16	89-93	that	_	
+1-17	94-97	the	_	
+1-18	98-105	country	_	
+1-19	106-111	would	_	
+1-20	112-123	temporarily	_	
+1-21	124-131	suspend	Décision gouvernementale	
+1-22	132-142	conversion	_	
+1-23	143-145	of	_	
+1-24	146-153	uranium	_	
+1-25	154-156	as	_	
+1-26	157-159	of	_	
+1-27	160-168	November	_	
+1-28	169-171	22	_	
+1-29	171-172	.	_	
+
+#Text="Iran is planning to suspend uranium conversion activities from November 22," Rowhani said during a news conference.
+2-1	173-174	"	_	
+2-2	174-178	Iran	_	
+2-3	179-181	is	_	
+2-4	182-190	planning	_	
+2-5	191-193	to	_	
+2-6	194-201	suspend	_	
+2-7	202-209	uranium	_	
+2-8	210-220	conversion	_	
+2-9	221-231	activities	_	
+2-10	232-236	from	_	
+2-11	237-245	November	_	
+2-12	246-248	22	_	
+2-13	248-249	,	_	
+2-14	249-250	"	_	
+2-15	251-258	Rowhani	_	
+2-16	259-263	said	_	
+2-17	264-270	during	_	
+2-18	271-272	a	_	
+2-19	273-277	news	Décision gouvernementale[1]	
+2-20	278-288	conference	Décision gouvernementale[1]	
+2-21	288-289	.	_	
+
+#Text=Uranium is a chemical element which can be used in nuclear weapons and nuclear power plants.
+3-1	291-298	Uranium	_	
+3-2	299-301	is	_	
+3-3	302-303	a	_	
+3-4	304-312	chemical	_	
+3-5	313-320	element	_	
+3-6	321-326	which	_	
+3-7	327-330	can	_	
+3-8	331-333	be	_	
+3-9	334-338	used	_	
+3-10	339-341	in	_	
+3-11	342-349	nuclear	Conflit[2]	
+3-12	350-357	weapons	Conflit[2]	
+3-13	358-361	and	_	
+3-14	362-369	nuclear	_	
+3-15	370-375	power	_	
+3-16	376-382	plants	_	
+3-17	382-383	.	_	
+
+#Text=The process of conversion modifies the uranium oxydes into uranium hexafluoride.
+4-1	384-387	The	_	
+4-2	388-395	process	_	
+4-3	396-398	of	_	
+4-4	399-409	conversion	_	
+4-5	410-418	modifies	_	
+4-6	419-422	the	_	
+4-7	423-430	uranium	_	
+4-8	431-437	oxydes	_	
+4-9	438-442	into	_	
+4-10	443-450	uranium	_	
+4-11	451-463	hexafluoride	_	
+4-12	463-464	.	_	
+
+#Text=The purpose of such a conversion process is usually an intermediate step in the production of nuclear fuel.
+5-1	465-468	The	_	
+5-2	469-476	purpose	_	
+5-3	477-479	of	_	
+5-4	480-484	such	_	
+5-5	485-486	a	_	
+5-6	487-497	conversion	_	
+5-7	498-505	process	_	
+5-8	506-508	is	_	
+5-9	509-516	usually	_	
+5-10	517-519	an	_	
+5-11	520-532	intermediate	_	
+5-12	533-537	step	_	
+5-13	538-540	in	_	
+5-14	541-544	the	_	
+5-15	545-555	production	_	
+5-16	556-558	of	_	
+5-17	559-566	nuclear	_	
+5-18	567-571	fuel	_	
+5-19	571-572	.	_	
+
+#Text=Uranium hexafluoride cannot itself be used in a nuclear weapon, but can be enriched into weapons-grade uranium, or it can be converted into plutonium in a nuclear reactor.
+6-1	573-580	Uranium	_	
+6-2	581-593	hexafluoride	_	
+6-3	594-600	cannot	_	
+6-4	601-607	itself	_	
+6-5	608-610	be	_	
+6-6	611-615	used	_	
+6-7	616-618	in	_	
+6-8	619-620	a	_	
+6-9	621-628	nuclear	_	
+6-10	629-635	weapon	_	
+6-11	635-636	,	_	
+6-12	637-640	but	_	
+6-13	641-644	can	_	
+6-14	645-647	be	_	
+6-15	648-656	enriched	_	
+6-16	657-661	into	_	
+6-17	662-675	weapons-grade	Conflit[3]	
+6-18	676-683	uranium	Conflit[3]	
+6-19	683-684	,	_	
+6-20	685-687	or	_	
+6-21	688-690	it	_	
+6-22	691-694	can	_	
+6-23	695-697	be	_	
+6-24	698-707	converted	_	
+6-25	708-712	into	_	
+6-26	713-722	plutonium	_	
+6-27	723-725	in	_	
+6-28	726-727	a	_	
+6-29	728-735	nuclear	_	
+6-30	736-743	reactor	_	
+6-31	743-744	.	_	
+
+#Text=Iran has claimed to be using its nuclear program for only peaceful nuclear energy, rather than for nuclear weapons, but there are concerns in the European Union and the USA as to whether they are being truthful.
+7-1	745-749	Iran	_	
+7-2	750-753	has	_	
+7-3	754-761	claimed	_	
+7-4	762-764	to	_	
+7-5	765-767	be	_	
+7-6	768-773	using	_	
+7-7	774-777	its	_	
+7-8	778-785	nuclear	_	
+7-9	786-793	program	_	
+7-10	794-797	for	_	
+7-11	798-802	only	_	
+7-12	803-811	peaceful	_	
+7-13	812-819	nuclear	_	
+7-14	820-826	energy	_	
+7-15	826-827	,	_	
+7-16	828-834	rather	_	
+7-17	835-839	than	_	
+7-18	840-843	for	_	
+7-19	844-851	nuclear	_	
+7-20	852-859	weapons	_	
+7-21	859-860	,	_	
+7-22	861-864	but	_	
+7-23	865-870	there	_	
+7-24	871-874	are	_	
+7-25	875-883	concerns	_	
+7-26	884-886	in	_	
+7-27	887-890	the	_	
+7-28	891-899	European	_	
+7-29	900-905	Union	_	
+7-30	906-909	and	_	
+7-31	910-913	the	_	
+7-32	914-917	USA	_	
+7-33	918-920	as	_	
+7-34	921-923	to	_	
+7-35	924-931	whether	_	
+7-36	932-936	they	_	
+7-37	937-940	are	_	
+7-38	941-946	being	_	
+7-39	947-955	truthful	_	
+7-40	955-956	.	_	

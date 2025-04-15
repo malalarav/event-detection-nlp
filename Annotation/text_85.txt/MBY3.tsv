@@ -1,0 +1,303 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Events|value
+
+
+#Text=Millions of origami cranes have been dropped on Thailand's three southern provinces following violence between the government and ethnic minority Muslim populations.
+1-1	0-8	Millions	Évenement culturelle[1]	
+1-2	9-11	of	Évenement culturelle[1]	
+1-3	12-19	origami	Évenement culturelle[1]	
+1-4	20-26	cranes	Évenement culturelle[1]	
+1-5	27-31	have	Évenement culturelle[1]	
+1-6	32-36	been	Évenement culturelle[1]	
+1-7	37-44	dropped	Évenement culturelle[1]	
+1-8	45-47	on	Évenement culturelle[1]	
+1-9	48-58	Thailand's	Évenement culturelle[1]	
+1-10	59-64	three	_	
+1-11	65-73	southern	_	
+1-12	74-83	provinces	_	
+1-13	84-93	following	_	
+1-14	94-102	violence	Conflit	
+1-15	103-110	between	_	
+1-16	111-114	the	_	
+1-17	115-125	government	Décision gouvernementale	
+1-18	126-129	and	_	
+1-19	130-136	ethnic	Conflit[2]	
+1-20	137-145	minority	Conflit[2]	
+1-21	146-152	Muslim	_	
+1-22	153-164	populations	_	
+1-23	164-165	.	_	
+
+#Text=The move has been called a "goodwill gesture" towards Muslims.
+2-1	166-169	The	_	
+2-2	170-174	move	_	
+2-3	175-178	has	_	
+2-4	179-183	been	_	
+2-5	184-190	called	_	
+2-6	191-192	a	_	
+2-7	193-194	"	_	
+2-8	194-202	goodwill	Évenement culturelle[3]	
+2-9	203-210	gesture	Évenement culturelle[3]	
+2-10	210-211	"	_	
+2-11	212-219	towards	_	
+2-12	220-227	Muslims	_	
+2-13	227-228	.	_	
+
+#Text=Up to 120 million such paper sculptures were dropped on Thailand's three southern-most provinces, Narathiwat, Pattani and Yala.
+3-1	232-234	Up	_	
+3-2	235-237	to	_	
+3-3	238-241	120	Évenement culturelle[4]	
+3-4	242-249	million	Évenement culturelle[4]	
+3-5	250-254	such	Évenement culturelle[4]	
+3-6	255-260	paper	Évenement culturelle[4]	
+3-7	261-271	sculptures	Évenement culturelle[4]	
+3-8	272-276	were	Évenement culturelle[4]	
+3-9	277-284	dropped	Évenement culturelle[4]	
+3-10	285-287	on	Évenement culturelle[4]	
+3-11	288-298	Thailand's	Évenement culturelle[4]	
+3-12	299-304	three	_	
+3-13	305-318	southern-most	_	
+3-14	319-328	provinces	_	
+3-15	328-329	,	_	
+3-16	330-340	Narathiwat	_	
+3-17	340-341	,	_	
+3-18	342-349	Pattani	_	
+3-19	350-353	and	_	
+3-20	354-358	Yala	_	
+3-21	358-359	.	_	
+
+#Text=Tensions in this area have increased recently, peaking with the recent death of 85 demonstrators arrested during a protest.
+4-1	360-368	Tensions	Conflit	
+4-2	369-371	in	_	
+4-3	372-376	this	_	
+4-4	377-381	area	_	
+4-5	382-386	have	_	
+4-6	387-396	increased	Conflit	
+4-7	397-405	recently	_	
+4-8	405-406	,	_	
+4-9	407-414	peaking	_	
+4-10	415-419	with	_	
+4-11	420-423	the	_	
+4-12	424-430	recent	Décès[5]	
+4-13	431-436	death	Décès[5]	
+4-14	437-439	of	_	
+4-15	440-442	85	_	
+4-16	443-456	demonstrators	Conflit	
+4-17	457-465	arrested	Conflit	
+4-18	466-472	during	_	
+4-19	473-474	a	_	
+4-20	475-482	protest	Conflit	
+4-21	482-483	.	_	
+
+#Text=The government blamed their deaths on physical weakness due to fasting in the month of Ramadan as the cause, as most if not all the deaths occurred during transport of up to 500 arrested protestors.
+5-1	484-487	The	_	
+5-2	488-498	government	Décision gouvernementale	
+5-3	499-505	blamed	Décès[6]	
+5-4	506-511	their	Décès[6]	
+5-5	512-518	deaths	Décès[6]	
+5-6	519-521	on	_	
+5-7	522-530	physical	Conflit[7]	
+5-8	531-539	weakness	Conflit[7]	
+5-9	540-543	due	_	
+5-10	544-546	to	_	
+5-11	547-554	fasting	_	
+5-12	555-557	in	_	
+5-13	558-561	the	_	
+5-14	562-567	month	_	
+5-15	568-570	of	_	
+5-16	571-578	Ramadan	_	
+5-17	579-581	as	_	
+5-18	582-585	the	_	
+5-19	586-591	cause	_	
+5-20	591-592	,	_	
+5-21	593-595	as	_	
+5-22	596-600	most	_	
+5-23	601-603	if	_	
+5-24	604-607	not	_	
+5-25	608-611	all	_	
+5-26	612-615	the	_	
+5-27	616-622	deaths	Décès	
+5-28	623-631	occurred	_	
+5-29	632-638	during	_	
+5-30	639-648	transport	_	
+5-31	649-651	of	_	
+5-32	652-654	up	_	
+5-33	655-657	to	_	
+5-34	658-661	500	_	
+5-35	662-670	arrested	Conflit[8]	
+5-36	671-681	protestors	Conflit[8]	
+5-37	681-682	.	_	
+
+#Text=Critics of the Thai government have called for the resignation of Prime Minister Thaksin Shinawatra, blaming the "over-eagerness" of Thai security forces as the cause of the deaths.
+6-1	683-690	Critics	Conflit[9]	
+6-2	691-693	of	Conflit[9]	
+6-3	694-697	the	Conflit[9]	
+6-4	698-702	Thai	Conflit[9]	
+6-5	703-713	government	Conflit[9]	
+6-6	714-718	have	_	
+6-7	719-725	called	_	
+6-8	726-729	for	_	
+6-9	730-733	the	_	
+6-10	734-745	resignation	Conflit	
+6-11	746-748	of	_	
+6-12	749-754	Prime	Décision gouvernementale[10]	
+6-13	755-763	Minister	Décision gouvernementale[10]	
+6-14	764-771	Thaksin	_	
+6-15	772-782	Shinawatra	_	
+6-16	782-783	,	_	
+6-17	784-791	blaming	Conflit	
+6-18	792-795	the	_	
+6-19	796-797	"	_	
+6-20	797-811	over-eagerness	_	
+6-21	811-812	"	_	
+6-22	813-815	of	_	
+6-23	816-820	Thai	Conflit[11]	
+6-24	821-829	security	Conflit[11]	
+6-25	830-836	forces	Conflit[11]	
+6-26	837-839	as	Conflit[11]	
+6-27	840-843	the	Conflit[11]	
+6-28	844-849	cause	Conflit[11]	
+6-29	850-852	of	Conflit[11]	
+6-30	853-856	the	Conflit[11]	
+6-31	857-863	deaths	Conflit[11]	
+6-32	863-864	.	_	
+
+#Text=The dispersal was timed to coincide with the birthday of Thailand's King Bhumibol Adulyadej, and has generated much interest from the rest of the country's predominantly Buddhist population.
+7-1	868-871	The	_	
+7-2	872-881	dispersal	Évenement culturelle	
+7-3	882-885	was	_	
+7-4	886-891	timed	_	
+7-5	892-894	to	_	
+7-6	895-903	coincide	_	
+7-7	904-908	with	_	
+7-8	909-912	the	_	
+7-9	913-921	birthday	Évenement culturelle	
+7-10	922-924	of	_	
+7-11	925-935	Thailand's	Évenement culturelle[12]	
+7-12	936-940	King	Évenement culturelle[12]	
+7-13	941-949	Bhumibol	Évenement culturelle[12]	
+7-14	950-959	Adulyadej	Évenement culturelle[12]	
+7-15	959-960	,	_	
+7-16	961-964	and	_	
+7-17	965-968	has	_	
+7-18	969-978	generated	_	
+7-19	979-983	much	_	
+7-20	984-992	interest	_	
+7-21	993-997	from	_	
+7-22	998-1001	the	_	
+7-23	1002-1006	rest	_	
+7-24	1007-1009	of	_	
+7-25	1010-1013	the	_	
+7-26	1014-1023	country's	_	
+7-27	1024-1037	predominantly	_	
+7-28	1038-1046	Buddhist	_	
+7-29	1047-1057	population	_	
+7-30	1057-1058	.	_	
+
+#Text=The cranes were built by citizens throughout Thailand and had peace messages written on them.
+8-1	1060-1063	The	_	
+8-2	1064-1070	cranes	Évenement culturelle[13]	
+8-3	1071-1075	were	Évenement culturelle[13]	
+8-4	1076-1081	built	Évenement culturelle[13]	
+8-5	1082-1084	by	Évenement culturelle[13]	
+8-6	1085-1093	citizens	Évenement culturelle[13]	
+8-7	1094-1104	throughout	_	
+8-8	1105-1113	Thailand	_	
+8-9	1114-1117	and	_	
+8-10	1118-1121	had	_	
+8-11	1122-1127	peace	_	
+8-12	1128-1136	messages	_	
+8-13	1137-1144	written	_	
+8-14	1145-1147	on	_	
+8-15	1148-1152	them	_	
+8-16	1152-1153	.	_	
+
+#Text=The southern, Muslim provinces are often considered neglected by a north that is larger and of the majority ethnic group.
+9-1	1154-1157	The	_	
+9-2	1158-1166	southern	_	
+9-3	1166-1167	,	_	
+9-4	1168-1174	Muslim	_	
+9-5	1175-1184	provinces	_	
+9-6	1185-1188	are	_	
+9-7	1189-1194	often	_	
+9-8	1195-1205	considered	_	
+9-9	1206-1215	neglected	Conflit	
+9-10	1216-1218	by	_	
+9-11	1219-1220	a	_	
+9-12	1221-1226	north	_	
+9-13	1227-1231	that	_	
+9-14	1232-1234	is	_	
+9-15	1235-1241	larger	_	
+9-16	1242-1245	and	_	
+9-17	1246-1248	of	_	
+9-18	1249-1252	the	_	
+9-19	1253-1261	majority	_	
+9-20	1262-1268	ethnic	_	
+9-21	1269-1274	group	_	
+9-22	1274-1275	.	_	
+
+#Text=Some have welcomed the goodwill gesture, but critics in both the north and south have said that the resources would have been better spent solving the problems in the south.
+10-1	1276-1280	Some	_	
+10-2	1281-1285	have	_	
+10-3	1286-1294	welcomed	_	
+10-4	1295-1298	the	_	
+10-5	1299-1307	goodwill	Évenement culturelle[14]	
+10-6	1308-1315	gesture	Évenement culturelle[14]	
+10-7	1315-1316	,	_	
+10-8	1317-1320	but	_	
+10-9	1321-1328	critics	_	
+10-10	1329-1331	in	_	
+10-11	1332-1336	both	_	
+10-12	1337-1340	the	_	
+10-13	1341-1346	north	_	
+10-14	1347-1350	and	_	
+10-15	1351-1356	south	_	
+10-16	1357-1361	have	_	
+10-17	1362-1366	said	_	
+10-18	1367-1371	that	_	
+10-19	1372-1375	the	_	
+10-20	1376-1385	resources	_	
+10-21	1386-1391	would	_	
+10-22	1392-1396	have	_	
+10-23	1397-1401	been	_	
+10-24	1402-1408	better	_	
+10-25	1409-1414	spent	_	
+10-26	1415-1422	solving	_	
+10-27	1423-1426	the	_	
+10-28	1427-1435	problems	_	
+10-29	1436-1438	in	_	
+10-30	1439-1442	the	_	
+10-31	1443-1448	south	_	
+10-32	1448-1449	.	_	
+
+#Text=Some Islamic leaders in the south have also expressed concerns that the gesture may not be properly understood by Muslims, as the crane carries no cultural significance with them.
+11-1	1450-1454	Some	_	
+11-2	1455-1462	Islamic	_	
+11-3	1463-1470	leaders	Conflit	
+11-4	1471-1473	in	_	
+11-5	1474-1477	the	_	
+11-6	1478-1483	south	_	
+11-7	1484-1488	have	_	
+11-8	1489-1493	also	_	
+11-9	1494-1503	expressed	_	
+11-10	1504-1512	concerns	_	
+11-11	1513-1517	that	_	
+11-12	1518-1521	the	_	
+11-13	1522-1529	gesture	_	
+11-14	1530-1533	may	_	
+11-15	1534-1537	not	_	
+11-16	1538-1540	be	_	
+11-17	1541-1549	properly	_	
+11-18	1550-1560	understood	_	
+11-19	1561-1563	by	_	
+11-20	1564-1571	Muslims	_	
+11-21	1571-1572	,	_	
+11-22	1573-1575	as	_	
+11-23	1576-1579	the	_	
+11-24	1580-1585	crane	_	
+11-25	1586-1593	carries	_	
+11-26	1594-1596	no	_	
+11-27	1597-1605	cultural	_	
+11-28	1606-1618	significance	_	
+11-29	1619-1623	with	_	
+11-30	1624-1628	them	_	
+11-31	1628-1629	.	_	

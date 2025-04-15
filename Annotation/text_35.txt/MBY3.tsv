@@ -1,0 +1,174 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Events|value
+
+
+#Text=At Microsoft IT Forum 2004 Copenhagen technological conference Bill Gates, founder and current Chairman and Chief Software Architect of Microsoft, has said the future operating system of Microsoft called Longhorn will be released in 2006.
+1-1	0-2	At	_	
+1-2	3-12	Microsoft	Évenement culturelle[1]	
+1-3	13-15	IT	Évenement culturelle[1]	
+1-4	16-21	Forum	Évenement culturelle[1]	
+1-5	22-26	2004	Évenement culturelle[1]	
+1-6	27-37	Copenhagen	Évenement culturelle[1]	
+1-7	38-51	technological	Avancée technologique[2]	
+1-8	52-62	conference	Avancée technologique[2]	
+1-9	63-67	Bill	_	
+1-10	68-73	Gates	_	
+1-11	73-74	,	_	
+1-12	75-82	founder	_	
+1-13	83-86	and	_	
+1-14	87-94	current	_	
+1-15	95-103	Chairman	_	
+1-16	104-107	and	_	
+1-17	108-113	Chief	_	
+1-18	114-122	Software	_	
+1-19	123-132	Architect	_	
+1-20	133-135	of	_	
+1-21	136-145	Microsoft	_	
+1-22	145-146	,	_	
+1-23	147-150	has	_	
+1-24	151-155	said	_	
+1-25	156-159	the	_	
+1-26	160-166	future	Évenement culturelle[3]	
+1-27	167-176	operating	Évenement culturelle[3]	
+1-28	177-183	system	Évenement culturelle[3]	
+1-29	184-186	of	_	
+1-30	187-196	Microsoft	_	
+1-31	197-203	called	_	
+1-32	204-212	Longhorn	_	
+1-33	213-217	will	_	
+1-34	218-220	be	_	
+1-35	221-229	released	_	
+1-36	230-232	in	_	
+1-37	233-237	2006	_	
+1-38	237-238	.	_	
+
+#Text=There had been fears that Longhorn would not ship until 2007 or later.
+2-1	239-244	There	_	
+2-2	245-248	had	_	
+2-3	249-253	been	_	
+2-4	254-259	fears	_	
+2-5	260-264	that	_	
+2-6	265-273	Longhorn	_	
+2-7	274-279	would	_	
+2-8	280-283	not	_	
+2-9	284-288	ship	_	
+2-10	289-294	until	_	
+2-11	295-299	2007	_	
+2-12	300-302	or	_	
+2-13	303-308	later	_	
+2-14	308-309	.	_	
+
+#Text=Microsoft has responded by cutting features from Longhorn, notably WinFS.
+3-1	310-319	Microsoft	_	
+3-2	320-323	has	_	
+3-3	324-333	responded	_	
+3-4	334-336	by	_	
+3-5	337-344	cutting	_	
+3-6	345-353	features	_	
+3-7	354-358	from	_	
+3-8	359-367	Longhorn	_	
+3-9	367-368	,	_	
+3-10	369-376	notably	_	
+3-11	377-382	WinFS	_	
+3-12	382-383	.	_	
+
+#Text=Features planned for Longhorn include a new 3D graphic user interface, a more sophisticated replacement for MS-DOS, and execute for processor NX, or No Execute, security features that prevents some malicious code from being run.
+4-1	384-392	Features	_	
+4-2	393-400	planned	_	
+4-3	401-404	for	_	
+4-4	405-413	Longhorn	_	
+4-5	414-421	include	_	
+4-6	422-423	a	_	
+4-7	424-427	new	_	
+4-8	428-430	3D	_	
+4-9	431-438	graphic	_	
+4-10	439-443	user	_	
+4-11	444-453	interface	_	
+4-12	453-454	,	_	
+4-13	455-456	a	_	
+4-14	457-461	more	_	
+4-15	462-475	sophisticated	_	
+4-16	476-487	replacement	_	
+4-17	488-491	for	_	
+4-18	492-498	MS-DOS	_	
+4-19	498-499	,	_	
+4-20	500-503	and	_	
+4-21	504-511	execute	_	
+4-22	512-515	for	_	
+4-23	516-525	processor	_	
+4-24	526-528	NX	_	
+4-25	528-529	,	_	
+4-26	530-532	or	_	
+4-27	533-535	No	_	
+4-28	536-543	Execute	_	
+4-29	543-544	,	_	
+4-30	545-553	security	_	
+4-31	554-562	features	_	
+4-32	563-567	that	_	
+4-33	568-576	prevents	_	
+4-34	577-581	some	_	
+4-35	582-591	malicious	_	
+4-36	592-596	code	_	
+4-37	597-601	from	_	
+4-38	602-607	being	_	
+4-39	608-611	run	_	
+4-40	611-612	.	_	
+
+#Text=This is expected to be the first Microsoft release since Windows XP in October of 2001.
+5-1	614-618	This	_	
+5-2	619-621	is	_	
+5-3	622-630	expected	_	
+5-4	631-633	to	_	
+5-5	634-636	be	_	
+5-6	637-640	the	_	
+5-7	641-646	first	_	
+5-8	647-656	Microsoft	_	
+5-9	657-664	release	_	
+5-10	665-670	since	_	
+5-11	671-678	Windows	Avancée technologique[4]	
+5-12	679-681	XP	Avancée technologique[4]	
+5-13	682-684	in	_	
+5-14	685-692	October	_	
+5-15	693-695	of	_	
+5-16	696-700	2001	_	
+5-17	700-701	.	_	
+
+#Text=There has, however, been some speculation of a "Windows XP Reloaded" in the interim.
+6-1	702-707	There	_	
+6-2	708-711	has	_	
+6-3	711-712	,	_	
+6-4	713-720	however	_	
+6-5	720-721	,	_	
+6-6	722-726	been	_	
+6-7	727-731	some	_	
+6-8	732-743	speculation	_	
+6-9	744-746	of	_	
+6-10	747-748	a	_	
+6-11	749-750	"	_	
+6-12	750-757	Windows	Avancée technologique[5]	
+6-13	758-760	XP	Avancée technologique[5]	
+6-14	761-769	Reloaded	Avancée technologique[5]	
+6-15	769-770	"	_	
+6-16	771-773	in	_	
+6-17	774-777	the	_	
+6-18	778-785	interim	_	
+6-19	785-786	.	_	
+
+#Text=Longhorn is currently in Alpha as a preview-release to Microsoft Developer Network (MSDN) subscribers.
+7-1	787-795	Longhorn	_	
+7-2	796-798	is	_	
+7-3	799-808	currently	_	
+7-4	809-811	in	_	
+7-5	812-817	Alpha	Avancée technologique	
+7-6	818-820	as	_	
+7-7	821-822	a	_	
+7-8	823-838	preview-release	_	
+7-9	839-841	to	_	
+7-10	842-851	Microsoft	Avancée technologique[6]	
+7-11	852-861	Developer	Avancée technologique[6]	
+7-12	862-869	Network	Avancée technologique[6]	
+7-13	870-871	(	_	
+7-14	871-875	MSDN	_	
+7-15	875-876	)	_	
+7-16	877-888	subscribers	_	
+7-17	888-889	.	_	

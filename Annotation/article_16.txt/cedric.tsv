@@ -1,0 +1,128 @@
+#FORMAT=WebAnno TSV 3.3
+
+
+#Text=Democratic Senator Harry Reid has been elected the new leader of the Democratic party in the Senate.
+1-1	0-10	Democratic	
+1-2	11-18	Senator	
+1-3	19-24	Harry	
+1-4	25-29	Reid	
+1-5	30-33	has	
+1-6	34-38	been	
+1-7	39-46	elected	
+1-8	47-50	the	
+1-9	51-54	new	
+1-10	55-61	leader	
+1-11	62-64	of	
+1-12	65-68	the	
+1-13	69-79	Democratic	
+1-14	80-85	party	
+1-15	86-88	in	
+1-16	89-92	the	
+1-17	93-99	Senate	
+1-18	99-100	.	
+
+#Text=Reid, from Nevada, replaces out-going leader Tom Daschle who lost his re-election bid in the state of South Dakota.
+2-1	101-105	Reid	
+2-2	105-106	,	
+2-3	107-111	from	
+2-4	112-118	Nevada	
+2-5	118-119	,	
+2-6	120-128	replaces	
+2-7	129-138	out-going	
+2-8	139-145	leader	
+2-9	146-149	Tom	
+2-10	150-157	Daschle	
+2-11	158-161	who	
+2-12	162-166	lost	
+2-13	167-170	his	
+2-14	171-182	re-election	
+2-15	183-186	bid	
+2-16	187-189	in	
+2-17	190-193	the	
+2-18	194-199	state	
+2-19	200-202	of	
+2-20	203-208	South	
+2-21	209-215	Dakota	
+2-22	215-216	.	
+
+#Text=Reid was re-elected with 61% of the vote in the November elections.
+3-1	217-221	Reid	
+3-2	222-225	was	
+3-3	226-236	re-elected	
+3-4	237-241	with	
+3-5	242-245	61%	
+3-6	246-248	of	
+3-7	249-252	the	
+3-8	253-257	vote	
+3-9	258-260	in	
+3-10	261-264	the	
+3-11	265-273	November	
+3-12	274-283	elections	
+3-13	283-284	.	
+
+#Text=Reid won the position as the Republican party still holds majority in both houses of Congress.
+4-1	288-292	Reid	
+4-2	293-296	won	
+4-3	297-300	the	
+4-4	301-309	position	
+4-5	310-312	as	
+4-6	313-316	the	
+4-7	317-327	Republican	
+4-8	328-333	party	
+4-9	334-339	still	
+4-10	340-345	holds	
+4-11	346-354	majority	
+4-12	355-357	in	
+4-13	358-362	both	
+4-14	363-369	houses	
+4-15	370-372	of	
+4-16	373-381	Congress	
+4-17	381-382	.	
+
+#Text=Dennis Hastert (R-IL) and Tom DeLay (R-TX) were re-elected by the Republicans for new terms as Speaker and Majority Leader in the House of Representatives.
+5-1	383-389	Dennis	
+5-2	390-397	Hastert	
+5-3	398-399	(	
+5-4	399-403	R-IL	
+5-5	403-404	)	
+5-6	405-408	and	
+5-7	409-412	Tom	
+5-8	413-418	DeLay	
+5-9	419-420	(	
+5-10	420-424	R-TX	
+5-11	424-425	)	
+5-12	426-430	were	
+5-13	431-441	re-elected	
+5-14	442-444	by	
+5-15	445-448	the	
+5-16	449-460	Republicans	
+5-17	461-464	for	
+5-18	465-468	new	
+5-19	469-474	terms	
+5-20	475-477	as	
+5-21	478-485	Speaker	
+5-22	486-489	and	
+5-23	490-498	Majority	
+5-24	499-505	Leader	
+5-25	506-508	in	
+5-26	509-512	the	
+5-27	513-518	House	
+5-28	519-521	of	
+5-29	522-537	Representatives	
+5-30	537-538	.	
+
+#Text=Senator Dick Durbin (D-IL) replaced Reid as the Senate Minority Whip.
+6-1	542-549	Senator	
+6-2	550-554	Dick	
+6-3	555-561	Durbin	
+6-4	562-563	(	
+6-5	563-567	D-IL	
+6-6	567-568	)	
+6-7	569-577	replaced	
+6-8	578-582	Reid	
+6-9	583-585	as	
+6-10	586-589	the	
+6-11	590-596	Senate	
+6-12	597-605	Minority	
+6-13	606-610	Whip	
+6-14	610-611	.	

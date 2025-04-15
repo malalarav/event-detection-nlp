@@ -1,0 +1,236 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Events|value
+
+
+#Text=Alien Encounter and The Living Seas at the Walt Disney World Resort are to open today with a makeover.
+1-1	0-5	Alien	_	
+1-2	6-15	Encounter	_	
+1-3	16-19	and	_	
+1-4	20-23	The	_	
+1-5	24-30	Living	_	
+1-6	31-35	Seas	_	
+1-7	36-38	at	_	
+1-8	39-42	the	_	
+1-9	43-47	Walt	Évenement culturelle[1]	
+1-10	48-54	Disney	Évenement culturelle[1]	
+1-11	55-60	World	Évenement culturelle[1]	
+1-12	61-67	Resort	_	
+1-13	68-71	are	_	
+1-14	72-74	to	_	
+1-15	75-79	open	_	
+1-16	80-85	today	_	
+1-17	86-90	with	_	
+1-18	91-92	a	_	
+1-19	93-101	makeover	_	
+1-20	101-102	.	_	
+
+#Text=The Alien Encounter attraction at Tomorrowland in the Magic Kingdom has been revised to include Experiment 626 from the movie Lilo &amp; Stitch.
+2-1	104-107	The	_	
+2-2	108-113	Alien	_	
+2-3	114-123	Encounter	_	
+2-4	124-134	attraction	Évenement culturelle	
+2-5	135-137	at	_	
+2-6	138-150	Tomorrowland	_	
+2-7	151-153	in	_	
+2-8	154-157	the	_	
+2-9	158-163	Magic	_	
+2-10	164-171	Kingdom	_	
+2-11	172-175	has	_	
+2-12	176-180	been	_	
+2-13	181-188	revised	_	
+2-14	189-191	to	_	
+2-15	192-199	include	_	
+2-16	200-210	Experiment	_	
+2-17	211-214	626	_	
+2-18	215-219	from	_	
+2-19	220-223	the	_	
+2-20	224-229	movie	_	
+2-21	230-234	Lilo	_	
+2-22	235-236	&	_	
+2-23	236-239	amp	_	
+2-24	239-240	;	_	
+2-25	241-247	Stitch	_	
+2-26	247-248	.	_	
+
+#Text=Now called Stitch's Great Escape!
+3-1	249-252	Now	_	
+3-2	253-259	called	_	
+3-3	260-268	Stitch's	_	
+3-4	269-274	Great	_	
+3-5	275-281	Escape	_	
+3-6	281-282	!	_	
+
+#Text=, the dog-like blue creature will lash out of its tube and terrorise the audience.
+4-1	282-283	,	_	
+4-2	284-287	the	_	
+4-3	288-296	dog-like	_	
+4-4	297-301	blue	_	
+4-5	302-310	creature	_	
+4-6	311-315	will	_	
+4-7	316-320	lash	_	
+4-8	321-324	out	_	
+4-9	325-327	of	_	
+4-10	328-331	its	_	
+4-11	332-336	tube	_	
+4-12	337-340	and	_	
+4-13	341-350	terrorise	_	
+4-14	351-354	the	_	
+4-15	355-363	audience	_	
+4-16	363-364	.	_	
+
+#Text=The Galactic Federation's Grand Councilwoman, Captain Gantu and Agent Pleakley appear in this show, essentially a prequel to the movie.
+5-1	365-368	The	_	
+5-2	369-377	Galactic	_	
+5-3	378-390	Federation's	_	
+5-4	391-396	Grand	_	
+5-5	397-409	Councilwoman	_	
+5-6	409-410	,	_	
+5-7	411-418	Captain	_	
+5-8	419-424	Gantu	_	
+5-9	425-428	and	_	
+5-10	429-434	Agent	_	
+5-11	435-443	Pleakley	_	
+5-12	444-450	appear	_	
+5-13	451-453	in	_	
+5-14	454-458	this	_	
+5-15	459-463	show	Évenement culturelle	
+5-16	463-464	,	_	
+5-17	465-476	essentially	_	
+5-18	477-478	a	_	
+5-19	479-486	prequel	_	
+5-20	487-489	to	_	
+5-21	490-493	the	_	
+5-22	494-499	movie	_	
+5-23	499-500	.	_	
+
+#Text=At the Living Seas, Crush the sea turtle from the Disney/Pixar movie Finding Nemo will host a new exhibit called Turtle Talk, joining smaller Nemo exhibits, a mainstay at the attraction for several months.
+6-1	502-504	At	_	
+6-2	505-508	the	_	
+6-3	509-515	Living	_	
+6-4	516-520	Seas	_	
+6-5	520-521	,	_	
+6-6	522-527	Crush	_	
+6-7	528-531	the	_	
+6-8	532-535	sea	_	
+6-9	536-542	turtle	_	
+6-10	543-547	from	_	
+6-11	548-551	the	_	
+6-12	552-558	Disney	_	
+6-13	558-559	/	_	
+6-14	559-564	Pixar	_	
+6-15	565-570	movie	_	
+6-16	571-578	Finding	_	
+6-17	579-583	Nemo	_	
+6-18	584-588	will	_	
+6-19	589-593	host	_	
+6-20	594-595	a	_	
+6-21	596-599	new	_	
+6-22	600-607	exhibit	_	
+6-23	608-614	called	_	
+6-24	615-621	Turtle	_	
+6-25	622-626	Talk	_	
+6-26	626-627	,	_	
+6-27	628-635	joining	_	
+6-28	636-643	smaller	_	
+6-29	644-648	Nemo	_	
+6-30	649-657	exhibits	_	
+6-31	657-658	,	_	
+6-32	659-660	a	_	
+6-33	661-669	mainstay	_	
+6-34	670-672	at	_	
+6-35	673-676	the	_	
+6-36	677-687	attraction	_	
+6-37	688-691	for	_	
+6-38	692-699	several	_	
+6-39	700-706	months	_	
+6-40	706-707	.	_	
+
+#Text=Vegetarian shark Bruce will soon become part of a shark education exhibit.
+7-1	708-718	Vegetarian	_	
+7-2	719-724	shark	_	
+7-3	725-730	Bruce	_	
+7-4	731-735	will	_	
+7-5	736-740	soon	_	
+7-6	741-747	become	_	
+7-7	748-752	part	_	
+7-8	753-755	of	_	
+7-9	756-757	a	_	
+7-10	758-763	shark	_	
+7-11	764-773	education	_	
+7-12	774-781	exhibit	_	
+7-13	781-782	.	_	
+
+#Text=According to publicity, the Turtle Talk show will run every 15 minutes, from 10:00 am to 7:00 pm.
+8-1	784-793	According	_	
+8-2	794-796	to	_	
+8-3	797-806	publicity	_	
+8-4	806-807	,	_	
+8-5	808-811	the	_	
+8-6	812-818	Turtle	_	
+8-7	819-823	Talk	Évenement culturelle[2]	
+8-8	824-828	show	Évenement culturelle[2]	
+8-9	829-833	will	_	
+8-10	834-837	run	_	
+8-11	838-843	every	_	
+8-12	844-846	15	_	
+8-13	847-854	minutes	_	
+8-14	854-855	,	_	
+8-15	856-860	from	_	
+8-16	861-863	10	_	
+8-17	863-864	:	_	
+8-18	864-866	00	_	
+8-19	867-869	am	_	
+8-20	870-872	to	_	
+8-21	873-874	7	_	
+8-22	874-875	:	_	
+8-23	875-877	00	_	
+8-24	878-880	pm	_	
+8-25	880-881	.	_	
+
+#Text=A sign language interpreted performance will run on Fridays at 10:30 am.
+9-1	882-883	A	_	
+9-2	884-888	sign	_	
+9-3	889-897	language	_	
+9-4	898-909	interpreted	_	
+9-5	910-921	performance	_	
+9-6	922-926	will	_	
+9-7	927-930	run	_	
+9-8	931-933	on	_	
+9-9	934-941	Fridays	_	
+9-10	942-944	at	_	
+9-11	945-947	10	_	
+9-12	947-948	:	_	
+9-13	948-950	30	_	
+9-14	951-953	am	_	
+9-15	953-954	.	_	
+
+#Text=Disney is holding the Stitch's Great Escape!
+10-1	956-962	Disney	_	
+10-2	963-965	is	_	
+10-3	966-973	holding	_	
+10-4	974-977	the	_	
+10-5	978-986	Stitch's	Évenement culturelle[3]	
+10-6	987-992	Great	Évenement culturelle[3]	
+10-7	993-999	Escape	Évenement culturelle[3]	
+10-8	999-1000	!	_	
+
+#Text=Sweepstakes, with prizes including a five-day, four night trip for four to Walt Disney World Resort.
+11-1	1001-1012	Sweepstakes	_	
+11-2	1012-1013	,	_	
+11-3	1014-1018	with	_	
+11-4	1019-1025	prizes	_	
+11-5	1026-1035	including	_	
+11-6	1036-1037	a	_	
+11-7	1038-1046	five-day	_	
+11-8	1046-1047	,	_	
+11-9	1048-1052	four	_	
+11-10	1053-1058	night	_	
+11-11	1059-1063	trip	_	
+11-12	1064-1067	for	_	
+11-13	1068-1072	four	_	
+11-14	1073-1075	to	_	
+11-15	1076-1080	Walt	_	
+11-16	1081-1087	Disney	_	
+11-17	1088-1093	World	_	
+11-18	1094-1100	Resort	_	
+11-19	1100-1101	.	_	

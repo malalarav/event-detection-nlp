@@ -1,0 +1,189 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Events|value
+
+
+#Text=The president of Brazil, Mr.
+1-1	0-3	The	_	
+1-2	4-13	president	_	
+1-3	14-16	of	_	
+1-4	17-23	Brazil	_	
+1-5	23-24	,	_	
+1-6	25-27	Mr	_	
+1-7	27-28	.	_	
+
+#Text=Luiz Inácio Lula da Silva, met with the president of Russia, Mr.
+2-1	29-33	Luiz	_	
+2-2	34-40	Inácio	_	
+2-3	41-45	Lula	_	
+2-4	46-48	da	_	
+2-5	49-54	Silva	_	
+2-6	54-55	,	_	
+2-7	56-59	met	_	
+2-8	60-64	with	_	
+2-9	65-68	the	_	
+2-10	69-78	president	_	
+2-11	79-81	of	_	
+2-12	82-88	Russia	_	
+2-13	88-89	,	_	
+2-14	90-92	Mr	_	
+2-15	92-93	.	_	
+
+#Text=Vladimir Putin, at about 12:00 in Brasilia.
+3-1	94-102	Vladimir	_	
+3-2	103-108	Putin	_	
+3-3	108-109	,	_	
+3-4	110-112	at	_	
+3-5	113-118	about	_	
+3-6	119-121	12	_	
+3-7	121-122	:	_	
+3-8	122-124	00	_	
+3-9	125-127	in	_	
+3-10	128-136	Brasilia	_	
+3-11	136-137	.	_	
+
+#Text=The main discussion topics were the end of the embargo on the exportation of Brazilian meats, from animals such as bovines and pigs, to Russia and the interest of the Russian government in conquering the support of Brazil to enter the World Trade Organization.
+4-1	139-142	The	_	
+4-2	143-147	main	_	
+4-3	148-158	discussion	_	
+4-4	159-165	topics	_	
+4-5	166-170	were	_	
+4-6	171-174	the	_	
+4-7	175-178	end	_	
+4-8	179-181	of	_	
+4-9	182-185	the	_	
+4-10	186-193	embargo	Décision gouvernementale	
+4-11	194-196	on	_	
+4-12	197-200	the	_	
+4-13	201-212	exportation	_	
+4-14	213-215	of	_	
+4-15	216-225	Brazilian	_	
+4-16	226-231	meats	_	
+4-17	231-232	,	_	
+4-18	233-237	from	_	
+4-19	238-245	animals	_	
+4-20	246-250	such	_	
+4-21	251-253	as	_	
+4-22	254-261	bovines	_	
+4-23	262-265	and	_	
+4-24	266-270	pigs	_	
+4-25	270-271	,	_	
+4-26	272-274	to	_	
+4-27	275-281	Russia	_	
+4-28	282-285	and	_	
+4-29	286-289	the	_	
+4-30	290-298	interest	_	
+4-31	299-301	of	_	
+4-32	302-305	the	_	
+4-33	306-313	Russian	_	
+4-34	314-324	government	_	
+4-35	325-327	in	_	
+4-36	328-338	conquering	_	
+4-37	339-342	the	_	
+4-38	343-350	support	Décision gouvernementale	
+4-39	351-353	of	_	
+4-40	354-360	Brazil	_	
+4-41	361-363	to	_	
+4-42	364-369	enter	_	
+4-43	370-373	the	_	
+4-44	374-379	World	_	
+4-45	380-385	Trade	_	
+4-46	386-398	Organization	_	
+4-47	398-399	.	_	
+
+#Text=Lula said Brazil will support Russia to enter the World Trade Organization, but Russia did not agree with the end of the embargo of Brazilian meat.
+5-1	401-405	Lula	_	
+5-2	406-410	said	_	
+5-3	411-417	Brazil	_	
+5-4	418-422	will	_	
+5-5	423-430	support	_	
+5-6	431-437	Russia	_	
+5-7	438-440	to	_	
+5-8	441-446	enter	_	
+5-9	447-450	the	_	
+5-10	451-456	World	_	
+5-11	457-462	Trade	_	
+5-12	463-475	Organization	_	
+5-13	475-476	,	_	
+5-14	477-480	but	_	
+5-15	481-487	Russia	_	
+5-16	488-491	did	Conflit[1]	
+5-17	492-495	not	Conflit[1]	
+5-18	496-501	agree	Conflit[1]	
+5-19	502-506	with	_	
+5-20	507-510	the	_	
+5-21	511-514	end	_	
+5-22	515-517	of	_	
+5-23	518-521	the	_	
+5-24	522-529	embargo	_	
+5-25	530-532	of	_	
+5-26	533-542	Brazilian	_	
+5-27	543-547	meat	_	
+5-28	547-548	.	_	
+
+#Text=Russia has forbidden the entrance of Brazilian meat in their country because there was a suspection of Brazilian cattle contamination by aftosa fever.
+6-1	549-555	Russia	_	
+6-2	556-559	has	_	
+6-3	560-569	forbidden	Décision gouvernementale	
+6-4	570-573	the	_	
+6-5	574-582	entrance	_	
+6-6	583-585	of	_	
+6-7	586-595	Brazilian	_	
+6-8	596-600	meat	_	
+6-9	601-603	in	_	
+6-10	604-609	their	_	
+6-11	610-617	country	_	
+6-12	618-625	because	_	
+6-13	626-631	there	_	
+6-14	632-635	was	_	
+6-15	636-637	a	_	
+6-16	638-648	suspection	Conflit	
+6-17	649-651	of	_	
+6-18	652-661	Brazilian	_	
+6-19	662-668	cattle	_	
+6-20	669-682	contamination	_	
+6-21	683-685	by	_	
+6-22	686-692	aftosa	_	
+6-23	693-698	fever	_	
+6-24	698-699	.	_	
+
+#Text=Brazilian authorities said there is no danger and the cattle's health has been monitored.
+7-1	700-709	Brazilian	_	
+7-2	710-721	authorities	_	
+7-3	722-726	said	_	
+7-4	727-732	there	_	
+7-5	733-735	is	_	
+7-6	736-738	no	_	
+7-7	739-745	danger	_	
+7-8	746-749	and	_	
+7-9	750-753	the	_	
+7-10	754-762	cattle's	_	
+7-11	763-769	health	_	
+7-12	770-773	has	_	
+7-13	774-778	been	_	
+7-14	779-788	monitored	_	
+7-15	788-789	.	_	
+
+#Text=By another agreement Brazil will teach the Russians techniques of soccer and the Russians go to repass techniques of athletism and swimming.
+8-1	791-793	By	_	
+8-2	794-801	another	_	
+8-3	802-811	agreement	Décision gouvernementale	
+8-4	812-818	Brazil	_	
+8-5	819-823	will	_	
+8-6	824-829	teach	_	
+8-7	830-833	the	_	
+8-8	834-842	Russians	_	
+8-9	843-853	techniques	_	
+8-10	854-856	of	_	
+8-11	857-863	soccer	_	
+8-12	864-867	and	_	
+8-13	868-871	the	_	
+8-14	872-880	Russians	_	
+8-15	881-883	go	_	
+8-16	884-886	to	_	
+8-17	887-893	repass	_	
+8-18	894-904	techniques	_	
+8-19	905-907	of	_	
+8-20	908-917	athletism	_	
+8-21	918-921	and	_	
+8-22	922-930	swimming	_	
+8-23	930-931	.	_	

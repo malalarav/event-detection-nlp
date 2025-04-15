@@ -1,0 +1,363 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Events|value
+
+
+#Text=Seven unknown men armed with guns invaded the Terra Prometida camp, in Felisburgo
+#Text=city, Minas Gerais, Brazil, and killed five members of the
+#Text=Brazilian Landless Workers Movement movement (MST).
+1-1	0-5	Seven	_	
+1-2	6-13	unknown	_	
+1-3	14-17	men	_	
+1-4	18-23	armed	Conflit	
+1-5	24-28	with	_	
+1-6	29-33	guns	Conflit	
+1-7	34-41	invaded	Conflit	
+1-8	42-45	the	_	
+1-9	46-51	Terra	_	
+1-10	52-61	Prometida	_	
+1-11	62-66	camp	_	
+1-12	66-67	,	_	
+1-13	68-70	in	_	
+1-14	71-81	Felisburgo	_	
+1-15	82-86	city	_	
+1-16	86-87	,	_	
+1-17	88-93	Minas	_	
+1-18	94-100	Gerais	_	
+1-19	100-101	,	_	
+1-20	102-108	Brazil	_	
+1-21	108-109	,	_	
+1-22	110-113	and	_	
+1-23	114-120	killed	Décès	
+1-24	121-125	five	_	
+1-25	126-133	members	_	
+1-26	134-136	of	_	
+1-27	137-140	the	_	
+1-28	141-150	Brazilian	_	
+1-29	151-159	Landless	_	
+1-30	160-167	Workers	_	
+1-31	168-176	Movement	_	
+1-32	177-185	movement	_	
+1-33	186-187	(	_	
+1-34	187-190	MST	_	
+1-35	190-191	)	_	
+1-36	191-192	.	_	
+
+#Text=The Terra Prometida camp
+#Text=had been invaded by the MST in May 2002 and there were about 200 MST families
+#Text=living there at the time of the attack.
+2-1	193-196	The	_	
+2-2	197-202	Terra	_	
+2-3	203-212	Prometida	_	
+2-4	213-217	camp	_	
+2-5	218-221	had	_	
+2-6	222-226	been	_	
+2-7	227-234	invaded	_	
+2-8	235-237	by	_	
+2-9	238-241	the	_	
+2-10	242-245	MST	_	
+2-11	246-248	in	_	
+2-12	249-252	May	_	
+2-13	253-257	2002	_	
+2-14	258-261	and	_	
+2-15	262-267	there	_	
+2-16	268-272	were	_	
+2-17	273-278	about	_	
+2-18	279-282	200	_	
+2-19	283-286	MST	_	
+2-20	287-295	families	_	
+2-21	296-302	living	_	
+2-22	303-308	there	_	
+2-23	309-311	at	_	
+2-24	312-315	the	_	
+2-25	316-320	time	_	
+2-26	321-323	of	_	
+2-27	324-327	the	_	
+2-28	328-334	attack	_	
+2-29	334-335	.	_	
+
+#Text=According to the Brazilian newspaper Agência Folha, police said 13 of the
+#Text=members of the MST movement were injured and five died.
+3-1	337-346	According	_	
+3-2	347-349	to	_	
+3-3	350-353	the	_	
+3-4	354-363	Brazilian	_	
+3-5	364-373	newspaper	_	
+3-6	374-381	Agência	_	
+3-7	382-387	Folha	_	
+3-8	387-388	,	_	
+3-9	389-395	police	_	
+3-10	396-400	said	_	
+3-11	401-403	13	_	
+3-12	404-406	of	_	
+3-13	407-410	the	_	
+3-14	411-418	members	_	
+3-15	419-421	of	_	
+3-16	422-425	the	_	
+3-17	426-429	MST	_	
+3-18	430-438	movement	_	
+3-19	439-443	were	_	
+3-20	444-451	injured	Conflit	
+3-21	452-455	and	_	
+3-22	456-460	five	Décès[1]	
+3-23	461-465	died	Décès[1]	
+3-24	465-466	.	_	
+
+#Text=Four of them are still
+#Text=hospitalized.
+4-1	467-471	Four	_	
+4-2	472-474	of	_	
+4-3	475-479	them	_	
+4-4	480-483	are	_	
+4-5	484-489	still	_	
+4-6	490-502	hospitalized	_	
+4-7	502-503	.	_	
+
+#Text=Two of them, Joaquim Batista da Silva and his son (a 12-year-old
+#Text=child), are in the Felisburgo Municipal Hospital.
+5-1	504-507	Two	_	
+5-2	508-510	of	_	
+5-3	511-515	them	_	
+5-4	515-516	,	_	
+5-5	517-524	Joaquim	_	
+5-6	525-532	Batista	_	
+5-7	533-535	da	_	
+5-8	536-541	Silva	_	
+5-9	542-545	and	_	
+5-10	546-549	his	_	
+5-11	550-553	son	_	
+5-12	554-555	(	_	
+5-13	555-556	a	_	
+5-14	557-559	12	_	
+5-15	559-560	-	_	
+5-16	560-568	year-old	_	
+5-17	569-574	child	_	
+5-18	574-575	)	_	
+5-19	575-576	,	_	
+5-20	577-580	are	_	
+5-21	581-583	in	_	
+5-22	584-587	the	_	
+5-23	588-598	Felisburgo	_	
+5-24	599-608	Municipal	_	
+5-25	609-617	Hospital	_	
+5-26	617-618	.	_	
+
+#Text=The other two, Valdemar
+#Text=Barbosa Lima and José Maroto Lima, are in the Santa Rosária Hospital in
+#Text=Teófilo Otoni city.
+6-1	619-622	The	_	
+6-2	623-628	other	_	
+6-3	629-632	two	_	
+6-4	632-633	,	_	
+6-5	634-642	Valdemar	_	
+6-6	643-650	Barbosa	_	
+6-7	651-655	Lima	_	
+6-8	656-659	and	_	
+6-9	660-664	José	_	
+6-10	665-671	Maroto	_	
+6-11	672-676	Lima	_	
+6-12	676-677	,	_	
+6-13	678-681	are	_	
+6-14	682-684	in	_	
+6-15	685-688	the	_	
+6-16	689-694	Santa	_	
+6-17	695-702	Rosária	_	
+6-18	703-711	Hospital	_	
+6-19	712-714	in	_	
+6-20	715-722	Teófilo	_	
+6-21	723-728	Otoni	_	
+6-22	729-733	city	_	
+6-23	733-734	.	_	
+
+#Text=According to MST camp leaders the gunfighters set fire to MST tents and started
+#Text=shooting.
+7-1	736-745	According	_	
+7-2	746-748	to	_	
+7-3	749-752	MST	_	
+7-4	753-757	camp	_	
+7-5	758-765	leaders	_	
+7-6	766-769	the	_	
+7-7	770-781	gunfighters	Conflit	
+7-8	782-785	set	_	
+7-9	786-790	fire	Conflit	
+7-10	791-793	to	_	
+7-11	794-797	MST	_	
+7-12	798-803	tents	_	
+7-13	804-807	and	_	
+7-14	808-815	started	_	
+7-15	816-824	shooting	_	
+7-16	824-825	.	_	
+
+#Text=The police are investigating the case.
+8-1	827-830	The	_	
+8-2	831-837	police	_	
+8-3	838-841	are	_	
+8-4	842-855	investigating	_	
+8-5	856-859	the	_	
+8-6	860-864	case	_	
+8-7	864-865	.	_	
+
+#Text=The Workers
+#Text=Party (PT) has demanded the gunfighters' arrest and punishment.
+9-1	866-869	The	_	
+9-2	870-877	Workers	_	
+9-3	878-883	Party	_	
+9-4	884-885	(	_	
+9-5	885-887	PT	_	
+9-6	887-888	)	_	
+9-7	889-892	has	_	
+9-8	893-901	demanded	_	
+9-9	902-905	the	_	
+9-10	906-917	gunfighters	_	
+9-11	917-918	'	_	
+9-12	919-925	arrest	Conflit	
+9-13	926-929	and	_	
+9-14	930-940	punishment	Conflit	
+9-15	940-941	.	_	
+
+#Text=The MST is an ideologically diverse movement of
+#Text=agricultural workers in Brazil officially founded in 1984.
+10-1	943-946	The	_	
+10-2	947-950	MST	_	
+10-3	951-953	is	_	
+10-4	954-956	an	_	
+10-5	957-970	ideologically	_	
+10-6	971-978	diverse	_	
+10-7	979-987	movement	_	
+10-8	988-990	of	_	
+10-9	991-1003	agricultural	_	
+10-10	1004-1011	workers	_	
+10-11	1012-1014	in	_	
+10-12	1015-1021	Brazil	_	
+10-13	1022-1032	officially	_	
+10-14	1033-1040	founded	_	
+10-15	1041-1043	in	_	
+10-16	1044-1048	1984	_	
+10-17	1048-1049	.	_	
+
+#Text=MST is for the equitable redistribution of Brazilian farmland.
+11-1	1050-1053	MST	_	
+11-2	1054-1056	is	_	
+11-3	1057-1060	for	_	
+11-4	1061-1064	the	_	
+11-5	1065-1074	equitable	_	
+11-6	1075-1089	redistribution	_	
+11-7	1090-1092	of	_	
+11-8	1093-1102	Brazilian	_	
+11-9	1103-1111	farmland	_	
+11-10	1111-1112	.	_	
+
+#Text=According to MST, in
+#Text=2003 there were about 632 MST camps in Brazil.
+12-1	1113-1122	According	_	
+12-2	1123-1125	to	_	
+12-3	1126-1129	MST	_	
+12-4	1129-1130	,	_	
+12-5	1131-1133	in	_	
+12-6	1134-1138	2003	_	
+12-7	1139-1144	there	_	
+12-8	1145-1149	were	_	
+12-9	1150-1155	about	_	
+12-10	1156-1159	632	_	
+12-11	1160-1163	MST	_	
+12-12	1164-1169	camps	_	
+12-13	1170-1172	in	_	
+12-14	1173-1179	Brazil	_	
+12-15	1179-1180	.	_	
+
+#Text=MST is a large organization with many bases throughout
+#Text=Brazilian cities.
+13-1	1181-1184	MST	_	
+13-2	1185-1187	is	_	
+13-3	1188-1189	a	_	
+13-4	1190-1195	large	_	
+13-5	1196-1208	organization	_	
+13-6	1209-1213	with	_	
+13-7	1214-1218	many	_	
+13-8	1219-1224	bases	_	
+13-9	1225-1235	throughout	_	
+13-10	1236-1245	Brazilian	_	
+13-11	1246-1252	cities	_	
+13-12	1252-1253	.	_	
+
+#Text=Their most visible tactic has been the occupation of mostly
+#Text=privately-held plantations and landholdings, sometimes armed with carving knifes
+#Text=and scythes.
+14-1	1254-1259	Their	_	
+14-2	1260-1264	most	_	
+14-3	1265-1272	visible	_	
+14-4	1273-1279	tactic	_	
+14-5	1280-1283	has	_	
+14-6	1284-1288	been	_	
+14-7	1289-1292	the	_	
+14-8	1293-1303	occupation	_	
+14-9	1304-1306	of	_	
+14-10	1307-1313	mostly	_	
+14-11	1314-1328	privately-held	_	
+14-12	1329-1340	plantations	_	
+14-13	1341-1344	and	_	
+14-14	1345-1357	landholdings	_	
+14-15	1357-1358	,	_	
+14-16	1359-1368	sometimes	_	
+14-17	1369-1374	armed	_	
+14-18	1375-1379	with	_	
+14-19	1380-1387	carving	_	
+14-20	1388-1394	knifes	_	
+14-21	1395-1398	and	_	
+14-22	1399-1406	scythes	_	
+14-23	1406-1407	.	_	
+
+#Text=Currently, MST receives help from the Brazilian government and donations from
+#Text=international organizations.
+15-1	1409-1418	Currently	_	
+15-2	1418-1419	,	_	
+15-3	1420-1423	MST	_	
+15-4	1424-1432	receives	_	
+15-5	1433-1437	help	_	
+15-6	1438-1442	from	_	
+15-7	1443-1446	the	_	
+15-8	1447-1456	Brazilian	_	
+15-9	1457-1467	government	_	
+15-10	1468-1471	and	_	
+15-11	1472-1481	donations	_	
+15-12	1482-1486	from	_	
+15-13	1487-1500	international	_	
+15-14	1501-1514	organizations	_	
+15-15	1514-1515	.	_	
+
+#Text=The movement also receives funds by selling
+#Text= videos of their invasions.
+16-1	1516-1519	The	_	
+16-2	1520-1528	movement	_	
+16-3	1529-1533	also	_	
+16-4	1534-1542	receives	_	
+16-5	1543-1548	funds	_	
+16-6	1549-1551	by	_	
+16-7	1552-1559	selling	_	
+16-8	1561-1567	videos	_	
+16-9	1568-1570	of	_	
+16-10	1571-1576	their	_	
+16-11	1577-1586	invasions	_	
+16-12	1586-1587	.	_	
+
+#Text=Overall, a recent report on labor standards in Brazil has shown that conditions
+#Text=for laborers are poor
+#Text=.
+17-1	1589-1596	Overall	_	
+17-2	1596-1597	,	_	
+17-3	1598-1599	a	_	
+17-4	1600-1606	recent	_	
+17-5	1607-1613	report	_	
+17-6	1614-1616	on	_	
+17-7	1617-1622	labor	_	
+17-8	1623-1632	standards	_	
+17-9	1633-1635	in	_	
+17-10	1636-1642	Brazil	_	
+17-11	1643-1646	has	_	
+17-12	1647-1652	shown	_	
+17-13	1653-1657	that	_	
+17-14	1658-1668	conditions	_	
+17-15	1669-1672	for	_	
+17-16	1673-1681	laborers	_	
+17-17	1682-1685	are	_	
+17-18	1686-1690	poor	_	
+17-19	1691-1692	.	_	

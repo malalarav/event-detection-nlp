@@ -1,0 +1,89 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Events|value
+
+
+#Text=' -
+#Text=Juan Carlos Concero, aged 34, a Spanish tourist, was shot in the head during an assault in Rio de Janeiro today.
+1-1	0-1	'	_	
+1-2	2-3	-	_	
+1-3	4-8	Juan	_	
+1-4	9-15	Carlos	_	
+1-5	16-23	Concero	_	
+1-6	23-24	,	_	
+1-7	25-29	aged	_	
+1-8	30-32	34	_	
+1-9	32-33	,	_	
+1-10	34-35	a	_	
+1-11	36-43	Spanish	_	
+1-12	44-51	tourist	_	
+1-13	51-52	,	_	
+1-14	53-56	was	_	
+1-15	57-61	shot	_	
+1-16	62-64	in	_	
+1-17	65-68	the	_	
+1-18	69-73	head	_	
+1-19	74-80	during	_	
+1-20	81-83	an	_	
+1-21	84-91	assault	Conflit	
+1-22	92-94	in	_	
+1-23	95-98	Rio	_	
+1-24	99-101	de	_	
+1-25	102-109	Janeiro	_	
+1-26	110-115	today	_	
+1-27	115-116	.	_	
+
+#Text=He was carried to Souza Aguiar Hospital where he was in a coma, breathing with the help of life support machines.
+2-1	117-119	He	_	
+2-2	120-123	was	_	
+2-3	124-131	carried	_	
+2-4	132-134	to	_	
+2-5	135-140	Souza	_	
+2-6	141-147	Aguiar	_	
+2-7	148-156	Hospital	_	
+2-8	157-162	where	_	
+2-9	163-165	he	_	
+2-10	166-169	was	_	
+2-11	170-172	in	_	
+2-12	173-174	a	_	
+2-13	175-179	coma	_	
+2-14	179-180	,	_	
+2-15	181-190	breathing	_	
+2-16	191-195	with	_	
+2-17	196-199	the	_	
+2-18	200-204	help	_	
+2-19	205-207	of	_	
+2-20	208-212	life	_	
+2-21	213-220	support	_	
+2-22	221-229	machines	_	
+2-23	229-230	.	_	
+
+#Text=Hours later doctors pronounced him braindead.
+3-1	231-236	Hours	_	
+3-2	237-242	later	_	
+3-3	243-250	doctors	_	
+3-4	251-261	pronounced	_	
+3-5	262-265	him	_	
+3-6	266-275	braindead	_	
+3-7	275-276	.	_	
+
+#Text=The Brazilian police offices in charge of the case announced the arrest of three man suspected of shooting Concero.
+4-1	278-281	The	_	
+4-2	282-291	Brazilian	_	
+4-3	292-298	police	_	
+4-4	299-306	offices	_	
+4-5	307-309	in	_	
+4-6	310-316	charge	_	
+4-7	317-319	of	_	
+4-8	320-323	the	_	
+4-9	324-328	case	_	
+4-10	329-338	announced	_	
+4-11	339-342	the	_	
+4-12	343-349	arrest	_	
+4-13	350-352	of	_	
+4-14	353-358	three	_	
+4-15	359-362	man	_	
+4-16	363-372	suspected	Conflit	
+4-17	373-375	of	_	
+4-18	376-384	shooting	Conflit	
+4-19	385-392	Concero	_	
+4-20	392-393	.	_	

@@ -1,0 +1,100 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Events|value
+
+
+#Text=Two car bombs were detonated outside an Iraqi police station near the Green Zone here Saturday, killing 16 and wounding dozens.
+1-1	0-3	Two	_	
+1-2	4-7	car	_	
+1-3	8-13	bombs	Conflit	
+1-4	14-18	were	_	
+1-5	19-28	detonated	Conflit	
+1-6	29-36	outside	_	
+1-7	37-39	an	_	
+1-8	40-45	Iraqi	_	
+1-9	46-52	police	_	
+1-10	53-60	station	_	
+1-11	61-65	near	_	
+1-12	66-69	the	_	
+1-13	70-75	Green	_	
+1-14	76-80	Zone	_	
+1-15	81-85	here	_	
+1-16	86-94	Saturday	_	
+1-17	94-95	,	_	
+1-18	96-103	killing	Décès	
+1-19	104-106	16	_	
+1-20	107-110	and	_	
+1-21	111-119	wounding	Conflit	
+1-22	120-126	dozens	_	
+1-23	126-127	.	_	
+
+#Text=The attacks occurred near the Checkpoint 2 entrance at 9:30 a.m.
+2-1	131-134	The	_	
+2-2	135-142	attacks	Conflit	
+2-3	143-151	occurred	_	
+2-4	152-156	near	_	
+2-5	157-160	the	_	
+2-6	161-171	Checkpoint	_	
+2-7	172-173	2	_	
+2-8	174-182	entrance	_	
+2-9	183-185	at	_	
+2-10	186-187	9	_	
+2-11	187-188	:	_	
+2-12	188-190	30	_	
+2-13	191-194	a.m	_	
+2-14	194-195	.	_	
+
+#Text=Immediately after the blasts, a small arms attack was launched by rebels on Checkpoint 1.
+3-1	196-207	Immediately	_	
+3-2	208-213	after	_	
+3-3	214-217	the	_	
+3-4	218-224	blasts	Conflit	
+3-5	224-225	,	_	
+3-6	226-227	a	_	
+3-7	228-233	small	Conflit[1]	
+3-8	234-238	arms	Conflit[1]	
+3-9	239-245	attack	Conflit[1]	
+3-10	246-249	was	_	
+3-11	250-258	launched	_	
+3-12	259-261	by	_	
+3-13	262-268	rebels	Conflit	
+3-14	269-271	on	_	
+3-15	272-282	Checkpoint	_	
+3-16	283-284	1	_	
+3-17	284-285	.	_	
+
+#Text=Entrances into the Green Zone, frequented by foreigners and journalists, were immediately sealed.
+4-1	289-298	Entrances	_	
+4-2	299-303	into	_	
+4-3	304-307	the	_	
+4-4	308-313	Green	Conflit[2]	
+4-5	314-318	Zone	Conflit[2]	
+4-6	318-319	,	_	
+4-7	320-330	frequented	_	
+4-8	331-333	by	_	
+4-9	334-344	foreigners	_	
+4-10	345-348	and	_	
+4-11	349-360	journalists	_	
+4-12	360-361	,	_	
+4-13	362-366	were	_	
+4-14	367-378	immediately	_	
+4-15	379-385	sealed	_	
+4-16	385-386	.	_	
+
+#Text=Among the four killed were police officers, and between 35 and 60 were reportedly wounded.
+5-1	390-395	Among	_	
+5-2	396-399	the	_	
+5-3	400-404	four	_	
+5-4	405-411	killed	Décès	
+5-5	412-416	were	_	
+5-6	417-423	police	_	
+5-7	424-432	officers	_	
+5-8	432-433	,	_	
+5-9	434-437	and	_	
+5-10	438-445	between	_	
+5-11	446-448	35	_	
+5-12	449-452	and	_	
+5-13	453-455	60	_	
+5-14	456-460	were	_	
+5-15	461-471	reportedly	_	
+5-16	472-479	wounded	Conflit	
+5-17	479-480	.	_	

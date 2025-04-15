@@ -1,0 +1,120 @@
+#FORMAT=WebAnno TSV 3.3
+
+
+#Text=A report by the United States government's Congressional Research Service (CRS) analysing al-Qaeda statements was made public Tuesday.
+1-1	0-1	A	
+1-2	2-8	report	
+1-3	9-11	by	
+1-4	12-15	the	
+1-5	16-22	United	
+1-6	23-29	States	
+1-7	30-42	government's	
+1-8	43-56	Congressional	
+1-9	57-65	Research	
+1-10	66-73	Service	
+1-11	74-75	(	
+1-12	75-78	CRS	
+1-13	78-79	)	
+1-14	80-89	analysing	
+1-15	90-98	al-Qaeda	
+1-16	99-109	statements	
+1-17	110-113	was	
+1-18	114-118	made	
+1-19	119-125	public	
+1-20	126-133	Tuesday	
+1-21	133-134	.	
+
+#Text=The report examines methods used, ideas presented, and audience intended in al-Qaeda public statements, and how they have changed over time.
+2-1	135-138	The	
+2-2	139-145	report	
+2-3	146-154	examines	
+2-4	155-162	methods	
+2-5	163-167	used	
+2-6	167-168	,	
+2-7	169-174	ideas	
+2-8	175-184	presented	
+2-9	184-185	,	
+2-10	186-189	and	
+2-11	190-198	audience	
+2-12	199-207	intended	
+2-13	208-210	in	
+2-14	211-219	al-Qaeda	
+2-15	220-226	public	
+2-16	227-237	statements	
+2-17	237-238	,	
+2-18	239-242	and	
+2-19	243-246	how	
+2-20	247-251	they	
+2-21	252-256	have	
+2-22	257-264	changed	
+2-23	265-269	over	
+2-24	270-274	time	
+2-25	274-275	.	
+
+#Text=The CRS is an auxiliary research office for the United States Congress, and does not make its unclassified reports public.
+3-1	276-279	The	
+3-2	280-283	CRS	
+3-3	284-286	is	
+3-4	287-289	an	
+3-5	290-299	auxiliary	
+3-6	300-308	research	
+3-7	309-315	office	
+3-8	316-319	for	
+3-9	320-323	the	
+3-10	324-330	United	
+3-11	331-337	States	
+3-12	338-346	Congress	
+3-13	346-347	,	
+3-14	348-351	and	
+3-15	352-356	does	
+3-16	357-360	not	
+3-17	361-365	make	
+3-18	366-369	its	
+3-19	370-382	unclassified	
+3-20	383-390	reports	
+3-21	391-397	public	
+3-22	397-398	.	
+
+#Text=The full report is available at the website of the Secrecy News project run by the Federation of American Scientists.
+4-1	402-405	The	
+4-2	406-410	full	
+4-3	411-417	report	
+4-4	418-420	is	
+4-5	421-430	available	
+4-6	431-433	at	
+4-7	434-437	the	
+4-8	438-445	website	
+4-9	446-448	of	
+4-10	449-452	the	
+4-11	453-460	Secrecy	
+4-12	461-465	News	
+4-13	466-473	project	
+4-14	474-477	run	
+4-15	478-480	by	
+4-16	481-484	the	
+4-17	485-495	Federation	
+4-18	496-498	of	
+4-19	499-507	American	
+4-20	508-518	Scientists	
+4-21	518-519	.	
+
+#Text=Released November 16th, 2004, it is titled "Al Qaeda: Statements and Evolving Ideology".
+5-1	520-528	Released	
+5-2	529-537	November	
+5-3	538-542	16th	
+5-4	542-543	,	
+5-5	544-548	2004	
+5-6	548-549	,	
+5-7	550-552	it	
+5-8	553-555	is	
+5-9	556-562	titled	
+5-10	563-564	"	
+5-11	564-566	Al	
+5-12	567-572	Qaeda	
+5-13	572-573	:	
+5-14	574-584	Statements	
+5-15	585-588	and	
+5-16	589-597	Evolving	
+5-17	598-606	Ideology	
+5-18	606-607	"	
+5-19	607-608	.	

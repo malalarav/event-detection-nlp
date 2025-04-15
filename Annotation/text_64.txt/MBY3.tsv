@@ -1,0 +1,448 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Events|value
+
+
+#Text=Internet portal and mail-provider Lycos Europe has launched a program to increase spammers' bills by having thousands of voluntary users' computers repeatedly query websites from which spam originates.
+1-1	0-8	Internet	_	
+1-2	9-15	portal	_	
+1-3	16-19	and	_	
+1-4	20-33	mail-provider	_	
+1-5	34-39	Lycos	_	
+1-6	40-46	Europe	_	
+1-7	47-50	has	_	
+1-8	51-59	launched	_	
+1-9	60-61	a	_	
+1-10	62-69	program	Avancée technologique	
+1-11	70-72	to	_	
+1-12	73-81	increase	_	
+1-13	82-90	spammers	Conflit	
+1-14	90-91	'	_	
+1-15	92-97	bills	_	
+1-16	98-100	by	_	
+1-17	101-107	having	_	
+1-18	108-117	thousands	_	
+1-19	118-120	of	_	
+1-20	121-130	voluntary	_	
+1-21	131-136	users	_	
+1-22	136-137	'	_	
+1-23	138-147	computers	_	
+1-24	148-158	repeatedly	_	
+1-25	159-164	query	Avancée technologique[1]	
+1-26	165-173	websites	Avancée technologique[1]	
+1-27	174-178	from	_	
+1-28	179-184	which	_	
+1-29	185-189	spam	_	
+1-30	190-200	originates	_	
+1-31	200-201	.	_	
+
+#Text=Such a tactic would increase the bandwidth costs for these websites.
+2-1	202-206	Such	_	
+2-2	207-208	a	_	
+2-3	209-215	tactic	_	
+2-4	216-221	would	_	
+2-5	222-230	increase	Avancée technologique[2]	
+2-6	231-234	the	Avancée technologique[2]	
+2-7	235-244	bandwidth	Avancée technologique[2]	
+2-8	245-250	costs	Avancée technologique[2]	
+2-9	251-254	for	_	
+2-10	255-260	these	_	
+2-11	261-269	websites	_	
+2-12	269-270	.	_	
+
+#Text=However, it also faces legal questions.
+3-1	271-278	However	_	
+3-2	278-279	,	_	
+3-3	280-282	it	_	
+3-4	283-287	also	_	
+3-5	288-293	faces	_	
+3-6	294-299	legal	Conflit[3]	
+3-7	300-309	questions	Conflit[3]	
+3-8	309-310	.	_	
+
+#Text=Spamming, the mass sending of unsolicited emails, is lucrative in part because each email can be sent for nearly insignificant costs.
+4-1	312-320	Spamming	_	
+4-2	320-321	,	_	
+4-3	322-325	the	_	
+4-4	326-330	mass	_	
+4-5	331-338	sending	_	
+4-6	339-341	of	_	
+4-7	342-353	unsolicited	_	
+4-8	354-360	emails	_	
+4-9	360-361	,	_	
+4-10	362-364	is	_	
+4-11	365-374	lucrative	_	
+4-12	375-377	in	_	
+4-13	378-382	part	_	
+4-14	383-390	because	_	
+4-15	391-395	each	_	
+4-16	396-401	email	_	
+4-17	402-405	can	_	
+4-18	406-408	be	_	
+4-19	409-413	sent	_	
+4-20	414-417	for	_	
+4-21	418-424	nearly	_	
+4-22	425-438	insignificant	_	
+4-23	439-444	costs	_	
+4-24	444-445	.	_	
+
+#Text=With such low costs, a commercial spammer needs only to have a very small number of recipients buy their product to make a profit.
+5-1	446-450	With	_	
+5-2	451-455	such	_	
+5-3	456-459	low	_	
+5-4	460-465	costs	_	
+5-5	465-466	,	_	
+5-6	467-468	a	_	
+5-7	469-479	commercial	_	
+5-8	480-487	spammer	_	
+5-9	488-493	needs	_	
+5-10	494-498	only	_	
+5-11	499-501	to	_	
+5-12	502-506	have	_	
+5-13	507-508	a	_	
+5-14	509-513	very	_	
+5-15	514-519	small	_	
+5-16	520-526	number	_	
+5-17	527-529	of	_	
+5-18	530-540	recipients	_	
+5-19	541-544	buy	_	
+5-20	545-550	their	_	
+5-21	551-558	product	_	
+5-22	559-561	to	_	
+5-23	562-566	make	_	
+5-24	567-568	a	_	
+5-25	569-575	profit	_	
+5-26	575-576	.	_	
+
+#Text=The goal of many anti-spam proposals has been to increase the cost of spammers sending messages.
+6-1	577-580	The	_	
+6-2	581-585	goal	_	
+6-3	586-588	of	_	
+6-4	589-593	many	_	
+6-5	594-603	anti-spam	Conflit	
+6-6	604-613	proposals	_	
+6-7	614-617	has	_	
+6-8	618-622	been	_	
+6-9	623-625	to	_	
+6-10	626-634	increase	_	
+6-11	635-638	the	_	
+6-12	639-643	cost	_	
+6-13	644-646	of	_	
+6-14	647-655	spammers	_	
+6-15	656-663	sending	_	
+6-16	664-672	messages	_	
+6-17	672-673	.	_	
+
+#Text=Lycos' approach is to make it more expensive to maintain servers that send spam.
+7-1	674-679	Lycos	_	
+7-2	679-680	'	_	
+7-3	681-689	approach	_	
+7-4	690-692	is	_	
+7-5	693-695	to	_	
+7-6	696-700	make	_	
+7-7	701-703	it	_	
+7-8	704-708	more	_	
+7-9	709-718	expensive	_	
+7-10	719-721	to	_	
+7-11	722-730	maintain	_	
+7-12	731-738	servers	_	
+7-13	739-743	that	_	
+7-14	744-748	send	_	
+7-15	749-753	spam	_	
+7-16	753-754	.	_	
+
+#Text=Volunteers may download the screensaver from the Lycos website for it.
+8-1	756-766	Volunteers	_	
+8-2	767-770	may	_	
+8-3	771-779	download	_	
+8-4	780-783	the	_	
+8-5	784-795	screensaver	Avancée technologique	
+8-6	796-800	from	_	
+8-7	801-804	the	_	
+8-8	805-810	Lycos	_	
+8-9	811-818	website	_	
+8-10	819-822	for	_	
+8-11	823-825	it	_	
+8-12	825-826	.	_	
+
+#Text=The program would run on a user's computer in the background and request about three megabytes (3MBs) of data every day.
+9-1	827-830	The	_	
+9-2	831-838	program	_	
+9-3	839-844	would	_	
+9-4	845-848	run	_	
+9-5	849-851	on	_	
+9-6	852-853	a	_	
+9-7	854-860	user's	_	
+9-8	861-869	computer	_	
+9-9	870-872	in	_	
+9-10	873-876	the	_	
+9-11	877-887	background	_	
+9-12	888-891	and	_	
+9-13	892-899	request	_	
+9-14	900-905	about	_	
+9-15	906-911	three	_	
+9-16	912-921	megabytes	_	
+9-17	922-923	(	_	
+9-18	923-927	3MBs	_	
+9-19	927-928	)	_	
+9-20	929-931	of	_	
+9-21	932-936	data	_	
+9-22	937-942	every	_	
+9-23	943-946	day	_	
+9-24	946-947	.	_	
+
+#Text=The screensaver shows which spam server is being targeted by the user, where the server is located, and how many others are attacking it at that moment.
+10-1	948-951	The	_	
+10-2	952-963	screensaver	_	
+10-3	964-969	shows	_	
+10-4	970-975	which	_	
+10-5	976-980	spam	_	
+10-6	981-987	server	_	
+10-7	988-990	is	_	
+10-8	991-996	being	_	
+10-9	997-1005	targeted	_	
+10-10	1006-1008	by	_	
+10-11	1009-1012	the	_	
+10-12	1013-1017	user	_	
+10-13	1017-1018	,	_	
+10-14	1019-1024	where	_	
+10-15	1025-1028	the	_	
+10-16	1029-1035	server	_	
+10-17	1036-1038	is	_	
+10-18	1039-1046	located	_	
+10-19	1046-1047	,	_	
+10-20	1048-1051	and	_	
+10-21	1052-1055	how	_	
+10-22	1056-1060	many	_	
+10-23	1061-1067	others	_	
+10-24	1068-1071	are	_	
+10-25	1072-1081	attacking	_	
+10-26	1082-1084	it	_	
+10-27	1085-1087	at	_	
+10-28	1088-1092	that	_	
+10-29	1093-1099	moment	_	
+10-30	1099-1100	.	_	
+
+#Text=Target email servers are selected from blacklists from anti-spam organizations, with Lycos' own verification.
+11-1	1101-1107	Target	_	
+11-2	1108-1113	email	_	
+11-3	1114-1121	servers	_	
+11-4	1122-1125	are	_	
+11-5	1126-1134	selected	_	
+11-6	1135-1139	from	_	
+11-7	1140-1150	blacklists	_	
+11-8	1151-1155	from	_	
+11-9	1156-1165	anti-spam	_	
+11-10	1166-1179	organizations	_	
+11-11	1179-1180	,	_	
+11-12	1181-1185	with	_	
+11-13	1186-1191	Lycos	_	
+11-14	1191-1192	'	_	
+11-15	1193-1196	own	_	
+11-16	1197-1209	verification	_	
+11-17	1209-1210	.	_	
+
+#Text=Legal issues arise over whether this can be interpreted as a denial of service attack.
+12-1	1212-1217	Legal	_	
+12-2	1218-1224	issues	_	
+12-3	1225-1230	arise	_	
+12-4	1231-1235	over	_	
+12-5	1236-1243	whether	_	
+12-6	1244-1248	this	_	
+12-7	1249-1252	can	_	
+12-8	1253-1255	be	_	
+12-9	1256-1267	interpreted	_	
+12-10	1268-1270	as	_	
+12-11	1271-1272	a	_	
+12-12	1273-1279	denial	_	
+12-13	1280-1282	of	_	
+12-14	1283-1290	service	_	
+12-15	1291-1297	attack	_	
+12-16	1297-1298	.	_	
+
+#Text=In such an attack, computers overwhelm a webserver with requests for data to the point where it does not have the resources to fulfill its normal function.
+13-1	1299-1301	In	_	
+13-2	1302-1306	such	_	
+13-3	1307-1309	an	_	
+13-4	1310-1316	attack	_	
+13-5	1316-1317	,	_	
+13-6	1318-1327	computers	_	
+13-7	1328-1337	overwhelm	_	
+13-8	1338-1339	a	_	
+13-9	1340-1349	webserver	_	
+13-10	1350-1354	with	_	
+13-11	1355-1363	requests	_	
+13-12	1364-1367	for	_	
+13-13	1368-1372	data	_	
+13-14	1373-1375	to	_	
+13-15	1376-1379	the	_	
+13-16	1380-1385	point	_	
+13-17	1386-1391	where	_	
+13-18	1392-1394	it	_	
+13-19	1395-1399	does	_	
+13-20	1400-1403	not	_	
+13-21	1404-1408	have	_	
+13-22	1409-1412	the	_	
+13-23	1413-1422	resources	_	
+13-24	1423-1425	to	_	
+13-25	1426-1433	fulfill	_	
+13-26	1434-1437	its	_	
+13-27	1438-1444	normal	_	
+13-28	1445-1453	function	_	
+13-29	1453-1454	.	_	
+
+#Text=Lycos, in explanatory material on the screensaver's dedicated website ( http://makelovenotspam.com ), claims that its technology closely monitors the screensavers' effects on targeted websites and prevents any of them from being completely shut down by information requests.
+14-1	1455-1460	Lycos	_	
+14-2	1460-1461	,	_	
+14-3	1462-1464	in	_	
+14-4	1465-1476	explanatory	_	
+14-5	1477-1485	material	_	
+14-6	1486-1488	on	_	
+14-7	1489-1492	the	_	
+14-8	1493-1506	screensaver's	_	
+14-9	1507-1516	dedicated	_	
+14-10	1517-1524	website	_	
+14-11	1525-1526	(	_	
+14-12	1527-1531	http	_	
+14-13	1531-1532	:	_	
+14-14	1532-1533	/	_	
+14-15	1533-1534	/	_	
+14-16	1534-1553	makelovenotspam.com	_	
+14-17	1554-1555	)	_	
+14-18	1555-1556	,	_	
+14-19	1557-1563	claims	_	
+14-20	1564-1568	that	_	
+14-21	1569-1572	its	_	
+14-22	1573-1583	technology	_	
+14-23	1584-1591	closely	_	
+14-24	1592-1600	monitors	_	
+14-25	1601-1604	the	_	
+14-26	1605-1617	screensavers	_	
+14-27	1617-1618	'	_	
+14-28	1619-1626	effects	_	
+14-29	1627-1629	on	_	
+14-30	1630-1638	targeted	_	
+14-31	1639-1647	websites	_	
+14-32	1648-1651	and	_	
+14-33	1652-1660	prevents	_	
+14-34	1661-1664	any	_	
+14-35	1665-1667	of	_	
+14-36	1668-1672	them	_	
+14-37	1673-1677	from	_	
+14-38	1678-1683	being	_	
+14-39	1684-1694	completely	_	
+14-40	1695-1699	shut	_	
+14-41	1700-1704	down	_	
+14-42	1705-1707	by	_	
+14-43	1708-1719	information	_	
+14-44	1720-1728	requests	_	
+14-45	1728-1729	.	_	
+
+#Text=Lycos Europe operates in Germany where, according to Joerg Heidrich of Heise Zeitschriften Verlag, less than completely shutting down a server is not clearly illegal under the penal code.
+15-1	1731-1736	Lycos	_	
+15-2	1737-1743	Europe	_	
+15-3	1744-1752	operates	_	
+15-4	1753-1755	in	_	
+15-5	1756-1763	Germany	_	
+15-6	1764-1769	where	_	
+15-7	1769-1770	,	_	
+15-8	1771-1780	according	_	
+15-9	1781-1783	to	_	
+15-10	1784-1789	Joerg	_	
+15-11	1790-1798	Heidrich	_	
+15-12	1799-1801	of	_	
+15-13	1802-1807	Heise	_	
+15-14	1808-1821	Zeitschriften	_	
+15-15	1822-1828	Verlag	_	
+15-16	1828-1829	,	_	
+15-17	1830-1834	less	_	
+15-18	1835-1839	than	_	
+15-19	1840-1850	completely	_	
+15-20	1851-1859	shutting	_	
+15-21	1860-1864	down	_	
+15-22	1865-1866	a	_	
+15-23	1867-1873	server	_	
+15-24	1874-1876	is	_	
+15-25	1877-1880	not	_	
+15-26	1881-1888	clearly	_	
+15-27	1889-1896	illegal	_	
+15-28	1897-1902	under	_	
+15-29	1903-1906	the	_	
+15-30	1907-1912	penal	_	
+15-31	1913-1917	code	_	
+15-32	1917-1918	.	_	
+
+#Text=It may, however, be actionable under the civil code.
+16-1	1919-1921	It	_	
+16-2	1922-1925	may	_	
+16-3	1925-1926	,	_	
+16-4	1927-1934	however	_	
+16-5	1934-1935	,	_	
+16-6	1936-1938	be	_	
+16-7	1939-1949	actionable	_	
+16-8	1950-1955	under	_	
+16-9	1956-1959	the	_	
+16-10	1960-1965	civil	_	
+16-11	1966-1970	code	_	
+16-12	1970-1971	.	_	
+
+#Text=But Lycos may be betting that no one will file a suit, as that would require those participating in illegal spamming to reveal their identity.
+17-1	1972-1975	But	_	
+17-2	1976-1981	Lycos	_	
+17-3	1982-1985	may	_	
+17-4	1986-1988	be	_	
+17-5	1989-1996	betting	_	
+17-6	1997-2001	that	_	
+17-7	2002-2004	no	_	
+17-8	2005-2008	one	_	
+17-9	2009-2013	will	_	
+17-10	2014-2018	file	_	
+17-11	2019-2020	a	_	
+17-12	2021-2025	suit	_	
+17-13	2025-2026	,	_	
+17-14	2027-2029	as	_	
+17-15	2030-2034	that	_	
+17-16	2035-2040	would	_	
+17-17	2041-2048	require	_	
+17-18	2049-2054	those	_	
+17-19	2055-2068	participating	_	
+17-20	2069-2071	in	_	
+17-21	2072-2079	illegal	_	
+17-22	2080-2088	spamming	_	
+17-23	2089-2091	to	_	
+17-24	2092-2098	reveal	_	
+17-25	2099-2104	their	_	
+17-26	2105-2113	identity	_	
+17-27	2113-2114	.	_	
+
+#Text=The website no longer allows downloads of the screensaver, and users of the screensaver cannot connect to spam sites, but are instead given the message 'Stay Tuned'
+18-1	2116-2119	The	_	
+18-2	2120-2127	website	_	
+18-3	2128-2130	no	_	
+18-4	2131-2137	longer	_	
+18-5	2138-2144	allows	_	
+18-6	2145-2154	downloads	_	
+18-7	2155-2157	of	_	
+18-8	2158-2161	the	_	
+18-9	2162-2173	screensaver	_	
+18-10	2173-2174	,	_	
+18-11	2175-2178	and	_	
+18-12	2179-2184	users	_	
+18-13	2185-2187	of	_	
+18-14	2188-2191	the	_	
+18-15	2192-2203	screensaver	_	
+18-16	2204-2210	cannot	_	
+18-17	2211-2218	connect	_	
+18-18	2219-2221	to	_	
+18-19	2222-2226	spam	_	
+18-20	2227-2232	sites	_	
+18-21	2232-2233	,	_	
+18-22	2234-2237	but	_	
+18-23	2238-2241	are	_	
+18-24	2242-2249	instead	_	
+18-25	2250-2255	given	_	
+18-26	2256-2259	the	_	
+18-27	2260-2267	message	_	
+18-28	2268-2269	'	_	
+18-29	2269-2273	Stay	_	
+18-30	2274-2279	Tuned	_	
+18-31	2279-2280	'	_	

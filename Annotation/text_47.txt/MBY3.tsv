@@ -1,0 +1,436 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Events|value
+
+
+#Text=European finance ministers at the G-20 meeting which opened Saturday, November 20th, are expected to discuss the current exchange rate of the euro vs. the dollar.
+1-1	0-8	European	_	
+1-2	9-16	finance	_	
+1-3	17-26	ministers	_	
+1-4	27-29	at	_	
+1-5	30-33	the	_	
+1-6	34-35	G	Décision gouvernementale[1]	
+1-7	35-36	-	Décision gouvernementale[1]	
+1-8	36-38	20	Décision gouvernementale[1]	
+1-9	39-46	meeting	Décision gouvernementale[1]	
+1-10	47-52	which	_	
+1-11	53-59	opened	_	
+1-12	60-68	Saturday	_	
+1-13	68-69	,	_	
+1-14	70-78	November	_	
+1-15	79-83	20th	_	
+1-16	83-84	,	_	
+1-17	85-88	are	_	
+1-18	89-97	expected	_	
+1-19	98-100	to	_	
+1-20	101-108	discuss	_	
+1-21	109-112	the	_	
+1-22	113-120	current	_	
+1-23	121-129	exchange	_	
+1-24	130-134	rate	_	
+1-25	135-137	of	_	
+1-26	138-141	the	_	
+1-27	142-146	euro	_	
+1-28	147-149	vs	_	
+1-29	149-150	.	_	
+1-30	151-154	the	_	
+1-31	155-161	dollar	_	
+1-32	161-162	.	_	
+
+#Text=The euro is currently trading high against the dollar, so that it takes around $1.34 (as of December 4, 2004) to buy one euro.
+2-1	163-166	The	_	
+2-2	167-171	euro	_	
+2-3	172-174	is	_	
+2-4	175-184	currently	_	
+2-5	185-192	trading	_	
+2-6	193-197	high	_	
+2-7	198-205	against	_	
+2-8	206-209	the	_	
+2-9	210-216	dollar	_	
+2-10	216-217	,	_	
+2-11	218-220	so	_	
+2-12	221-225	that	_	
+2-13	226-228	it	_	
+2-14	229-234	takes	_	
+2-15	235-241	around	_	
+2-16	242-247	$1.34	_	
+2-17	248-249	(	_	
+2-18	249-251	as	_	
+2-19	252-254	of	_	
+2-20	255-263	December	_	
+2-21	264-265	4	_	
+2-22	265-266	,	_	
+2-23	267-271	2004	_	
+2-24	271-272	)	_	
+2-25	273-275	to	_	
+2-26	276-279	buy	_	
+2-27	280-283	one	_	
+2-28	284-288	euro	_	
+2-29	288-289	.	_	
+
+#Text=This has the effect of making exports from Europe to the USA more expensive, increasing the likelihood that US consumers will buy from a non-EU country.
+3-1	290-294	This	_	
+3-2	295-298	has	_	
+3-3	299-302	the	_	
+3-4	303-309	effect	_	
+3-5	310-312	of	_	
+3-6	313-319	making	_	
+3-7	320-327	exports	_	
+3-8	328-332	from	_	
+3-9	333-339	Europe	_	
+3-10	340-342	to	_	
+3-11	343-346	the	_	
+3-12	347-350	USA	_	
+3-13	351-355	more	_	
+3-14	356-365	expensive	_	
+3-15	365-366	,	_	
+3-16	367-377	increasing	_	
+3-17	378-381	the	_	
+3-18	382-392	likelihood	_	
+3-19	393-397	that	_	
+3-20	398-400	US	_	
+3-21	401-410	consumers	_	
+3-22	411-415	will	_	
+3-23	416-419	buy	_	
+3-24	420-424	from	_	
+3-25	425-426	a	_	
+3-26	427-433	non-EU	_	
+3-27	434-441	country	_	
+3-28	441-442	.	_	
+
+#Text=The exchange rate is set by the currency markets, although it is heavily influenced by the current account status (ie. the balance of trade between countries).
+4-1	443-446	The	_	
+4-2	447-455	exchange	_	
+4-3	456-460	rate	_	
+4-4	461-463	is	_	
+4-5	464-467	set	_	
+4-6	468-470	by	_	
+4-7	471-474	the	_	
+4-8	475-483	currency	_	
+4-9	484-491	markets	_	
+4-10	491-492	,	_	
+4-11	493-501	although	_	
+4-12	502-504	it	_	
+4-13	505-507	is	_	
+4-14	508-515	heavily	_	
+4-15	516-526	influenced	_	
+4-16	527-529	by	_	
+4-17	530-533	the	_	
+4-18	534-541	current	_	
+4-19	542-549	account	_	
+4-20	550-556	status	_	
+4-21	557-558	(	_	
+4-22	558-560	ie	_	
+4-23	560-561	.	_	
+4-24	562-565	the	_	
+4-25	566-573	balance	_	
+4-26	574-576	of	_	
+4-27	577-582	trade	_	
+4-28	583-590	between	_	
+4-29	591-600	countries	_	
+4-30	600-601	)	_	
+4-31	601-602	.	_	
+
+#Text=Some European leaders want the United States to take action to increase the value of its exchange rate.
+5-1	604-608	Some	_	
+5-2	609-617	European	_	
+5-3	618-625	leaders	_	
+5-4	626-630	want	_	
+5-5	631-634	the	_	
+5-6	635-641	United	_	
+5-7	642-648	States	_	
+5-8	649-651	to	_	
+5-9	652-656	take	Décision gouvernementale[2]	
+5-10	657-663	action	Décision gouvernementale[2]	
+5-11	664-666	to	_	
+5-12	667-675	increase	_	
+5-13	676-679	the	_	
+5-14	680-685	value	_	
+5-15	686-688	of	_	
+5-16	689-692	its	_	
+5-17	693-701	exchange	_	
+5-18	702-706	rate	_	
+5-19	706-707	.	_	
+
+#Text=The US though is seen as not wanting to do this, for two reasons:
+#Text=# A low dollar relative the euro means that all exports from the US to Europe are cheaper for Europeans to buy, increasing the likelihood that Europeans will buy US items and thus helping the US economy
+#Text=# Many actions which governments have done in the past to bolster unnaturally their currency have been fought by the market, and the market won.
+6-1	708-711	The	_	
+6-2	712-714	US	_	
+6-3	715-721	though	_	
+6-4	722-724	is	_	
+6-5	725-729	seen	_	
+6-6	730-732	as	_	
+6-7	733-736	not	_	
+6-8	737-744	wanting	_	
+6-9	745-747	to	_	
+6-10	748-750	do	_	
+6-11	751-755	this	_	
+6-12	755-756	,	_	
+6-13	757-760	for	_	
+6-14	761-764	two	_	
+6-15	765-772	reasons	_	
+6-16	772-773	:	_	
+6-17	774-775	#	_	
+6-18	776-777	A	_	
+6-19	778-781	low	_	
+6-20	782-788	dollar	_	
+6-21	789-797	relative	_	
+6-22	798-801	the	_	
+6-23	802-806	euro	_	
+6-24	807-812	means	_	
+6-25	813-817	that	_	
+6-26	818-821	all	_	
+6-27	822-829	exports	_	
+6-28	830-834	from	_	
+6-29	835-838	the	_	
+6-30	839-841	US	_	
+6-31	842-844	to	_	
+6-32	845-851	Europe	_	
+6-33	852-855	are	_	
+6-34	856-863	cheaper	_	
+6-35	864-867	for	_	
+6-36	868-877	Europeans	_	
+6-37	878-880	to	_	
+6-38	881-884	buy	_	
+6-39	884-885	,	_	
+6-40	886-896	increasing	_	
+6-41	897-900	the	_	
+6-42	901-911	likelihood	_	
+6-43	912-916	that	_	
+6-44	917-926	Europeans	_	
+6-45	927-931	will	_	
+6-46	932-935	buy	_	
+6-47	936-938	US	_	
+6-48	939-944	items	_	
+6-49	945-948	and	_	
+6-50	949-953	thus	_	
+6-51	954-961	helping	_	
+6-52	962-965	the	_	
+6-53	966-968	US	_	
+6-54	969-976	economy	_	
+6-55	977-978	#	_	
+6-56	979-983	Many	_	
+6-57	984-991	actions	_	
+6-58	992-997	which	_	
+6-59	998-1009	governments	_	
+6-60	1010-1014	have	_	
+6-61	1015-1019	done	_	
+6-62	1020-1022	in	_	
+6-63	1023-1026	the	_	
+6-64	1027-1031	past	_	
+6-65	1032-1034	to	_	
+6-66	1035-1042	bolster	_	
+6-67	1043-1054	unnaturally	_	
+6-68	1055-1060	their	_	
+6-69	1061-1069	currency	_	
+6-70	1070-1074	have	_	
+6-71	1075-1079	been	_	
+6-72	1080-1086	fought	_	
+6-73	1087-1089	by	_	
+6-74	1090-1093	the	_	
+6-75	1094-1100	market	_	
+6-76	1100-1101	,	_	
+6-77	1102-1105	and	_	
+6-78	1106-1109	the	_	
+6-79	1110-1116	market	_	
+6-80	1117-1120	won	_	
+6-81	1120-1121	.	_	
+
+#Text=The most famous example is George Soros' "breaking of the Bank of England"
+#Text=
+#Text=One side-issue that this discussion might evoke is that of the exchange rate between the dollar and the Chinese yuan, which is fixed by China.
+7-1	1122-1125	The	_	
+7-2	1126-1130	most	_	
+7-3	1131-1137	famous	_	
+7-4	1138-1145	example	_	
+7-5	1146-1148	is	_	
+7-6	1149-1155	George	_	
+7-7	1156-1161	Soros	_	
+7-8	1161-1162	'	_	
+7-9	1163-1164	"	_	
+7-10	1164-1172	breaking	_	
+7-11	1173-1175	of	_	
+7-12	1176-1179	the	_	
+7-13	1180-1184	Bank	_	
+7-14	1185-1187	of	_	
+7-15	1188-1195	England	_	
+7-16	1195-1196	"	_	
+7-17	1198-1201	One	_	
+7-18	1202-1212	side-issue	_	
+7-19	1213-1217	that	_	
+7-20	1218-1222	this	_	
+7-21	1223-1233	discussion	_	
+7-22	1234-1239	might	_	
+7-23	1240-1245	evoke	_	
+7-24	1246-1248	is	_	
+7-25	1249-1253	that	_	
+7-26	1254-1256	of	_	
+7-27	1257-1260	the	_	
+7-28	1261-1269	exchange	_	
+7-29	1270-1274	rate	_	
+7-30	1275-1282	between	_	
+7-31	1283-1286	the	_	
+7-32	1287-1293	dollar	_	
+7-33	1294-1297	and	_	
+7-34	1298-1301	the	_	
+7-35	1302-1309	Chinese	_	
+7-36	1310-1314	yuan	_	
+7-37	1314-1315	,	_	
+7-38	1316-1321	which	_	
+7-39	1322-1324	is	_	
+7-40	1325-1330	fixed	_	
+7-41	1331-1333	by	_	
+7-42	1334-1339	China	_	
+7-43	1339-1340	.	_	
+
+#Text=Studies of this exchange rate using the concept of purchasing power parity (ensuring that a dollar traded to Chinese yuan will still buy roughly the same amount in China) show that the Chinese yuan has been around 50% undervalued for the past two years.
+8-1	1341-1348	Studies	_	
+8-2	1349-1351	of	_	
+8-3	1352-1356	this	_	
+8-4	1357-1365	exchange	_	
+8-5	1366-1370	rate	_	
+8-6	1371-1376	using	_	
+8-7	1377-1380	the	_	
+8-8	1381-1388	concept	_	
+8-9	1389-1391	of	_	
+8-10	1392-1402	purchasing	_	
+8-11	1403-1408	power	_	
+8-12	1409-1415	parity	_	
+8-13	1416-1417	(	_	
+8-14	1417-1425	ensuring	_	
+8-15	1426-1430	that	_	
+8-16	1431-1432	a	_	
+8-17	1433-1439	dollar	_	
+8-18	1440-1446	traded	_	
+8-19	1447-1449	to	_	
+8-20	1450-1457	Chinese	_	
+8-21	1458-1462	yuan	_	
+8-22	1463-1467	will	_	
+8-23	1468-1473	still	_	
+8-24	1474-1477	buy	_	
+8-25	1478-1485	roughly	_	
+8-26	1486-1489	the	_	
+8-27	1490-1494	same	_	
+8-28	1495-1501	amount	_	
+8-29	1502-1504	in	_	
+8-30	1505-1510	China	_	
+8-31	1510-1511	)	_	
+8-32	1512-1516	show	_	
+8-33	1517-1521	that	_	
+8-34	1522-1525	the	_	
+8-35	1526-1533	Chinese	_	
+8-36	1534-1538	yuan	_	
+8-37	1539-1542	has	_	
+8-38	1543-1547	been	_	
+8-39	1548-1554	around	_	
+8-40	1555-1558	50%	_	
+8-41	1559-1570	undervalued	Conflit	
+8-42	1571-1574	for	_	
+8-43	1575-1578	the	_	
+8-44	1579-1583	past	_	
+8-45	1584-1587	two	_	
+8-46	1588-1593	years	_	
+8-47	1593-1594	.	_	
+
+#Text=This makes things from China on average 50% cheaper for a US consumer than they should be.
+9-1	1595-1599	This	_	
+9-2	1600-1605	makes	_	
+9-3	1606-1612	things	_	
+9-4	1613-1617	from	_	
+9-5	1618-1623	China	_	
+9-6	1624-1626	on	_	
+9-7	1627-1634	average	_	
+9-8	1635-1638	50%	_	
+9-9	1639-1646	cheaper	_	
+9-10	1647-1650	for	_	
+9-11	1651-1652	a	_	
+9-12	1653-1655	US	_	
+9-13	1656-1664	consumer	_	
+9-14	1665-1669	than	_	
+9-15	1670-1674	they	_	
+9-16	1675-1681	should	_	
+9-17	1682-1684	be	_	
+9-18	1684-1685	.	_	
+
+#Text=US officials have throughout 2004 repeatedly called for China to end this practice.
+10-1	1686-1688	US	_	
+10-2	1689-1698	officials	_	
+10-3	1699-1703	have	_	
+10-4	1704-1714	throughout	_	
+10-5	1715-1719	2004	_	
+10-6	1720-1730	repeatedly	_	
+10-7	1731-1737	called	Décision gouvernementale[3]	
+10-8	1738-1741	for	Décision gouvernementale[3]	
+10-9	1742-1747	China	Décision gouvernementale[3]	
+10-10	1748-1750	to	Décision gouvernementale[3]	
+10-11	1751-1754	end	Décision gouvernementale[3]	
+10-12	1755-1759	this	Décision gouvernementale[3]	
+10-13	1760-1768	practice	Décision gouvernementale[3]	
+10-14	1768-1769	.	_	
+
+#Text=Normally it would end itself, i.e. even with a fixed exchange rate this process could only go on for so long before the entire Chinese market becomes valued differently.
+11-1	1770-1778	Normally	_	
+11-2	1779-1781	it	_	
+11-3	1782-1787	would	_	
+11-4	1788-1791	end	_	
+11-5	1792-1798	itself	_	
+11-6	1798-1799	,	_	
+11-7	1800-1803	i.e	_	
+11-8	1803-1804	.	_	
+11-9	1805-1809	even	_	
+11-10	1810-1814	with	_	
+11-11	1815-1816	a	_	
+11-12	1817-1822	fixed	_	
+11-13	1823-1831	exchange	_	
+11-14	1832-1836	rate	_	
+11-15	1837-1841	this	_	
+11-16	1842-1849	process	_	
+11-17	1850-1855	could	_	
+11-18	1856-1860	only	_	
+11-19	1861-1863	go	_	
+11-20	1864-1866	on	_	
+11-21	1867-1870	for	_	
+11-22	1871-1873	so	_	
+11-23	1874-1878	long	_	
+11-24	1879-1885	before	_	
+11-25	1886-1889	the	_	
+11-26	1890-1896	entire	_	
+11-27	1897-1904	Chinese	_	
+11-28	1905-1911	market	_	
+11-29	1912-1919	becomes	_	
+11-30	1920-1926	valued	_	
+11-31	1927-1938	differently	_	
+11-32	1938-1939	.	_	
+
+#Text=But since the Chinese central bank has been constantly lending money to the United States government (via the purchasing of US treasury bonds), that effect is mitigated.
+12-1	1940-1943	But	_	
+12-2	1944-1949	since	_	
+12-3	1950-1953	the	_	
+12-4	1954-1961	Chinese	_	
+12-5	1962-1969	central	_	
+12-6	1970-1974	bank	_	
+12-7	1975-1978	has	_	
+12-8	1979-1983	been	_	
+12-9	1984-1994	constantly	_	
+12-10	1995-2002	lending	_	
+12-11	2003-2008	money	_	
+12-12	2009-2011	to	_	
+12-13	2012-2015	the	_	
+12-14	2016-2022	United	_	
+12-15	2023-2029	States	_	
+12-16	2030-2040	government	_	
+12-17	2041-2042	(	_	
+12-18	2042-2045	via	_	
+12-19	2046-2049	the	_	
+12-20	2050-2060	purchasing	_	
+12-21	2061-2063	of	_	
+12-22	2064-2066	US	_	
+12-23	2067-2075	treasury	_	
+12-24	2076-2081	bonds	_	
+12-25	2081-2082	)	_	
+12-26	2082-2083	,	_	
+12-27	2084-2088	that	_	
+12-28	2089-2095	effect	_	
+12-29	2096-2098	is	_	
+12-30	2099-2108	mitigated	_	
+12-31	2108-2109	.	_	

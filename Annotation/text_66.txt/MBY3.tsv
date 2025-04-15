@@ -1,0 +1,152 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Events|value
+
+
+#Text=Alfred Gusenbauer has been reelected as leader of the Austrian Social Democrat Party (SPOE) at the party's convention in Vienna.
+1-1	0-6	Alfred	_	
+1-2	7-17	Gusenbauer	_	
+1-3	18-21	has	_	
+1-4	22-26	been	_	
+1-5	27-36	reelected	Décision gouvernementale	
+1-6	37-39	as	_	
+1-7	40-46	leader	_	
+1-8	47-49	of	_	
+1-9	50-53	the	_	
+1-10	54-62	Austrian	_	
+1-11	63-69	Social	_	
+1-12	70-78	Democrat	_	
+1-13	79-84	Party	_	
+1-14	85-86	(	_	
+1-15	86-90	SPOE	_	
+1-16	90-91	)	_	
+1-17	92-94	at	_	
+1-18	95-98	the	_	
+1-19	99-106	party's	_	
+1-20	107-117	convention	_	
+1-21	118-120	in	_	
+1-22	121-127	Vienna	_	
+1-23	127-128	.	_	
+
+#Text=Gusenbauer received 88.93% of the vote, an unexpectedly low value.
+2-1	129-139	Gusenbauer	_	
+2-2	140-148	received	_	
+2-3	149-155	88.93%	_	
+2-4	156-158	of	_	
+2-5	159-162	the	_	
+2-6	163-167	vote	Décision gouvernementale	
+2-7	167-168	,	_	
+2-8	169-171	an	_	
+2-9	172-184	unexpectedly	_	
+2-10	185-188	low	_	
+2-11	189-194	value	_	
+2-12	194-195	.	_	
+
+#Text=In 2002, he was reelected with 99.6%.
+3-1	196-198	In	_	
+3-2	199-203	2002	_	
+3-3	203-204	,	_	
+3-4	205-207	he	_	
+3-5	208-211	was	_	
+3-6	212-221	reelected	_	
+3-7	222-226	with	_	
+3-8	227-232	99.6%	_	
+3-9	232-233	.	_	
+
+#Text=Gusenbauer leads the SPOE since 1999.
+4-1	234-244	Gusenbauer	_	
+4-2	245-250	leads	_	
+4-3	251-254	the	_	
+4-4	255-259	SPOE	_	
+4-5	260-265	since	_	
+4-6	266-270	1999	_	
+4-7	270-271	.	_	
+
+#Text=Albeit the low result he has called the vote an "impressive display of confidence".
+5-1	273-279	Albeit	_	
+5-2	280-283	the	_	
+5-3	284-287	low	_	
+5-4	288-294	result	_	
+5-5	295-297	he	_	
+5-6	298-301	has	_	
+5-7	302-308	called	_	
+5-8	309-312	the	_	
+5-9	313-317	vote	_	
+5-10	318-320	an	_	
+5-11	321-322	"	_	
+5-12	322-332	impressive	_	
+5-13	333-340	display	_	
+5-14	341-343	of	_	
+5-15	344-354	confidence	_	
+5-16	354-355	"	_	
+5-17	355-356	.	_	
+
+#Text=Gusenbauer and other heads of the party, including influential Vienna mayor Michael Haeupl have confirmed that Gusenbauer will be the party's top candidate for the next parliamental election which will also determine the Austrian chancellor.
+6-1	357-367	Gusenbauer	_	
+6-2	368-371	and	_	
+6-3	372-377	other	_	
+6-4	378-383	heads	_	
+6-5	384-386	of	_	
+6-6	387-390	the	_	
+6-7	391-396	party	_	
+6-8	396-397	,	_	
+6-9	398-407	including	_	
+6-10	408-419	influential	_	
+6-11	420-426	Vienna	_	
+6-12	427-432	mayor	_	
+6-13	433-440	Michael	_	
+6-14	441-447	Haeupl	_	
+6-15	448-452	have	_	
+6-16	453-462	confirmed	_	
+6-17	463-467	that	_	
+6-18	468-478	Gusenbauer	_	
+6-19	479-483	will	_	
+6-20	484-486	be	_	
+6-21	487-490	the	_	
+6-22	491-498	party's	_	
+6-23	499-502	top	_	
+6-24	503-512	candidate	Décision gouvernementale	
+6-25	513-516	for	_	
+6-26	517-520	the	_	
+6-27	521-525	next	_	
+6-28	526-538	parliamental	_	
+6-29	539-547	election	Décision gouvernementale	
+6-30	548-553	which	_	
+6-31	554-558	will	_	
+6-32	559-563	also	_	
+6-33	564-573	determine	_	
+6-34	574-577	the	_	
+6-35	578-586	Austrian	_	
+6-36	587-597	chancellor	_	
+6-37	597-598	.	_	
+
+#Text=In his keynote address Gusenbauer has issued heavy criticism at the current Austrian government which is led by chancellor Wolfgang Schuessel and the Austrian People's Party (OEVP).
+7-1	600-602	In	_	
+7-2	603-606	his	_	
+7-3	607-614	keynote	_	
+7-4	615-622	address	_	
+7-5	623-633	Gusenbauer	_	
+7-6	634-637	has	_	
+7-7	638-644	issued	_	
+7-8	645-650	heavy	_	
+7-9	651-660	criticism	Conflit	
+7-10	661-663	at	_	
+7-11	664-667	the	_	
+7-12	668-675	current	_	
+7-13	676-684	Austrian	_	
+7-14	685-695	government	_	
+7-15	696-701	which	_	
+7-16	702-704	is	_	
+7-17	705-708	led	_	
+7-18	709-711	by	_	
+7-19	712-722	chancellor	_	
+7-20	723-731	Wolfgang	_	
+7-21	732-741	Schuessel	_	
+7-22	742-745	and	_	
+7-23	746-749	the	_	
+7-24	750-758	Austrian	_	
+7-25	759-767	People's	_	
+7-26	768-773	Party	_	
+7-27	774-775	(	_	
+7-28	775-779	OEVP	_	
+7-29	779-780	)	_	
+7-30	780-781	.	_	

@@ -1,0 +1,240 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Events|value
+
+
+#Text=Representatives of both the Sudanese government and the Sudan People's Liberation Movement (SPLM) signed a peace pledge today in the Kenyan capital Nairobi, under the watchful eye of United Nations ambassadors.
+1-1	0-15	Representatives	_	
+1-2	16-18	of	_	
+1-3	19-23	both	_	
+1-4	24-27	the	_	
+1-5	28-36	Sudanese	_	
+1-6	37-47	government	_	
+1-7	48-51	and	_	
+1-8	52-55	the	_	
+1-9	56-61	Sudan	_	
+1-10	62-70	People's	_	
+1-11	71-81	Liberation	_	
+1-12	82-90	Movement	_	
+1-13	91-92	(	_	
+1-14	92-96	SPLM	_	
+1-15	96-97	)	_	
+1-16	98-104	signed	Décision gouvernementale	
+1-17	105-106	a	_	
+1-18	107-112	peace	Décision gouvernementale[1]	
+1-19	113-119	pledge	Décision gouvernementale[1]	
+1-20	120-125	today	_	
+1-21	126-128	in	_	
+1-22	129-132	the	_	
+1-23	133-139	Kenyan	_	
+1-24	140-147	capital	_	
+1-25	148-155	Nairobi	_	
+1-26	155-156	,	_	
+1-27	157-162	under	_	
+1-28	163-166	the	_	
+1-29	167-175	watchful	_	
+1-30	176-179	eye	_	
+1-31	180-182	of	_	
+1-32	183-189	United	_	
+1-33	190-197	Nations	_	
+1-34	198-209	ambassadors	_	
+1-35	209-210	.	_	
+
+#Text=According to the BBC, the document concluded with a memorandum saying that "prompt completion of the peace process is essential for all the people of Sudan".
+2-1	212-221	According	_	
+2-2	222-224	to	_	
+2-3	225-228	the	_	
+2-4	229-232	BBC	_	
+2-5	232-233	,	_	
+2-6	234-237	the	_	
+2-7	238-246	document	_	
+2-8	247-256	concluded	_	
+2-9	257-261	with	_	
+2-10	262-263	a	_	
+2-11	264-274	memorandum	Décision gouvernementale	
+2-12	275-281	saying	_	
+2-13	282-286	that	_	
+2-14	287-288	"	_	
+2-15	288-294	prompt	_	
+2-16	295-305	completion	_	
+2-17	306-308	of	_	
+2-18	309-312	the	_	
+2-19	313-318	peace	_	
+2-20	319-326	process	_	
+2-21	327-329	is	_	
+2-22	330-339	essential	_	
+2-23	340-343	for	_	
+2-24	344-347	all	_	
+2-25	348-351	the	_	
+2-26	352-358	people	_	
+2-27	359-361	of	_	
+2-28	362-367	Sudan	_	
+2-29	367-368	"	_	
+2-30	368-369	.	_	
+
+#Text=The actual peace treaty should, according to the pledge, be signed no later than December 31st 2004.
+3-1	370-373	The	_	
+3-2	374-380	actual	_	
+3-3	381-386	peace	Décision gouvernementale[2]	
+3-4	387-393	treaty	Décision gouvernementale[2]	
+3-5	394-400	should	_	
+3-6	400-401	,	_	
+3-7	402-411	according	_	
+3-8	412-414	to	_	
+3-9	415-418	the	_	
+3-10	419-425	pledge	_	
+3-11	425-426	,	_	
+3-12	427-429	be	_	
+3-13	430-436	signed	_	
+3-14	437-439	no	_	
+3-15	440-445	later	_	
+3-16	446-450	than	_	
+3-17	451-459	December	_	
+3-18	460-464	31st	_	
+3-19	465-469	2004	_	
+3-20	469-470	.	_	
+
+#Text=While the pledge focuses mainly on the fights between the rebels in the south and the Khartoum-based government in the north, there is also attention for the ongoing crisis in east Sudan (Darfur).
+4-1	471-476	While	_	
+4-2	477-480	the	_	
+4-3	481-487	pledge	_	
+4-4	488-495	focuses	_	
+4-5	496-502	mainly	_	
+4-6	503-505	on	_	
+4-7	506-509	the	_	
+4-8	510-516	fights	Conflit	
+4-9	517-524	between	_	
+4-10	525-528	the	_	
+4-11	529-535	rebels	Conflit	
+4-12	536-538	in	_	
+4-13	539-542	the	_	
+4-14	543-548	south	_	
+4-15	549-552	and	_	
+4-16	553-556	the	_	
+4-17	557-571	Khartoum-based	_	
+4-18	572-582	government	_	
+4-19	583-585	in	_	
+4-20	586-589	the	_	
+4-21	590-595	north	_	
+4-22	595-596	,	_	
+4-23	597-602	there	_	
+4-24	603-605	is	_	
+4-25	606-610	also	_	
+4-26	611-620	attention	_	
+4-27	621-624	for	_	
+4-28	625-628	the	_	
+4-29	629-636	ongoing	_	
+4-30	637-643	crisis	_	
+4-31	644-646	in	_	
+4-32	647-651	east	_	
+4-33	652-657	Sudan	_	
+4-34	658-659	(	_	
+4-35	659-665	Darfur	_	
+4-36	665-666	)	_	
+4-37	666-667	.	_	
+
+#Text=Several aid agencies have criticized the UN for taking a weak stand against the Sudanese government.
+5-1	669-676	Several	_	
+5-2	677-680	aid	_	
+5-3	681-689	agencies	_	
+5-4	690-694	have	_	
+5-5	695-705	criticized	_	
+5-6	706-709	the	_	
+5-7	710-712	UN	_	
+5-8	713-716	for	_	
+5-9	717-723	taking	_	
+5-10	724-725	a	_	
+5-11	726-730	weak	_	
+5-12	731-736	stand	_	
+5-13	737-744	against	_	
+5-14	745-748	the	_	
+5-15	749-757	Sudanese	_	
+5-16	758-768	government	_	
+5-17	768-769	.	_	
+
+#Text=The Security Council has already signed two resolutions threatening economic sanctions against Sudan if the government does not disarm its troops in Darfur, but, so the BBC reports, the violence is continuing.
+6-1	770-773	The	_	
+6-2	774-782	Security	_	
+6-3	783-790	Council	_	
+6-4	791-794	has	_	
+6-5	795-802	already	_	
+6-6	803-809	signed	_	
+6-7	810-813	two	_	
+6-8	814-825	resolutions	_	
+6-9	826-837	threatening	_	
+6-10	838-846	economic	_	
+6-11	847-856	sanctions	Décision gouvernementale	
+6-12	857-864	against	_	
+6-13	865-870	Sudan	_	
+6-14	871-873	if	_	
+6-15	874-877	the	_	
+6-16	878-888	government	_	
+6-17	889-893	does	_	
+6-18	894-897	not	_	
+6-19	898-904	disarm	_	
+6-20	905-908	its	_	
+6-21	909-915	troops	_	
+6-22	916-918	in	_	
+6-23	919-925	Darfur	_	
+6-24	925-926	,	_	
+6-25	927-930	but	_	
+6-26	930-931	,	_	
+6-27	932-934	so	_	
+6-28	935-938	the	_	
+6-29	939-942	BBC	_	
+6-30	943-950	reports	_	
+6-31	950-951	,	_	
+6-32	952-955	the	_	
+6-33	956-964	violence	_	
+6-34	965-967	is	_	
+6-35	968-978	continuing	_	
+6-36	978-979	.	_	
+
+#Text=The civil war in Darfur was sparked in 2003, when insurgents started attacking government buildings.
+7-1	980-983	The	_	
+7-2	984-989	civil	_	
+7-3	990-993	war	Conflit	
+7-4	994-996	in	_	
+7-5	997-1003	Darfur	_	
+7-6	1004-1007	was	_	
+7-7	1008-1015	sparked	_	
+7-8	1016-1018	in	_	
+7-9	1019-1023	2003	_	
+7-10	1023-1024	,	_	
+7-11	1025-1029	when	_	
+7-12	1030-1040	insurgents	_	
+7-13	1041-1048	started	_	
+7-14	1049-1058	attacking	Conflit	
+7-15	1059-1069	government	_	
+7-16	1070-1079	buildings	_	
+7-17	1079-1080	.	_	
+
+#Text=The Arab government in Khartoum subsequently sent troops to the region, which have been reported to mass-violate human rights of the black Africans living in Darfur.
+8-1	1081-1084	The	_	
+8-2	1085-1089	Arab	_	
+8-3	1090-1100	government	_	
+8-4	1101-1103	in	_	
+8-5	1104-1112	Khartoum	_	
+8-6	1113-1125	subsequently	_	
+8-7	1126-1130	sent	_	
+8-8	1131-1137	troops	_	
+8-9	1138-1140	to	_	
+8-10	1141-1144	the	_	
+8-11	1145-1151	region	_	
+8-12	1151-1152	,	_	
+8-13	1153-1158	which	_	
+8-14	1159-1163	have	_	
+8-15	1164-1168	been	_	
+8-16	1169-1177	reported	_	
+8-17	1178-1180	to	_	
+8-18	1181-1193	mass-violate	_	
+8-18.1	1181-1192	mass-violat	Conflit	
+8-19	1194-1199	human	_	
+8-20	1200-1206	rights	_	
+8-21	1207-1209	of	_	
+8-22	1210-1213	the	_	
+8-23	1214-1219	black	_	
+8-24	1220-1228	Africans	_	
+8-25	1229-1235	living	_	
+8-26	1236-1238	in	_	
+8-27	1239-1245	Darfur	_	
+8-28	1245-1246	.	_	

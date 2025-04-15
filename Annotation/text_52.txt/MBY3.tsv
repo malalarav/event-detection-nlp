@@ -1,0 +1,245 @@
+#FORMAT=WebAnno TSV 3.3
+
+
+#Text=Dan Rather has announced that he will retire on March 9th, 2005 as anchor of CBS Evening News.
+1-1	0-3	Dan	
+1-2	4-10	Rather	
+1-3	11-14	has	
+1-4	15-24	announced	
+1-5	25-29	that	
+1-6	30-32	he	
+1-7	33-37	will	
+1-8	38-44	retire	
+1-9	45-47	on	
+1-10	48-53	March	
+1-11	54-57	9th	
+1-12	57-58	,	
+1-13	59-63	2005	
+1-14	64-66	as	
+1-15	67-73	anchor	
+1-16	74-76	of	
+1-17	77-80	CBS	
+1-18	81-88	Evening	
+1-19	89-93	News	
+1-20	93-94	.	
+
+#Text=He will continue to be a correspondent for both of the 60 Minutes shows.
+2-1	95-97	He	
+2-2	98-102	will	
+2-3	103-111	continue	
+2-4	112-114	to	
+2-5	115-117	be	
+2-6	118-119	a	
+2-7	120-133	correspondent	
+2-8	134-137	for	
+2-9	138-142	both	
+2-10	143-145	of	
+2-11	146-149	the	
+2-12	150-152	60	
+2-13	153-160	Minutes	
+2-14	161-166	shows	
+2-15	166-167	.	
+
+#Text=It is reported that Rather's leaving has nothing to do with a report in 2004 regarding US President Bush's National Guard service that was widely reported to be factually false.
+3-1	169-171	It	
+3-2	172-174	is	
+3-3	175-183	reported	
+3-4	184-188	that	
+3-5	189-197	Rather's	
+3-6	198-205	leaving	
+3-7	206-209	has	
+3-8	210-217	nothing	
+3-9	218-220	to	
+3-10	221-223	do	
+3-11	224-228	with	
+3-12	229-230	a	
+3-13	231-237	report	
+3-14	238-240	in	
+3-15	241-245	2004	
+3-16	246-255	regarding	
+3-17	256-258	US	
+3-18	259-268	President	
+3-19	269-275	Bush's	
+3-20	276-284	National	
+3-21	285-290	Guard	
+3-22	291-298	service	
+3-23	299-303	that	
+3-24	304-307	was	
+3-25	308-314	widely	
+3-26	315-323	reported	
+3-27	324-326	to	
+3-28	327-329	be	
+3-29	330-339	factually	
+3-30	340-345	false	
+3-31	345-346	.	
+
+#Text=A CBS panel is looking into that report.
+4-1	347-348	A	
+4-2	349-352	CBS	
+4-3	353-358	panel	
+4-4	359-361	is	
+4-5	362-369	looking	
+4-6	370-374	into	
+4-7	375-379	that	
+4-8	380-386	report	
+4-9	386-387	.	
+
+#Text=Others believe that Rather is stepping down due to this report and investigation.
+5-1	389-395	Others	
+5-2	396-403	believe	
+5-3	404-408	that	
+5-4	409-415	Rather	
+5-5	416-418	is	
+5-6	419-427	stepping	
+5-7	428-432	down	
+5-8	433-436	due	
+5-9	437-439	to	
+5-10	440-444	this	
+5-11	445-451	report	
+5-12	452-455	and	
+5-13	456-469	investigation	
+5-14	469-470	.	
+
+#Text=Howard Kurtz, a reporter for the Washington Post, states that "It's pretty clear that Dan Rather faced a very unpalatable choice...
+6-1	471-477	Howard	
+6-2	478-483	Kurtz	
+6-3	483-484	,	
+6-4	485-486	a	
+6-5	487-495	reporter	
+6-6	496-499	for	
+6-7	500-503	the	
+6-8	504-514	Washington	
+6-9	515-519	Post	
+6-10	519-520	,	
+6-11	521-527	states	
+6-12	528-532	that	
+6-13	533-534	"	
+6-14	534-538	It's	
+6-15	539-545	pretty	
+6-16	546-551	clear	
+6-17	552-556	that	
+6-18	557-560	Dan	
+6-19	561-567	Rather	
+6-20	568-573	faced	
+6-21	574-575	a	
+6-22	576-580	very	
+6-23	581-592	unpalatable	
+6-24	593-599	choice	
+6-25	599-600	.	
+6-26	600-601	.	
+6-27	601-602	.	
+
+#Text=His contract had at least two more years to run.
+7-1	603-606	His	
+7-2	607-615	contract	
+7-3	616-619	had	
+7-4	620-622	at	
+7-5	623-628	least	
+7-6	629-632	two	
+7-7	633-637	more	
+7-8	638-643	years	
+7-9	644-646	to	
+7-10	647-650	run	
+7-11	650-651	.	
+
+#Text=Should he step down now before the outside investigative report, commissioned by CBS News expected in the next few weeks about his botching -- and the network's botching -- of that story about President Bush's National Guard service?
+8-1	652-658	Should	
+8-2	659-661	he	
+8-3	662-666	step	
+8-4	667-671	down	
+8-5	672-675	now	
+8-6	676-682	before	
+8-7	683-686	the	
+8-8	687-694	outside	
+8-9	695-708	investigative	
+8-10	709-715	report	
+8-11	715-716	,	
+8-12	717-729	commissioned	
+8-13	730-732	by	
+8-14	733-736	CBS	
+8-15	737-741	News	
+8-16	742-750	expected	
+8-17	751-753	in	
+8-18	754-757	the	
+8-19	758-762	next	
+8-20	763-766	few	
+8-21	767-772	weeks	
+8-22	773-778	about	
+8-23	779-782	his	
+8-24	783-791	botching	
+8-25	792-793	-	
+8-26	793-794	-	
+8-27	795-798	and	
+8-28	799-802	the	
+8-29	803-812	network's	
+8-30	813-821	botching	
+8-31	822-823	-	
+8-32	823-824	-	
+8-33	825-827	of	
+8-34	828-832	that	
+8-35	833-838	story	
+8-36	839-844	about	
+8-37	845-854	President	
+8-38	855-861	Bush's	
+8-39	862-870	National	
+8-40	871-876	Guard	
+8-41	877-884	service	
+8-42	884-885	?	
+
+#Text=Rather decided today that it would be better for him to step down on his own terms."
+9-1	886-892	Rather	
+9-2	893-900	decided	
+9-3	901-906	today	
+9-4	907-911	that	
+9-5	912-914	it	
+9-6	915-920	would	
+9-7	921-923	be	
+9-8	924-930	better	
+9-9	931-934	for	
+9-10	935-938	him	
+9-11	939-941	to	
+9-12	942-946	step	
+9-13	947-951	down	
+9-14	952-954	on	
+9-15	955-958	his	
+9-16	959-962	own	
+9-17	963-968	terms	
+9-18	968-969	.	
+9-19	969-970	"	
+
+#Text=Dan Rather, 74, has been the anchor for CBS Evening News for 24 years, succeeding Walter Cronkite.
+10-1	972-975	Dan	
+10-2	976-982	Rather	
+10-3	982-983	,	
+10-4	984-986	74	
+10-5	986-987	,	
+10-6	988-991	has	
+10-7	992-996	been	
+10-8	997-1000	the	
+10-9	1001-1007	anchor	
+10-10	1008-1011	for	
+10-11	1012-1015	CBS	
+10-12	1016-1023	Evening	
+10-13	1024-1028	News	
+10-14	1029-1032	for	
+10-15	1033-1035	24	
+10-16	1036-1041	years	
+10-17	1041-1042	,	
+10-18	1043-1053	succeeding	
+10-19	1054-1060	Walter	
+10-20	1061-1069	Cronkite	
+10-21	1069-1070	.	
+
+#Text=Rather is the third most watched anchor on United States television.
+11-1	1071-1077	Rather	
+11-2	1078-1080	is	
+11-3	1081-1084	the	
+11-4	1085-1090	third	
+11-5	1091-1095	most	
+11-6	1096-1103	watched	
+11-7	1104-1110	anchor	
+11-8	1111-1113	on	
+11-9	1114-1120	United	
+11-10	1121-1127	States	
+11-11	1128-1138	television	
+11-12	1138-1139	.	

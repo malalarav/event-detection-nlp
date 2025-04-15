@@ -1,0 +1,282 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Events|value
+
+
+#Text=Late today, Apple Computer Inc.'
+1-1	0-4	Late	_	
+1-2	5-10	today	_	
+1-3	10-11	,	_	
+1-4	12-17	Apple	_	
+1-5	18-26	Computer	_	
+1-6	27-30	Inc	_	
+1-7	30-31	.	_	
+1-8	31-32	'	_	
+
+#Text=s iTunes Music Store (iTMS) was opened to Canadians.
+2-1	32-33	s	_	
+2-2	34-40	iTunes	Avancée technologique[1]	
+2-3	41-46	Music	Avancée technologique[1]	
+2-4	47-52	Store	Avancée technologique[1]	
+2-5	53-54	(	_	
+2-6	54-58	iTMS	_	
+2-7	58-59	)	_	
+2-8	60-63	was	_	
+2-9	64-70	opened	_	
+2-10	71-73	to	_	
+2-11	74-83	Canadians	_	
+2-12	83-84	.	_	
+
+#Text=The 700,000+ songs are priced at CAD 99¢ (USD 84¢) per song, the lowest price of any iTMS localization to date.
+3-1	85-88	The	_	
+3-2	89-96	700,000	_	
+3-3	96-97	+	_	
+3-4	98-103	songs	_	
+3-5	104-107	are	_	
+3-6	108-114	priced	_	
+3-7	115-117	at	_	
+3-8	118-121	CAD	_	
+3-9	122-125	99¢	_	
+3-10	126-127	(	_	
+3-11	127-130	USD	_	
+3-12	131-134	84¢	_	
+3-13	134-135	)	_	
+3-14	136-139	per	_	
+3-15	140-144	song	_	
+3-16	144-145	,	_	
+3-17	146-149	the	_	
+3-18	150-156	lowest	_	
+3-19	157-162	price	_	
+3-20	163-165	of	_	
+3-21	166-169	any	_	
+3-22	170-174	iTMS	_	
+3-23	175-187	localization	_	
+3-24	188-190	to	_	
+3-25	191-195	date	_	
+3-26	195-196	.	_	
+
+#Text=The Canada localization also provides customers the same personal rights for songs as with existing stores:
+#Text=
+#Text=* Ability to listen to a song on 5 computers.
+#Text=* Unlimited CD burning.
+#Text=* Burning the same playlist up to seven times.
+#Text=* Unlimited iPod usage.
+4-1	197-200	The	_	
+4-2	201-207	Canada	_	
+4-3	208-220	localization	_	
+4-4	221-225	also	_	
+4-5	226-234	provides	_	
+4-6	235-244	customers	_	
+4-7	245-248	the	_	
+4-8	249-253	same	_	
+4-9	254-262	personal	_	
+4-10	263-269	rights	_	
+4-11	270-273	for	_	
+4-12	274-279	songs	_	
+4-13	280-282	as	_	
+4-14	283-287	with	_	
+4-15	288-296	existing	_	
+4-16	297-303	stores	_	
+4-17	303-304	:	_	
+4-18	306-307	*	_	
+4-19	308-315	Ability	_	
+4-20	316-318	to	_	
+4-21	319-325	listen	_	
+4-22	326-328	to	_	
+4-23	329-330	a	_	
+4-24	331-335	song	_	
+4-25	336-338	on	_	
+4-26	339-340	5	_	
+4-27	341-350	computers	_	
+4-28	350-351	.	_	
+4-29	352-353	*	_	
+4-30	354-363	Unlimited	_	
+4-31	364-366	CD	_	
+4-32	367-374	burning	_	
+4-33	374-375	.	_	
+4-34	376-377	*	_	
+4-35	378-385	Burning	_	
+4-36	386-389	the	_	
+4-37	390-394	same	_	
+4-38	395-403	playlist	_	
+4-39	404-406	up	_	
+4-40	407-409	to	_	
+4-41	410-415	seven	_	
+4-42	416-421	times	_	
+4-43	421-422	.	_	
+4-44	423-424	*	_	
+4-45	425-434	Unlimited	_	
+4-46	435-439	iPod	Avancée technologique	
+4-47	440-445	usage	_	
+4-48	445-446	.	_	
+
+#Text=iTMS Canada was announced during the launch of the iPod photo, iPod Special Edition: U2, and EU iTMS on October 26.
+5-1	448-452	iTMS	_	
+5-2	453-459	Canada	_	
+5-3	460-463	was	_	
+5-4	464-473	announced	_	
+5-5	474-480	during	_	
+5-6	481-484	the	_	
+5-7	485-491	launch	_	
+5-8	492-494	of	_	
+5-9	495-498	the	_	
+5-10	499-503	iPod	_	
+5-11	504-509	photo	_	
+5-12	509-510	,	_	
+5-13	511-515	iPod	_	
+5-14	516-523	Special	Avancée technologique[2]	
+5-15	524-531	Edition	Avancée technologique[2]	
+5-16	531-532	:	_	
+5-17	533-535	U2	_	
+5-18	535-536	,	_	
+5-19	537-540	and	_	
+5-20	541-543	EU	_	
+5-21	544-548	iTMS	_	
+5-22	549-551	on	_	
+5-23	552-559	October	_	
+5-24	560-562	26	_	
+5-25	562-563	.	_	
+
+#Text=Apple CEO Steve Jobs stated that the Canada localization was planned for November.
+6-1	564-569	Apple	_	
+6-2	570-573	CEO	_	
+6-3	574-579	Steve	_	
+6-4	580-584	Jobs	_	
+6-5	585-591	stated	_	
+6-6	592-596	that	_	
+6-7	597-600	the	_	
+6-8	601-607	Canada	_	
+6-9	608-620	localization	_	
+6-10	621-624	was	_	
+6-11	625-632	planned	_	
+6-12	633-636	for	_	
+6-13	637-645	November	_	
+6-14	645-646	.	_	
+
+#Text=Apple apologized today for missing its own deadline, and announced that the store will be launched "very soon."
+7-1	647-652	Apple	_	
+7-2	653-663	apologized	_	
+7-3	664-669	today	_	
+7-4	670-673	for	_	
+7-5	674-681	missing	_	
+7-6	682-685	its	_	
+7-7	686-689	own	_	
+7-8	690-698	deadline	_	
+7-9	698-699	,	_	
+7-10	700-703	and	_	
+7-11	704-713	announced	_	
+7-12	714-718	that	_	
+7-13	719-722	the	_	
+7-14	723-728	store	_	
+7-15	729-733	will	_	
+7-16	734-736	be	_	
+7-17	737-745	launched	Avancée technologique	
+7-18	746-747	"	_	
+7-19	747-751	very	_	
+7-20	752-756	soon	_	
+7-21	756-757	.	_	
+7-22	757-758	"	_	
+
+#Text=No reason was given for the delay.
+8-1	759-761	No	_	
+8-2	762-768	reason	_	
+8-3	769-772	was	_	
+8-4	773-778	given	_	
+8-5	779-782	for	_	
+8-6	783-786	the	_	
+8-7	787-792	delay	_	
+8-8	792-793	.	_	
+
+#Text=iTMS Canada is another choice for Canadians in legal music downloads which includes Archambault.ca (Quebecor Media Inc.), Napster.ca (The legal reincarnation of Napster), and Puretracks.com (Moontaxi Media Inc.).
+9-1	795-799	iTMS	_	
+9-2	800-806	Canada	_	
+9-3	807-809	is	_	
+9-4	810-817	another	_	
+9-5	818-824	choice	_	
+9-6	825-828	for	_	
+9-7	829-838	Canadians	_	
+9-8	839-841	in	_	
+9-9	842-847	legal	Avancée technologique[3]	
+9-10	848-853	music	Avancée technologique[3]	
+9-11	854-863	downloads	Avancée technologique[3]	
+9-12	864-869	which	_	
+9-13	870-878	includes	_	
+9-14	879-893	Archambault.ca	_	
+9-15	894-895	(	_	
+9-16	895-903	Quebecor	_	
+9-17	904-909	Media	_	
+9-18	910-913	Inc	_	
+9-19	913-914	.	_	
+9-20	914-915	)	_	
+9-21	915-916	,	_	
+9-22	917-927	Napster.ca	_	
+9-23	928-929	(	_	
+9-24	929-932	The	_	
+9-25	933-938	legal	_	
+9-26	939-952	reincarnation	_	
+9-27	953-955	of	_	
+9-28	956-963	Napster	_	
+9-29	963-964	)	_	
+9-30	964-965	,	_	
+9-31	966-969	and	_	
+9-32	970-984	Puretracks.com	_	
+9-33	985-986	(	_	
+9-34	986-994	Moontaxi	_	
+9-35	995-1000	Media	_	
+9-36	1001-1004	Inc	_	
+9-37	1004-1005	.	_	
+9-38	1005-1006	)	_	
+9-39	1006-1007	.	_	
+
+#Text=The Canada localization is the 13th nation to be added to iTMS following its launch in the United States in April 2003; France, U.K., and Germany were added, in June of this year and all European Union countries, except Ireland, were added in October.
+10-1	1009-1012	The	_	
+10-2	1013-1019	Canada	_	
+10-3	1020-1032	localization	_	
+10-4	1033-1035	is	_	
+10-5	1036-1039	the	_	
+10-6	1040-1044	13th	_	
+10-7	1045-1051	nation	_	
+10-8	1052-1054	to	_	
+10-9	1055-1057	be	_	
+10-10	1058-1063	added	_	
+10-11	1064-1066	to	_	
+10-12	1067-1071	iTMS	_	
+10-13	1072-1081	following	_	
+10-14	1082-1085	its	_	
+10-15	1086-1092	launch	_	
+10-16	1093-1095	in	_	
+10-17	1096-1099	the	_	
+10-18	1100-1106	United	_	
+10-19	1107-1113	States	_	
+10-20	1114-1116	in	_	
+10-21	1117-1122	April	_	
+10-22	1123-1127	2003	_	
+10-23	1127-1128	;	_	
+10-24	1129-1135	France	_	
+10-25	1135-1136	,	_	
+10-26	1137-1140	U.K	_	
+10-27	1140-1141	.	_	
+10-28	1141-1142	,	_	
+10-29	1143-1146	and	_	
+10-30	1147-1154	Germany	_	
+10-31	1155-1159	were	_	
+10-32	1160-1165	added	_	
+10-33	1165-1166	,	_	
+10-34	1167-1169	in	_	
+10-35	1170-1174	June	_	
+10-36	1175-1177	of	_	
+10-37	1178-1182	this	_	
+10-38	1183-1187	year	_	
+10-39	1188-1191	and	_	
+10-40	1192-1195	all	_	
+10-41	1196-1204	European	_	
+10-42	1205-1210	Union	_	
+10-43	1211-1220	countries	_	
+10-44	1220-1221	,	_	
+10-45	1222-1228	except	_	
+10-46	1229-1236	Ireland	_	
+10-47	1236-1237	,	_	
+10-48	1238-1242	were	_	
+10-49	1243-1248	added	_	
+10-50	1249-1251	in	_	
+10-51	1252-1259	October	_	
+10-52	1259-1260	.	_	

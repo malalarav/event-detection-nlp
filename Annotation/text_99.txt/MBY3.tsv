@@ -1,0 +1,266 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Events|value
+
+
+#Text=Under a draft plan of the Australian Federal Government's "mutual obligation" agreements, members of the Aboriginal community Mulan in Western Australia will be obliged to ensure that homes and yards are clean, students attend school, rubbish bins are emptied twice a week and that children undertake frequent facewashing.
+1-1	0-5	Under	_	
+1-2	6-7	a	_	
+1-3	8-13	draft	_	
+1-4	14-18	plan	_	
+1-5	19-21	of	_	
+1-6	22-25	the	_	
+1-7	26-36	Australian	Décision gouvernementale[1]	
+1-8	37-44	Federal	Décision gouvernementale[1]	
+1-9	45-57	Government's	Décision gouvernementale[1]	
+1-10	58-59	"	Décision gouvernementale[1]	
+1-11	59-65	mutual	Décision gouvernementale[1]	
+1-12	66-76	obligation	Décision gouvernementale[1]	
+1-13	76-77	"	Décision gouvernementale[1]	
+1-14	78-88	agreements	Décision gouvernementale	
+1-15	88-89	,	_	
+1-16	90-97	members	_	
+1-17	98-100	of	_	
+1-18	101-104	the	_	
+1-19	105-115	Aboriginal	_	
+1-20	116-125	community	_	
+1-21	126-131	Mulan	_	
+1-22	132-134	in	_	
+1-23	135-142	Western	_	
+1-24	143-152	Australia	_	
+1-25	153-157	will	_	
+1-26	158-160	be	_	
+1-27	161-168	obliged	Décision gouvernementale[2]	
+1-28	169-171	to	Décision gouvernementale[2]	
+1-29	172-178	ensure	Décision gouvernementale[2]	
+1-30	179-183	that	_	
+1-31	184-189	homes	_	
+1-32	190-193	and	_	
+1-33	194-199	yards	_	
+1-34	200-203	are	_	
+1-35	204-209	clean	_	
+1-36	209-210	,	_	
+1-37	211-219	students	_	
+1-38	220-226	attend	_	
+1-39	227-233	school	_	
+1-40	233-234	,	_	
+1-41	235-242	rubbish	_	
+1-42	243-247	bins	_	
+1-43	248-251	are	_	
+1-44	252-259	emptied	_	
+1-45	260-265	twice	_	
+1-46	266-267	a	_	
+1-47	268-272	week	_	
+1-48	273-276	and	_	
+1-49	277-281	that	_	
+1-50	282-290	children	_	
+1-51	291-300	undertake	_	
+1-52	301-309	frequent	_	
+1-53	310-321	facewashing	_	
+1-54	321-322	.	_	
+
+#Text=As a "quid pro quo" the community will receive $172,000 AUD in federal funding for petrol bowsers and fuel stations, while the Western Australian Government will provide regular testing for skin infections, worm infestations and the eye condition trachoma, which is widespread in Mulan.
+2-1	326-328	As	_	
+2-2	329-330	a	_	
+2-3	331-332	"	_	
+2-4	332-336	quid	_	
+2-5	337-340	pro	_	
+2-6	341-344	quo	_	
+2-7	344-345	"	_	
+2-8	346-349	the	_	
+2-9	350-359	community	_	
+2-10	360-364	will	_	
+2-11	365-372	receive	_	
+2-12	373-381	$172,000	_	
+2-13	382-385	AUD	_	
+2-14	386-388	in	_	
+2-15	389-396	federal	_	
+2-16	397-404	funding	_	
+2-17	405-408	for	_	
+2-18	409-415	petrol	_	
+2-19	416-423	bowsers	_	
+2-20	424-427	and	_	
+2-21	428-432	fuel	_	
+2-22	433-441	stations	_	
+2-23	441-442	,	_	
+2-24	443-448	while	_	
+2-25	449-452	the	_	
+2-26	453-460	Western	Décision gouvernementale[3]	
+2-27	461-471	Australian	Décision gouvernementale[3]	
+2-28	472-482	Government	Décision gouvernementale[3]	
+2-29	483-487	will	Décision gouvernementale[4]	
+2-30	488-495	provide	Décision gouvernementale[4]	
+2-31	496-503	regular	_	
+2-32	504-511	testing	_	
+2-33	512-515	for	_	
+2-34	516-520	skin	_	
+2-35	521-531	infections	_	
+2-36	531-532	,	_	
+2-37	533-537	worm	_	
+2-38	538-550	infestations	_	
+2-39	551-554	and	_	
+2-40	555-558	the	_	
+2-41	559-562	eye	_	
+2-42	563-572	condition	_	
+2-43	573-581	trachoma	_	
+2-44	581-582	,	_	
+2-45	583-588	which	_	
+2-46	589-591	is	_	
+2-47	592-602	widespread	_	
+2-48	603-605	in	_	
+2-49	606-611	Mulan	_	
+2-50	611-612	.	_	
+
+#Text=Community administrator Mark Sewell approached Wayne Gibbons, a former Aboriginal and Torres Strait Islander Commission chief executive, to initate an agreement four months, once it became clear that the face-washing program at the Mulan Catholic school was having a positive effect.
+3-1	616-625	Community	_	
+3-2	626-639	administrator	_	
+3-3	640-644	Mark	_	
+3-4	645-651	Sewell	_	
+3-5	652-662	approached	_	
+3-6	663-668	Wayne	_	
+3-7	669-676	Gibbons	_	
+3-8	676-677	,	_	
+3-9	678-679	a	_	
+3-10	680-686	former	_	
+3-11	687-697	Aboriginal	_	
+3-12	698-701	and	_	
+3-13	702-708	Torres	_	
+3-14	709-715	Strait	_	
+3-15	716-724	Islander	_	
+3-16	725-735	Commission	_	
+3-17	736-741	chief	_	
+3-18	742-751	executive	_	
+3-19	751-752	,	_	
+3-20	753-755	to	_	
+3-21	756-763	initate	_	
+3-22	764-766	an	_	
+3-23	767-776	agreement	Décision gouvernementale	
+3-24	777-781	four	_	
+3-25	782-788	months	_	
+3-26	788-789	,	_	
+3-27	790-794	once	_	
+3-28	795-797	it	_	
+3-29	798-804	became	_	
+3-30	805-810	clear	_	
+3-31	811-815	that	_	
+3-32	816-819	the	_	
+3-33	820-832	face-washing	_	
+3-34	833-840	program	_	
+3-35	841-843	at	_	
+3-36	844-847	the	_	
+3-37	848-853	Mulan	_	
+3-38	854-862	Catholic	_	
+3-39	863-869	school	_	
+3-40	870-873	was	_	
+3-41	874-880	having	_	
+3-42	881-882	a	_	
+3-43	883-891	positive	_	
+3-44	892-898	effect	_	
+3-45	898-899	.	_	
+
+#Text=The program, which has been running for eighteen months, has reduced the levels of trachoma among students from 80% to 16%.
+4-1	900-903	The	_	
+4-2	904-911	program	_	
+4-3	911-912	,	_	
+4-4	913-918	which	_	
+4-5	919-922	has	_	
+4-6	923-927	been	_	
+4-7	928-935	running	_	
+4-8	936-939	for	_	
+4-9	940-948	eighteen	_	
+4-10	949-955	months	_	
+4-11	955-956	,	_	
+4-12	957-960	has	_	
+4-13	961-968	reduced	_	
+4-14	969-972	the	_	
+4-15	973-979	levels	_	
+4-16	980-982	of	_	
+4-17	983-991	trachoma	_	
+4-18	992-997	among	_	
+4-19	998-1006	students	_	
+4-20	1007-1011	from	_	
+4-21	1012-1015	80%	_	
+4-22	1016-1018	to	_	
+4-23	1019-1022	16%	_	
+4-24	1022-1023	.	_	
+
+#Text=Presently, the residents of Mulan must drive 44km to the nearby community of Balgo for fuel.
+5-1	1027-1036	Presently	_	
+5-2	1036-1037	,	_	
+5-3	1038-1041	the	_	
+5-4	1042-1051	residents	_	
+5-5	1052-1054	of	_	
+5-6	1055-1060	Mulan	_	
+5-7	1061-1065	must	_	
+5-8	1066-1071	drive	_	
+5-9	1072-1076	44km	_	
+5-10	1077-1079	to	_	
+5-11	1080-1083	the	_	
+5-12	1084-1090	nearby	_	
+5-13	1091-1100	community	_	
+5-14	1101-1103	of	_	
+5-15	1104-1109	Balgo	_	
+5-16	1110-1113	for	_	
+5-17	1114-1118	fuel	_	
+5-18	1118-1119	.	_	
+
+#Text=Acting race discrimination commissioner, Tom Calma, has approved the deal, despite concerns from members of the Mulan community.
+6-1	1123-1129	Acting	_	
+6-2	1130-1134	race	_	
+6-3	1135-1149	discrimination	_	
+6-4	1150-1162	commissioner	_	
+6-5	1162-1163	,	_	
+6-6	1164-1167	Tom	_	
+6-7	1168-1173	Calma	_	
+6-8	1173-1174	,	_	
+6-9	1175-1178	has	_	
+6-10	1179-1187	approved	Décision gouvernementale[5]	
+6-11	1188-1191	the	Décision gouvernementale[5]	
+6-12	1192-1196	deal	Décision gouvernementale[5]	
+6-13	1196-1197	,	Décision gouvernementale[5]	
+6-14	1198-1205	despite	_	
+6-15	1206-1214	concerns	_	
+6-16	1215-1219	from	_	
+6-17	1220-1227	members	_	
+6-18	1228-1230	of	_	
+6-19	1231-1234	the	_	
+6-20	1235-1240	Mulan	_	
+6-21	1241-1250	community	_	
+6-22	1250-1251	.	_	
+
+#Text=Aboriginal lawyer and land rights activist Michael Mansell claimed that placing conditions on funding is unlawful and unenforceable.
+7-1	1252-1262	Aboriginal	_	
+7-2	1263-1269	lawyer	_	
+7-3	1270-1273	and	_	
+7-4	1274-1278	land	_	
+7-5	1279-1285	rights	_	
+7-6	1286-1294	activist	_	
+7-7	1295-1302	Michael	_	
+7-8	1303-1310	Mansell	_	
+7-9	1311-1318	claimed	_	
+7-10	1319-1323	that	_	
+7-11	1324-1331	placing	_	
+7-12	1332-1342	conditions	_	
+7-13	1343-1345	on	_	
+7-14	1346-1353	funding	_	
+7-15	1354-1356	is	_	
+7-16	1357-1365	unlawful	_	
+7-17	1366-1369	and	_	
+7-18	1370-1383	unenforceable	_	
+7-19	1383-1384	.	_	
+
+#Text=The government proposal has been widely labelled as 'humiliating' to the community.
+8-1	1385-1388	The	_	
+8-2	1389-1399	government	_	
+8-3	1400-1408	proposal	_	
+8-4	1409-1412	has	_	
+8-5	1413-1417	been	_	
+8-6	1418-1424	widely	_	
+8-7	1425-1433	labelled	_	
+8-8	1434-1436	as	_	
+8-9	1437-1438	'	_	
+8-10	1438-1449	humiliating	_	
+8-11	1449-1450	'	_	
+8-12	1451-1453	to	_	
+8-13	1454-1457	the	_	
+8-14	1458-1467	community	_	
+8-15	1467-1468	.	_	

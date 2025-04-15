@@ -1,0 +1,158 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Events|value
+
+
+#Text=Secretary of State Colin Powell submitted his long-expected resignation as of Monday, November 15, and his resignation was accepted by President George W.
+1-1	0-9	Secretary	_	
+1-2	10-12	of	_	
+1-3	13-18	State	_	
+1-4	19-24	Colin	_	
+1-5	25-31	Powell	_	
+1-6	32-41	submitted	_	
+1-7	42-45	his	_	
+1-8	46-59	long-expected	_	
+1-9	60-71	resignation	Décision gouvernementale	
+1-10	72-74	as	_	
+1-11	75-77	of	_	
+1-12	78-84	Monday	_	
+1-13	84-85	,	_	
+1-14	86-94	November	_	
+1-15	95-97	15	_	
+1-16	97-98	,	_	
+1-17	99-102	and	_	
+1-18	103-106	his	_	
+1-19	107-118	resignation	Décision gouvernementale	
+1-20	119-122	was	_	
+1-21	123-131	accepted	_	
+1-22	132-134	by	_	
+1-23	135-144	President	Décision gouvernementale[1]	
+1-24	145-151	George	Décision gouvernementale[1]	
+1-25	152-153	W	Décision gouvernementale[1]	
+1-26	153-154	.	_	
+
+#Text=Bush.
+2-1	155-159	Bush	_	
+2-2	159-160	.	_	
+
+#Text=His resignation letter was sent to the President on Friday.
+3-1	161-164	His	_	
+3-2	165-176	resignation	Décision gouvernementale[2]	
+3-3	177-183	letter	Décision gouvernementale[2]	
+3-4	184-187	was	_	
+3-5	188-192	sent	_	
+3-6	193-195	to	_	
+3-7	196-199	the	_	
+3-8	200-209	President	Décision gouvernementale	
+3-9	210-212	on	_	
+3-10	213-219	Friday	_	
+3-11	219-220	.	_	
+
+#Text=Powell has said that it was always his intention to serve only one term.
+4-1	221-227	Powell	_	
+4-2	228-231	has	_	
+4-3	232-236	said	_	
+4-4	237-241	that	_	
+4-5	242-244	it	_	
+4-6	245-248	was	_	
+4-7	249-255	always	_	
+4-8	256-259	his	_	
+4-9	260-269	intention	_	
+4-10	270-272	to	_	
+4-11	273-278	serve	_	
+4-12	279-283	only	_	
+4-13	284-287	one	_	
+4-14	288-292	term	_	
+4-15	292-293	.	_	
+
+#Text=The San Gabriel Valley Tribune said that Powell often had disputes with Bush Administration officials holding what the newspaper termed "more hawkish" views.
+5-1	295-298	The	_	
+5-2	299-302	San	_	
+5-3	303-310	Gabriel	_	
+5-4	311-317	Valley	_	
+5-5	318-325	Tribune	_	
+5-6	326-330	said	_	
+5-7	331-335	that	_	
+5-8	336-342	Powell	_	
+5-9	343-348	often	_	
+5-10	349-352	had	_	
+5-11	353-361	disputes	_	
+5-12	362-366	with	_	
+5-13	367-371	Bush	_	
+5-14	372-386	Administration	_	
+5-15	387-396	officials	_	
+5-16	397-404	holding	_	
+5-17	405-409	what	_	
+5-18	410-413	the	_	
+5-19	414-423	newspaper	_	
+5-20	424-430	termed	_	
+5-21	431-432	"	_	
+5-22	432-436	more	_	
+5-23	437-444	hawkish	_	
+5-24	444-445	"	_	
+5-25	446-451	views	_	
+5-26	451-452	.	_	
+
+#Text=On Tuesday, President Bush announced his nomination of National Security Advisor Dr.
+6-1	454-456	On	_	
+6-2	457-464	Tuesday	_	
+6-3	464-465	,	_	
+6-4	466-475	President	Décision gouvernementale[3]	
+6-5	476-480	Bush	Décision gouvernementale[3]	
+6-6	481-490	announced	_	
+6-7	491-494	his	_	
+6-8	495-505	nomination	Décision gouvernementale	
+6-9	506-508	of	_	
+6-10	509-517	National	_	
+6-11	518-526	Security	_	
+6-12	527-534	Advisor	_	
+6-13	535-537	Dr	_	
+6-14	537-538	.	_	
+
+#Text=Condoleezza Rice as Powell's successor.
+7-1	539-550	Condoleezza	_	
+7-2	551-555	Rice	_	
+7-3	556-558	as	_	
+7-4	559-567	Powell's	_	
+7-5	568-577	successor	Décision gouvernementale	
+7-6	577-578	.	_	
+
+#Text=Reuters cited senior Bush administration officials as saying that her deputy, Stephen Hadley, will succeed her in her role as Assistant to the President for National Security Affairs if she is confirmed as Secretary of State.
+8-1	579-586	Reuters	_	
+8-2	587-592	cited	_	
+8-3	593-599	senior	_	
+8-4	600-604	Bush	_	
+8-5	605-619	administration	Décision gouvernementale[4]	
+8-6	620-629	officials	Décision gouvernementale[4]	
+8-7	630-632	as	_	
+8-8	633-639	saying	_	
+8-9	640-644	that	_	
+8-10	645-648	her	_	
+8-11	649-655	deputy	Décision gouvernementale	
+8-12	655-656	,	_	
+8-13	657-664	Stephen	_	
+8-14	665-671	Hadley	_	
+8-15	671-672	,	_	
+8-16	673-677	will	_	
+8-17	678-685	succeed	_	
+8-18	686-689	her	_	
+8-19	690-692	in	_	
+8-20	693-696	her	_	
+8-21	697-701	role	_	
+8-22	702-704	as	_	
+8-23	705-714	Assistant	_	
+8-24	715-717	to	_	
+8-25	718-721	the	_	
+8-26	722-731	President	Décision gouvernementale[5]	
+8-27	732-735	for	Décision gouvernementale[5]	
+8-28	736-744	National	Décision gouvernementale[5]	
+8-29	745-753	Security	Décision gouvernementale[5]	
+8-30	754-761	Affairs	Décision gouvernementale[5]	
+8-31	762-764	if	_	
+8-32	765-768	she	_	
+8-33	769-771	is	_	
+8-34	772-781	confirmed	_	
+8-35	782-784	as	_	
+8-36	785-794	Secretary	Décision gouvernementale[6]	
+8-37	795-797	of	Décision gouvernementale[6]	
+8-38	798-803	State	Décision gouvernementale[6]	
+8-39	803-804	.	_	

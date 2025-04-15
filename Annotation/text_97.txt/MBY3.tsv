@@ -1,0 +1,664 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Events|value
+
+
+#Text=U.S.
+1-1	0-3	U.S	_	
+1-2	3-4	.	_	
+
+#Text=Defense Secretary Donald H.
+2-1	5-12	Defense	_	
+2-2	13-22	Secretary	_	
+2-3	23-29	Donald	_	
+2-4	30-31	H	_	
+2-5	31-32	.	_	
+
+#Text=Rumsfeld, after a speech to U.S. soldiers at an American military base in Kuwait, was confronted by Iraq-bound soldiers raising their concerns over a variety of issues.
+3-1	33-41	Rumsfeld	_	
+3-2	41-42	,	_	
+3-3	43-48	after	_	
+3-4	49-50	a	_	
+3-5	51-57	speech	_	
+3-6	58-60	to	_	
+3-7	61-64	U.S	_	
+3-8	64-65	.	_	
+3-9	66-74	soldiers	_	
+3-10	75-77	at	_	
+3-11	78-80	an	_	
+3-12	81-89	American	_	
+3-13	90-98	military	Conflit[1]	
+3-14	99-103	base	Conflit[1]	
+3-15	104-106	in	_	
+3-16	107-113	Kuwait	_	
+3-17	113-114	,	_	
+3-18	115-118	was	_	
+3-19	119-129	confronted	_	
+3-20	130-132	by	_	
+3-21	133-143	Iraq-bound	Conflit[2]	
+3-22	144-152	soldiers	Conflit[2]	
+3-23	153-160	raising	_	
+3-24	161-166	their	_	
+3-25	167-175	concerns	_	
+3-26	176-180	over	_	
+3-27	181-182	a	_	
+3-28	183-190	variety	_	
+3-29	191-193	of	_	
+3-30	194-200	issues	_	
+3-31	200-201	.	_	
+
+#Text=During a question-and-answer session of unscreened questions following his speech at Camp Buehring, Rumsfeld replied to soldier's concerns over aging equipment and a lack of armor for military vehicles.
+4-1	205-211	During	_	
+4-2	212-213	a	_	
+4-3	214-233	question-and-answer	_	
+4-4	234-241	session	_	
+4-5	242-244	of	_	
+4-6	245-255	unscreened	_	
+4-7	256-265	questions	_	
+4-8	266-275	following	_	
+4-9	276-279	his	_	
+4-10	280-286	speech	_	
+4-11	287-289	at	_	
+4-12	290-294	Camp	_	
+4-13	295-303	Buehring	_	
+4-14	303-304	,	_	
+4-15	305-313	Rumsfeld	_	
+4-16	314-321	replied	_	
+4-17	322-324	to	_	
+4-18	325-334	soldier's	_	
+4-19	335-343	concerns	_	
+4-20	344-348	over	_	
+4-21	349-354	aging	_	
+4-22	355-364	equipment	_	
+4-23	365-368	and	_	
+4-24	369-370	a	_	
+4-25	371-375	lack	_	
+4-26	376-378	of	_	
+4-27	379-384	armor	_	
+4-28	385-388	for	_	
+4-29	389-397	military	Conflit[3]	
+4-30	398-406	vehicles	Conflit[3]	
+4-31	406-407	.	_	
+
+#Text=One soldier, Spc.
+5-1	408-411	One	_	
+5-2	412-419	soldier	_	
+5-3	419-420	,	_	
+5-4	421-424	Spc	_	
+5-5	424-425	.	_	
+
+#Text=Thomas Wilson, received applause from the gathered troops after asking the defense secretary, "Why do we soldiers have to dig through local landfills for pieces of scrap metal and compromised ballistic glass to up-armor our vehicles?"
+6-1	426-432	Thomas	_	
+6-2	433-439	Wilson	_	
+6-3	439-440	,	_	
+6-4	441-449	received	_	
+6-5	450-458	applause	_	
+6-6	459-463	from	_	
+6-7	464-467	the	_	
+6-8	468-476	gathered	_	
+6-9	477-483	troops	_	
+6-10	484-489	after	_	
+6-11	490-496	asking	_	
+6-12	497-500	the	_	
+6-13	501-508	defense	_	
+6-14	509-518	secretary	_	
+6-15	518-519	,	_	
+6-16	520-521	"	_	
+6-17	521-524	Why	_	
+6-18	525-527	do	_	
+6-19	528-530	we	_	
+6-20	531-539	soldiers	_	
+6-21	540-544	have	_	
+6-22	545-547	to	_	
+6-23	548-551	dig	_	
+6-24	552-559	through	_	
+6-25	560-565	local	_	
+6-26	566-575	landfills	_	
+6-27	576-579	for	_	
+6-28	580-586	pieces	_	
+6-29	587-589	of	_	
+6-30	590-595	scrap	_	
+6-31	596-601	metal	_	
+6-32	602-605	and	_	
+6-33	606-617	compromised	_	
+6-34	618-627	ballistic	_	
+6-35	628-633	glass	_	
+6-36	634-636	to	_	
+6-37	637-645	up-armor	_	
+6-38	646-649	our	_	
+6-39	650-658	vehicles	_	
+6-40	658-659	?	_	
+6-41	659-660	"	_	
+
+#Text=Rumsfeld hesitated, then replied, "You go to war with the Army you have, not the Army you might want or wish to have."
+7-1	661-669	Rumsfeld	_	
+7-2	670-679	hesitated	_	
+7-3	679-680	,	_	
+7-4	681-685	then	_	
+7-5	686-693	replied	_	
+7-6	693-694	,	_	
+7-7	695-696	"	_	
+7-8	696-699	You	_	
+7-9	700-702	go	_	
+7-10	703-705	to	_	
+7-11	706-709	war	_	
+7-12	710-714	with	_	
+7-13	715-718	the	_	
+7-14	719-723	Army	_	
+7-15	724-727	you	_	
+7-16	728-732	have	_	
+7-17	732-733	,	_	
+7-18	734-737	not	_	
+7-19	738-741	the	_	
+7-20	742-746	Army	_	
+7-21	747-750	you	_	
+7-22	751-756	might	_	
+7-23	757-761	want	_	
+7-24	762-764	or	_	
+7-25	765-769	wish	_	
+7-26	770-772	to	_	
+7-27	773-777	have	_	
+7-28	777-778	.	_	
+7-29	778-779	"	_	
+
+#Text=Rumsfeld further clarified that the Pentagon was making all possible effort to provide the materials required as quickly as possible, but that it has been difficult to keep up with demand.
+8-1	780-788	Rumsfeld	_	
+8-2	789-796	further	_	
+8-3	797-806	clarified	_	
+8-4	807-811	that	_	
+8-5	812-815	the	_	
+8-6	816-824	Pentagon	Décision gouvernementale[4]	
+8-7	825-828	was	Décision gouvernementale[4]	
+8-8	829-835	making	Décision gouvernementale[4]	
+8-9	836-839	all	Décision gouvernementale[4]	
+8-10	840-848	possible	Décision gouvernementale[4]	
+8-11	849-855	effort	Décision gouvernementale[4]	
+8-12	856-858	to	Décision gouvernementale[4]	
+8-13	859-866	provide	Décision gouvernementale[4]	
+8-14	867-870	the	Décision gouvernementale[4]	
+8-15	871-880	materials	Décision gouvernementale[4]	
+8-16	881-889	required	Décision gouvernementale[4]	
+8-17	890-892	as	Décision gouvernementale[4]	
+8-18	893-900	quickly	Décision gouvernementale[4]	
+8-19	901-903	as	Décision gouvernementale[4]	
+8-20	904-912	possible	Décision gouvernementale[4]	
+8-21	912-913	,	_	
+8-22	914-917	but	_	
+8-23	918-922	that	_	
+8-24	923-925	it	_	
+8-25	926-929	has	_	
+8-26	930-934	been	_	
+8-27	935-944	difficult	_	
+8-28	945-947	to	_	
+8-29	948-952	keep	_	
+8-30	953-955	up	_	
+8-31	956-960	with	_	
+8-32	961-967	demand	_	
+8-33	967-968	.	_	
+
+#Text=:"It's not a matter of money or desire," Lt.
+9-1	972-973	:	_	
+9-2	973-974	"	_	
+9-3	974-978	It's	_	
+9-4	979-982	not	_	
+9-5	983-984	a	_	
+9-6	985-991	matter	_	
+9-7	992-994	of	_	
+9-8	995-1000	money	_	
+9-9	1001-1003	or	_	
+9-10	1004-1010	desire	_	
+9-11	1010-1011	,	_	
+9-12	1011-1012	"	_	
+9-13	1013-1015	Lt	_	
+9-14	1015-1016	.	_	
+
+#Text=Gen.
+10-1	1017-1020	Gen	_	
+10-2	1020-1021	.	_	
+
+#Text=R.
+11-1	1022-1023	R	_	
+11-2	1023-1024	.	_	
+
+#Text=Steven Whitcomb, the commander of Army forces in the Persian Gulf, told the troops after Mr.
+12-1	1025-1031	Steven	_	
+12-2	1032-1040	Whitcomb	_	
+12-3	1040-1041	,	_	
+12-4	1042-1045	the	_	
+12-5	1046-1055	commander	_	
+12-6	1056-1058	of	_	
+12-7	1059-1063	Army	_	
+12-8	1064-1070	forces	_	
+12-9	1071-1073	in	_	
+12-10	1074-1077	the	_	
+12-11	1078-1085	Persian	_	
+12-12	1086-1090	Gulf	_	
+12-13	1090-1091	,	_	
+12-14	1092-1096	told	_	
+12-15	1097-1100	the	_	
+12-16	1101-1107	troops	_	
+12-17	1108-1113	after	_	
+12-18	1114-1116	Mr	_	
+12-19	1116-1117	.	_	
+
+#Text=Rumsfeld asked him to address Specialist Wilson's question.
+13-1	1118-1126	Rumsfeld	_	
+13-2	1127-1132	asked	_	
+13-3	1133-1136	him	_	
+13-4	1137-1139	to	_	
+13-5	1140-1147	address	_	
+13-6	1148-1158	Specialist	_	
+13-7	1159-1167	Wilson's	_	
+13-8	1168-1176	question	_	
+13-9	1176-1177	.	_	
+
+#Text="It's a matter of the logistics of being able to produce it" .
+14-1	1178-1179	"	_	
+14-2	1179-1183	It's	_	
+14-3	1184-1185	a	_	
+14-4	1186-1192	matter	_	
+14-5	1193-1195	of	_	
+14-6	1196-1199	the	_	
+14-7	1200-1209	logistics	_	
+14-8	1210-1212	of	_	
+14-9	1213-1218	being	_	
+14-10	1219-1223	able	_	
+14-11	1224-1226	to	_	
+14-12	1227-1234	produce	_	
+14-13	1235-1237	it	_	
+14-14	1237-1238	"	_	
+14-15	1239-1240	.	_	
+
+#Text=However, a recent claim by a company producing such armor for the Pentagon has contradicted this assertion.
+15-1	1244-1251	However	_	
+15-2	1251-1252	,	_	
+15-3	1253-1254	a	_	
+15-4	1255-1261	recent	_	
+15-5	1262-1267	claim	_	
+15-6	1268-1270	by	_	
+15-7	1271-1272	a	_	
+15-8	1273-1280	company	_	
+15-9	1281-1290	producing	_	
+15-10	1291-1295	such	_	
+15-11	1296-1301	armor	_	
+15-12	1302-1305	for	_	
+15-13	1306-1309	the	_	
+15-14	1310-1318	Pentagon	_	
+15-15	1319-1322	has	_	
+15-16	1323-1335	contradicted	_	
+15-17	1336-1340	this	_	
+15-18	1341-1350	assertion	_	
+15-19	1350-1351	.	_	
+
+#Text="We've been telling the Pentagon for months that we have the capacity to double our production," said Matt Salmon, a consultant for ArmorWorks of Tempe, AZ.
+16-1	1352-1353	"	_	
+16-2	1353-1358	We've	_	
+16-3	1359-1363	been	_	
+16-4	1364-1371	telling	_	
+16-5	1372-1375	the	_	
+16-6	1376-1384	Pentagon	_	
+16-7	1385-1388	for	_	
+16-8	1389-1395	months	_	
+16-9	1396-1400	that	_	
+16-10	1401-1403	we	_	
+16-11	1404-1408	have	_	
+16-12	1409-1412	the	_	
+16-13	1413-1421	capacity	_	
+16-14	1422-1424	to	_	
+16-15	1425-1431	double	_	
+16-16	1432-1435	our	_	
+16-17	1436-1446	production	_	
+16-18	1446-1447	,	_	
+16-19	1447-1448	"	_	
+16-20	1449-1453	said	_	
+16-21	1454-1458	Matt	_	
+16-22	1459-1465	Salmon	_	
+16-23	1465-1466	,	_	
+16-24	1467-1468	a	_	
+16-25	1469-1479	consultant	_	
+16-26	1480-1483	for	_	
+16-27	1484-1494	ArmorWorks	_	
+16-28	1495-1497	of	_	
+16-29	1498-1503	Tempe	_	
+16-30	1503-1504	,	_	
+16-31	1505-1507	AZ	_	
+16-32	1507-1508	.	_	
+
+#Text=ArmorWorks, which has a $30 million contract with the Pentagon to supply armor kits to be fitted on Humvee vehicles, claims to be operating at only half-capacity, with little to no interest shown by the Pentagon in increasing their output.
+17-1	1509-1519	ArmorWorks	_	
+17-2	1519-1520	,	_	
+17-3	1521-1526	which	_	
+17-4	1527-1530	has	_	
+17-5	1531-1532	a	_	
+17-6	1533-1536	$30	_	
+17-7	1537-1544	million	_	
+17-8	1545-1553	contract	_	
+17-9	1554-1558	with	_	
+17-10	1559-1562	the	_	
+17-11	1563-1571	Pentagon	_	
+17-12	1572-1574	to	_	
+17-13	1575-1581	supply	Conflit[5]	
+17-14	1582-1587	armor	Conflit[5]	
+17-15	1588-1592	kits	Conflit[5]	
+17-16	1593-1595	to	_	
+17-17	1596-1598	be	_	
+17-18	1599-1605	fitted	_	
+17-19	1606-1608	on	_	
+17-20	1609-1615	Humvee	_	
+17-21	1616-1624	vehicles	_	
+17-22	1624-1625	,	_	
+17-23	1626-1632	claims	_	
+17-24	1633-1635	to	_	
+17-25	1636-1638	be	_	
+17-26	1639-1648	operating	_	
+17-27	1649-1651	at	_	
+17-28	1652-1656	only	_	
+17-29	1657-1670	half-capacity	_	
+17-30	1670-1671	,	_	
+17-31	1672-1676	with	_	
+17-32	1677-1683	little	_	
+17-33	1684-1686	to	_	
+17-34	1687-1689	no	_	
+17-35	1690-1698	interest	_	
+17-36	1699-1704	shown	_	
+17-37	1705-1707	by	_	
+17-38	1708-1711	the	_	
+17-39	1712-1720	Pentagon	_	
+17-40	1721-1723	in	_	
+17-41	1724-1734	increasing	_	
+17-42	1735-1740	their	_	
+17-43	1741-1747	output	_	
+17-44	1747-1748	.	_	
+
+#Text=Rumsfeld also addressed an expressed concern regarding aging equipment by asserting that, although all units have equipment of various vintage, troops headed into a combat situation in Iraq are equipped with the newest and best equipment the military can provide .
+18-1	1752-1760	Rumsfeld	_	
+18-2	1761-1765	also	_	
+18-3	1766-1775	addressed	_	
+18-4	1776-1778	an	_	
+18-5	1779-1788	expressed	_	
+18-6	1789-1796	concern	_	
+18-7	1797-1806	regarding	_	
+18-8	1807-1812	aging	_	
+18-9	1813-1822	equipment	_	
+18-10	1823-1825	by	_	
+18-11	1826-1835	asserting	_	
+18-12	1836-1840	that	_	
+18-13	1840-1841	,	_	
+18-14	1842-1850	although	_	
+18-15	1851-1854	all	_	
+18-16	1855-1860	units	_	
+18-17	1861-1865	have	_	
+18-18	1866-1875	equipment	_	
+18-19	1876-1878	of	_	
+18-20	1879-1886	various	_	
+18-21	1887-1894	vintage	_	
+18-22	1894-1895	,	_	
+18-23	1896-1902	troops	_	
+18-24	1903-1909	headed	_	
+18-25	1910-1914	into	_	
+18-26	1915-1916	a	_	
+18-27	1917-1923	combat	Conflit[6]	
+18-28	1924-1933	situation	Conflit[6]	
+18-29	1934-1936	in	Conflit[6]	
+18-30	1937-1941	Iraq	Conflit[6]	
+18-31	1942-1945	are	_	
+18-32	1946-1954	equipped	_	
+18-33	1955-1959	with	_	
+18-34	1960-1963	the	_	
+18-35	1964-1970	newest	_	
+18-36	1971-1974	and	_	
+18-37	1975-1979	best	Conflit[7]	
+18-38	1980-1989	equipment	Conflit[7]	
+18-39	1990-1993	the	Conflit[7]	
+18-40	1994-2002	military	Conflit[7]	
+18-41	2003-2006	can	_	
+18-42	2007-2014	provide	_	
+18-43	2015-2016	.	_	
+
+#Text=Maj.
+19-1	2020-2023	Maj	_	
+19-2	2023-2024	.	_	
+
+#Text=Gen.
+20-1	2025-2028	Gen	_	
+20-2	2028-2029	.	_	
+
+#Text=Gary Speer, the deputy commanding general of U.S. forces in Kuwait, stated that every vehicle deploying to Iraq from Kuwait has at least "Level 3" armor protection.
+21-1	2030-2034	Gary	_	
+21-2	2035-2040	Speer	_	
+21-3	2040-2041	,	_	
+21-4	2042-2045	the	_	
+21-5	2046-2052	deputy	_	
+21-6	2053-2063	commanding	_	
+21-7	2064-2071	general	_	
+21-8	2072-2074	of	_	
+21-9	2075-2078	U.S	_	
+21-10	2078-2079	.	_	
+21-11	2080-2086	forces	_	
+21-12	2087-2089	in	_	
+21-13	2090-2096	Kuwait	_	
+21-14	2096-2097	,	_	
+21-15	2098-2104	stated	_	
+21-16	2105-2109	that	_	
+21-17	2110-2115	every	_	
+21-18	2116-2123	vehicle	_	
+21-19	2124-2133	deploying	Conflit[8]	
+21-20	2134-2136	to	Conflit[8]	
+21-21	2137-2141	Iraq	Conflit[8]	
+21-22	2142-2146	from	_	
+21-23	2147-2153	Kuwait	_	
+21-24	2154-2157	has	_	
+21-25	2158-2160	at	_	
+21-26	2161-2166	least	_	
+21-27	2167-2168	"	_	
+21-28	2168-2173	Level	_	
+21-29	2174-2175	3	_	
+21-30	2175-2176	"	_	
+21-31	2177-2182	armor	Conflit[9]	
+21-32	2183-2193	protection	Conflit[9]	
+21-33	2193-2194	.	_	
+
+#Text=According to Speer, this means the vehicle has locally fabricated armor for its side panels, but not bulletproof windows or reinforced floorboards.
+22-1	2195-2204	According	_	
+22-2	2205-2207	to	_	
+22-3	2208-2213	Speer	_	
+22-4	2213-2214	,	_	
+22-5	2215-2219	this	_	
+22-6	2220-2225	means	_	
+22-7	2226-2229	the	_	
+22-8	2230-2237	vehicle	_	
+22-9	2238-2241	has	_	
+22-10	2242-2249	locally	_	
+22-11	2250-2260	fabricated	_	
+22-12	2261-2266	armor	_	
+22-13	2267-2270	for	_	
+22-14	2271-2274	its	_	
+22-15	2275-2279	side	_	
+22-16	2280-2286	panels	_	
+22-17	2286-2287	,	_	
+22-18	2288-2291	but	_	
+22-19	2292-2295	not	_	
+22-20	2296-2307	bulletproof	Conflit[10]	
+22-21	2308-2315	windows	Conflit[10]	
+22-22	2316-2318	or	Conflit[10]	
+22-23	2319-2329	reinforced	Conflit[10]	
+22-24	2330-2341	floorboards	Conflit[10]	
+22-25	2341-2342	.	_	
+
+#Text=He was not aware of soldiers retrieving used bulletproof glass or scrap metal from landfills.
+23-1	2343-2345	He	_	
+23-2	2346-2349	was	_	
+23-3	2350-2353	not	_	
+23-4	2354-2359	aware	_	
+23-5	2360-2362	of	_	
+23-6	2363-2371	soldiers	Conflit	
+23-7	2372-2382	retrieving	_	
+23-8	2383-2387	used	_	
+23-9	2388-2399	bulletproof	Conflit	
+23-10	2400-2405	glass	_	
+23-11	2406-2408	or	_	
+23-12	2409-2414	scrap	_	
+23-13	2415-2420	metal	_	
+23-14	2421-2425	from	_	
+23-15	2426-2435	landfills	_	
+23-16	2435-2436	.	_	
+
+#Text=It is difficult to estimate the seriousness of the problems cited by the soldiers, and the Army claims to be unaware of widespread shortages in necessary equipment.
+24-1	2440-2442	It	_	
+24-2	2443-2445	is	_	
+24-3	2446-2455	difficult	_	
+24-4	2456-2458	to	_	
+24-5	2459-2467	estimate	_	
+24-6	2468-2471	the	_	
+24-7	2472-2483	seriousness	_	
+24-8	2484-2486	of	_	
+24-9	2487-2490	the	_	
+24-10	2491-2499	problems	_	
+24-11	2500-2505	cited	_	
+24-12	2506-2508	by	_	
+24-13	2509-2512	the	_	
+24-14	2513-2521	soldiers	Conflit	
+24-15	2521-2522	,	_	
+24-16	2523-2526	and	_	
+24-17	2527-2530	the	_	
+24-18	2531-2535	Army	_	
+24-19	2536-2542	claims	_	
+24-20	2543-2545	to	_	
+24-21	2546-2548	be	_	
+24-22	2549-2556	unaware	_	
+24-23	2557-2559	of	_	
+24-24	2560-2570	widespread	_	
+24-25	2571-2580	shortages	_	
+24-26	2581-2583	in	_	
+24-27	2584-2593	necessary	_	
+24-28	2594-2603	equipment	_	
+24-29	2603-2604	.	_	
+
+#Text=However, enough soldiers have expressed concern () since the start of combat in Iraq to have provoked a reevalution within the military on the amount and type of protection U.S. forces require in Iraq .
+25-1	2605-2612	However	_	
+25-2	2612-2613	,	_	
+25-3	2614-2620	enough	_	
+25-4	2621-2629	soldiers	Conflit	
+25-5	2630-2634	have	_	
+25-6	2635-2644	expressed	_	
+25-7	2645-2652	concern	_	
+25-8	2653-2654	(	_	
+25-9	2654-2655	)	_	
+25-10	2656-2661	since	_	
+25-11	2662-2665	the	_	
+25-12	2666-2671	start	_	
+25-13	2672-2674	of	_	
+25-14	2675-2681	combat	_	
+25-15	2682-2684	in	_	
+25-16	2685-2689	Iraq	_	
+25-17	2690-2692	to	_	
+25-18	2693-2697	have	_	
+25-19	2698-2706	provoked	_	
+25-20	2707-2708	a	_	
+25-21	2709-2720	reevalution	_	
+25-22	2721-2727	within	_	
+25-23	2728-2731	the	_	
+25-24	2732-2740	military	_	
+25-25	2741-2743	on	_	
+25-26	2744-2747	the	_	
+25-27	2748-2754	amount	_	
+25-28	2755-2758	and	_	
+25-29	2759-2763	type	_	
+25-30	2764-2766	of	_	
+25-31	2767-2777	protection	Conflit[11]	
+25-32	2778-2781	U.S	Conflit[11]	
+25-33	2781-2782	.	Conflit[11]	
+25-34	2783-2789	forces	Conflit[11]	
+25-35	2790-2797	require	Conflit[11]	
+25-36	2798-2800	in	Conflit[11]	
+25-37	2801-2805	Iraq	Conflit[11]	
+25-38	2806-2807	.	_	
+
+#Text=Rumsfeld also faced questions from the soldiers regarding the army's 'stop-loss' policy and dismissed concerns over the allegation that Army troops receive better equipment than National Guard troops.
+26-1	2811-2819	Rumsfeld	_	
+26-2	2820-2824	also	_	
+26-3	2825-2830	faced	_	
+26-4	2831-2840	questions	_	
+26-5	2841-2845	from	_	
+26-6	2846-2849	the	_	
+26-7	2850-2858	soldiers	Conflit	
+26-8	2859-2868	regarding	_	
+26-9	2869-2872	the	_	
+26-10	2873-2879	army's	_	
+26-11	2880-2881	'	_	
+26-12	2881-2890	stop-loss	_	
+26-13	2890-2891	'	_	
+26-14	2892-2898	policy	_	
+26-15	2899-2902	and	_	
+26-16	2903-2912	dismissed	_	
+26-17	2913-2921	concerns	_	
+26-18	2922-2926	over	_	
+26-19	2927-2930	the	_	
+26-20	2931-2941	allegation	_	
+26-21	2942-2946	that	_	
+26-22	2947-2951	Army	_	
+26-23	2952-2958	troops	_	
+26-24	2959-2966	receive	_	
+26-25	2967-2973	better	_	
+26-26	2974-2983	equipment	_	
+26-27	2984-2988	than	_	
+26-28	2989-2997	National	_	
+26-29	2998-3003	Guard	_	
+26-30	3004-3010	troops	_	
+26-31	3010-3011	.	_	
+
+#Text="No way I can prove it, but I'm told that the army is breaking its neck to see that there is not a differentiation" in the quality of equipment.
+27-1	3012-3013	"	_	
+27-2	3013-3015	No	_	
+27-3	3016-3019	way	_	
+27-4	3020-3021	I	_	
+27-5	3022-3025	can	_	
+27-6	3026-3031	prove	_	
+27-7	3032-3034	it	_	
+27-8	3034-3035	,	_	
+27-9	3036-3039	but	_	
+27-10	3040-3043	I'm	_	
+27-11	3044-3048	told	_	
+27-12	3049-3053	that	_	
+27-13	3054-3057	the	_	
+27-14	3058-3062	army	_	
+27-15	3063-3065	is	_	
+27-16	3066-3074	breaking	_	
+27-17	3075-3078	its	_	
+27-18	3079-3083	neck	_	
+27-19	3084-3086	to	_	
+27-20	3087-3090	see	_	
+27-21	3091-3095	that	_	
+27-22	3096-3101	there	_	
+27-23	3102-3104	is	_	
+27-24	3105-3108	not	_	
+27-25	3109-3110	a	_	
+27-26	3111-3126	differentiation	_	
+27-27	3126-3127	"	_	
+27-28	3128-3130	in	_	
+27-29	3131-3134	the	_	
+27-30	3135-3142	quality	_	
+27-31	3143-3145	of	_	
+27-32	3146-3155	equipment	_	
+27-33	3155-3156	.	_	
+
+#Text=Shortly after the speech, Rumsfeld continued on his way to Kabul to watch President Karzai be sworn in.
+28-1	3160-3167	Shortly	_	
+28-2	3168-3173	after	_	
+28-3	3174-3177	the	_	
+28-4	3178-3184	speech	_	
+28-5	3184-3185	,	_	
+28-6	3186-3194	Rumsfeld	_	
+28-7	3195-3204	continued	_	
+28-8	3205-3207	on	_	
+28-9	3208-3211	his	_	
+28-10	3212-3215	way	_	
+28-11	3216-3218	to	_	
+28-12	3219-3224	Kabul	_	
+28-13	3225-3227	to	_	
+28-14	3228-3233	watch	_	
+28-15	3234-3243	President	_	
+28-16	3244-3250	Karzai	_	
+28-17	3251-3253	be	_	
+28-18	3254-3259	sworn	_	
+28-19	3260-3262	in	_	
+28-20	3262-3263	.	_	

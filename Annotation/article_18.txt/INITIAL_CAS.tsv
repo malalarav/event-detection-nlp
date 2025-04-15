@@ -1,0 +1,144 @@
+#FORMAT=WebAnno TSV 3.3
+
+
+#Text=According to Brazilian official sources Mr.
+1-1	0-9	According	
+1-2	10-12	to	
+1-3	13-22	Brazilian	
+1-4	23-31	official	
+1-5	32-39	sources	
+1-6	40-42	Mr	
+1-7	42-43	.	
+
+#Text=Luiz Inácio Lula da Silva, the Brazilian President will meet with the President of Vietnam Mr.
+2-1	44-48	Luiz	
+2-2	49-55	Inácio	
+2-3	56-60	Lula	
+2-4	61-63	da	
+2-5	64-69	Silva	
+2-6	69-70	,	
+2-7	71-74	the	
+2-8	75-84	Brazilian	
+2-9	85-94	President	
+2-10	95-99	will	
+2-11	100-104	meet	
+2-12	105-109	with	
+2-13	110-113	the	
+2-14	114-123	President	
+2-15	124-126	of	
+2-16	127-134	Vietnam	
+2-17	135-137	Mr	
+2-18	137-138	.	
+
+#Text=Trần Đức Lương today at 11:30 AM at the Palácio do Planalto (Plateau Palace), the Presidential official residence, in Brasília, Brazil.
+3-1	139-143	Trần	
+3-2	144-147	Đức	
+3-3	148-153	Lương	
+3-4	154-159	today	
+3-5	160-162	at	
+3-6	163-165	11	
+3-7	165-166	:	
+3-8	166-168	30	
+3-9	169-171	AM	
+3-10	172-174	at	
+3-11	175-178	the	
+3-12	179-186	Palácio	
+3-13	187-189	do	
+3-14	190-198	Planalto	
+3-15	199-200	(	
+3-16	200-207	Plateau	
+3-17	208-214	Palace	
+3-18	214-215	)	
+3-19	215-216	,	
+3-20	217-220	the	
+3-21	221-233	Presidential	
+3-22	234-242	official	
+3-23	243-252	residence	
+3-24	252-253	,	
+3-25	254-256	in	
+3-26	257-265	Brasília	
+3-27	265-266	,	
+3-28	267-273	Brazil	
+3-29	273-274	.	
+
+#Text=At 13:00 (1:00 PM) there will be a lunch with the Brazilian and Vietnamese Presidents and comitive.
+4-1	275-277	At	
+4-2	278-280	13	
+4-3	280-281	:	
+4-4	281-283	00	
+4-5	284-285	(	
+4-6	285-286	1	
+4-7	286-287	:	
+4-8	287-289	00	
+4-9	290-292	PM	
+4-10	292-293	)	
+4-11	294-299	there	
+4-12	300-304	will	
+4-13	305-307	be	
+4-14	308-309	a	
+4-15	310-315	lunch	
+4-16	316-320	with	
+4-17	321-324	the	
+4-18	325-334	Brazilian	
+4-19	335-338	and	
+4-20	339-349	Vietnamese	
+4-21	350-360	Presidents	
+4-22	361-364	and	
+4-23	365-373	comitive	
+4-24	373-374	.	
+
+#Text=According to Brazilian official sources the Brazilian and Vietnamese Presidents will talk about economic cooperation between the two countries, mainly the production of ethanol.
+5-1	378-387	According	
+5-2	388-390	to	
+5-3	391-400	Brazilian	
+5-4	401-409	official	
+5-5	410-417	sources	
+5-6	418-421	the	
+5-7	422-431	Brazilian	
+5-8	432-435	and	
+5-9	436-446	Vietnamese	
+5-10	447-457	Presidents	
+5-11	458-462	will	
+5-12	463-467	talk	
+5-13	468-473	about	
+5-14	474-482	economic	
+5-15	483-494	cooperation	
+5-16	495-502	between	
+5-17	503-506	the	
+5-18	507-510	two	
+5-19	511-520	countries	
+5-20	520-521	,	
+5-21	522-528	mainly	
+5-22	529-532	the	
+5-23	533-543	production	
+5-24	544-546	of	
+5-25	547-554	ethanol	
+5-26	554-555	.	
+
+#Text=United Nations (UN) reform and the effort by Vietnam to join the World Trade Organization (WTO) will be discussed as well.
+6-1	556-562	United	
+6-2	563-570	Nations	
+6-3	571-572	(	
+6-4	572-574	UN	
+6-5	574-575	)	
+6-6	576-582	reform	
+6-7	583-586	and	
+6-8	587-590	the	
+6-9	591-597	effort	
+6-10	598-600	by	
+6-11	601-608	Vietnam	
+6-12	609-611	to	
+6-13	612-616	join	
+6-14	617-620	the	
+6-15	621-626	World	
+6-16	627-632	Trade	
+6-17	633-645	Organization	
+6-18	646-647	(	
+6-19	647-650	WTO	
+6-20	650-651	)	
+6-21	652-656	will	
+6-22	657-659	be	
+6-23	660-669	discussed	
+6-24	670-672	as	
+6-25	673-677	well	
+6-26	677-678	.	

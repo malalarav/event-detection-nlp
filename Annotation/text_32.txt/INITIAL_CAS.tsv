@@ -1,0 +1,155 @@
+#FORMAT=WebAnno TSV 3.3
+
+
+#Text=GAZA - The Israeli Army is believed to have killed three Egyptian soldiers in a border incident.
+1-1	0-4	GAZA	
+1-2	5-6	-	
+1-3	7-10	The	
+1-4	11-18	Israeli	
+1-5	19-23	Army	
+1-6	24-26	is	
+1-7	27-35	believed	
+1-8	36-38	to	
+1-9	39-43	have	
+1-10	44-50	killed	
+1-11	51-56	three	
+1-12	57-65	Egyptian	
+1-13	66-74	soldiers	
+1-14	75-77	in	
+1-15	78-79	a	
+1-16	80-86	border	
+1-17	87-95	incident	
+1-18	95-96	.	
+
+#Text=The shootings occurred near the Philadelphi Route on the Gaza-Egypt border.
+2-1	97-100	The	
+2-2	101-110	shootings	
+2-3	111-119	occurred	
+2-4	120-124	near	
+2-5	125-128	the	
+2-6	129-140	Philadelphi	
+2-7	141-146	Route	
+2-8	147-149	on	
+2-9	150-153	the	
+2-10	154-164	Gaza-Egypt	
+2-11	165-171	border	
+2-12	171-172	.	
+
+#Text=Both nations patrol the area intensively for arms smuggling into Gaza.
+3-1	173-177	Both	
+3-2	178-185	nations	
+3-3	186-192	patrol	
+3-4	193-196	the	
+3-5	197-201	area	
+3-6	202-213	intensively	
+3-7	214-217	for	
+3-8	218-222	arms	
+3-9	223-232	smuggling	
+3-10	233-237	into	
+3-11	238-242	Gaza	
+3-12	242-243	.	
+
+#Text=An Israeli tank apparently mistook Egyptian troops for smugglers.
+4-1	245-247	An	
+4-2	248-255	Israeli	
+4-3	256-260	tank	
+4-4	261-271	apparently	
+4-5	272-279	mistook	
+4-6	280-288	Egyptian	
+4-7	289-295	troops	
+4-8	296-299	for	
+4-9	300-309	smugglers	
+4-10	309-310	.	
+
+#Text=Foreign ministry spokesman Mark Regev has apologized for the incident, saying: "If Egyptians were hit then we regret it.
+5-1	312-319	Foreign	
+5-2	320-328	ministry	
+5-3	329-338	spokesman	
+5-4	339-343	Mark	
+5-5	344-349	Regev	
+5-6	350-353	has	
+5-7	354-364	apologized	
+5-8	365-368	for	
+5-9	369-372	the	
+5-10	373-381	incident	
+5-11	381-382	,	
+5-12	383-389	saying	
+5-13	389-390	:	
+5-14	391-392	"	
+5-15	392-394	If	
+5-16	395-404	Egyptians	
+5-17	405-409	were	
+5-18	410-413	hit	
+5-19	414-418	then	
+5-20	419-421	we	
+5-21	422-428	regret	
+5-22	429-431	it	
+5-23	431-432	.	
+
+#Text=This was not our intention.
+6-1	433-437	This	
+6-2	438-441	was	
+6-3	442-445	not	
+6-4	446-449	our	
+6-5	450-459	intention	
+6-6	459-460	.	
+
+#Text=We want good co-operative relations with Egypt ... and if Egyptians were hurt then our thoughts go out to them and their families and the Egyptian people."
+7-1	461-463	We	
+7-2	464-468	want	
+7-3	469-473	good	
+7-4	474-486	co-operative	
+7-5	487-496	relations	
+7-6	497-501	with	
+7-7	502-507	Egypt	
+7-8	508-509	.	
+7-9	509-510	.	
+7-10	510-511	.	
+7-11	512-515	and	
+7-12	516-518	if	
+7-13	519-528	Egyptians	
+7-14	529-533	were	
+7-15	534-538	hurt	
+7-16	539-543	then	
+7-17	544-547	our	
+7-18	548-556	thoughts	
+7-19	557-559	go	
+7-20	560-563	out	
+7-21	564-566	to	
+7-22	567-571	them	
+7-23	572-575	and	
+7-24	576-581	their	
+7-25	582-590	families	
+7-26	591-594	and	
+7-27	595-598	the	
+7-28	599-607	Egyptian	
+7-29	608-614	people	
+7-30	614-615	.	
+7-31	615-616	"	
+
+#Text=Israel has said it is investigating the shootings "at the most senior level."
+8-1	618-624	Israel	
+8-2	625-628	has	
+8-3	629-633	said	
+8-4	634-636	it	
+8-5	637-639	is	
+8-6	640-653	investigating	
+8-7	654-657	the	
+8-8	658-667	shootings	
+8-9	668-669	"	
+8-10	669-671	at	
+8-11	672-675	the	
+8-12	676-680	most	
+8-13	681-687	senior	
+8-14	688-693	level	
+8-15	693-694	.	
+8-16	694-695	"	
+
+#Text=Egypt has said little so far.
+9-1	696-701	Egypt	
+9-2	702-705	has	
+9-3	706-710	said	
+9-4	711-717	little	
+9-5	718-720	so	
+9-6	721-724	far	
+9-7	724-725	.	

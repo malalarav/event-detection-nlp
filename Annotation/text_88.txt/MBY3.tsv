@@ -1,0 +1,511 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Events|value
+
+
+#Text=Serge Vohor, the Prime Minister of Vanuatu, recently came into spotlight as the newest battleground in the diplomatic war between the People's Republic of China and Taiwan, was accused of pushing the ambassador from the People's Republic of China, Mr.
+1-1	0-5	Serge	_	
+1-2	6-11	Vohor	_	
+1-3	11-12	,	_	
+1-4	13-16	the	_	
+1-5	17-22	Prime	_	
+1-6	23-31	Minister	_	
+1-7	32-34	of	_	
+1-8	35-42	Vanuatu	_	
+1-9	42-43	,	_	
+1-10	44-52	recently	_	
+1-11	53-57	came	_	
+1-12	58-62	into	_	
+1-13	63-72	spotlight	_	
+1-14	73-75	as	_	
+1-15	76-79	the	_	
+1-16	80-86	newest	_	
+1-17	87-99	battleground	_	
+1-18	100-102	in	_	
+1-19	103-106	the	_	
+1-20	107-117	diplomatic	_	
+1-21	118-121	war	_	
+1-22	122-129	between	_	
+1-23	130-133	the	_	
+1-24	134-142	People's	_	
+1-25	143-151	Republic	_	
+1-26	152-154	of	_	
+1-27	155-160	China	_	
+1-28	161-164	and	_	
+1-29	165-171	Taiwan	_	
+1-30	171-172	,	_	
+1-31	173-176	was	_	
+1-32	177-184	accused	Conflit	
+1-33	185-187	of	_	
+1-34	188-195	pushing	Conflit	
+1-35	196-199	the	_	
+1-36	200-210	ambassador	_	
+1-37	211-215	from	_	
+1-38	216-219	the	_	
+1-39	220-228	People's	_	
+1-40	229-237	Republic	_	
+1-41	238-240	of	_	
+1-42	241-246	China	_	
+1-43	246-247	,	_	
+1-44	248-250	Mr	_	
+1-45	250-251	.	_	
+
+#Text=Bao Shusheng.
+2-1	252-255	Bao	_	
+2-2	256-264	Shusheng	_	
+2-3	264-265	.	_	
+
+#Text=Mr.
+3-1	269-271	Mr	_	
+3-2	271-272	.	_	
+
+#Text=Bao, the newly-installed envoy from Beijing, yesterday complained to the press that he was "punched on the shoulder" by Mr.
+4-1	273-276	Bao	_	
+4-2	276-277	,	_	
+4-3	278-281	the	_	
+4-4	282-297	newly-installed	_	
+4-5	298-303	envoy	_	
+4-6	304-308	from	_	
+4-7	309-316	Beijing	_	
+4-8	316-317	,	_	
+4-9	318-327	yesterday	_	
+4-10	328-338	complained	Conflit[1]	
+4-11	339-341	to	Conflit[1]	
+4-12	342-345	the	Conflit[1]	
+4-13	346-351	press	Conflit[1]	
+4-14	352-356	that	_	
+4-15	357-359	he	_	
+4-16	360-363	was	_	
+4-17	364-365	"	_	
+4-18	365-372	punched	Conflit[2]	
+4-19	373-375	on	Conflit[2]	
+4-20	376-379	the	Conflit[2]	
+4-21	380-388	shoulder	Conflit[2]	
+4-22	388-389	"	_	
+4-23	390-392	by	_	
+4-24	393-395	Mr	_	
+4-25	395-396	.	_	
+
+#Text=Vohor after the parliamentary session ended last Wednesday (December 1).
+5-1	397-402	Vohor	_	
+5-2	403-408	after	_	
+5-3	409-412	the	_	
+5-4	413-426	parliamentary	_	
+5-5	427-434	session	_	
+5-6	435-440	ended	_	
+5-7	441-445	last	_	
+5-8	446-455	Wednesday	_	
+5-9	456-457	(	_	
+5-10	457-465	December	_	
+5-11	466-467	1	_	
+5-12	467-468	)	_	
+5-13	468-469	.	_	
+
+#Text=Mr.
+6-1	470-472	Mr	_	
+6-2	472-473	.	_	
+
+#Text=Bao approached Mr.
+7-1	474-477	Bao	_	
+7-2	478-488	approached	Conflit	
+7-3	489-491	Mr	_	
+7-4	491-492	.	_	
+
+#Text=Vohor at the time to complain that the flag of Taiwan was still flying in the capital city, even after the council of ministers has already made the decision to take it down.
+8-1	493-498	Vohor	_	
+8-2	499-501	at	_	
+8-3	502-505	the	_	
+8-4	506-510	time	_	
+8-5	511-513	to	_	
+8-6	514-522	complain	Conflit	
+8-7	523-527	that	_	
+8-8	528-531	the	_	
+8-9	532-536	flag	_	
+8-10	537-539	of	_	
+8-11	540-546	Taiwan	_	
+8-12	547-550	was	_	
+8-13	551-556	still	_	
+8-14	557-563	flying	_	
+8-15	564-566	in	_	
+8-16	567-570	the	_	
+8-17	571-578	capital	_	
+8-18	579-583	city	_	
+8-19	583-584	,	_	
+8-20	585-589	even	_	
+8-21	590-595	after	_	
+8-22	596-599	the	_	
+8-23	600-607	council	_	
+8-24	608-610	of	_	
+8-25	611-620	ministers	_	
+8-26	621-624	has	_	
+8-27	625-632	already	_	
+8-28	633-637	made	_	
+8-29	638-641	the	_	
+8-30	642-650	decision	_	
+8-31	651-653	to	_	
+8-32	654-658	take	_	
+8-33	659-661	it	_	
+8-34	662-666	down	_	
+8-35	666-667	.	_	
+
+#Text="I then approached him just outside of parliament where I waited for him again at the main entrance.
+9-1	671-672	"	_	
+9-2	672-673	I	_	
+9-3	674-678	then	_	
+9-4	679-689	approached	_	
+9-5	690-693	him	_	
+9-6	694-698	just	_	
+9-7	699-706	outside	_	
+9-8	707-709	of	_	
+9-9	710-720	parliament	_	
+9-10	721-726	where	_	
+9-11	727-728	I	_	
+9-12	729-735	waited	_	
+9-13	736-739	for	_	
+9-14	740-743	him	_	
+9-15	744-749	again	_	
+9-16	750-752	at	_	
+9-17	753-756	the	_	
+9-18	757-761	main	_	
+9-19	762-770	entrance	_	
+9-20	770-771	.	_	
+
+#Text=He then shook his fist right in my face and punched me on my right shoulder." said Mr.
+10-1	772-774	He	_	
+10-2	775-779	then	_	
+10-3	780-785	shook	_	
+10-4	786-789	his	_	
+10-5	790-794	fist	_	
+10-6	795-800	right	_	
+10-7	801-803	in	_	
+10-8	804-806	my	_	
+10-9	807-811	face	_	
+10-10	812-815	and	_	
+10-11	816-823	punched	Conflit[3]	
+10-12	824-826	me	Conflit[3]	
+10-13	827-829	on	Conflit[3]	
+10-14	830-832	my	Conflit[3]	
+10-15	833-838	right	Conflit[3]	
+10-16	839-847	shoulder	Conflit[3]	
+10-17	847-848	.	_	
+10-18	848-849	"	_	
+10-19	850-854	said	_	
+10-20	855-857	Mr	_	
+10-21	857-858	.	_	
+
+#Text=Bao, "I was shocked at what happened, but his bodyguards stepped in and the prime minister then rushed to his car.
+11-1	859-862	Bao	_	
+11-2	862-863	,	_	
+11-3	864-865	"	_	
+11-4	865-866	I	_	
+11-5	867-870	was	_	
+11-6	871-878	shocked	Conflit	
+11-7	879-881	at	_	
+11-8	882-886	what	_	
+11-9	887-895	happened	_	
+11-10	895-896	,	_	
+11-11	897-900	but	_	
+11-12	901-904	his	_	
+11-13	905-915	bodyguards	Conflit[4]	
+11-14	916-923	stepped	Conflit[4]	
+11-15	924-926	in	Conflit[4]	
+11-16	927-930	and	_	
+11-17	931-934	the	_	
+11-18	935-940	prime	_	
+11-19	941-949	minister	_	
+11-20	950-954	then	_	
+11-21	955-961	rushed	_	
+11-22	962-964	to	_	
+11-23	965-968	his	_	
+11-24	969-972	car	_	
+11-25	972-973	.	_	
+
+#Text=This has deeply offended me and my country."
+12-1	974-978	This	_	
+12-2	979-982	has	_	
+12-3	983-989	deeply	_	
+12-4	990-998	offended	Conflit[5]	
+12-5	999-1001	me	Conflit[5]	
+12-6	1002-1005	and	_	
+12-7	1006-1008	my	_	
+12-8	1009-1016	country	_	
+12-9	1016-1017	.	_	
+12-10	1017-1018	"	_	
+
+#Text=However Mr.
+13-1	1022-1029	However	_	
+13-2	1030-1032	Mr	_	
+13-3	1032-1033	.	_	
+
+#Text=Bao decided today not to file a formal protest or make a police report.
+14-1	1034-1037	Bao	_	
+14-2	1038-1045	decided	_	
+14-3	1046-1051	today	_	
+14-4	1052-1055	not	_	
+14-5	1056-1058	to	_	
+14-6	1059-1063	file	_	
+14-7	1064-1065	a	_	
+14-8	1066-1072	formal	Conflit[6]	
+14-9	1073-1080	protest	Conflit[6]	
+14-10	1081-1083	or	Conflit[6]	
+14-11	1084-1088	make	Conflit[6]	
+14-12	1089-1090	a	Conflit[6]	
+14-13	1091-1097	police	Conflit[6]	
+14-14	1098-1104	report	Conflit[6]	
+14-15	1104-1105	.	_	
+
+#Text=The incident has been publicised on Vanuatu's local newspapers, one of which called it "another indiscretion for which Vohor should resign".
+15-1	1106-1109	The	_	
+15-2	1110-1118	incident	Conflit	
+15-3	1119-1122	has	_	
+15-4	1123-1127	been	_	
+15-5	1128-1138	publicised	_	
+15-6	1139-1141	on	_	
+15-7	1142-1151	Vanuatu's	_	
+15-8	1152-1157	local	_	
+15-9	1158-1168	newspapers	_	
+15-10	1168-1169	,	_	
+15-11	1170-1173	one	_	
+15-12	1174-1176	of	_	
+15-13	1177-1182	which	_	
+15-14	1183-1189	called	_	
+15-15	1190-1192	it	_	
+15-16	1193-1194	"	_	
+15-17	1194-1201	another	_	
+15-18	1202-1214	indiscretion	_	
+15-19	1215-1218	for	_	
+15-20	1219-1224	which	_	
+15-21	1225-1230	Vohor	_	
+15-22	1231-1237	should	_	
+15-23	1238-1244	resign	_	
+15-24	1244-1245	"	_	
+15-25	1245-1246	.	_	
+
+#Text=Mr.
+16-1	1247-1249	Mr	_	
+16-2	1249-1250	.	_	
+
+#Text=Vohor had already faced a no-confidence vote by the opposition members of parliament before the incident for his decision to establish a diplomatic relationship with Taiwan.
+17-1	1251-1256	Vohor	_	
+17-2	1257-1260	had	_	
+17-3	1261-1268	already	_	
+17-4	1269-1274	faced	_	
+17-5	1275-1276	a	_	
+17-6	1277-1290	no-confidence	_	
+17-7	1291-1295	vote	_	
+17-8	1296-1298	by	_	
+17-9	1299-1302	the	_	
+17-10	1303-1313	opposition	Conflit	
+17-11	1314-1321	members	_	
+17-12	1322-1324	of	_	
+17-13	1325-1335	parliament	_	
+17-14	1336-1342	before	_	
+17-15	1343-1346	the	_	
+17-16	1347-1355	incident	_	
+17-17	1356-1359	for	_	
+17-18	1360-1363	his	_	
+17-19	1364-1372	decision	_	
+17-20	1373-1375	to	_	
+17-21	1376-1385	establish	_	
+17-22	1386-1387	a	_	
+17-23	1388-1398	diplomatic	_	
+17-24	1399-1411	relationship	_	
+17-25	1412-1416	with	_	
+17-26	1417-1423	Taiwan	_	
+17-27	1423-1424	.	_	
+
+#Text=The opposition MPs are confident that the no-confidence vote would pass in the parliament, as 16 more MPs have recently deserted Mr.
+18-1	1428-1431	The	_	
+18-2	1432-1442	opposition	Conflit	
+18-3	1443-1446	MPs	_	
+18-4	1447-1450	are	_	
+18-5	1451-1460	confident	_	
+18-6	1461-1465	that	_	
+18-7	1466-1469	the	_	
+18-8	1470-1483	no-confidence	_	
+18-9	1484-1488	vote	_	
+18-10	1489-1494	would	_	
+18-11	1495-1499	pass	_	
+18-12	1500-1502	in	_	
+18-13	1503-1506	the	_	
+18-14	1507-1517	parliament	_	
+18-15	1517-1518	,	_	
+18-16	1519-1521	as	_	
+18-17	1522-1524	16	_	
+18-18	1525-1529	more	_	
+18-19	1530-1533	MPs	_	
+18-20	1534-1538	have	_	
+18-21	1539-1547	recently	_	
+18-22	1548-1556	deserted	_	
+18-23	1557-1559	Mr	_	
+18-24	1559-1560	.	_	
+
+#Text=Vohor and sided with the opposition, which now holds a 36 to 14 majority in the 52-member parliament, including the prime minister himself and the speaker.
+19-1	1561-1566	Vohor	_	
+19-2	1567-1570	and	_	
+19-3	1571-1576	sided	Conflit[7]	
+19-4	1577-1581	with	Conflit[7]	
+19-5	1582-1585	the	Conflit[7]	
+19-6	1586-1596	opposition	Conflit[7]	
+19-7	1596-1597	,	_	
+19-8	1598-1603	which	_	
+19-9	1604-1607	now	_	
+19-10	1608-1613	holds	_	
+19-11	1614-1615	a	_	
+19-12	1616-1618	36	_	
+19-13	1619-1621	to	_	
+19-14	1622-1624	14	_	
+19-15	1625-1633	majority	_	
+19-16	1634-1636	in	_	
+19-17	1637-1640	the	_	
+19-18	1641-1643	52	_	
+19-19	1643-1644	-	_	
+19-20	1644-1650	member	_	
+19-21	1651-1661	parliament	_	
+19-22	1661-1662	,	_	
+19-23	1663-1672	including	_	
+19-24	1673-1676	the	_	
+19-25	1677-1682	prime	_	
+19-26	1683-1691	minister	_	
+19-27	1692-1699	himself	_	
+19-28	1700-1703	and	_	
+19-29	1704-1707	the	_	
+19-30	1708-1715	speaker	_	
+19-31	1715-1716	.	_	
+
+#Text=Mr.
+20-1	1720-1722	Mr	_	
+20-2	1722-1723	.	_	
+
+#Text=Vohor has been in office for only four months and his position now seems precarious, after his secret visit to Taiwan last month.
+21-1	1724-1729	Vohor	_	
+21-2	1730-1733	has	_	
+21-3	1734-1738	been	_	
+21-4	1739-1741	in	_	
+21-5	1742-1748	office	_	
+21-6	1749-1752	for	_	
+21-7	1753-1757	only	_	
+21-8	1758-1762	four	_	
+21-9	1763-1769	months	_	
+21-10	1770-1773	and	_	
+21-11	1774-1777	his	_	
+21-12	1778-1786	position	_	
+21-13	1787-1790	now	_	
+21-14	1791-1796	seems	_	
+21-15	1797-1807	precarious	_	
+21-16	1807-1808	,	_	
+21-17	1809-1814	after	_	
+21-18	1815-1818	his	_	
+21-19	1819-1825	secret	Décision gouvernementale[8]	
+21-20	1826-1831	visit	Décision gouvernementale[8]	
+21-21	1832-1834	to	Décision gouvernementale[8]	
+21-22	1835-1841	Taiwan	Décision gouvernementale[8]	
+21-23	1842-1846	last	_	
+21-24	1847-1852	month	_	
+21-25	1852-1853	.	_	
+
+#Text=In this trip he signed a communique recognising the Republic of China (the official name of Taiwan) as a sovereign state.
+22-1	1854-1856	In	_	
+22-2	1857-1861	this	_	
+22-3	1862-1866	trip	_	
+22-4	1867-1869	he	Décision gouvernementale[9]	
+22-5	1870-1876	signed	Décision gouvernementale[9]	
+22-6	1877-1878	a	Décision gouvernementale[9]	
+22-7	1879-1889	communique	Décision gouvernementale[9]	
+22-8	1890-1901	recognising	Décision gouvernementale[9]	
+22-9	1902-1905	the	Décision gouvernementale[9]	
+22-10	1906-1914	Republic	Décision gouvernementale[9]	
+22-11	1915-1917	of	Décision gouvernementale[9]	
+22-12	1918-1923	China	Décision gouvernementale[9]	
+22-13	1924-1925	(	_	
+22-14	1925-1928	the	_	
+22-15	1929-1937	official	_	
+22-16	1938-1942	name	_	
+22-17	1943-1945	of	_	
+22-18	1946-1952	Taiwan	_	
+22-19	1952-1953	)	_	
+22-20	1954-1956	as	_	
+22-21	1957-1958	a	_	
+22-22	1959-1968	sovereign	_	
+22-23	1969-1974	state	_	
+22-24	1974-1975	.	_	
+
+#Text=But the country's council of ministers, which is Vanuatu's ruling body, revoked the deal and reiterated to Beijing its commitment to the one-China policy, which is a pre-requesite for maintaining formal diplomatic ties with the People's Republic of China, which sees Taiwan as its 23rd province and the Republic of China as a defunct entity.
+23-1	1976-1979	But	_	
+23-2	1980-1983	the	_	
+23-3	1984-1993	country's	_	
+23-4	1994-2001	council	_	
+23-5	2002-2004	of	_	
+23-6	2005-2014	ministers	_	
+23-7	2014-2015	,	_	
+23-8	2016-2021	which	_	
+23-9	2022-2024	is	_	
+23-10	2025-2034	Vanuatu's	_	
+23-11	2035-2041	ruling	_	
+23-12	2042-2046	body	_	
+23-13	2046-2047	,	_	
+23-14	2048-2055	revoked	Décision gouvernementale[10]	
+23-15	2056-2059	the	Décision gouvernementale[10]	
+23-16	2060-2064	deal	_	
+23-16.1	2060-2063	dea	Décision gouvernementale[10]	
+23-17	2065-2068	and	_	
+23-18	2069-2079	reiterated	_	
+23-19	2080-2082	to	_	
+23-20	2083-2090	Beijing	_	
+23-21	2091-2094	its	_	
+23-22	2095-2105	commitment	_	
+23-23	2106-2108	to	_	
+23-24	2109-2112	the	_	
+23-25	2113-2122	one-China	_	
+23-26	2123-2129	policy	_	
+23-27	2129-2130	,	_	
+23-28	2131-2136	which	_	
+23-29	2137-2139	is	_	
+23-30	2140-2141	a	_	
+23-31	2142-2155	pre-requesite	_	
+23-32	2156-2159	for	_	
+23-33	2160-2171	maintaining	Décision gouvernementale[11]	
+23-34	2172-2178	formal	Décision gouvernementale[11]	
+23-35	2179-2189	diplomatic	Décision gouvernementale[11]	
+23-36	2190-2194	ties	Décision gouvernementale[11]	
+23-37	2195-2199	with	_	
+23-38	2200-2203	the	_	
+23-39	2204-2212	People's	_	
+23-40	2213-2221	Republic	_	
+23-41	2222-2224	of	_	
+23-42	2225-2230	China	_	
+23-43	2230-2231	,	_	
+23-44	2232-2237	which	_	
+23-45	2238-2242	sees	_	
+23-46	2243-2249	Taiwan	_	
+23-47	2250-2252	as	_	
+23-48	2253-2256	its	_	
+23-49	2257-2261	23rd	_	
+23-50	2262-2270	province	_	
+23-51	2271-2274	and	_	
+23-52	2275-2278	the	_	
+23-53	2279-2287	Republic	_	
+23-54	2288-2290	of	_	
+23-55	2291-2296	China	_	
+23-56	2297-2299	as	_	
+23-57	2300-2301	a	_	
+23-58	2302-2309	defunct	Conflit[12]	
+23-59	2310-2316	entity	Conflit[12]	
+23-60	2316-2317	.	_	
+
+#Text=Currently the Republic of China maintains formal diplomatic relationships with 27 countries, including Vanuatu.
+24-1	2318-2327	Currently	_	
+24-2	2328-2331	the	_	
+24-3	2332-2340	Republic	_	
+24-4	2341-2343	of	_	
+24-5	2344-2349	China	_	
+24-6	2350-2359	maintains	Décision gouvernementale[13]	
+24-7	2360-2366	formal	Décision gouvernementale[13]	
+24-8	2367-2377	diplomatic	Décision gouvernementale[13]	
+24-9	2378-2391	relationships	Décision gouvernementale[13]	
+24-10	2392-2396	with	_	
+24-11	2397-2399	27	_	
+24-12	2400-2409	countries	_	
+24-13	2409-2410	,	_	
+24-14	2411-2420	including	_	
+24-15	2421-2428	Vanuatu	_	
+24-16	2428-2429	.	_	

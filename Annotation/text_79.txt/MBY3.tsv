@@ -1,0 +1,278 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Events|value
+
+
+#Text=The Mozambique presidential elections vote count continued Friday in all of the country, with Frelimo and it's candidate Armando Guebuza leading, according to the preliminary results already known, and especially in Maputo, Gaza and Inhambane, traditional regions of influence for the party in power.
+1-1	0-3	The	_	
+1-2	4-14	Mozambique	_	
+1-3	15-27	presidential	Décision gouvernementale[1]	
+1-4	28-37	elections	Décision gouvernementale[1]	
+1-5	38-42	vote	Décision gouvernementale[1]	
+1-6	43-48	count	Décision gouvernementale[1]	
+1-7	49-58	continued	_	
+1-8	59-65	Friday	_	
+1-9	66-68	in	_	
+1-10	69-72	all	_	
+1-11	73-75	of	_	
+1-12	76-79	the	_	
+1-13	80-87	country	_	
+1-14	87-88	,	_	
+1-15	89-93	with	_	
+1-16	94-101	Frelimo	_	
+1-17	102-105	and	_	
+1-18	106-110	it's	_	
+1-19	111-120	candidate	Décision gouvernementale	
+1-20	121-128	Armando	_	
+1-21	129-136	Guebuza	_	
+1-22	137-144	leading	_	
+1-23	144-145	,	_	
+1-24	146-155	according	_	
+1-25	156-158	to	_	
+1-26	159-162	the	_	
+1-27	163-174	preliminary	_	
+1-28	175-182	results	Décision gouvernementale	
+1-29	183-190	already	_	
+1-30	191-196	known	_	
+1-31	196-197	,	_	
+1-32	198-201	and	_	
+1-33	202-212	especially	_	
+1-34	213-215	in	_	
+1-35	216-222	Maputo	_	
+1-36	222-223	,	_	
+1-37	224-228	Gaza	_	
+1-38	229-232	and	_	
+1-39	233-242	Inhambane	_	
+1-40	242-243	,	_	
+1-41	244-255	traditional	_	
+1-42	256-263	regions	_	
+1-43	264-266	of	_	
+1-44	267-276	influence	_	
+1-45	277-280	for	_	
+1-46	281-284	the	_	
+1-47	285-290	party	_	
+1-48	291-293	in	_	
+1-49	294-299	power	_	
+1-50	299-300	.	_	
+
+#Text=With just over 400 thousand votes counted, the Frelimo candidate was ahead with 293 800 votes, against 108 807 to Afonso Dhlakama and 7899 to Raul Domingos.
+2-1	304-308	With	_	
+2-2	309-313	just	_	
+2-3	314-318	over	_	
+2-4	319-322	400	_	
+2-5	323-331	thousand	_	
+2-6	332-337	votes	Décision gouvernementale[2]	
+2-7	338-345	counted	Décision gouvernementale[2]	
+2-8	345-346	,	_	
+2-9	347-350	the	_	
+2-10	351-358	Frelimo	_	
+2-11	359-368	candidate	Décision gouvernementale	
+2-12	369-372	was	_	
+2-13	373-378	ahead	_	
+2-14	379-383	with	_	
+2-15	384-387	293	_	
+2-16	388-391	800	_	
+2-17	392-397	votes	Décision gouvernementale	
+2-18	397-398	,	_	
+2-19	399-406	against	_	
+2-20	407-410	108	_	
+2-21	411-414	807	_	
+2-22	415-417	to	_	
+2-23	418-424	Afonso	_	
+2-24	425-433	Dhlakama	_	
+2-25	434-437	and	_	
+2-26	438-442	7899	_	
+2-27	443-445	to	_	
+2-28	446-450	Raul	_	
+2-29	451-459	Domingos	_	
+2-30	459-460	.	_	
+
+#Text=Unnoficial estimates report abstention levels to be between 70% and 80%.
+3-1	461-471	Unnoficial	_	
+3-2	472-481	estimates	_	
+3-3	482-488	report	_	
+3-4	489-499	abstention	_	
+3-5	500-506	levels	_	
+3-6	507-509	to	_	
+3-7	510-512	be	_	
+3-8	513-520	between	_	
+3-9	521-524	70%	_	
+3-10	525-528	and	_	
+3-11	529-532	80%	_	
+3-12	532-533	.	_	
+
+#Text=If confirmed, these abstention levels could force a run-off next month, if neither candidate wins the 50% of votes necessary to win the elections.
+4-1	537-539	If	_	
+4-2	540-549	confirmed	_	
+4-3	549-550	,	_	
+4-4	551-556	these	_	
+4-5	557-567	abstention	Décision gouvernementale	
+4-6	568-574	levels	_	
+4-7	575-580	could	_	
+4-8	581-586	force	_	
+4-9	587-588	a	_	
+4-10	589-596	run-off	Décision gouvernementale[3]	
+4-11	597-601	next	Décision gouvernementale[3]	
+4-12	602-607	month	Décision gouvernementale[3]	
+4-13	607-608	,	_	
+4-14	609-611	if	_	
+4-15	612-619	neither	_	
+4-16	620-629	candidate	_	
+4-17	630-634	wins	_	
+4-18	635-638	the	_	
+4-19	639-642	50%	_	
+4-20	643-645	of	_	
+4-21	646-651	votes	Décision gouvernementale	
+4-22	652-661	necessary	_	
+4-23	662-664	to	_	
+4-24	665-668	win	Décision gouvernementale[4]	
+4-25	669-672	the	Décision gouvernementale[4]	
+4-26	673-682	elections	Décision gouvernementale[4]	
+4-27	682-683	.	_	
+
+#Text=Mozambique's official electoral commission is only obligated to announce the final results by Dec. 17.
+5-1	687-699	Mozambique's	_	
+5-2	700-708	official	_	
+5-3	709-718	electoral	Décision gouvernementale[5]	
+5-4	719-729	commission	Décision gouvernementale[5]	
+5-5	730-732	is	_	
+5-6	733-737	only	_	
+5-7	738-747	obligated	_	
+5-8	748-750	to	_	
+5-9	751-759	announce	_	
+5-10	760-763	the	_	
+5-11	764-769	final	_	
+5-12	770-777	results	_	
+5-13	778-780	by	_	
+5-14	781-784	Dec	_	
+5-15	784-785	.	_	
+5-16	786-788	17	_	
+5-17	788-789	.	_	
+
+#Text=Heavy rains, as well as extreme heat and logistics problems during the 2-day elections could explain the low voter turnout, but there could be other factors responsible for this, specifically the start of the cashew season, a traditional source of income for a substantial part of the population.
+6-1	793-798	Heavy	_	
+6-2	799-804	rains	_	
+6-3	804-805	,	_	
+6-4	806-808	as	_	
+6-5	809-813	well	_	
+6-6	814-816	as	_	
+6-7	817-824	extreme	_	
+6-8	825-829	heat	_	
+6-9	830-833	and	_	
+6-10	834-843	logistics	_	
+6-11	844-852	problems	_	
+6-12	853-859	during	_	
+6-13	860-863	the	_	
+6-14	864-865	2	_	
+6-15	865-866	-	_	
+6-16	866-869	day	_	
+6-17	870-879	elections	Décision gouvernementale	
+6-18	880-885	could	_	
+6-19	886-893	explain	_	
+6-20	894-897	the	_	
+6-21	898-901	low	_	
+6-22	902-907	voter	Décision gouvernementale[6]	
+6-23	908-915	turnout	Décision gouvernementale[6]	
+6-24	915-916	,	_	
+6-25	917-920	but	_	
+6-26	921-926	there	_	
+6-27	927-932	could	_	
+6-28	933-935	be	_	
+6-29	936-941	other	_	
+6-30	942-949	factors	_	
+6-31	950-961	responsible	_	
+6-32	962-965	for	_	
+6-33	966-970	this	_	
+6-34	970-971	,	_	
+6-35	972-984	specifically	_	
+6-36	985-988	the	_	
+6-37	989-994	start	_	
+6-38	995-997	of	_	
+6-39	998-1001	the	_	
+6-40	1002-1008	cashew	_	
+6-41	1009-1015	season	_	
+6-42	1015-1016	,	_	
+6-43	1017-1018	a	_	
+6-44	1019-1030	traditional	_	
+6-45	1031-1037	source	_	
+6-46	1038-1040	of	_	
+6-47	1041-1047	income	_	
+6-48	1048-1051	for	_	
+6-49	1052-1053	a	_	
+6-50	1054-1065	substantial	_	
+6-51	1066-1070	part	_	
+6-52	1071-1073	of	_	
+6-53	1074-1077	the	_	
+6-54	1078-1088	population	_	
+6-55	1088-1089	.	_	
+
+#Text=The cashew season begins in late November, extending to February or March, mainly in four provinces: Gaza and Inhambane (Frelimo strongholds), and especially in Zambézia and Nampula (Renamo strongholds).
+7-1	1093-1096	The	_	
+7-2	1097-1103	cashew	_	
+7-3	1104-1110	season	_	
+7-4	1111-1117	begins	_	
+7-5	1118-1120	in	_	
+7-6	1121-1125	late	_	
+7-7	1126-1134	November	_	
+7-8	1134-1135	,	_	
+7-9	1136-1145	extending	_	
+7-10	1146-1148	to	_	
+7-11	1149-1157	February	_	
+7-12	1158-1160	or	_	
+7-13	1161-1166	March	_	
+7-14	1166-1167	,	_	
+7-15	1168-1174	mainly	_	
+7-16	1175-1177	in	_	
+7-17	1178-1182	four	_	
+7-18	1183-1192	provinces	_	
+7-19	1192-1193	:	_	
+7-20	1194-1198	Gaza	_	
+7-21	1199-1202	and	_	
+7-22	1203-1212	Inhambane	_	
+7-23	1213-1214	(	_	
+7-24	1214-1221	Frelimo	_	
+7-25	1222-1233	strongholds	_	
+7-26	1233-1234	)	_	
+7-27	1234-1235	,	_	
+7-28	1236-1239	and	_	
+7-29	1240-1250	especially	_	
+7-30	1251-1253	in	_	
+7-31	1254-1262	Zambézia	_	
+7-32	1263-1266	and	_	
+7-33	1267-1274	Nampula	_	
+7-34	1275-1276	(	_	
+7-35	1276-1282	Renamo	_	
+7-36	1283-1294	strongholds	_	
+7-37	1294-1295	)	_	
+7-38	1295-1296	.	_	
+
+#Text=Normally, the income obtained from this can sustain the workers for the rest of the year, and usually takes them away from their homes and voting centers.
+8-1	1300-1308	Normally	_	
+8-2	1308-1309	,	_	
+8-3	1310-1313	the	_	
+8-4	1314-1320	income	_	
+8-5	1321-1329	obtained	_	
+8-6	1330-1334	from	_	
+8-7	1335-1339	this	_	
+8-8	1340-1343	can	_	
+8-9	1344-1351	sustain	_	
+8-10	1352-1355	the	_	
+8-11	1356-1363	workers	_	
+8-12	1364-1367	for	_	
+8-13	1368-1371	the	_	
+8-14	1372-1376	rest	_	
+8-15	1377-1379	of	_	
+8-16	1380-1383	the	_	
+8-17	1384-1388	year	_	
+8-18	1388-1389	,	_	
+8-19	1390-1393	and	_	
+8-20	1394-1401	usually	_	
+8-21	1402-1407	takes	_	
+8-22	1408-1412	them	_	
+8-23	1413-1417	away	_	
+8-24	1418-1422	from	_	
+8-25	1423-1428	their	_	
+8-26	1429-1434	homes	_	
+8-27	1435-1438	and	_	
+8-28	1439-1445	voting	Décision gouvernementale[7]	
+8-29	1446-1453	centers	Décision gouvernementale[7]	
+8-30	1453-1454	.	_	

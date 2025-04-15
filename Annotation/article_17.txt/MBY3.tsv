@@ -1,0 +1,269 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Events|value
+
+
+#Text=The proposal from Dutch Minister of Justice Piet Hein Donner to strengthen the anti-blasphemy provisions of the criminal code has been rejected by a majority of the Tweede Kamer, the country's parliament.
+1-1	0-3	The	_	
+1-2	4-12	proposal	Décision gouvernementale	
+1-3	13-17	from	_	
+1-4	18-23	Dutch	_	
+1-5	24-32	Minister	Décision gouvernementale[1]	
+1-6	33-35	of	Décision gouvernementale[1]	
+1-7	36-43	Justice	Décision gouvernementale[1]	
+1-8	44-48	Piet	_	
+1-9	49-53	Hein	_	
+1-10	54-60	Donner	_	
+1-11	61-63	to	_	
+1-12	64-74	strengthen	_	
+1-13	75-78	the	_	
+1-14	79-93	anti-blasphemy	_	
+1-15	94-104	provisions	_	
+1-16	105-107	of	_	
+1-17	108-111	the	_	
+1-18	112-120	criminal	Décision gouvernementale[2]	
+1-19	121-125	code	Décision gouvernementale[2]	
+1-20	126-129	has	_	
+1-21	130-134	been	_	
+1-22	135-143	rejected	_	
+1-23	144-146	by	_	
+1-24	147-148	a	_	
+1-25	149-157	majority	_	
+1-26	158-160	of	_	
+1-27	161-164	the	_	
+1-28	165-171	Tweede	_	
+1-29	172-177	Kamer	_	
+1-30	177-178	,	_	
+1-31	179-182	the	_	
+1-32	183-192	country's	_	
+1-33	193-203	parliament	Décision gouvernementale	
+1-34	203-204	.	_	
+
+#Text=Donner put forth the proposal shortly after the murder of Dutch filmmaker Theo van Gogh, but denied that Van Gogh's death had anything to do with the proposal.
+2-1	205-211	Donner	_	
+2-2	212-215	put	_	
+2-3	216-221	forth	_	
+2-4	222-225	the	_	
+2-5	226-234	proposal	Décision gouvernementale	
+2-6	235-242	shortly	_	
+2-7	243-248	after	_	
+2-8	249-252	the	_	
+2-9	253-259	murder	_	
+2-10	260-262	of	_	
+2-11	263-268	Dutch	_	
+2-12	269-278	filmmaker	_	
+2-13	279-283	Theo	_	
+2-14	284-287	van	_	
+2-15	288-292	Gogh	_	
+2-16	292-293	,	_	
+2-17	294-297	but	_	
+2-18	298-304	denied	_	
+2-19	305-309	that	_	
+2-20	310-313	Van	_	
+2-21	314-320	Gogh's	_	
+2-22	321-326	death	_	
+2-23	327-330	had	_	
+2-24	331-339	anything	_	
+2-25	340-342	to	_	
+2-26	343-345	do	_	
+2-27	346-350	with	_	
+2-28	351-354	the	_	
+2-29	355-363	proposal	Décision gouvernementale	
+2-30	363-364	.	_	
+
+#Text=NOS reported that Donner's own party, the Christian Democratic Appeal (CDA), supported his proposal.
+3-1	368-371	NOS	_	
+3-2	372-380	reported	_	
+3-3	381-385	that	_	
+3-4	386-394	Donner's	_	
+3-5	395-398	own	_	
+3-6	399-404	party	_	
+3-7	404-405	,	_	
+3-8	406-409	the	_	
+3-9	410-419	Christian	_	
+3-10	420-430	Democratic	_	
+3-11	431-437	Appeal	_	
+3-12	438-439	(	_	
+3-13	439-442	CDA	_	
+3-14	442-443	)	_	
+3-15	443-444	,	_	
+3-16	445-454	supported	_	
+3-17	455-458	his	_	
+3-18	459-467	proposal	Décision gouvernementale	
+3-19	467-468	.	_	
+
+#Text=However, their two coalition partners &amp;mdash; the People's Party for Freedom and Democracy (Volkspartij voor Vrijheid en Democratie, VVD) and Democrats 66 (D66) &amp;mdash; announced they would not back the ban.
+4-1	469-476	However	_	
+4-2	476-477	,	_	
+4-3	478-483	their	_	
+4-4	484-487	two	_	
+4-5	488-497	coalition	_	
+4-6	498-506	partners	_	
+4-7	507-508	&	_	
+4-8	508-511	amp	_	
+4-9	511-512	;	_	
+4-10	512-517	mdash	_	
+4-11	517-518	;	_	
+4-12	519-522	the	_	
+4-13	523-531	People's	_	
+4-14	532-537	Party	_	
+4-15	538-541	for	_	
+4-16	542-549	Freedom	_	
+4-17	550-553	and	_	
+4-18	554-563	Democracy	_	
+4-19	564-565	(	_	
+4-20	565-576	Volkspartij	_	
+4-21	577-581	voor	_	
+4-22	582-590	Vrijheid	_	
+4-23	591-593	en	_	
+4-24	594-604	Democratie	_	
+4-25	604-605	,	_	
+4-26	606-609	VVD	_	
+4-27	609-610	)	_	
+4-28	611-614	and	_	
+4-29	615-624	Democrats	_	
+4-30	625-627	66	_	
+4-31	628-629	(	_	
+4-32	629-632	D66	_	
+4-33	632-633	)	_	
+4-34	634-635	&	_	
+4-35	635-638	amp	_	
+4-36	638-639	;	_	
+4-37	639-644	mdash	_	
+4-38	644-645	;	_	
+4-39	646-655	announced	_	
+4-40	656-660	they	_	
+4-41	661-666	would	_	
+4-42	667-670	not	_	
+4-43	671-675	back	_	
+4-44	676-679	the	_	
+4-45	680-683	ban	_	
+4-46	683-684	.	_	
+
+#Text=The Labour Party, the largest opposition party, also refused to vote in favour.
+5-1	685-688	The	_	
+5-2	689-695	Labour	_	
+5-3	696-701	Party	_	
+5-4	701-702	,	_	
+5-5	703-706	the	_	
+5-6	707-714	largest	_	
+5-7	715-725	opposition	_	
+5-8	726-731	party	_	
+5-9	731-732	,	_	
+5-10	733-737	also	_	
+5-11	738-745	refused	_	
+5-12	746-748	to	_	
+5-13	749-753	vote	Décision gouvernementale	
+5-14	754-756	in	_	
+5-15	757-763	favour	_	
+5-16	763-764	.	_	
+
+#Text=Without their support, the motion could not be passed.
+6-1	765-772	Without	_	
+6-2	773-778	their	_	
+6-3	779-786	support	_	
+6-4	786-787	,	_	
+6-5	788-791	the	_	
+6-6	792-798	motion	Décision gouvernementale	
+6-7	799-804	could	_	
+6-8	805-808	not	_	
+6-9	809-811	be	_	
+6-10	812-818	passed	_	
+6-11	818-819	.	_	
+
+#Text=Consequently, NRC Handelsblad reports, Donner withdrew his proposal.
+7-1	820-832	Consequently	_	
+7-2	832-833	,	_	
+7-3	834-837	NRC	_	
+7-4	838-849	Handelsblad	_	
+7-5	850-857	reports	_	
+7-6	857-858	,	_	
+7-7	859-865	Donner	_	
+7-8	866-874	withdrew	Décision gouvernementale	
+7-9	875-878	his	_	
+7-10	879-887	proposal	Décision gouvernementale	
+7-11	887-888	.	_	
+
+#Text=Although the Dutch criminal code already makes blasphemy illegal, the law has only been enforced three times since the 1930s.
+8-1	892-900	Although	_	
+8-2	901-904	the	_	
+8-3	905-910	Dutch	_	
+8-4	911-919	criminal	_	
+8-5	920-924	code	_	
+8-6	925-932	already	_	
+8-7	933-938	makes	_	
+8-8	939-948	blasphemy	_	
+8-9	949-956	illegal	_	
+8-10	956-957	,	_	
+8-11	958-961	the	_	
+8-12	962-965	law	_	
+8-13	966-969	has	_	
+8-14	970-974	only	_	
+8-15	975-979	been	_	
+8-16	980-988	enforced	_	
+8-17	989-994	three	_	
+8-18	995-1000	times	_	
+8-19	1001-1006	since	_	
+8-20	1007-1010	the	_	
+8-21	1011-1016	1930s	_	
+8-22	1016-1017	.	_	
+
+#Text=The article in question states that anyone who ridicules a cleric or relic may be imprisoned for up to three months.
+9-1	1018-1021	The	_	
+9-2	1022-1029	article	Décision gouvernementale	
+9-3	1030-1032	in	_	
+9-4	1033-1041	question	_	
+9-5	1042-1048	states	_	
+9-6	1049-1053	that	_	
+9-7	1054-1060	anyone	_	
+9-8	1061-1064	who	_	
+9-9	1065-1074	ridicules	_	
+9-10	1075-1076	a	_	
+9-11	1077-1083	cleric	_	
+9-12	1084-1086	or	_	
+9-13	1087-1092	relic	_	
+9-14	1093-1096	may	_	
+9-15	1097-1099	be	_	
+9-16	1100-1110	imprisoned	_	
+9-17	1111-1114	for	_	
+9-18	1115-1117	up	_	
+9-19	1118-1120	to	_	
+9-20	1121-1126	three	_	
+9-21	1127-1133	months	_	
+9-22	1133-1134	.	_	
+
+#Text=According to Dutch broadcaster RTL, Member of Parliament Lousewies van der Laan (D66), will make a motion on November 17 to have the article removed entirely from the criminal code.
+10-1	1135-1144	According	_	
+10-2	1145-1147	to	_	
+10-3	1148-1153	Dutch	_	
+10-4	1154-1165	broadcaster	_	
+10-5	1166-1169	RTL	_	
+10-6	1169-1170	,	_	
+10-7	1171-1177	Member	_	
+10-8	1178-1180	of	_	
+10-9	1181-1191	Parliament	Décision gouvernementale	
+10-10	1192-1201	Lousewies	_	
+10-11	1202-1205	van	_	
+10-12	1206-1209	der	_	
+10-13	1210-1214	Laan	_	
+10-14	1215-1216	(	_	
+10-15	1216-1219	D66	_	
+10-16	1219-1220	)	_	
+10-17	1220-1221	,	_	
+10-18	1222-1226	will	_	
+10-19	1227-1231	make	_	
+10-20	1232-1233	a	_	
+10-21	1234-1240	motion	Décision gouvernementale	
+10-22	1241-1243	on	_	
+10-23	1244-1252	November	_	
+10-24	1253-1255	17	_	
+10-25	1256-1258	to	_	
+10-26	1259-1263	have	_	
+10-27	1264-1267	the	_	
+10-28	1268-1275	article	Décision gouvernementale	
+10-29	1276-1283	removed	_	
+10-30	1284-1292	entirely	_	
+10-31	1293-1297	from	_	
+10-32	1298-1301	the	_	
+10-33	1302-1310	criminal	Décision gouvernementale[3]	
+10-34	1311-1315	code	Décision gouvernementale[3]	
+10-35	1315-1316	.	_	

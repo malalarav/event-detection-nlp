@@ -1,0 +1,168 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Events|value
+
+
+#Text=The Basque separatist group ETA was blamed for five explosions at gas stations in the Spanish capital of Madrid on Friday.
+1-1	0-3	The	_	
+1-2	4-10	Basque	_	
+1-3	11-21	separatist	Conflit	
+1-4	22-27	group	Conflit	
+1-5	28-31	ETA	_	
+1-6	32-35	was	_	
+1-7	36-42	blamed	_	
+1-8	43-46	for	_	
+1-9	47-51	five	_	
+1-10	52-62	explosions	Conflit	
+1-11	63-65	at	_	
+1-12	66-69	gas	_	
+1-13	70-78	stations	_	
+1-14	79-81	in	_	
+1-15	82-85	the	_	
+1-16	86-93	Spanish	_	
+1-17	94-101	capital	_	
+1-18	102-104	of	_	
+1-19	105-111	Madrid	_	
+1-20	112-114	on	_	
+1-21	115-121	Friday	_	
+1-22	121-122	.	_	
+
+#Text=The explosions claimed no casualties, but two police officers were lightly wounded.
+2-1	123-126	The	_	
+2-2	127-137	explosions	Décès	
+2-3	138-145	claimed	_	
+2-4	146-148	no	_	
+2-5	149-159	casualties	Décès	
+2-6	159-160	,	_	
+2-7	161-164	but	_	
+2-8	165-168	two	_	
+2-9	169-175	police	_	
+2-10	176-184	officers	_	
+2-11	185-189	were	_	
+2-12	190-197	lightly	_	
+2-13	198-205	wounded	Conflit	
+2-14	205-206	.	_	
+
+#Text=An anonymous caller contacted the Basque newspaper Gara at 5.30pm local time, describing the location of the devices and naming ETA as responsible for the attacks.
+3-1	210-212	An	_	
+3-2	213-222	anonymous	_	
+3-3	223-229	caller	_	
+3-4	230-239	contacted	_	
+3-5	240-243	the	_	
+3-6	244-250	Basque	_	
+3-7	251-260	newspaper	_	
+3-8	261-265	Gara	_	
+3-9	266-268	at	_	
+3-10	269-275	5.30pm	_	
+3-11	276-281	local	_	
+3-12	282-286	time	_	
+3-13	286-287	,	_	
+3-14	288-298	describing	_	
+3-15	299-302	the	_	
+3-16	303-311	location	_	
+3-17	312-314	of	_	
+3-18	315-318	the	_	
+3-19	319-326	devices	_	
+3-20	327-330	and	_	
+3-21	331-337	naming	_	
+3-22	338-341	ETA	_	
+3-23	342-344	as	_	
+3-24	345-356	responsible	_	
+3-25	357-360	for	_	
+3-26	361-364	the	_	
+3-27	365-372	attacks	Conflit	
+3-28	372-373	.	_	
+
+#Text=The bombings caused city-wide traffic jams, as police and rescue forces raced to secure the targets.
+4-1	374-377	The	_	
+4-2	378-386	bombings	Conflit	
+4-3	387-393	caused	_	
+4-4	394-403	city-wide	_	
+4-5	404-411	traffic	_	
+4-6	412-416	jams	_	
+4-7	416-417	,	_	
+4-8	418-420	as	_	
+4-9	421-427	police	_	
+4-10	428-431	and	_	
+4-11	432-438	rescue	_	
+4-12	439-445	forces	_	
+4-13	446-451	raced	_	
+4-14	452-454	to	_	
+4-15	455-461	secure	_	
+4-16	462-465	the	_	
+4-17	466-473	targets	Conflit	
+4-18	473-474	.	_	
+
+#Text=The attacks ended a relatively peaceful phase of several months in the conflict between the Spanish central government and Basque extremists.
+5-1	475-478	The	_	
+5-2	479-486	attacks	Conflit	
+5-3	487-492	ended	_	
+5-4	493-494	a	_	
+5-5	495-505	relatively	_	
+5-6	506-514	peaceful	_	
+5-7	515-520	phase	_	
+5-8	521-523	of	_	
+5-9	524-531	several	_	
+5-10	532-538	months	_	
+5-11	539-541	in	_	
+5-12	542-545	the	_	
+5-13	546-554	conflict	Conflit	
+5-14	555-562	between	_	
+5-15	563-566	the	_	
+5-16	567-574	Spanish	_	
+5-17	575-582	central	_	
+5-18	583-593	government	Décision gouvernementale	
+5-19	594-597	and	_	
+5-20	598-604	Basque	_	
+5-21	605-615	extremists	Conflit	
+5-22	615-616	.	_	
+
+#Text=While leaders of ETA's political arm Batasuna have recently hinted at the possibility of a ceasefire, the assault makes any form of dialogue with ETA unlikely in the near future.
+6-1	620-625	While	_	
+6-2	626-633	leaders	Conflit	
+6-3	634-636	of	_	
+6-4	637-642	ETA's	_	
+6-5	643-652	political	_	
+6-6	653-656	arm	_	
+6-7	657-665	Batasuna	_	
+6-8	666-670	have	_	
+6-9	671-679	recently	_	
+6-10	680-686	hinted	_	
+6-11	687-689	at	_	
+6-12	690-693	the	_	
+6-13	694-705	possibility	_	
+6-14	706-708	of	_	
+6-15	709-710	a	_	
+6-16	711-720	ceasefire	Conflit	
+6-17	720-721	,	_	
+6-18	722-725	the	_	
+6-19	726-733	assault	Conflit	
+6-20	734-739	makes	_	
+6-21	740-743	any	_	
+6-22	744-748	form	_	
+6-23	749-751	of	_	
+6-24	752-760	dialogue	_	
+6-25	761-765	with	_	
+6-26	766-769	ETA	_	
+6-27	770-778	unlikely	_	
+6-28	779-781	in	_	
+6-29	782-785	the	_	
+6-30	786-790	near	_	
+6-31	791-797	future	_	
+6-32	797-798	.	_	
+
+#Text=ETA is considered a terrorist organization by the United States and the European Union.
+7-1	799-802	ETA	_	
+7-2	803-805	is	_	
+7-3	806-816	considered	_	
+7-4	817-818	a	_	
+7-5	819-828	terrorist	Conflit	
+7-6	829-841	organization	Conflit	
+7-7	842-844	by	_	
+7-8	845-848	the	_	
+7-9	849-855	United	_	
+7-10	856-862	States	_	
+7-11	863-866	and	_	
+7-12	867-870	the	_	
+7-13	871-879	European	_	
+7-14	880-885	Union	_	
+7-15	885-886	.	_	

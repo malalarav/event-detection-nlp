@@ -1,0 +1,156 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Events|value
+
+
+#Text=Mozilla Thunderbird 1.0, a free open-source mail user agent, has been released within the last twenty-four hours by the Mozilla Foundation.
+1-1	0-7	Mozilla	Avancée technologique[1]	
+1-2	8-19	Thunderbird	Avancée technologique[1]	
+1-3	20-23	1.0	Avancée technologique[1]	
+1-4	23-24	,	_	
+1-5	25-26	a	_	
+1-6	27-31	free	_	
+1-6.1	28-31	ree	Avancée technologique[2]	
+1-7	32-43	open-source	Avancée technologique[2]	
+1-8	44-48	mail	_	
+1-9	49-53	user	_	
+1-10	54-59	agent	_	
+1-11	59-60	,	_	
+1-12	61-64	has	_	
+1-13	65-69	been	_	
+1-14	70-78	released	Avancée technologique	
+1-15	79-85	within	_	
+1-16	86-89	the	_	
+1-17	90-94	last	_	
+1-18	95-106	twenty-four	_	
+1-19	107-112	hours	_	
+1-20	113-115	by	_	
+1-21	116-119	the	_	
+1-22	120-127	Mozilla	_	
+1-23	128-138	Foundation	_	
+1-24	138-139	.	_	
+
+#Text=Thunderbird has been in development for more than one and a half years.
+2-1	140-151	Thunderbird	_	
+2-2	152-155	has	_	
+2-3	156-160	been	_	
+2-4	161-163	in	_	
+2-5	164-175	development	Avancée technologique	
+2-6	176-179	for	_	
+2-7	180-184	more	_	
+2-8	185-189	than	_	
+2-9	190-193	one	_	
+2-10	194-197	and	_	
+2-11	198-199	a	_	
+2-12	200-204	half	_	
+2-13	205-210	years	_	
+2-14	210-211	.	_	
+
+#Text=The release of Thunderbird 1.0 comes less than one month after the Foundation released Firefox 1.0, its internet browser.
+3-1	212-215	The	_	
+3-2	216-223	release	_	
+3-3	224-226	of	_	
+3-4	227-238	Thunderbird	_	
+3-5	239-242	1.0	_	
+3-6	243-248	comes	_	
+3-7	249-253	less	_	
+3-8	254-258	than	_	
+3-9	259-262	one	_	
+3-10	263-268	month	_	
+3-11	269-274	after	_	
+3-12	275-278	the	_	
+3-13	279-289	Foundation	_	
+3-14	290-298	released	Avancée technologique	
+3-15	299-306	Firefox	_	
+3-16	307-310	1.0	_	
+3-17	310-311	,	_	
+3-18	312-315	its	_	
+3-19	316-324	internet	_	
+3-20	325-332	browser	_	
+3-21	332-333	.	_	
+
+#Text=The new version contains many updates in the areas of security and ease of use.
+4-1	337-340	The	_	
+4-2	341-344	new	Avancée technologique[3]	
+4-3	345-352	version	Avancée technologique[3]	
+4-4	353-361	contains	_	
+4-5	362-366	many	Avancée technologique[4]	
+4-6	367-374	updates	Avancée technologique[4]	
+4-7	375-377	in	_	
+4-8	378-381	the	_	
+4-9	382-387	areas	_	
+4-10	388-390	of	_	
+4-11	391-399	security	_	
+4-12	400-403	and	_	
+4-13	404-408	ease	_	
+4-14	409-411	of	_	
+4-15	412-415	use	_	
+4-16	415-416	.	_	
+
+#Text=A newsgroup and a RSS reader is integrated into the application, which also features adaptive junk mail filters.
+5-1	417-418	A	_	
+5-2	419-428	newsgroup	_	
+5-3	429-432	and	_	
+5-4	433-434	a	_	
+5-5	435-438	RSS	_	
+5-6	439-445	reader	_	
+5-7	446-448	is	_	
+5-8	449-459	integrated	_	
+5-9	460-464	into	_	
+5-10	465-468	the	_	
+5-11	469-480	application	_	
+5-12	480-481	,	_	
+5-13	482-487	which	_	
+5-14	488-492	also	_	
+5-15	493-501	features	_	
+5-16	502-510	adaptive	_	
+5-17	511-515	junk	_	
+5-18	516-520	mail	_	
+5-19	521-528	filters	_	
+5-20	528-529	.	_	
+
+#Text=Common mail protocols POP3 and IMAP are both supported, so users will be able to access some brands of webmail from within the program.
+6-1	530-536	Common	_	
+6-2	537-541	mail	_	
+6-3	542-551	protocols	_	
+6-4	552-556	POP3	_	
+6-5	557-560	and	_	
+6-6	561-565	IMAP	_	
+6-7	566-569	are	_	
+6-8	570-574	both	_	
+6-9	575-584	supported	_	
+6-10	584-585	,	_	
+6-11	586-588	so	_	
+6-12	589-594	users	_	
+6-13	595-599	will	_	
+6-14	600-602	be	_	
+6-15	603-607	able	_	
+6-16	608-610	to	_	
+6-17	611-617	access	_	
+6-18	618-622	some	_	
+6-19	623-629	brands	_	
+6-20	630-632	of	_	
+6-21	633-640	webmail	_	
+6-22	641-645	from	_	
+6-23	646-652	within	_	
+6-24	653-656	the	_	
+6-25	657-664	program	_	
+6-26	664-665	.	_	
+
+#Text=Thunderbird is directly competing with Microsoft Outlook.
+7-1	669-680	Thunderbird	_	
+7-2	681-683	is	_	
+7-3	684-692	directly	_	
+7-4	693-702	competing	_	
+7-5	703-707	with	_	
+7-6	708-717	Microsoft	_	
+7-7	718-725	Outlook	_	
+7-8	725-726	.	_	
+
+#Text=The free download is 5.8 megabytes.
+8-1	730-733	The	_	
+8-2	734-738	free	_	
+8-3	739-747	download	_	
+8-4	748-750	is	_	
+8-5	751-754	5.8	_	
+8-6	755-764	megabytes	_	
+8-7	764-765	.	_	

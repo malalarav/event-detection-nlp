@@ -1,0 +1,128 @@
+#FORMAT=WebAnno TSV 3.3
+
+
+#Text=The South American 2004 World Cup Qualifiers were decided today in the Eleveth Round of play.
+1-1	0-3	The	
+1-2	4-9	South	
+1-3	10-18	American	
+1-4	19-23	2004	
+1-5	24-29	World	
+1-6	30-33	Cup	
+1-7	34-44	Qualifiers	
+1-8	45-49	were	
+1-9	50-57	decided	
+1-10	58-63	today	
+1-11	64-66	in	
+1-12	67-70	the	
+1-13	71-78	Eleveth	
+1-14	79-84	Round	
+1-15	85-87	of	
+1-16	88-92	play	
+1-17	92-93	.	
+
+#Text=*Argentina 3 x Venezuela 2 - place: Buenos Aires (Argentina)
+#Text=*Colombia 1 x Bolivia 0 - place: Barranquilla (Colombia)
+#Text=*Ecuador 1 x Brasil 0 - place: Quito (Ecuador)
+#Text=*Uruguay 1 x Paraguay 0 - place: Montevideo (Uruguay)
+#Text=*Peru 2 x Chile 1 - place: Lima (Peru)
+#Text=
+#Text=Rank Points Country
+#Text=#22 Argentina
+#Text=#20 Brasil
+#Text=#16 Paraguay
+#Text=#16 Ecuador
+#Text=#14 Uruguay
+#Text=#13 Colombia
+#Text=#13 Chile
+#Text=#13 Venezuela
+#Text=#13 Peru
+#Text=#10 Bolivia
+2-1	95-96	*	
+2-2	96-105	Argentina	
+2-3	106-107	3	
+2-4	108-109	x	
+2-5	110-119	Venezuela	
+2-6	120-121	2	
+2-7	122-123	-	
+2-8	124-129	place	
+2-9	129-130	:	
+2-10	131-137	Buenos	
+2-11	138-143	Aires	
+2-12	144-145	(	
+2-13	145-154	Argentina	
+2-14	154-155	)	
+2-15	156-157	*	
+2-16	157-165	Colombia	
+2-17	166-167	1	
+2-18	168-169	x	
+2-19	170-177	Bolivia	
+2-20	178-179	0	
+2-21	180-181	-	
+2-22	182-187	place	
+2-23	187-188	:	
+2-24	189-201	Barranquilla	
+2-25	202-203	(	
+2-26	203-211	Colombia	
+2-27	211-212	)	
+2-28	213-214	*	
+2-29	214-221	Ecuador	
+2-30	222-223	1	
+2-31	224-225	x	
+2-32	226-232	Brasil	
+2-33	233-234	0	
+2-34	235-236	-	
+2-35	237-242	place	
+2-36	242-243	:	
+2-37	244-249	Quito	
+2-38	250-251	(	
+2-39	251-258	Ecuador	
+2-40	258-259	)	
+2-41	260-261	*	
+2-42	261-268	Uruguay	
+2-43	269-270	1	
+2-44	271-272	x	
+2-45	273-281	Paraguay	
+2-46	282-283	0	
+2-47	284-285	-	
+2-48	286-291	place	
+2-49	291-292	:	
+2-50	293-303	Montevideo	
+2-51	304-305	(	
+2-52	305-312	Uruguay	
+2-53	312-313	)	
+2-54	314-315	*	
+2-55	315-319	Peru	
+2-56	320-321	2	
+2-57	322-323	x	
+2-58	324-329	Chile	
+2-59	330-331	1	
+2-60	332-333	-	
+2-61	334-339	place	
+2-62	339-340	:	
+2-63	341-345	Lima	
+2-64	346-347	(	
+2-65	347-351	Peru	
+2-66	351-352	)	
+2-67	354-358	Rank	
+2-68	359-365	Points	
+2-69	366-373	Country	
+2-70	374-377	#22	
+2-71	378-387	Argentina	
+2-72	388-391	#20	
+2-73	392-398	Brasil	
+2-74	399-402	#16	
+2-75	403-411	Paraguay	
+2-76	412-415	#16	
+2-77	416-423	Ecuador	
+2-78	424-427	#14	
+2-79	428-435	Uruguay	
+2-80	436-439	#13	
+2-81	440-448	Colombia	
+2-82	449-452	#13	
+2-83	453-458	Chile	
+2-84	459-462	#13	
+2-85	463-472	Venezuela	
+2-86	473-476	#13	
+2-87	477-481	Peru	
+2-88	482-485	#10	
+2-89	486-493	Bolivia	

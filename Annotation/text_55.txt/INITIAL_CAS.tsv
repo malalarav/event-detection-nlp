@@ -1,0 +1,757 @@
+#FORMAT=WebAnno TSV 3.3
+
+
+#Text=Orange-clad supporters of Viktor Yushchenko gather in Independence Square in Kiev
+#Text=
+#Text=In Ukraine, a dead heat in the October 31 election between current Prime Minister Viktor Yanukovych and former Prime Minister Viktor Yushchenko resulted in a runoff election on November 21.
+1-1	0-11	Orange-clad	
+1-2	12-22	supporters	
+1-3	23-25	of	
+1-4	26-32	Viktor	
+1-5	33-43	Yushchenko	
+1-6	44-50	gather	
+1-7	51-53	in	
+1-8	54-66	Independence	
+1-9	67-73	Square	
+1-10	74-76	in	
+1-11	77-81	Kiev	
+1-12	83-85	In	
+1-13	86-93	Ukraine	
+1-14	93-94	,	
+1-15	95-96	a	
+1-16	97-101	dead	
+1-17	102-106	heat	
+1-18	107-109	in	
+1-19	110-113	the	
+1-20	114-121	October	
+1-21	122-124	31	
+1-22	125-133	election	
+1-23	134-141	between	
+1-24	142-149	current	
+1-25	150-155	Prime	
+1-26	156-164	Minister	
+1-27	165-171	Viktor	
+1-28	172-182	Yanukovych	
+1-29	183-186	and	
+1-30	187-193	former	
+1-31	194-199	Prime	
+1-32	200-208	Minister	
+1-33	209-215	Viktor	
+1-34	216-226	Yushchenko	
+1-35	227-235	resulted	
+1-36	236-238	in	
+1-37	239-240	a	
+1-38	241-247	runoff	
+1-39	248-256	election	
+1-40	257-259	on	
+1-41	260-268	November	
+1-42	269-271	21	
+1-43	271-272	.	
+
+#Text=The runoff was plagued with allegations of large-scale voter fraud, particularly in the oblasts (regions) of Donetsk, Luhansk and Kharkiv in eastern Ukraine where Yanukovych had the strongest support.
+2-1	273-276	The	
+2-2	277-283	runoff	
+2-3	284-287	was	
+2-4	288-295	plagued	
+2-5	296-300	with	
+2-6	301-312	allegations	
+2-7	313-315	of	
+2-8	316-327	large-scale	
+2-9	328-333	voter	
+2-10	334-339	fraud	
+2-11	339-340	,	
+2-12	341-353	particularly	
+2-13	354-356	in	
+2-14	357-360	the	
+2-15	361-368	oblasts	
+2-16	369-370	(	
+2-17	370-377	regions	
+2-18	377-378	)	
+2-19	379-381	of	
+2-20	382-389	Donetsk	
+2-21	389-390	,	
+2-22	391-398	Luhansk	
+2-23	399-402	and	
+2-24	403-410	Kharkiv	
+2-25	411-413	in	
+2-26	414-421	eastern	
+2-27	422-429	Ukraine	
+2-28	430-435	where	
+2-29	436-446	Yanukovych	
+2-30	447-450	had	
+2-31	451-454	the	
+2-32	455-464	strongest	
+2-33	465-472	support	
+2-34	472-473	.	
+
+#Text=Election observers from the Organization for Security and Cooperation in Europe (OSCE) state that the election did not meet international standards and was subject to wide-scale, planned election fraud.
+3-1	474-482	Election	
+3-2	483-492	observers	
+3-3	493-497	from	
+3-4	498-501	the	
+3-5	502-514	Organization	
+3-6	515-518	for	
+3-7	519-527	Security	
+3-8	528-531	and	
+3-9	532-543	Cooperation	
+3-10	544-546	in	
+3-11	547-553	Europe	
+3-12	554-555	(	
+3-13	555-559	OSCE	
+3-14	559-560	)	
+3-15	561-566	state	
+3-16	567-571	that	
+3-17	572-575	the	
+3-18	576-584	election	
+3-19	585-588	did	
+3-20	589-592	not	
+3-21	593-597	meet	
+3-22	598-611	international	
+3-23	612-621	standards	
+3-24	622-625	and	
+3-25	626-629	was	
+3-26	630-637	subject	
+3-27	638-640	to	
+3-28	641-651	wide-scale	
+3-29	651-652	,	
+3-30	653-660	planned	
+3-31	661-669	election	
+3-32	670-675	fraud	
+3-33	675-676	.	
+
+#Text=On the other hand, some groups of international observers such as British Helsinki Human Rights Group give a quite different picture of massive violations in Western Ukraine, and pro-opposition bias of local media there: BHHRG Report(The report is discredited in this Guardian article ).
+4-1	677-679	On	
+4-2	680-683	the	
+4-3	684-689	other	
+4-4	690-694	hand	
+4-5	694-695	,	
+4-6	696-700	some	
+4-7	701-707	groups	
+4-8	708-710	of	
+4-9	711-724	international	
+4-10	725-734	observers	
+4-11	735-739	such	
+4-12	740-742	as	
+4-13	743-750	British	
+4-14	751-759	Helsinki	
+4-15	760-765	Human	
+4-16	766-772	Rights	
+4-17	773-778	Group	
+4-18	779-783	give	
+4-19	784-785	a	
+4-20	786-791	quite	
+4-21	792-801	different	
+4-22	802-809	picture	
+4-23	810-812	of	
+4-24	813-820	massive	
+4-25	821-831	violations	
+4-26	832-834	in	
+4-27	835-842	Western	
+4-28	843-850	Ukraine	
+4-29	850-851	,	
+4-30	852-855	and	
+4-31	856-870	pro-opposition	
+4-32	871-875	bias	
+4-33	876-878	of	
+4-34	879-884	local	
+4-35	885-890	media	
+4-36	891-896	there	
+4-37	896-897	:	
+4-38	898-903	BHHRG	
+4-39	904-910	Report	
+4-40	910-911	(	
+4-41	911-914	The	
+4-42	915-921	report	
+4-43	922-924	is	
+4-44	925-936	discredited	
+4-45	937-939	in	
+4-46	940-944	this	
+4-47	945-953	Guardian	
+4-48	954-961	article	
+4-49	962-963	)	
+4-50	963-964	.	
+
+#Text=The declaration of Yanukovych as the winner of the runoff by the elections commission set into play mass demonstrations and demands for a recount or outright revote from Yuschchenko supporters.
+5-1	966-969	The	
+5-2	970-981	declaration	
+5-3	982-984	of	
+5-4	985-995	Yanukovych	
+5-5	996-998	as	
+5-6	999-1002	the	
+5-7	1003-1009	winner	
+5-8	1010-1012	of	
+5-9	1013-1016	the	
+5-10	1017-1023	runoff	
+5-11	1024-1026	by	
+5-12	1027-1030	the	
+5-13	1031-1040	elections	
+5-14	1041-1051	commission	
+5-15	1052-1055	set	
+5-16	1056-1060	into	
+5-17	1061-1065	play	
+5-18	1066-1070	mass	
+5-19	1071-1085	demonstrations	
+5-20	1086-1089	and	
+5-21	1090-1097	demands	
+5-22	1098-1101	for	
+5-23	1102-1103	a	
+5-24	1104-1111	recount	
+5-25	1112-1114	or	
+5-26	1115-1123	outright	
+5-27	1124-1130	revote	
+5-28	1131-1135	from	
+5-29	1136-1147	Yuschchenko	
+5-30	1148-1158	supporters	
+5-31	1158-1159	.	
+
+#Text=The result has been widely criticised by Western media as fraudulent.
+6-1	1160-1163	The	
+6-2	1164-1170	result	
+6-3	1171-1174	has	
+6-4	1175-1179	been	
+6-5	1180-1186	widely	
+6-6	1187-1197	criticised	
+6-7	1198-1200	by	
+6-8	1201-1208	Western	
+6-9	1209-1214	media	
+6-10	1215-1217	as	
+6-11	1218-1228	fraudulent	
+6-12	1228-1229	.	
+
+#Text=*Ukrainian presidential election, 2004- from our sister project at Wikipedia
+7-1	1231-1232	*	
+7-2	1232-1241	Ukrainian	
+7-3	1242-1254	presidential	
+7-4	1255-1263	election	
+7-5	1263-1264	,	
+7-6	1265-1269	2004	
+7-7	1269-1270	-	
+7-8	1271-1275	from	
+7-9	1276-1279	our	
+7-10	1280-1286	sister	
+7-11	1287-1294	project	
+7-12	1295-1297	at	
+7-13	1298-1307	Wikipedia	
+
+#Text=.
+8-1	1307-1308	.	
+
+#Text=* Sun.
+9-1	1310-1311	*	
+9-2	1312-1315	Sun	
+9-3	1315-1316	.	
+
+#Text=Nov. 21: Runoff elections take place.
+#Text=* Ukrainian opposition leader calls for police and army to join revolution
+#Text=* Thu.
+10-1	1317-1320	Nov	
+10-2	1320-1321	.	
+10-3	1322-1324	21	
+10-4	1324-1325	:	
+10-5	1326-1332	Runoff	
+10-6	1333-1342	elections	
+10-7	1343-1347	take	
+10-8	1348-1353	place	
+10-9	1353-1354	.	
+10-10	1355-1356	*	
+10-11	1357-1366	Ukrainian	
+10-12	1367-1377	opposition	
+10-13	1378-1384	leader	
+10-14	1385-1390	calls	
+10-15	1391-1394	for	
+10-16	1395-1401	police	
+10-17	1402-1405	and	
+10-18	1406-1410	army	
+10-19	1411-1413	to	
+10-20	1414-1418	join	
+10-21	1419-1429	revolution	
+10-22	1430-1431	*	
+10-23	1432-1435	Thu	
+10-24	1435-1436	.	
+
+#Text=Nov. 25: Ukraine election results delayed by court.
+11-1	1437-1440	Nov	
+11-2	1440-1441	.	
+11-3	1442-1444	25	
+11-4	1444-1445	:	
+11-5	1446-1453	Ukraine	
+11-6	1454-1462	election	
+11-7	1463-1470	results	
+11-8	1471-1478	delayed	
+11-9	1479-1481	by	
+11-10	1482-1487	court	
+11-11	1487-1488	.	
+
+#Text=Protests continue for a fourth day, while Ukraine's highest court delays announcement of the final election results until it can resolve a dispute over the legitimacy of those results.
+12-1	1489-1497	Protests	
+12-2	1498-1506	continue	
+12-3	1507-1510	for	
+12-4	1511-1512	a	
+12-5	1513-1519	fourth	
+12-6	1520-1523	day	
+12-7	1523-1524	,	
+12-8	1525-1530	while	
+12-9	1531-1540	Ukraine's	
+12-10	1541-1548	highest	
+12-11	1549-1554	court	
+12-12	1555-1561	delays	
+12-13	1562-1574	announcement	
+12-14	1575-1577	of	
+12-15	1578-1581	the	
+12-16	1582-1587	final	
+12-17	1588-1596	election	
+12-18	1597-1604	results	
+12-19	1605-1610	until	
+12-20	1611-1613	it	
+12-21	1614-1617	can	
+12-22	1618-1625	resolve	
+12-23	1626-1627	a	
+12-24	1628-1635	dispute	
+12-25	1636-1640	over	
+12-26	1641-1644	the	
+12-27	1645-1655	legitimacy	
+12-28	1656-1658	of	
+12-29	1659-1664	those	
+12-30	1665-1672	results	
+12-31	1672-1673	.	
+
+#Text=Opposition leader Viktor Yushchenko praises the court's action.
+13-1	1674-1684	Opposition	
+13-2	1685-1691	leader	
+13-3	1692-1698	Viktor	
+13-4	1699-1709	Yushchenko	
+13-5	1710-1717	praises	
+13-6	1718-1721	the	
+13-7	1722-1729	court's	
+13-8	1730-1736	action	
+13-9	1736-1737	.	
+
+#Text=According to The Times of India outgoing President Leonid Kuchma met with pro-Russian officials who had threatened to declare regional autonomy but said after the meeting that any breakup of the Ukraine was unacceptable.
+#Text=* Sat.
+14-1	1738-1747	According	
+14-2	1748-1750	to	
+14-3	1751-1754	The	
+14-4	1755-1760	Times	
+14-5	1761-1763	of	
+14-6	1764-1769	India	
+14-7	1770-1778	outgoing	
+14-8	1779-1788	President	
+14-9	1789-1795	Leonid	
+14-10	1796-1802	Kuchma	
+14-11	1803-1806	met	
+14-12	1807-1811	with	
+14-13	1812-1823	pro-Russian	
+14-14	1824-1833	officials	
+14-15	1834-1837	who	
+14-16	1838-1841	had	
+14-17	1842-1852	threatened	
+14-18	1853-1855	to	
+14-19	1856-1863	declare	
+14-20	1864-1872	regional	
+14-21	1873-1881	autonomy	
+14-22	1882-1885	but	
+14-23	1886-1890	said	
+14-24	1891-1896	after	
+14-25	1897-1900	the	
+14-26	1901-1908	meeting	
+14-27	1909-1913	that	
+14-28	1914-1917	any	
+14-29	1918-1925	breakup	
+14-30	1926-1928	of	
+14-31	1929-1932	the	
+14-32	1933-1940	Ukraine	
+14-33	1941-1944	was	
+14-34	1945-1957	unacceptable	
+14-35	1957-1958	.	
+14-36	1959-1960	*	
+14-37	1961-1964	Sat	
+14-38	1964-1965	.	
+
+#Text=Nov. 27: Ukraine parliament declares election invalid.
+15-1	1966-1969	Nov	
+15-2	1969-1970	.	
+15-3	1971-1973	27	
+15-4	1973-1974	:	
+15-5	1975-1982	Ukraine	
+15-6	1983-1993	parliament	
+15-7	1994-2002	declares	
+15-8	2003-2011	election	
+15-9	2012-2019	invalid	
+15-10	2019-2020	.	
+
+#Text=In a non-binding, symbolic gesture, the Ukrainian parliament votes to declare the election results invalid, as well as passing a vote of no confidence in the elections commission.
+#Text=* Tue.
+16-1	2021-2023	In	
+16-2	2024-2025	a	
+16-3	2026-2037	non-binding	
+16-4	2037-2038	,	
+16-5	2039-2047	symbolic	
+16-6	2048-2055	gesture	
+16-7	2055-2056	,	
+16-8	2057-2060	the	
+16-9	2061-2070	Ukrainian	
+16-10	2071-2081	parliament	
+16-11	2082-2087	votes	
+16-12	2088-2090	to	
+16-13	2091-2098	declare	
+16-14	2099-2102	the	
+16-15	2103-2111	election	
+16-16	2112-2119	results	
+16-17	2120-2127	invalid	
+16-18	2127-2128	,	
+16-19	2129-2131	as	
+16-20	2132-2136	well	
+16-21	2137-2139	as	
+16-22	2140-2147	passing	
+16-23	2148-2149	a	
+16-24	2150-2154	vote	
+16-25	2155-2157	of	
+16-26	2158-2160	no	
+16-27	2161-2171	confidence	
+16-28	2172-2174	in	
+16-29	2175-2178	the	
+16-30	2179-2188	elections	
+16-31	2189-2199	commission	
+16-32	2199-2200	.	
+16-33	2201-2202	*	
+16-34	2203-2206	Tue	
+16-35	2206-2207	.	
+
+#Text=Nov. 30 Ukrainian election negotiations break off.
+17-1	2208-2211	Nov	
+17-2	2211-2212	.	
+17-3	2213-2215	30	
+17-4	2216-2225	Ukrainian	
+17-5	2226-2234	election	
+17-6	2235-2247	negotiations	
+17-7	2248-2253	break	
+17-8	2254-2257	off	
+17-9	2257-2258	.	
+
+#Text=Yushchenko broke off from negotiation talk with incumbent Prime Minister Yanukovych stating that the negotiations were one-sided.
+#Text=** Ukrainian election negotiations restarted
+#Text=* Wed.
+18-1	2259-2269	Yushchenko	
+18-2	2270-2275	broke	
+18-3	2276-2279	off	
+18-4	2280-2284	from	
+18-5	2285-2296	negotiation	
+18-6	2297-2301	talk	
+18-7	2302-2306	with	
+18-8	2307-2316	incumbent	
+18-9	2317-2322	Prime	
+18-10	2323-2331	Minister	
+18-11	2332-2342	Yanukovych	
+18-12	2343-2350	stating	
+18-13	2351-2355	that	
+18-14	2356-2359	the	
+18-15	2360-2372	negotiations	
+18-16	2373-2377	were	
+18-17	2378-2387	one-sided	
+18-18	2387-2388	.	
+18-19	2389-2390	*	
+18-20	2390-2391	*	
+18-21	2392-2401	Ukrainian	
+18-22	2402-2410	election	
+18-23	2411-2423	negotiations	
+18-24	2424-2433	restarted	
+18-25	2434-2435	*	
+18-26	2436-2439	Wed	
+18-27	2439-2440	.	
+
+#Text=Dec. 1: Ukraine parliament sacks government.
+19-1	2441-2444	Dec	
+19-2	2444-2445	.	
+19-3	2446-2447	1	
+19-4	2447-2448	:	
+19-5	2449-2456	Ukraine	
+19-6	2457-2467	parliament	
+19-7	2468-2473	sacks	
+19-8	2474-2484	government	
+19-9	2484-2485	.	
+
+#Text=Ukraine's parliament passes a vote of no-confidence in the government of Prime Minister Viktor Yanukovych.
+#Text=* Fri.
+20-1	2486-2495	Ukraine's	
+20-2	2496-2506	parliament	
+20-3	2507-2513	passes	
+20-4	2514-2515	a	
+20-5	2516-2520	vote	
+20-6	2521-2523	of	
+20-7	2524-2537	no-confidence	
+20-8	2538-2540	in	
+20-9	2541-2544	the	
+20-10	2545-2555	government	
+20-11	2556-2558	of	
+20-12	2559-2564	Prime	
+20-13	2565-2573	Minister	
+20-14	2574-2580	Viktor	
+20-15	2581-2591	Yanukovych	
+20-16	2591-2592	.	
+20-17	2593-2594	*	
+20-18	2595-2598	Fri	
+20-19	2598-2599	.	
+
+#Text=Dec. 3: Ukraine Supreme Court orders new election.
+21-1	2600-2603	Dec	
+21-2	2603-2604	.	
+21-3	2605-2606	3	
+21-4	2606-2607	:	
+21-5	2608-2615	Ukraine	
+21-6	2616-2623	Supreme	
+21-7	2624-2629	Court	
+21-8	2630-2636	orders	
+21-9	2637-2640	new	
+21-10	2641-2649	election	
+21-11	2649-2650	.	
+
+#Text=*Sat.
+22-1	2651-2652	*	
+22-2	2652-2655	Sat	
+22-3	2655-2656	.	
+
+#Text=Dec. 4: Election reforms fail in Ukraine parliament.
+23-1	2657-2660	Dec	
+23-2	2660-2661	.	
+23-3	2662-2663	4	
+23-4	2663-2664	:	
+23-5	2665-2673	Election	
+23-6	2674-2681	reforms	
+23-7	2682-2686	fail	
+23-8	2687-2689	in	
+23-9	2690-2697	Ukraine	
+23-10	2698-2708	parliament	
+23-11	2708-2709	.	
+
+#Text=*Sat.
+24-1	2710-2711	*	
+24-2	2711-2714	Sat	
+24-3	2714-2715	.	
+
+#Text=Dec. 11: Ukraine opposition candidate Yushchenko is suffering from a Dioxin intoxication, doctors say.
+25-1	2716-2719	Dec	
+25-2	2719-2720	.	
+25-3	2721-2723	11	
+25-4	2723-2724	:	
+25-5	2725-2732	Ukraine	
+25-6	2733-2743	opposition	
+25-7	2744-2753	candidate	
+25-8	2754-2764	Yushchenko	
+25-9	2765-2767	is	
+25-10	2768-2777	suffering	
+25-11	2778-2782	from	
+25-12	2783-2784	a	
+25-13	2785-2791	Dioxin	
+25-14	2792-2804	intoxication	
+25-15	2804-2805	,	
+25-16	2806-2813	doctors	
+25-17	2814-2817	say	
+25-18	2817-2818	.	
+
+#Text=This is reported as being the second highest level of Dioxin ever found in a human.
+#Text=* Mon.
+26-1	2819-2823	This	
+26-2	2824-2826	is	
+26-3	2827-2835	reported	
+26-4	2836-2838	as	
+26-5	2839-2844	being	
+26-6	2845-2848	the	
+26-7	2849-2855	second	
+26-8	2856-2863	highest	
+26-9	2864-2869	level	
+26-10	2870-2872	of	
+26-11	2873-2879	Dioxin	
+26-12	2880-2884	ever	
+26-13	2885-2890	found	
+26-14	2891-2893	in	
+26-15	2894-2895	a	
+26-16	2896-2901	human	
+26-17	2901-2902	.	
+26-18	2903-2904	*	
+26-19	2905-2908	Mon	
+26-20	2908-2909	.	
+
+#Text=Dec. 27: Yushchenko claims victory in re-run.
+27-1	2910-2913	Dec	
+27-2	2913-2914	.	
+27-3	2915-2917	27	
+27-4	2917-2918	:	
+27-5	2919-2929	Yushchenko	
+27-6	2930-2936	claims	
+27-7	2937-2944	victory	
+27-8	2945-2947	in	
+27-9	2948-2954	re-run	
+27-10	2954-2955	.	
+
+#Text=Pro-government candidate Yanukovych refuses to accept results.
+#Text=* Fri.
+28-1	2956-2970	Pro-government	
+28-2	2971-2980	candidate	
+28-3	2981-2991	Yanukovych	
+28-4	2992-2999	refuses	
+28-5	3000-3002	to	
+28-6	3003-3009	accept	
+28-7	3010-3017	results	
+28-8	3017-3018	.	
+28-9	3019-3020	*	
+28-10	3021-3024	Fri	
+28-11	3024-3025	.	
+
+#Text=Dec. 31: Yanukovych declares his resignation from his post as Prime Minister.
+#Text=* Sun.
+29-1	3026-3029	Dec	
+29-2	3029-3030	.	
+29-3	3031-3033	31	
+29-4	3033-3034	:	
+29-5	3035-3045	Yanukovych	
+29-6	3046-3054	declares	
+29-7	3055-3058	his	
+29-8	3059-3070	resignation	
+29-9	3071-3075	from	
+29-10	3076-3079	his	
+29-11	3080-3084	post	
+29-12	3085-3087	as	
+29-13	3088-3093	Prime	
+29-14	3094-3102	Minister	
+29-15	3102-3103	.	
+29-16	3104-3105	*	
+29-17	3106-3109	Sun	
+29-18	3109-3110	.	
+
+#Text=Jan. 23, 2005: Yushchenko sworn in as president of Ukraine
+#Text=
+#Text=* A Fistful of Euros
+#Text=* The Periscope - particularly Victor Katolyk's running updates here here and here
+#Text=* Postmodern Clog
+#Text=* Abdymok
+#Text=* Neeka's Backlog
+#Text=* SCSU Scholors
+#Text=* Europhobia
+#Text=* Orange Revolution
+#Text=* OrangeUkraine
+#Text=* Ukraine_Revolution
+#Text=* Foreign Notes
+#Text=* Tulip Girl
+#Text=* Ukraine, Russia, Europe, the US, Oh My!
+30-1	3111-3114	Jan	
+30-2	3114-3115	.	
+30-3	3116-3118	23	
+30-4	3118-3119	,	
+30-5	3120-3124	2005	
+30-6	3124-3125	:	
+30-7	3126-3136	Yushchenko	
+30-8	3137-3142	sworn	
+30-9	3143-3145	in	
+30-10	3146-3148	as	
+30-11	3149-3158	president	
+30-12	3159-3161	of	
+30-13	3162-3169	Ukraine	
+30-14	3171-3172	*	
+30-15	3173-3174	A	
+30-16	3175-3182	Fistful	
+30-17	3183-3185	of	
+30-18	3186-3191	Euros	
+30-19	3192-3193	*	
+30-20	3194-3197	The	
+30-21	3198-3207	Periscope	
+30-22	3208-3209	-	
+30-23	3210-3222	particularly	
+30-24	3223-3229	Victor	
+30-25	3230-3239	Katolyk's	
+30-26	3240-3247	running	
+30-27	3248-3255	updates	
+30-28	3256-3260	here	
+30-29	3261-3265	here	
+30-30	3266-3269	and	
+30-31	3270-3274	here	
+30-32	3275-3276	*	
+30-33	3277-3287	Postmodern	
+30-34	3288-3292	Clog	
+30-35	3293-3294	*	
+30-36	3295-3302	Abdymok	
+30-37	3303-3304	*	
+30-38	3305-3312	Neeka's	
+30-39	3313-3320	Backlog	
+30-40	3321-3322	*	
+30-41	3323-3327	SCSU	
+30-42	3328-3336	Scholors	
+30-43	3337-3338	*	
+30-44	3339-3349	Europhobia	
+30-45	3350-3351	*	
+30-46	3352-3358	Orange	
+30-47	3359-3369	Revolution	
+30-48	3370-3371	*	
+30-49	3372-3385	OrangeUkraine	
+30-50	3386-3387	*	
+30-51	3388-3406	Ukraine_Revolution	
+30-52	3407-3408	*	
+30-53	3409-3416	Foreign	
+30-54	3417-3422	Notes	
+30-55	3423-3424	*	
+30-56	3425-3430	Tulip	
+30-57	3431-3435	Girl	
+30-58	3436-3437	*	
+30-59	3438-3445	Ukraine	
+30-60	3445-3446	,	
+30-61	3447-3453	Russia	
+30-62	3453-3454	,	
+30-63	3455-3461	Europe	
+30-64	3461-3462	,	
+30-65	3463-3466	the	
+30-66	3467-3469	US	
+30-67	3469-3470	,	
+30-68	3471-3473	Oh	
+30-69	3474-3476	My	
+30-70	3476-3477	!	
+
+#Text=* Tsymlyakoff's Blog
+#Text=* International Support for Ukrainian Democracy
+#Text=* Vladimir Ivshin's photos
+#Text=* Kyiv, Maidan Nezalezhnosti(Independence Square).
+31-1	3478-3479	*	
+31-2	3480-3493	Tsymlyakoff's	
+31-3	3494-3498	Blog	
+31-4	3499-3500	*	
+31-5	3501-3514	International	
+31-6	3515-3522	Support	
+31-7	3523-3526	for	
+31-8	3527-3536	Ukrainian	
+31-9	3537-3546	Democracy	
+31-10	3547-3548	*	
+31-11	3549-3557	Vladimir	
+31-12	3558-3566	Ivshin's	
+31-13	3567-3573	photos	
+31-14	3574-3575	*	
+31-15	3576-3580	Kyiv	
+31-16	3580-3581	,	
+31-17	3582-3588	Maidan	
+31-18	3589-3602	Nezalezhnosti	
+31-19	3602-3603	(	
+31-20	3603-3615	Independence	
+31-21	3616-3622	Square	
+31-22	3622-3623	)	
+31-23	3623-3624	.	
+
+#Text=Web-cam.
+#Text=* Maidan
+#Text=* http://hotline.net.ua/eng
+#Text=* LJ community dedicated to 2004 elections
+32-1	3625-3632	Web-cam	
+32-2	3632-3633	.	
+32-3	3634-3635	*	
+32-4	3636-3642	Maidan	
+32-5	3643-3644	*	
+32-6	3645-3649	http	
+32-7	3649-3650	:	
+32-8	3650-3651	/	
+32-9	3651-3652	/	
+32-10	3652-3666	hotline.net.ua	
+32-11	3666-3667	/	
+32-12	3667-3670	eng	
+32-13	3671-3672	*	
+32-14	3673-3675	LJ	
+32-15	3676-3685	community	
+32-16	3686-3695	dedicated	
+32-17	3696-3698	to	
+32-18	3699-3703	2004	
+32-19	3704-3713	elections	
