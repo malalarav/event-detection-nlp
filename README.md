@@ -83,8 +83,8 @@ Les textes journalistiques sont annotés à la main via Inception, puis exporté
 | **Macro moyenne**   | 0.64      | 0.19   | 0.29     | 142     |
 | **Moyenne pondérée**| 0.92      | 0.27   | 0.40     | 142     |
 
-Dans nos données on aussi fait le choix d'ignorer les labels "O" pour pas qu'il écrase nos résultats,
 L’accuracy est basse parce que le modèle reconnaît bien les entités quand il en prédit une (d’où la précision élevée), mais il en rate encore beaucoup. C’est pour ça que le rappel est faible et que l’accuracy globale chute, même si les prédictions faites sont souvent correctes.
+De plus, on a fait le choix d’ignorer les labels "O" (c’est-à-dire les tokens qui ne font pas partie d’une entité) dans le calcul des métriques, pour éviter qu’ils gonflent artificiellement l’accuracy et écrasent les vraies performances du modèle sur les entités à détecter.
 
 
 ---
